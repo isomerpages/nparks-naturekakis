@@ -2,8 +2,8 @@ collections:
   nature-kakis-network:
     output: true
     order:
-      - Chapters/Join Our Activities!.md
-      - Chapters/Starting a Chapter.md
-      - Chapters/.keep
+      - Nature Kakis Chapters/Join Our Activities!.md
+      - Nature Kakis Chapters/Starting a Chapter.md
+      - Nature Kakis Chapters/.keep
       - About.md
       - Nature Kakis Programmes and Activities.md
