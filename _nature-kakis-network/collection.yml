@@ -2,4 +2,4 @@ collections:
   nature-kakis-network:
     output: true
     order:
-      - folder-page.md
+      - About.md
