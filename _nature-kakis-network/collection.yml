@@ -1,5 +1,5 @@
 collections:
-  nknabout:
+  nature-kakis-network:
     output: true
     order:
       - folder-page.md
