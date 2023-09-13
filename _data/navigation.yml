@@ -1,9 +1,9 @@
 logo: /images/isomer-logo.svg
 links:
   - title: NATURE KAKIS NETWORK
-    url: /nknabout
+    url: /naturekakisnetwork/about
     sublinks:
       - title: Nature Kakis Activities
-        url: /nknactivities
+        url: /naturekakisnetwork/activities
       - title: Nature Kakis Chapters
-        url: /nknchapters
+        url: /naturekakisnetwork/chapters
