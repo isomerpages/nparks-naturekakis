@@ -1,13 +1,9 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
-  - title: Menu Title
-    url: /permalink
+  - title: NATURE KAKIS NETWORK
+    url: /nknabout
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: Nature Kakis Activities
+        url: /nknactivities
+      - title: Nature Kakis Chapters
+        url: /nknchapters
