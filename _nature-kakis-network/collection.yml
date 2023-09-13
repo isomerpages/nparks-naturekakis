@@ -2,6 +2,7 @@ collections:
   nature-kakis-network:
     output: true
     order:
+      - Chapters/Join Our Activities!.md
       - Chapters/Starting a Chapter.md
       - Chapters/.keep
       - About.md
