@@ -12,5 +12,7 @@ stewards of nature.</p>
 <section>
 	<p>These programmes include:<br>
 		**Therapeutic Horticulture**<br>
-	Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote mindfulness.  
-	</p><br></section>
+		Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote minfulness.  
+	</p>
+	<br>
+</section>
