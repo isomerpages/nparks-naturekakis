@@ -14,7 +14,7 @@ stewards of nature.</p>
 
 **Therapeutic Horticulture**
 		<br>
-		<img src="![](/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png)">
+		<img src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png">
 		Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote minfulness.  
 	</p>
 	<br>
