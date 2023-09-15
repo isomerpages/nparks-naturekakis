@@ -15,7 +15,3 @@ Currently, Nature Kakis chapters are being established in every precinct, allowi
 By fostering a sense of community and encouraging greater appreciation and stewardship for our natural heritage, Nature Kakis Network aims to grow our City in Nature in the heartlands and empower individuals to become stewards of nature. </p>
 <br>
 </section>
-	
-	
-	
-	
