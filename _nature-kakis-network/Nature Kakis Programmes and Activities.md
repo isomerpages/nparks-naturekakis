@@ -8,7 +8,6 @@ description: ""
 stewards of nature.</p>
 	<br>
 </section>
-
 <section>
 	<p>These programmes include:<br>
 		**Therapeutic Horticulture**<br>
