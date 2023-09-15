@@ -14,4 +14,9 @@ stewards of nature.</p>
 		Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote minfulness.  
 	</p>
 	<br>
-</section>
+	<p>
+		**OneMillionTrees Movement**<br>
+		  Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. <br>
+	</p>
+	
+	</section>
