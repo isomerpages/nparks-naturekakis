@@ -17,6 +17,5 @@ stewards of nature.</p>
 	<p>
 		**OneMillionTrees Movement**<br>
 		  Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. <br>
-	</p>
-	
+	</p>	
 	</section>
