@@ -15,6 +15,6 @@ stewards of nature. See below for the activities!</p>
 		<p>Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote minfulness.  
 	</p>
 	<h5>OneMillionTrees Movement</h5>
-	<p>Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click here to find out more about the movement.</p>
+	<p>Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more about the movement.</p>
 	<br>
 	</section>
