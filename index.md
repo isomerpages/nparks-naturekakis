@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Nature Kakis Network
-      subtitle: Let's make Singapore our City in Nature
+      subtitle: Growing our City in Nature
       background: /images/chek jawa viewing tower.PNG
       button: Contact Us
       url: /contact-us/
