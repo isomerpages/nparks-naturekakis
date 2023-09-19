@@ -17,5 +17,9 @@ stewards of nature. See below for the activities!</p>
 	<h5>OneMillionTrees Movement</h5>
 	<img src="/images/TH%20Activities/treeplantingfamilytree%20(2).jpg">
 	<p>Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more about the movement.</p>
+	<p></p><h5>Nature in Neighbourhood</h5>
+Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities. 		
 	<br>
 	</section>
+	
+	
