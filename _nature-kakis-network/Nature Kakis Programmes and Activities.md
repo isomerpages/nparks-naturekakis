@@ -53,7 +53,5 @@ stewards of nature. See below for the activities!</p>
 	<p align="justify">
 	<br>
 	<b>What can you do as a Nature Kaki?</b>
-	<br>As a member of the Nature Kakis Network, individuals can participate in Nature Kakis activities and also go one step further to help grow community interest by planning, organizing and implementing a wide variety of activities and programmes. Be one of our Nature Kakis champions and you will get to benefit from capability development, training, knowledge sharing, as well as the chance to build your network and forge relationships with like-minded individuals.</p>  
-
-<p align="justify">Take a look at some upcoming Nature Kakis activities <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> and <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">join</a> a Chapter today!</p>
-</section>
+	<br>As a member of the Nature Kakis Network, individuals can participate in Nature Kakis activities and also go one step further to help grow community interest by planning, organizing and implementing a wide variety of activities and programmes. Be one of our Nature Kakis champions and you will get to benefit from capability development, training, knowledge sharing, as well as the chance to build your network and forge relationships with like-minded individuals.</p>
+<p align="justify">Take a look at some upcoming Nature Kakis activities <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> and <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">join</a> a Chapter today!</p></section>
