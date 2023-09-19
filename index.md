@@ -17,7 +17,7 @@ sections:
           description: Learn about our Network
           url: https://google.com
         - title: Seed Fund
-          description: Learn about our Seed Fund
+          description: Grow your Chapter
           url: https://gmail.com
         - title: Page A
           description: Page A is important too
