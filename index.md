@@ -14,7 +14,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: About
-          description: Learn about out Network
+          description: Learn about our Network
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
