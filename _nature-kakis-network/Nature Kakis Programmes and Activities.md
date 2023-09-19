@@ -20,6 +20,8 @@ stewards of nature. See below for the activities!</p>
 	<h5>Nature in Neighbourhood</h5>
 <p align="justify">Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.</p>
 	<h5>DIY Nature Walks</h5>
-<p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides.</p>
+<p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to look at some trail guides made by our Volunteers and Partners.</p>
+	<h5>Biodiversity &amp; Wildlife</h5>
+<p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to look at some trail guides made by our Volunteers and Partners.</p>
 	<br>
 	<p></p></section>
