@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
+      title: Nature Kakis Network
       subtitle: Hero subtitle
       background: /images/chek jawa viewing tower.PNG
       button: Contact Us
