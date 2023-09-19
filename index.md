@@ -19,8 +19,8 @@ sections:
         - title: Seed Fund
           description: Grow your Chapter
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Resources
+          description: Read On
           url: /privacy/
   - infobar:
       title: Infobar title
