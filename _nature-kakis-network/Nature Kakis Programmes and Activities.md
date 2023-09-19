@@ -26,6 +26,7 @@ stewards of nature. See below for the activities!</p>
 	
 	
 <h5>DIY Nature Walks</h5>
+	<img src="/images/DIY%20Nature%20walks/naturewalk%20chek%20jawa.PNG">
 <p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to look at some trail guides made by our Volunteers and Partners.</p>
 	
 	
