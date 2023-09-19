@@ -21,6 +21,7 @@ stewards of nature. See below for the activities!</p>
 	
 	
 <h5>Nature in Neighbourhood</h5>
+		<img src="/images/Nature%20in%20neighborhood/natureinneighbourhood%20art%20mural.png">
 <p align="justify">Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.</p>
 	
 	
@@ -43,6 +44,7 @@ stewards of nature. See below for the activities!</p>
 	
 	
 <h5>Community Animals</h5>
+	<img src="/images/Community%20animals/cam2dog.jpg">
 <p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to learn more about this programme.
 	</p>
 	</section>
