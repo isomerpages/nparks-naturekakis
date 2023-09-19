@@ -28,5 +28,10 @@ stewards of nature. See below for the activities!</p>
 	</p><h5>Friends of the Parks</h5>
 <p align="justify">Work with Friends of the Parks to participate in designing and implementing programmes in park spaces and nature areas. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to learn more about this programme.
 	</p>
-	<br>
-	<p></p></section>
+	<p></p><h5>Community Animals</h5>
+<p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to learn more about this programme.
+	</p>
+	<p><b>What can you do as a Nature Kaki?</b>
+	<br>As a member of the Nature Kakis Network, individuals can participate in Nature Kakis activities and also go one step further to help grow community interest by planning, organizing and implementing a wide variety of activities and programmes. Be one of our Nature Kakis champions and you will get to benefit from capability development, training, knowledge sharing, as well as the chance to build your network and forge relationships with like-minded individuals.  
+
+Take a look at some upcoming Nature Kakis activities  here and join a Chapter today!</p></section>
