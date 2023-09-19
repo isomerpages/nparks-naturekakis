@@ -16,8 +16,8 @@ sections:
         - title: About
           description: Learn about our Network
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Seed Fund
+          description: Learn about our Seed Fund
           url: https://gmail.com
         - title: Page A
           description: Page A is important too
