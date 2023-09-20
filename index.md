@@ -12,9 +12,9 @@ sections:
       subtitle: Growing our City in Nature
       background: /images/chek jawa viewing tower.PNG
       key_highlights:
-        - title: Our Chapters
-          description: ""
-          url: https://google.com
+        - title: Nature Kakis Happenings
+          description: Find out what's happening!
+          url: /nature-kakis-network/nature-kakis-happenings
         - title: Seed Fund
           description: Grow your Chapter
           url: https://gmail.com
