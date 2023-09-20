@@ -15,8 +15,8 @@ sections:
         - title: Nature Kakis Happenings
           description: Find out what's happening
           url: /nature-kakis-network/nature-kakis-happenings
-        - title: Join our activities!
-          description: Participate in meaningful activities
+        - title: Join our activities
+          description: Become Stewards of Nature
           url: /privacy/
   - infopic:
       title: Nature Kakis Network
