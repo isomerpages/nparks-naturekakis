@@ -25,4 +25,5 @@ sections:
       button: Learn more
       url: /naturekakisnetwork/about/
       alt: Image alt text
+      image: /images/grouppic1nk.jpg
 ---
