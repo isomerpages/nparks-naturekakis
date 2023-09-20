@@ -2,7 +2,6 @@ collections:
   nature-kakis-network:
     output: true
     order:
-      - Nature Kakis Happenings.md
       - About.md
       - Nature Kakis Programmes and Activities.md
       - Nature Kakis Chapters/.keep
@@ -10,3 +9,4 @@ collections:
       - Nature Kakis Chapters/Starting a Chapter.md
       - Nature Kakis Chapters/Nature Kakis Happenings.md
       - Nature Kakis Chapters/Join Our Activities!.md
+      - Nature Kakis Happenings.md
