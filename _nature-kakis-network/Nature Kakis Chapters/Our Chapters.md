@@ -26,19 +26,25 @@ table, th, td {
   </tr>
   <tr>
     <td>Boon Lay</td>
-    <td>Bukit Gombak</td>
+    <td>naturekakis@gmail.com</td>
   </tr>
 		  <tr>
-    <td>naturekakis@gmail.com</td>
+    <td>Bukit Gombak</td>
     <td>bgnaturekakis@gmail.com</td>
+  </tr>
+		 <tr>
+    <td>Marymount</td>
+    <td>koh_jianqin@pa.gov.sg</td>
+  </tr>
+		  
+		 <tr>
+    <td>Moulmein-Cairnhill</td>
+    <td>ourgreenmoca@gmail.com</td>
   </tr>
 </tbody></table>	
 
 	
-
-|Marymount|koh_jianqin@pa.gov.sg|
-| -------- | -------- | 
-|Moulmein-Cairnhill|ourgreenmoca@gmail.com|
+|||
  -------- | -------- | 
 |Nee Soon South|nssnaturekakis@gmail.com|
 | -------- | -------- | 
