@@ -25,18 +25,17 @@ table, th, td {
     <td><b>Email Address<b></b></b></td>
   </tr>
   <tr>
-    <td>16</td>
-    <td>14</td>
+    <td>Boon Lay</td>
+    <td>Bukit Gombak</td>
+  </tr>
+		  <tr>
+    <td>naturekakis@gmail.com</td>
+    <td>bgnaturekakis@gmail.com</td>
   </tr>
 </tbody></table>	
 
 	
-| Chapter | Email Address |
-| -------- | -------- | 
-|Boon Lay|naturekakis@gmail.com|
-| -------- | -------- | 
-|Bukit Gombak|bgnaturekakis@gmail.com|
-| -------- | -------- | 
+
 |Marymount|koh_jianqin@pa.gov.sg|
 | -------- | -------- | 
 |Moulmein-Cairnhill|ourgreenmoca@gmail.com|
