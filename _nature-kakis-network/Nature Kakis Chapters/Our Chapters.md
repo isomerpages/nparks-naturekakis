@@ -1,6 +1,0 @@
----
-title: Our Chapters
-permalink: /nature-kakis-network/nature-kakis-chapters/chapters/
-description: ""
-third_nav_title: Nature Kakis Chapters
----
