@@ -4,7 +4,9 @@ title: Nature Kakis Network
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Beware of potential scam letters, calls, messages, social media
+  pages, websites and mobile applications impersonating NParks staff. If unsure,
+  do not provide your personal or financial info.
 sections:
   - hero:
       title: Nature Kakis Network
