@@ -13,14 +13,15 @@ sections:
       background: /images/chek jawa viewing tower.PNG
       key_highlights:
         - title: Nature Kakis Happenings
-          description: Find out what's happening!
+          description: Find out what's happening
           url: /nature-kakis-network/nature-kakis-happenings
         - title: Join our activities!
           description: Participate in meaningful activities
           url: /privacy/
   - infobar:
       title: Nature Kakis Network
-      description: "This Network plays an important "
-      button: Learn more about the network
-      url: /faq/
+      description: Contribute towards Singapore’s vision of a City in Nature
+      button: Learn more
+      url: /naturekakisnetwork/about/
+      subtitle: Support our
 ---
