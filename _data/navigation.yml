@@ -8,13 +8,11 @@ links:
       - title: Nature Kakis Chapters
         url: /nature-kakis-network/nature-kakis-chapters/chapters/
   - title: Seed Fund
-    url: /permalink
+    url: /naturekakisnetwork/seedfundabout
     sublinks:
-      - title: About
-        url: /permalink
       - title: How to Apply?
-        url: /permalink
+        url: /naturekakisnetwork/seedfundhowtoapply
   - title: Resources
-    url: /permalink
+    url: /naturekakisnetwork/resources
   - title: FAQ
-    url: /permalink
+    url: /naturekakisnetwork/faq
