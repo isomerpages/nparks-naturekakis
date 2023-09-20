@@ -10,22 +10,26 @@ third_nav_title: Nature Kakis Chapters
 	<p align="justify">If you are a resident or grassroots volunteer of the following constituencies and you are interested in joining our Nature Kakis, do reach out to them below!<br></p>
 
 
-&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; &nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-		
-&nbsp; <table><tbody><tr><th>Chapter</th><th>Email Address</th></tr><tr><td>Alfreds Futterkiste</td><td>Maria Anders</td><td>Germany</td></tr><tr><td>Centro comercial Moctezuma</td><td>Francisco Chang</td><td>Mexico</td></tr>
-</tbody></table>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
+
+<h5>Nature Kakis Chapter Contact Information</h5>
+
+<table style="width:100%">
+  <tbody><tr>
+    <td><b>Chapter<b></b></b></td>
+    <td><b>Email Address<b></b></b></td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>14</td>
+  </tr>
+</tbody></table>	
+
 	
 | Chapter | Email Address |
 | -------- | -------- | 
