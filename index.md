@@ -11,7 +11,7 @@ sections:
       subtitle: Growing our City in Nature
       background: /images/chek jawa viewing tower.PNG
       button: Read more
-      url: /
+      url: /naturekakisnetwork/about/
       key_highlights:
         - title: Our Chapters
           description: ""
