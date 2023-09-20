@@ -2,17 +2,17 @@ title: Nature Kakis Network
 url: https://naturekakisnetwork.nparks.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#2e522f"
-  secondary-color: "#9f2636"
+  primary-color: "#02763a"
+  secondary-color: "#ffce00"
   media-colors:
     - title: media-color-one
-      color: "#8a2f3c"
+      color: "#972c38"
     - title: media-color-two
       color: "#839084"
     - title: media-color-three
       color: "#242324"
     - title: media-color-four
-      color: "#5b7464"
+      color: "#2e522f"
     - title: media-color-five
       color: "#ebe5e4"
 description: An Isomer site of the Singapore Government
