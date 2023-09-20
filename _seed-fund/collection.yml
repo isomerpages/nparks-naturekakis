@@ -1,4 +1,5 @@
 collections:
   seed-fund:
     output: true
-    order: []
+    order:
+      - About.md
