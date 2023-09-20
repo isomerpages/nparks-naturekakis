@@ -36,8 +36,7 @@ table, th, td {
     <td>Marymount</td>
     <td>koh_jianqin@pa.gov.sg</td>
   </tr>
-		  
-		 <tr>
+		  <tr>
     <td>Moulmein-Cairnhill</td>
     <td>ourgreenmoca@gmail.com</td>
   </tr>
@@ -50,17 +49,14 @@ table, th, td {
     <td>naturekaki.pr@gmail.com</td>
   </tr>
 		 <tr>
-    <td>Pasir Ris</td>
-    <td>naturekaki.pr@gmail.com</td>
+    <td>Punggol</td>
+    <td>natureinpunggol@gmail.com</td>
+  </tr>
+		 <tr>
+    <td>Taman Jurong</td>
+    <td>tjgreenheart@gmail.com</td>
   </tr>
 </tbody></table>	
 
-
-|||
-||natureinpunggol@gmail.com|
-| -------- | -------- | 
-|Taman Jurong|tjgreenheart@gmail.com|
-<br>
-	
 <p align="justify">We look forward to expanding these efforts across the heartlands in Singapore and create a wider network of Nature Kakis chapters. By working together, we can make a positive impact on our environment and community, and be part of Singapore's City in Nature transformation. Interested in starting one for your neighbourhood? Click here!</p>
 </section>
