@@ -10,11 +10,15 @@ third_nav_title: Nature Kakis Chapters
 	<p align="justify">If you are a resident or grassroots volunteer of the following constituencies and you are interested in joining our Nature Kakis, do reach out to them below!<br></p>
 
 
+
 <style>
-table, th, td {
-  border:1px solid black;
+th, td {
+  border: 1px solid black;
+  border-radius: 10px;
 }
 </style>
+
+
 
 
 <h5>Nature Kakis Chapter Contact Information</h5>
