@@ -18,8 +18,8 @@ sections:
         - title: Seed Fund
           description: Grow your Chapter
           url: https://gmail.com
-        - title: Resources
-          description: Read On
+        - title: Join our activities!
+          description: Participate in meaningful activities
           url: /privacy/
   - infobar:
       title: Infobar title
