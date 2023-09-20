@@ -3,7 +3,7 @@ url: https://naturekakisnetwork.nparks.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#02763a"
-  secondary-color: "#ffce00"
+  secondary-color: "#e7c429"
   media-colors:
     - title: media-color-one
       color: "#972c38"
