@@ -10,11 +10,11 @@ sections:
       title: Nature Kakis Network
       subtitle: Growing our City in Nature
       background: /images/chek jawa viewing tower.PNG
-      button: Contact Us
-      url: /contact-us/
+      button: Read more
+      url: /
       key_highlights:
-        - title: About
-          description: Learn about our Network
+        - title: Our Chapters
+          description: ""
           url: https://google.com
         - title: Seed Fund
           description: Grow your Chapter
