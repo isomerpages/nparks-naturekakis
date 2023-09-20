@@ -19,18 +19,11 @@ third_nav_title: Nature Kakis Chapters
 | -------- | -------- | 
 |Moulmein-Cairnhill|ourgreenmoca@gmail.com|
  -------- | -------- | 
-|Nee Soon South|nssnaturekakis@gmail.comg|
+|Nee Soon South|nssnaturekakis@gmail.com|
 | -------- | -------- | 
-|Pasir Ris|ourgreenmoca@gmail.com|
-
-
-	
-	naturekaki.pr@gmail.com
-
-Punggol	natureinpunggol@gmail.com
-
-Taman Jurong	tjgreenheart@gmail.com
-
-
-	
+|Pasir Ris|naturekaki.pr@gmail.com|
+|Punggol|natureinpunggol@gmail.com|
+| -------- | -------- | 
+|Taman Jurong|tjgreenheart@gmail.com|
+<br>
 </section>
