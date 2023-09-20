@@ -41,15 +41,23 @@ table, th, td {
     <td>Moulmein-Cairnhill</td>
     <td>ourgreenmoca@gmail.com</td>
   </tr>
+			 <tr>
+    <td>Nee Soon South</td>
+    <td>nssnaturekakis@gmail.com</td>
+  </tr>
+		 <tr>
+    <td>Pasir Ris</td>
+    <td>naturekaki.pr@gmail.com</td>
+  </tr>
+		 <tr>
+    <td>Pasir Ris</td>
+    <td>naturekaki.pr@gmail.com</td>
+  </tr>
 </tbody></table>	
 
-	
+
 |||
- -------- | -------- | 
-|Nee Soon South|nssnaturekakis@gmail.com|
-| -------- | -------- | 
-|Pasir Ris|naturekaki.pr@gmail.com|
-|Punggol|natureinpunggol@gmail.com|
+||natureinpunggol@gmail.com|
 | -------- | -------- | 
 |Taman Jurong|tjgreenheart@gmail.com|
 <br>
