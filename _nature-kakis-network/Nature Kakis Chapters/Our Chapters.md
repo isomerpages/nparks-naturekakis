@@ -26,4 +26,6 @@ third_nav_title: Nature Kakis Chapters
 | -------- | -------- | 
 |Taman Jurong|tjgreenheart@gmail.com|
 <br>
+	
+<p align="justify">We look forward to expanding these efforts across the heartlands in Singapore and create a wider network of Nature Kakis chapters. By working together, we can make a positive impact on our environment and community, and be part of Singapore's City in Nature transformation. Interested in starting one for your neighbourhood? Click here!</p>
 </section>
