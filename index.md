@@ -15,16 +15,12 @@ sections:
         - title: Nature Kakis Happenings
           description: Find out what's happening!
           url: /nature-kakis-network/nature-kakis-happenings
-        - title: Seed Fund
-          description: Grow your Chapter
-          url: https://gmail.com
         - title: Join our activities!
           description: Participate in meaningful activities
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Nature Kakis Network
+      description: "This Network plays an important "
+      button: Learn more about the network
       url: /faq/
 ---
