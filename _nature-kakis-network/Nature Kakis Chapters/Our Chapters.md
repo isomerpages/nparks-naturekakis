@@ -9,5 +9,28 @@ third_nav_title: Nature Kakis Chapters
 	<p align="justify">As part of our initiative, we will partner with you and provide training to help you and other community leaders set up Nature Kakis chapters in each constituency. These small groups will organise various greenery and City in Nature-related activities such as tree-planting and guided walks for the community.<br></p>
 	<p align="justify">If you are a resident or grassroots volunteer of the following constituencies and you are interested in joining our Nature Kakis, do reach out to them below!<br></p>
 
+| Chapter | Email Address |
+| -------- | -------- | 
+|Boon Lay|naturekakis@gmail.com|
+| -------- | -------- | 
+|Bukit Gombak|bgnaturekakis@gmail.com|
+| -------- | -------- | 
+|Marymount|koh_jianqin@pa.gov.sg|
+| -------- | -------- | 
+|Moulmein-Cairnhill|ourgreenmoca@gmail.com|
+ -------- | -------- | 
+|Nee Soon South|nssnaturekakis@gmail.comg|
+| -------- | -------- | 
+|Pasir Ris|ourgreenmoca@gmail.com|
 
+
+	
+	naturekaki.pr@gmail.com
+
+Punggol	natureinpunggol@gmail.com
+
+Taman Jurong	tjgreenheart@gmail.com
+
+
+	
 </section>
