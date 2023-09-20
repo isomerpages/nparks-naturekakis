@@ -9,6 +9,24 @@ third_nav_title: Nature Kakis Chapters
 	<p align="justify">As part of our initiative, we will partner with you and provide training to help you and other community leaders set up Nature Kakis chapters in each constituency. These small groups will organise various greenery and City in Nature-related activities such as tree-planting and guided walks for the community.<br></p>
 	<p align="justify">If you are a resident or grassroots volunteer of the following constituencies and you are interested in joining our Nature Kakis, do reach out to them below!<br></p>
 
+
+&nbsp; 
+&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; &nbsp; 
+&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp; 
+		
+&nbsp; <table><tbody><tr><th>Chapter</th><th>Email Address</th></tr><tr><td>Alfreds Futterkiste</td><td>Maria Anders</td><td>Germany</td></tr><tr><td>Centro comercial Moctezuma</td><td>Francisco Chang</td><td>Mexico</td></tr>
+</tbody></table>
+	
 | Chapter | Email Address |
 | -------- | -------- | 
 |Boon Lay|naturekakis@gmail.com|
