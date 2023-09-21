@@ -31,6 +31,7 @@ stewards of nature. See below for the activities!</p>
 	
 	
 <h5>Biodiversity &amp; Wildlife</h5>
+	<img src="/images/Group%20photos/groupphoto1.PNG">
 <p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents.</p>
 	
 	
