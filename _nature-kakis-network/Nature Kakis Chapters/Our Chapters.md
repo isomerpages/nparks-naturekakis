@@ -11,7 +11,7 @@ third_nav_title: Nature Kakis Chapters
 <p align="justify">As part of our initiative, we will partner with you and provide training to help you and other community leaders set up Nature Kakis chapters in each constituency. These small groups will organise various greenery and City in Nature-related activities such as tree-planting and guided walks for the community.<br></p>
 	<p align="justify">If you are a resident or grassroots volunteer of the following constituencies and you are interested in joining our Nature Kakis, do reach out to them below!<br></p>
 
- <style> table { border-collapse: collapse; width: 100%; } th, td { text-align: left; padding: 8px; } tr:nth-child(even) { background-color: #F6F6F6; } </style>  
+ <style> table { border-collapse: collapse; width: 100%; } th, td { text-align: left; padding: 8px; } tr:nth-child(even) { background-color: #F6F6F6; } tr:hover {background-color: #FCDA3E;} </style>  
 
 <h5>Nature Kakis Chapter Contact Information</h5>
 
