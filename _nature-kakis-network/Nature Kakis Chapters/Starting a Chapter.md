@@ -50,7 +50,7 @@ third_nav_title: Nature Kakis Chapters
   </tr>
 </tbody></table>	
 
-<p align="justify"><b>Stage 1</b>: Identify Nature Kakis Lead(s) and 3-5 committed members through People's Association Constituency Director.<br></p>
+<!---hide<p align="justify"><b>Stage 1</b>: Identify Nature Kakis Lead(s) and 3-5 committed members through People's Association Constituency Director.<br></p>
 
 <p align="justify"><b>Stage 2</b>: Sharing on the Nature Kakis Network by NParks to new Nature Kakis members and People's Association Constituency Director / representative.<br></p>
 
@@ -59,4 +59,4 @@ third_nav_title: Nature Kakis Chapters
 <p align="justify"><b>Stage 4</b>: Organise one Nature Kakis activity (e.g., tree planting).<br></p>
 
 <p align="justify"><b>Stage 5</b>: Recognition of Nature Kakis members through appointment letters.</p>
-</section><br>
+</section><br>>--></section>
