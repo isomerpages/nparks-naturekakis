@@ -13,23 +13,27 @@ third_nav_title: Nature Kakis Chapters
 
 <table style="width:100%">
   <tbody><tr>
-    <td><b>Stage 1:   <b></b></b></td>
+		<td><b>Stage</b></td>
+		<td><b>Action</b></td>
+  </tr>
+		<tr>
+    <td><b>1<b></b></b></td>
     <td>Identify Nature Kakis Lead(s) and 3-5 committed members through People's Association Constituency Director</td>
   </tr>
   <tr>
-		<td><b>Stage 2:   </b></td>
+		<td><b>2</b></td>
     <td>Sharing on the Nature Kakis Network by NParks to new Nature Kakis members and People's Association Constituency Director / representative.</td>
   </tr>
 		  <tr>
-				<td><b>Stage 3:   </b></td>
+				<td><b>3</b></td>
     <td>Plan a calendar of events and share it with NParks.</td>
   </tr>
 		 <tr>
-			 <td><b>Stage 4:   </b></td>
+			 <td><b>4</b></td>
     <td>Organise one Nature Kakis activity (e.g., tree planting).</td>
   </tr>
 		  <tr>
-    <td><b>Stage 5:   </b></td>
+    <td><b>5</b></td>
     <td>Recognition of Nature Kakis members through appointment letters.</td>
   </tr>
 </tbody></table>	
