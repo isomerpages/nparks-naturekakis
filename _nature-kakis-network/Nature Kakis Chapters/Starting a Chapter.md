@@ -25,8 +25,8 @@ third_nav_title: Nature Kakis Chapters
     <td>Plan a calendar of events and share it with NParks.</td>
   </tr>
 		 <tr>
-    <td>Marymount</td>
-    <td>koh_jianqin@pa.gov.sg</td>
+			 <td><b>Stage 4:</b></td>
+    <td>Organise one Nature Kakis activity (e.g., tree planting).</td>
   </tr>
 		  <tr>
     <td>Moulmein-Cairnhill</td>
