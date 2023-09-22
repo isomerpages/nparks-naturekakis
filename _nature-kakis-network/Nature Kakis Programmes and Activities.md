@@ -16,11 +16,11 @@ stewards of nature. See below for the activities!</p>
 	</p>
 	
 <h5>OneMillionTrees Movement</h5>
-	<img style="width: auto; height: 300px" src="/images/OMT/treeplantingfamilytree%20(2).jpg">
+	<img style="width: 400px; height: auto" src="/images/OMT/treeplantingfamilytree%20(2).jpg">
 	<p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more about the movement.</p>
 	
 <h5>Nature in Neighbourhood</h5>
-		<img style="width: auto; height: 300px" src="/images/Nature%20in%20neighborhood/natureinneighbourhood%20art%20mural.png">
+		<img style="width: 400px; height: auto" src="/images/Nature%20in%20neighborhood/artmural2.PNG">
 <p align="justify">Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.</p>
 	
 	
