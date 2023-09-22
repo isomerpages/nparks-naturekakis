@@ -13,12 +13,12 @@ third_nav_title: Nature Kakis Chapters
 
 <table style="width:100%">
   <tbody><tr>
-    <td><b>Stage 1<b></b></b></td>
+    <td><b>Stage 1:<b></b></b></td>
     <td>Identify Nature Kakis Lead(s) and 3-5 committed members through People's Association Constituency Director</td>
   </tr>
   <tr>
-    <td>Boon Lay</td>
-    <td>naturekakis@gmail.com</td>
+		<td><b>Stage 2:</b></td>
+    <td>Sharing on the Nature Kakis Network by NParks to new Nature Kakis members and People's Association Constituency Director / representative.</td>
   </tr>
 		  <tr>
     <td>Bukit Gombak</td>
@@ -31,22 +31,6 @@ third_nav_title: Nature Kakis Chapters
 		  <tr>
     <td>Moulmein-Cairnhill</td>
     <td>ourgreenmoca@gmail.com</td>
-  </tr>
-			 <tr>
-    <td>Nee Soon South</td>
-    <td>nssnaturekakis@gmail.com</td>
-  </tr>
-		 <tr>
-    <td>Pasir Ris</td>
-    <td>naturekaki.pr@gmail.com</td>
-  </tr>
-		 <tr>
-    <td>Punggol</td>
-    <td>natureinpunggol@gmail.com</td>
-  </tr>
-		 <tr>
-    <td>Taman Jurong</td>
-    <td>tjgreenheart@gmail.com</td>
   </tr>
 </tbody></table>	
 
