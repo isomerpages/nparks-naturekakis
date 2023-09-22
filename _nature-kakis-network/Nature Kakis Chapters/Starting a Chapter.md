@@ -29,8 +29,8 @@ third_nav_title: Nature Kakis Chapters
     <td>Organise one Nature Kakis activity (e.g., tree planting).</td>
   </tr>
 		  <tr>
-    <td>Moulmein-Cairnhill</td>
-    <td>ourgreenmoca@gmail.com</td>
+    <td><b>Stage 5:</b></td>
+    <td>Recognition of Nature Kakis members through appointment letters.</td>
   </tr>
 </tbody></table>	
 
