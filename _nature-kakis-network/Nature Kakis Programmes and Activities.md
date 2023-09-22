@@ -11,14 +11,13 @@ stewards of nature. See below for the activities!</p>
 
 <section>
 	<h5>Therapeutic Horticulture</h5>
-	<img height="300" width="400" src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png">
+	<img style="width: auto; height: 300px" src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png">
 		<p align="justify">Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote minfulness. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more.
 	</p>
 	
 <h5>OneMillionTrees Movement</h5>
 	<img src="/images/OMT/treeplantingfamilytree%20(2).jpg">
 	<p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more about the movement.</p>
-	
 	
 <h5>Nature in Neighbourhood</h5>
 		<img src="/images/Nature%20in%20neighborhood/natureinneighbourhood%20art%20mural.png">
