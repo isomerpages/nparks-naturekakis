@@ -8,6 +8,47 @@ third_nav_title: Nature Kakis Chapters
 	<p align="justify">NParks builds communities through the Nature Kaki Network by bringing people who share a love for nature together to interact and bond through various engagement platforms. These can take the form of guided walks, workshops, and community events that are designed to connect individuals with shared interests and causes related to nature. By joining the Nature Kaki Network, members can participate in a range of activities that promote environmental conservation and sustainability, while also fostering a sense of community and belonging. Whether you are a seasoned nature enthusiast or just starting to explore the outdoors, the Nature Kaki Network offers a welcoming and inclusive space for all to come together and connect with nature and each other.<br></p>
 
 <p align="justify">There are <b>five stages</b> in this process of starting a new Nature Kakis Chapter.<br></p>
+	
+ <style> table { border-collapse: collapse; width: 100%; } th, td { text-align: left; padding: 8px; }  tr:hover {background-color: #FCDA3E;} </style>  
+
+<table style="width:100%">
+  <tbody><tr>
+    <td><b>Stage 1<b></b></b></td>
+    <td>Identify Nature Kakis Lead(s) and 3-5 committed members through People's Association Constituency Director</td>
+  </tr>
+  <tr>
+    <td>Boon Lay</td>
+    <td>naturekakis@gmail.com</td>
+  </tr>
+		  <tr>
+    <td>Bukit Gombak</td>
+    <td>bgnaturekakis@gmail.com</td>
+  </tr>
+		 <tr>
+    <td>Marymount</td>
+    <td>koh_jianqin@pa.gov.sg</td>
+  </tr>
+		  <tr>
+    <td>Moulmein-Cairnhill</td>
+    <td>ourgreenmoca@gmail.com</td>
+  </tr>
+			 <tr>
+    <td>Nee Soon South</td>
+    <td>nssnaturekakis@gmail.com</td>
+  </tr>
+		 <tr>
+    <td>Pasir Ris</td>
+    <td>naturekaki.pr@gmail.com</td>
+  </tr>
+		 <tr>
+    <td>Punggol</td>
+    <td>natureinpunggol@gmail.com</td>
+  </tr>
+		 <tr>
+    <td>Taman Jurong</td>
+    <td>tjgreenheart@gmail.com</td>
+  </tr>
+</tbody></table>	
 
 <p align="justify"><b>Stage 1</b>: Identify Nature Kakis Lead(s) and 3-5 committed members through People's Association Constituency Director.<br></p>
 
