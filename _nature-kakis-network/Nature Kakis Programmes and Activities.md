@@ -16,21 +16,21 @@ stewards of nature. See below for the activities!</p>
 	</p>
 	
 <h5>OneMillionTrees Movement</h5>
-	<img src="/images/OMT/treeplantingfamilytree%20(2).jpg">
+	<img style="width: auto; height: 300px" src="/images/OMT/treeplantingfamilytree%20(2).jpg">
 	<p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more about the movement.</p>
 	
 <h5>Nature in Neighbourhood</h5>
-		<img src="/images/Nature%20in%20neighborhood/natureinneighbourhood%20art%20mural.png">
+		<img style="width: auto; height: 300px" src="/images/Nature%20in%20neighborhood/natureinneighbourhood%20art%20mural.png">
 <p align="justify">Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.</p>
 	
 	
 <h5>DIY Nature Walks</h5>
-	<img src="/images/DIY%20Nature%20walks/naturewalk%20chek%20jawa.PNG">
+	<img style="width: auto; height: 300px" src="/images/DIY%20Nature%20walks/naturewalk%20chek%20jawa.PNG">
 <p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to look at some trail guides made by our Volunteers and Partners.</p>
 	
 	
 <h5>Biodiversity &amp; Wildlife</h5>
-	<img src="/images/Group%20photos/groupphoto1.PNG">
+	<img style="width: auto; height: 300px" src="/images/Group%20photos/groupphoto1.PNG">
 <p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents.</p>
 	
 	
@@ -45,7 +45,7 @@ stewards of nature. See below for the activities!</p>
 	
 	
 <h5>Community Animals</h5>
-	<img src="/images/Community%20animals/cam2dog.jpg">
+	<img style="width: auto; height: 300px" src="/images/Community%20animals/cam2dog.jpg">
 <p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to learn more about this programme.
 	</p>
 </section>
