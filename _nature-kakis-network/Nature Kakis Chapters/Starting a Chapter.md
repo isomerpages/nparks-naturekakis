@@ -21,8 +21,8 @@ third_nav_title: Nature Kakis Chapters
     <td>Sharing on the Nature Kakis Network by NParks to new Nature Kakis members and People's Association Constituency Director / representative.</td>
   </tr>
 		  <tr>
-    <td>Bukit Gombak</td>
-    <td>bgnaturekakis@gmail.com</td>
+				<td><b>Stage 3:</b></td>
+    <td>Plan a calendar of events and share it with NParks.</td>
   </tr>
 		 <tr>
     <td>Marymount</td>
