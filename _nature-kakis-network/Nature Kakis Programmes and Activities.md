@@ -39,7 +39,7 @@ stewards of nature. See below for the activities!</p>
 	</p>
 	
 	
-<h5>Friends of the Parks</h5>
+<h5>Friends of the Parks</h5><img style="width: auto; height: 300px" src="/images/FOTP/aywi5915.JPG">
 <p align="justify">Work with Friends of the Parks to participate in designing and implementing programmes in park spaces and nature areas. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to learn more about this programme.
 	</p>
 	
