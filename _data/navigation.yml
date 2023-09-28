@@ -23,8 +23,6 @@ links:
   - title: Join Our Activities
     url: /join-our-activities/
   - title: Explore
-    url: /explore/
+    resource_room: true
   - title: FAQ
     url: /faq/
-  - title: Explore main
-    resource_room: true
