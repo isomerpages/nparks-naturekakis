@@ -34,15 +34,17 @@ description: ""
 
 <section>	
 <p></p><ul style="“list-style-type:disc”">
-<li>To aid the training* of the Nature Kakis to self-organize activities, the Seed Fund can cover the:
-•	Material costs used for training
-•	Transportation for trainees between community centers (near Chapters) and training venue
-•	Non-NParks Partner Fees for City in Nature related activities
-*Note: Reimbursable after trainees conduct related activity for at least 10 people in their precinct.
+<li>To aid the training* of the Nature Kakis to self-organize activities, the Seed Fund can cover the:</li>
+
+<ul style="“list-style-type:circle”">
+	<li>Material costs used for training</li>
+	<li>Transportation for trainees between community centers (near Chapters) and training venue</li>
+	<li>Non-NParks Partner Fees for City in Nature related activities<br>
+		<i>*Note: Reimbursable after trainees conduct related activity for at least 10 people in their precinct.</i></li>
 
 3.	To support the recurring Nature Kakis Activities/Events by your Chapter, the Seed Fund can cover:
 •	Material costs for recurring events
 •	Tools and equipment that can be reused for subsequent Nature Kakis activities and not one off
 •	Appreciation Tokens
 *Note: Requirement for items to mention Nature Kakis and/or Chapter logo and/or Chapter name
-<p></p></li></ul></section>
+<p></p></ul></ul></section>
