@@ -8,7 +8,7 @@ description: ""
 		<p align="justify">The Nature Kakis Seed Fund supports the development of the Nature Kakis Network building of the Nature Kakis Network, training of Nature Kakis to self-organize activities, and recurring Nature Kakis activities/events. This Seed Fund provides funding of up to $5000 per Chapter, and there will be a full reimbursement of fundable items* will be made to respective Citizens’ Consultative Committee (CCC) supporting each Chapter. The use of funds for projects will be assessed based on the project’s merits and ability to contribute towards the Nature Kakis Network and Chapter growth.<br> 
 			<i>*Please note that Goods and Service Tax (GST) is not fundable.</i></p><br>
 
-<p style="font-size:30px"> HAVE REQUESTED ACORDION FUNCTION FOR THIS PORTION. WILL INCLUDE IT.</p><br>
+<p style="font-size:30px"> [HAVE REQUESTED ACORDION FUNCTION FOR THIS PORTION. WILL INCLUDE IT.]</p><br>
 	
 <b>Objectives:</b><br>
 <p align="justify">With Nature Kakis Network being a platform that accelerates the mainstreaming of the City in Nature initiatives to wider community in the heartlands, the Seed Fund aims to help set up chapters, or groups, in each constituency, to promote development so they can self-organize and lead projects for the community, by the community.</p><br>
@@ -19,18 +19,14 @@ description: ""
 	
 <section>
 <b>Eligibility:</b><br>
-<p align="justify">To apply, the Chapter must first be an established Nature Kakis Chapter that has received appointment letters.
-	<!--see if we need a break here-->
-</p>
+<p align="justify">To apply, the Chapter must first be an established Nature Kakis Chapter that has received appointment letters.</p>
 	
 <ul style="“list-style-type:disc”">
 	<li><p align="justify">To help build your Nature Kakis Chapter, the Seed Fund can cover the:</p></li>
-	<!--see if we need a break here-->
 	
 <ul style="“list-style-type:circle”">
-<li><p align="justify">Printing and fabrication of wearable identity items* of Nature Kakis Chapters<br></p></li> <!--see if we need a break here-->
-	
-<i>*Note: Requirement for identity items to mention Nature Kakis and/or Chapter logo and/or Chapter name</i><br>
+<li>Printing and fabrication of wearable identity items* of Nature Kakis Chapters<br>
+	<i>*Note: Requirement for identity items to mention Nature Kakis and/or Chapter logo and/or Chapter name</i></li>
 	
 <li>Production and printing cost of publicity collaterals* for Chapters’ recruitment of Nature Kakis and its activities, e.g., exhibition panels and pull-up banners<br>
 		<i>*Note: Requirement for contents of collaterals to be Nature Kakis related</i></li><br><p></p>
