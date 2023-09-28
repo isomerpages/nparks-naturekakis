@@ -28,9 +28,9 @@ description: ""
 	<!--see if we need a break here-->
 	
 <ul style="“list-style-type:circle”">
-<li><p align="justify">Printing and fabrication of wearable identity items* of Nature Kakis Chapters</p><br></li> <!--see if we need a break here-->
+<li><p align="justify">Printing and fabrication of wearable identity items* of Nature Kakis Chapters<br></p></li> <!--see if we need a break here-->
 	
-<i></i><p align="justify"><i>*Note: Requirement for identity items to mention Nature Kakis and/or Chapter logo and/or Chapter name</i></p><br>
+<i>*Note: Requirement for identity items to mention Nature Kakis and/or Chapter logo and/or Chapter name</i><p></p><br>
 	<li>Production and printing cost of publicity collaterals* for Chapters’ recruitment of Nature Kakis and its activities, e.g., exhibition panels and pull-up banners<br>
 		<i>*Note: Requirement for contents of collaterals to be Nature Kakis related</i></li><br><p></p>
 </ul></ul></section>	
