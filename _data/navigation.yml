@@ -26,3 +26,5 @@ links:
     url: /explore/
   - title: FAQ
     url: /faq/
+  - title: Explore main
+    resource_room: true
