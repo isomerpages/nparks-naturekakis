@@ -22,11 +22,13 @@ Your proposal will be assessed based on the project’s merits and ability to co
 If your application is approved, you will receive a letter of offer from NParks. This letter of offer will be valid for 12 months during which the project should be completed. You may only begin purchasing items upon receiving the letter of offer.<br> 
 </p></section>
 	
-<p align="justify">Documents Required for Seed Fund Application to be submitted to the Engagement Mangager:</p><br>
-	<ul style="“list-style-type:disc”">
-	<li><p align="justify">Completed Application Form</p></li>
-<li><p align="justify">Document showing estimated cost of items (e.g., Quotations from vendors/suppliers with itemised breakdown</p></li>
-	<li><p align="justify">Proposed design of NK identity items, publicity collaterals and appreciation tokens/trophies, including details of the items</p></li></ul>
+<p align="justify">Documents Required for Seed Fund Application to be submitted to the Engagement Mangager:<br>
+	</p><ul style="“list-style-type:disc”">
+	<li>Completed Application Form</li>
+<li>Document showing estimated cost of items (e.g., Quotations from vendors/suppliers with itemised breakdown</li>
+	<li>Proposed design of NK identity items, publicity collaterals and appreciation tokens/trophies, including details of the items</li>
+</ul>
+<p></p>
 		
 <p align="justify"><b>Alteration</b><br>
 NParks’ prior approval should be sought for any changes to the submitted proposal as deviation from the approved plan may affect the Seed Fund approval and subsequent reimbursement.</p>
