@@ -45,8 +45,8 @@ description: ""
 <ul style="“list-style-type:circle”">
 <li><p align="justify">To support the recurring Nature Kakis Activities/Events by your Chapter, the Seed Fund can cover:</p></li>
 <ul style="“list-style-type:circle”">
-	<li><p align="justify">Material costs for recurring events</p></li><p></p>
-	<li><p align="justify">Tools and equipment that can be reused for subsequent Nature Kakis activities and not one off</p></li><p></p>
-	<li><p align="justify">Appreciation Tokens</p></li><br>
+	<li>Material costs for recurring events</li>
+	<li>Tools and equipment that can be reused for subsequent Nature Kakis activities and not one off</li>
+	<li>Appreciation Tokens</li><br>
 	<i>*Note: Requirement for items to mention Nature Kakis and/or Chapter logo and/or Chapter name</i>
-	<p></p></ul></ul></section>
+	</ul><p></p></ul></section>
