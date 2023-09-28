@@ -21,12 +21,14 @@ description: ""
 <b>Eligibility:</b><br>
 <p align="justify">To apply, the Chapter must first be an established Nature Kakis Chapter that has received appointment letters.
 	<!--see if we need a break here-->
-
-</p><ul style="“list-style-type:disc”">
-<li>To help build your Nature Kakis Chapter, the Seed Fund can cover the:</li><br>
-
+</p>
+	
+<ul style="“list-style-type:disc”">
+	<li><p align="justify">To help build your Nature Kakis Chapter, the Seed Fund can cover the:</p></li>
+	<!--see if we need a break here-->
+	
 <ul style="“list-style-type:circle”">
-<li>Printing and fabrication of wearable identity items* of Nature Kakis Chapters<br></li>
+<li><p align="justify">Printing and fabrication of wearable identity items* of Nature Kakis Chapters</p><br></li>
 <i>*Note: Requirement for identity items to mention Nature Kakis and/or Chapter logo and/or Chapter name</i><br>
 	<li>Production and printing cost of publicity collaterals* for Chapters’ recruitment of Nature Kakis and its activities, e.g., exhibition panels and pull-up banners<br>
 		<i>*Note: Requirement for contents of collaterals to be Nature Kakis related</i></li><br><p></p>
