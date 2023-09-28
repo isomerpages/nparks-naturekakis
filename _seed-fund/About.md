@@ -34,26 +34,24 @@ description: ""
 	
 <li>Production and printing cost of publicity collaterals* for Chapters’ recruitment of Nature Kakis and its activities, e.g., exhibition panels and pull-up banners<br>
 		<i>*Note: Requirement for contents of collaterals to be Nature Kakis related</i></li><br><p></p>
-</ul>
-</ul></section>	
+</ul></ul></section>	
 
 <section>	
-<p></p><ul style="“list-style-type:disc”">
-<li>To aid the training* of the Nature Kakis to self-organize activities, the Seed Fund can cover the:</li>
+<ul style="“list-style-type:disc”">
+<li><p align="justify">To aid the training* of the Nature Kakis to self-organize activities, the Seed Fund can cover the:</p></li>
 
 <ul style="“list-style-type:circle”">
 	<li>Material costs used for training</li>
 	<li>Transportation for trainees between community centers (near Chapters) and training venue</li>
 	<li>Non-NParks Partner Fees for City in Nature related activities<br>
-		<i>*Note: Reimbursable after trainees conduct related activity for at least 10 people in their precinct.</i></li>
-</ul></ul></section>	
+		<i>*Note: Reimbursable after trainees conduct related activity for at least 10 people in their precinct.</i></li></ul><p></p></ul></section>	
 
 <section>
 <ul style="“list-style-type:circle”">
-<li>To support the recurring Nature Kakis Activities/Events by your Chapter, the Seed Fund can cover:</li>
+<li><p align="justify">To support the recurring Nature Kakis Activities/Events by your Chapter, the Seed Fund can cover:</p></li>
 <ul style="“list-style-type:circle”">
 	<li>Material costs for recurring events</li>
 	<li>Tools and equipment that can be reused for subsequent Nature Kakis activities and not one off</li>
 	<li>Appreciation Tokens</li><br>
 	<i>*Note: Requirement for items to mention Nature Kakis and/or Chapter logo and/or Chapter name</i>
-<p></p></ul></ul></section>
+	<p></p></ul></ul></section>
