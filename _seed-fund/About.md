@@ -17,19 +17,21 @@ description: ""
 <p align="justify">Interested Chapters are encouraged to apply for the Nature Kakis Seed Fund early as participation will be on a first-come, first-served basis, and subject to availability of funds.</p><br>
 </section>
 	
-<section>	
+<section>
 <b>Eligibility:</b><br>
-<p align="justify">To apply, the Chapter must first be an established Nature Kakis Chapter that has received appointment letters.</p>
+<p align="justify">To apply, the Chapter must first be an established Nature Kakis Chapter that has received appointment letters.
 
-<ul style="“list-style-type:disc”">
+</p><ul style="“list-style-type:disc”">
 <li>To help build your Nature Kakis Chapter, the Seed Fund can cover the:</li><br>
 
 <ul style="“list-style-type:circle”">
 	<li>Printing and fabrication of wearable identity items* of Nature Kakis Chapters<br></li>
 <i>*Note: Requirement for identity items to mention Nature Kakis and/or Chapter logo and/or Chapter name</i><br>
 	<li>Production and printing cost of publicity collaterals* for Chapters’ recruitment of Nature Kakis and its activities, e.g., exhibition panels and pull-up banners<br>
-		<i>*Note: Requirement for contents of collaterals to be Nature Kakis related</i></li><br>
+		<i>*Note: Requirement for contents of collaterals to be Nature Kakis related</i></li><br><p></p>
+</ul></ul></section>	
 
+<section>	
 <li>To aid the training* of the Nature Kakis to self-organize activities, the Seed Fund can cover the:
 •	Material costs used for training
 •	Transportation for trainees between community centers (near Chapters) and training venue
@@ -41,4 +43,4 @@ description: ""
 •	Tools and equipment that can be reused for subsequent Nature Kakis activities and not one off
 •	Appreciation Tokens
 *Note: Requirement for items to mention Nature Kakis and/or Chapter logo and/or Chapter name
-<p></p></li></ul></ul></section>
+<p></p></li></section>
