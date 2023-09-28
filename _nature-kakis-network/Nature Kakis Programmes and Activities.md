@@ -4,13 +4,19 @@ permalink: /nature-kakis-network/programmes-and-activities/
 description: ""
 ---
 <section>
-	<p align="justify">Nature Kakis programmes uses plants and nature related activities to build and support Chapters with individuals who are passionate about appreciating, preserving and enhancing Singapore’s natural environment. To empower our Nature Kakis Network in organising City in Nature activities, we have developed a suite of programmes and activities that cater to a diverse range of interests and skill levels. We aim to inspire and engage individuals, while also providing them with the necessary tools and resources to become 
-stewards of nature. See below for the activities!</p>
+	<p align="justify">   
+
+The Nature Kakis Network is a platform that will help grow our City in Nature in the heartlands, as well as encourage greater appreciation and community stewardship for our City in Nature. We aim to establish Nature Kakis chapters in every precinct that can self-organise and lead programmes for the community and by the community, with support from partners, grassroot organisations and agencies including NParks and PA.
+
+  Nature Kakis can participate in and also go one step further to help grow community interest by planning, organizing and implementing a wide variety of activities and programmes. 
+		
+Be one of our Nature Kakis champions and you will get to benefit from capability development, training, knowledge sharing, as well as the chance to build your network and forge relationships with like-minded individuals. To empower our Nature Kakis Network in organising City in Nature activities, we have developed a suite of programmes and activities that cater to a diverse range of interests and skill levels. We aim to inspire and engage individuals, while also providing them with the necessary tools and resources to become stewards of nature. 
+		
+	Join us as a Nature Kakis today and help to organize/participate in City in Nature activities!</p>
 	<br>
 </section>
 
-<section>
-	
+
 
 <p>
 <img style="float:right;width:42px;height:42px;" alt="Smiley face" src="smiley.gif">
@@ -21,7 +27,7 @@ A paragraph with a floating image. A paragraph with a floating image. A paragrap
 A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.  
 </p>
 
-
+<h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">City in Nature Activities for Nature Kakis to Participate in</h3>
 <h5>Therapeutic Horticulture</h5>
 <p align="justify"><img style="float:left;width:auto;height:300px;margin:30px" src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png">Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote minfulness. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more.<br><br><br><br></p>
 	
@@ -62,7 +68,7 @@ A paragraph with a floating image. A paragraph with a floating image. A paragrap
 	<img style="width: auto; height: 300px" src="/images/Community%20animals/cam2dog.jpg">
 <p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to learn more about this programme.
 	</p>
-</section>
+
 	
 <section>
 	<br>
