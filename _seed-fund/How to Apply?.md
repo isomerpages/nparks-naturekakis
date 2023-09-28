@@ -24,10 +24,11 @@ If your application is approved, you will receive a letter of offer from NParks.
 	
 <p align="justify">Documents Required for Seed Fund Application to be submitted to the Engagement Mangager:<br>
 	</p><ul style="“list-style-type:disc”">
-	<li>Completed Application Form
-•	Document showing estimated cost of items (e.g., Quotations from vendors/suppliers with itemised breakdown
-•	Proposed design of NK identity items, publicity collaterals and appreciation tokens/trophies, including details of the items
-Alteration
+	<li>Completed Application Form</li>
+<li>Document showing estimated cost of items (e.g., Quotations from vendors/suppliers with itemised breakdown</li>
+	<li>Proposed design of NK identity items, publicity collaterals and appreciation tokens/trophies, including details of the items</li></ul>
+		
+<b>Alteration</b>
 NParks’ prior approval should be sought for any changes to the submitted proposal as deviation from the approved plan may affect the Seed Fund approval and subsequent reimbursement.
 
 Stage 2: Reimbursement
@@ -42,4 +43,4 @@ Documents Required for Reimbursement to be submitted to the Engagement Manager
 •	Vendor creation template &amp; Direct Authorisation Credit (DCA) Form for e-payment
 
 You will receive a reimbursement letter once the reimbursement is approved and the reimbursement will be made to the respective Citizens’ Consultative Committee (CCC) supporting your Chapter.
-<p></p></li></ul>
+<p></p>
