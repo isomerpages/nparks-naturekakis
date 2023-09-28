@@ -10,6 +10,5 @@ description: ""
 	4. FOTP www.nparks.gov.sg/partner-us/volunteer/friends-of-the-parks <br> 
 	5. Nature walks<br>
 	6. Nature in Neighbourhood <br>
-	7. 
-	
-	</p>
+	7. Biod &amp; wildlife<br>
+	8. TH </p>
