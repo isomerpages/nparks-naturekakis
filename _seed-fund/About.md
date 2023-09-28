@@ -25,8 +25,8 @@ description: ""
 <ul style="“list-style-type:circle”">
 	<li>Printing and fabrication of wearable identity items* of Nature Kakis Chapters<br></li>
 <i>*Note: Requirement for identity items to mention Nature Kakis and/or Chapter logo and/or Chapter name</i><br>
-	<li>Production and printing cost of publicity collaterals* for Chapters’ recruitment of Nature Kakis and its activities, e.g., exhibition panels and pull-up banners
-*Note: Requirement for contents of collaterals to be Nature Kakis related
+	<li>Production and printing cost of publicity collaterals* for Chapters’ recruitment of Nature Kakis and its activities, e.g., exhibition panels and pull-up banners<br>
+		<i>*Note: Requirement for contents of collaterals to be Nature Kakis related</i></li><br>
 
 2.	To aid the training* of the Nature Kakis to self-organize activities, the Seed Fund can cover the:
 •	Material costs used for training
@@ -39,4 +39,4 @@ description: ""
 •	Tools and equipment that can be reused for subsequent Nature Kakis activities and not one off
 •	Appreciation Tokens
 *Note: Requirement for items to mention Nature Kakis and/or Chapter logo and/or Chapter name
-<p></p></li></ul></ul></section>
+<p></p></ul></ul></section>
