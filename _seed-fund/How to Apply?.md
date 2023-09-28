@@ -13,13 +13,13 @@ description: ""
 	<li>Reimbursement stage</li><p></p>
 
 <p align="justify"><b>Stage 1: Application</b><br>
-After approaching the NParks Engagement manager, they will contact you to guide you on the process, including the submission of relevant application forms and supporting documents for approval prior to purchase of items and/or commencing your activities. You are required to submit your application before any site work begins. 
+After approaching the NParks Engagement manager, they will contact you to guide you on the process, including the submission of relevant application forms and supporting documents for approval prior to purchase of items and/or commencing your activities. You are required to submit your application before any site work begins.<br> 
 
-Your proposal will be assessed based on the project’s merits and ability to contribute towards building your Nature Kakis Chapter. 
+Your proposal will be assessed based on the project’s merits and ability to contribute towards building your Nature Kakis Chapter.<br>
 
-If your application is approved, you will receive a letter of offer from NParks. This letter of offer will be valid for 12 months during which the project should be completed. You may only begin purchasing items upon receiving the letter of offer. 
+If your application is approved, you will receive a letter of offer from NParks. This letter of offer will be valid for 12 months during which the project should be completed. You may only begin purchasing items upon receiving the letter of offer.<br> 
 
-Documents Required for Seed Fund Application to be submitted to the Engagement Mangager
+Documents Required for Seed Fund Application to be submitted to the Engagement Mangager:<br>
 •	Completed Application Form
 •	Document showing estimated cost of items (e.g., Quotations from vendors/suppliers with itemised breakdown
 •	Proposed design of NK identity items, publicity collaterals and appreciation tokens/trophies, including details of the items
