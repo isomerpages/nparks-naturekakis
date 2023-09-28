@@ -25,8 +25,8 @@ description: ""
 	<li><p align="justify">To help build your Nature Kakis Chapter, the Seed Fund can cover the:</p></li>
 	
 <ul style="“list-style-type:circle”">
-<li>Printing and fabrication of wearable identity items* of Nature Kakis Chapters<br>
-	<i>*Note: Requirement for identity items to mention Nature Kakis and/or Chapter logo and/or Chapter name</i></li>
+<li><p align="justify">Printing and fabrication of wearable identity items* of Nature Kakis Chapters<br>
+	<i>*Note: Requirement for identity items to mention Nature Kakis and/or Chapter logo and/or Chapter name</i></p></li><p></p>
 	
 <li>Production and printing cost of publicity collaterals* for Chapters’ recruitment of Nature Kakis and its activities, e.g., exhibition panels and pull-up banners<br>
 		<i>*Note: Requirement for contents of collaterals to be Nature Kakis related</i></li><br><p></p>
