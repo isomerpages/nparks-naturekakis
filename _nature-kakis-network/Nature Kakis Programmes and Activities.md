@@ -16,17 +16,6 @@ Join us as a Nature Kakis today and help to plan and organize City in Nature act
 	<br>
 </section>
 
-
-
-<p>
-<img style="float:right;width:42px;height:42px;" alt="Smiley face" src="smiley.gif">
-xxxxx
-</p>
-<p>
-<img style="float:left;width:42px;height:42px" alt="Smiley face" src="smiley.gif">
-A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.  
-</p>
-
 <p></p><h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">City in Nature Activities for Nature Kakis to Participate in</h3><p></p>
 <h5>Therapeutic Horticulture</h5>
 
