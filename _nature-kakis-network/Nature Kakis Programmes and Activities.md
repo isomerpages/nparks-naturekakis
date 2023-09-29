@@ -24,7 +24,7 @@ Join us as a Nature Kakis today and help to plan and organize City in Nature act
 <h5>Therapeutic Horticulture</h5>
 <figure>  
 <picture> 
-<img style="float:left;width:auto;height:200px;margin:30px" align="top" src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png"> 
+<img style="width:auto;height:200px;margin:30px" align="top" src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png"> 
 </picture>
 <figcaption><p align="justify">	Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote minfulness. Click <a style="float:right" href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more.</p></figcaption>
 </figure> 	
