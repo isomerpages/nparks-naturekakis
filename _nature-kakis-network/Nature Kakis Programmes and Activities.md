@@ -23,47 +23,49 @@ Join us as a Nature Kakis today and help to plan and organize City in Nature act
 
 <h5>Therapeutic Horticulture</h5>
 <figure>  
-<img src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png" style="float:left;width:auto;height:200px;margin:30px">
+<picture>  																																								 
+<img style="float:left;width:auto;height:200px;margin:30px" src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png">
+</picture>
 <figcaption><p align="justify">	Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote minfulness. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more.<br><br><br><br></p></figcaption>
 </figure> 	
 	
 <h5>OneMillionTrees Movement</h5>
 <figure> 
-	<img src="/images/OMT/treeplantingfamilytree%20(2).jpg" style="width:auto;height:300px;margin:30px"><figcaption><p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more about the movement.<br><br><br><br></p></figcaption>
+	<img style="width:auto;height:300px;margin:30px" src="/images/OMT/treeplantingfamilytree%20(2).jpg"><figcaption><p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more about the movement.<br><br><br><br></p></figcaption>
 </figure> 	
 	
 <h5>Nature in Neighbourhood</h5>
 <figure> 
-		<img src="/images/Nature%20in%20neighborhood/artmural2.PNG" style="width:auto;height:200px;margin:30px"><figcaption><p align="justify">Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.<br><br><br><br></p></figcaption>
+		<img style="width:auto;height:200px;margin:30px" src="/images/Nature%20in%20neighborhood/artmural2.PNG"><figcaption><p align="justify">Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.<br><br><br><br></p></figcaption>
 </figure> 	
 	
 	
 <h5>DIY Nature Walks</h5>
 <figure> 
-	<img src="/images/DIY%20Nature%20walks/naturewalk%20chek%20jawa.PNG" style="width:auto;height:200px;margin:30px"><figcaption><p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to look at some trail guides made by our Volunteers and Partners.<br><br><br><br></p></figcaption></figure> 		
+	<img style="width:auto;height:200px;margin:30px" src="/images/DIY%20Nature%20walks/naturewalk%20chek%20jawa.PNG"><figcaption><p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to look at some trail guides made by our Volunteers and Partners.<br><br><br><br></p></figcaption></figure> 		
 	
 	
 <h5>Biodiversity &amp; Wildlife</h5>
 <figure> 
-	<img src="/images/Group%20photos/groupphoto1.PNG" style="width:auto;height:200px;margin:30px"><figcaption><p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents.<br><br><br><br></p></figcaption>
+	<img style="width:auto;height:200px;margin:30px" src="/images/Group%20photos/groupphoto1.PNG"><figcaption><p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents.<br><br><br><br></p></figcaption>
 </figure> 	
 	
 	
 <h5>Community in Bloom</h5>
-<figure> <img src="/images/CIB/community%20garden%20at%20spectra%20secondary%20school.jpg" style="width:auto;height:200px;margin:30px"><figcaption><p align="justify">Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to learn more about this programme.	<br><br><br><br></p></figcaption>
+<figure> <img style="width:auto;height:200px;margin:30px" src="/images/CIB/community%20garden%20at%20spectra%20secondary%20school.jpg"><figcaption><p align="justify">Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to learn more about this programme.	<br><br><br><br></p></figcaption>
 </figure> 	
 	
 	
 <h5>Friends of the Parks</h5>
 <figure>
-	<img src="/images/FOTP/aywi5915.JPG" style="width:auto;height:200px;margin:30px"><figcaption>
+	<img style="width:auto;height:200px;margin:30px" src="/images/FOTP/aywi5915.JPG"><figcaption>
 <p align="justify">Work with Friends of the Parks to participate in designing and implementing programmes in park spaces and nature areas. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to learn more about this programme. <br><br><br><br>	</p></figcaption>
 </figure> 	
 	
 	
 <h5>Community Animals</h5>
 <figure>
-	<img src="/images/Community%20animals/cam2dog.jpg" style="width:auto;height:200px;margin:30px">
+	<img style="width:auto;height:200px;margin:30px" src="/images/Community%20animals/cam2dog.jpg">
 <figcaption><p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to learn more about this programme. 	</p></figcaption></figure> 	
 
 
