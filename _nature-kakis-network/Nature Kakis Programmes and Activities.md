@@ -18,6 +18,9 @@ Join us as a Nature Kakis today and help to plan and organize City in Nature act
 
 
 <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">City in Nature Activities for Nature Kakis to Participate in</h3>
+
+[insert brochure's 8 activities diagram]
+
 <h5>Therapeutic Horticulture</h5>
 <figure>  
 <img src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png" style="float:left;width:auto;height:200px;margin:30px">
