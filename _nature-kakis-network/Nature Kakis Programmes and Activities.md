@@ -31,23 +31,23 @@ Join us as a Nature Kakis today and help to plan and organize City in Nature act
 	
 <h5>OneMillionTrees Movement</h5>
 <figure> 
-	<img style="width:auto;height:300px;margin:30px" src="/images/OMT/treeplantingfamilytree%20(2).jpg"><figcaption><p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more about the movement.</p></figcaption>
+<img style="width:auto;height:300px;margin:30px" src="/images/OMT/treeplantingfamilytree%20(2).jpg"><figcaption><p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more about the movement.</p></figcaption>
 </figure> 	
 	
 <h5>Nature in Neighbourhood</h5>
 <figure> 
-		<img style="width:auto;height:200px;margin:30px" src="/images/Nature%20in%20neighborhood/artmural2.PNG"><figcaption><p align="justify">Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.</p></figcaption>
+<img style="width:auto;height:200px;margin:30px" src="/images/Nature%20in%20neighborhood/artmural2.PNG"><figcaption><p align="justify">Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.</p></figcaption>
 </figure> 	
 	
 	
 <h5>DIY Nature Walks</h5>
 <figure> 
-	<img style="width:auto;height:200px;margin:30px" src="/images/DIY%20Nature%20walks/naturewalk%20chek%20jawa.PNG"><figcaption><p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to look at some trail guides made by our Volunteers and Partners.</p></figcaption></figure> 		
+<img style="width:auto;height:200px;margin:30px" src="/images/DIY%20Nature%20walks/naturewalk%20chek%20jawa.PNG"><figcaption><p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to look at some trail guides made by our Volunteers and Partners.</p></figcaption></figure> 		
 	
 	
 <h5>Biodiversity &amp; Wildlife</h5>
 <figure> 
-	<img style="width:auto;height:200px;margin:30px" src="/images/Group%20photos/groupphoto1.PNG"><figcaption><p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents.</p></figcaption>
+<img style="width:auto;height:200px;margin:30px" src="/images/Group%20photos/groupphoto1.PNG"><figcaption><p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents.</p></figcaption>
 </figure> 	
 	
 	
@@ -58,14 +58,14 @@ Join us as a Nature Kakis today and help to plan and organize City in Nature act
 	
 <h5>Friends of the Parks</h5>
 <figure>
-	<img style="width:auto;height:200px;margin:30px" src="/images/FOTP/aywi5915.JPG"><figcaption>
+<img style="width:auto;height:200px;margin:30px" src="/images/FOTP/aywi5915.JPG"><figcaption>
 <p align="justify">Work with Friends of the Parks to participate in designing and implementing programmes in park spaces and nature areas. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to learn more about this programme. </p></figcaption>
 </figure> 	
 	
 	
 <h5>Community Animals</h5>
 <figure>
-	<img style="width:auto;height:200px;margin:30px" src="/images/Community%20animals/cam2dog.jpg">
+<img style="width:auto;height:200px;margin:30px" src="/images/Community%20animals/cam2dog.jpg">
 <figcaption><p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to learn more about this programme. 	</p></figcaption></figure> 	
 
 
