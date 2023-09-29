@@ -57,9 +57,7 @@ Join us as a Nature Kakis today and help to plan and organize City in Nature act
 	
 <h5>Community Animals</h5>
 	<figure><img src="/images/Community%20animals/cam2dog.jpg" style="width:auto;height:200px;margin:30px">
-<figcaption><p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to learn more about this programme.
-	</p></figcaption>
-</figure> 	
+<figcaption><p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to learn more about this programme. 	</p></figcaption></figure> 	
 
 	
 <section>
