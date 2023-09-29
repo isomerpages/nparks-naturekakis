@@ -36,7 +36,8 @@ Join us as a Nature Kakis today and help to plan and organize City in Nature act
 	
 	
 <h5>DIY Nature Walks</h5>
-<figure> <img src="/images/DIY%20Nature%20walks/naturewalk%20chek%20jawa.PNG" style="width:auto;height:200px;margin:30px"><figcaption><p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to look at some trail guides made by our Volunteers and Partners.<br><br><br><br></p></figcaption></figure> 		
+<figure> 
+	<img src="/images/DIY%20Nature%20walks/naturewalk%20chek%20jawa.PNG" style="width:auto;height:200px;margin:30px"><figcaption><p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to look at some trail guides made by our Volunteers and Partners.<br><br><br><br></p></figcaption></figure> 		
 	
 	
 <h5>Biodiversity &amp; Wildlife</h5>
