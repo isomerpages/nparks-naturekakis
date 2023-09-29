@@ -12,7 +12,7 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 		
 Be one of our Nature Kakis champions and you will get to benefit from capability development, training, knowledge sharing, as well as the chance to build your network and forge relationships with like-minded individuals. To empower our Nature Kakis Network in organising City in Nature activities, we have developed a suite of programmes and activities that cater to a diverse range of interests and skill levels. We aim to inspire and engage individuals, while also providing them with the necessary tools and resources to become stewards of nature. 
 		
-	Join us as a Nature Kakis today and help to organize/participate in City in Nature activities!</p>
+Join us as a Nature Kakis today and help to plan and organize City in Nature activities for your community!</p>
 	<br>
 </section>
 
@@ -20,19 +20,21 @@ Be one of our Nature Kakis champions and you will get to benefit from capability
 
 <p>
 <img style="float:right;width:42px;height:42px;" alt="Smiley face" src="smiley.gif">
-A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.
+xxxxx
 </p>
 <p>
 <img style="float:left;width:42px;height:42px" alt="Smiley face" src="smiley.gif">
 A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.  
 </p>
 
-<h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">City in Nature Activities for Nature Kakis to Participate in</h3>
+<p></p><h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">City in Nature Activities for Nature Kakis to Participate in</h3><p></p>
 <h5>Therapeutic Horticulture</h5>
-<img style="float:left;width:auto;height:300px;margin:30px" src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png">
-	
+
+<figure>  
+&nbsp;&nbsp;<img style="float:left;width:auto;height:200px;margin:30px" src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png">
+<figcaption>																																										
 <p align="justify">	Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote minfulness. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more.<br><br><br><br></p>
-	
+	</figcaption></figure> 	
 	
 <!--img src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png" style="width: auto; height: 300px"-->
 
