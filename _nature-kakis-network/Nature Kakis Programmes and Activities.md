@@ -37,7 +37,7 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
   
 <details>
 	<summary> <label for="accordion#2"><b>OneMillionTrees Movement</b></label></summary><div>  
-<p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click&nbsp;[here](https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement)&nbsp;to find out more about the movement.</p>  
+<p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more.</p>  
 </div></details>  
   
 <details>
@@ -52,11 +52,11 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
  
 <details>
 	<summary> <label for="accordion#5"><b>Biodiversity &amp; Wildlife</b></label></summary><div>  
-<p>Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents.</p> </div></details>    	
+<p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents.</p> </div></details>    	
 
 <details>
 	<summary> <label for="accordion#6"></label>Community in Bloom</summary><div>  
-<p>Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. Click&nbsp;[here](https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement)&nbsp;to learn more about this programme.</p> </div></details>    
+<p align="justify">Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. Click <a href="https://www.nparks.gov.sg/gardening/community-in-bloom-initiative">here</a> to find out more.</p></div></details>    
 	
 <details>
 	<summary> <label for="accordion#7"></label>Friends of the Park</summary><div>  
