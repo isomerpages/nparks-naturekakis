@@ -28,22 +28,28 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 
 <section>
 
-<ul class="jekyllcodex\_accordion">  
+<ul class="jekyllcodex_accordion">    
+	
+<details>
+	<summary> 
+<li><input type="checkbox" id="accordion#1">  
+<label for="accordion#1">Therapeutic Horticulture</label> </li></summary> <div>  
+<p>Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote mindfulness. Click&nbsp;[here](https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement)to find out more.</p>  
+</div></details>
   
-<li><input type="checkbox" id="accordion1">  
-<label for="accordion1">Insert Accordion Title here</label><div>  
-<p>Insert content here</p>  
-</div></li>  
+<details>
+	<summary> 
+<li><input type="checkbox" id="accordion#2">  
+<label for="accordion#2">OneMillionTrees Movement</label></li></summary><div>  
+<p>Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click&nbsp;[here](https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement)&nbsp;to find out more about the movement.</p>  
+</div></details>  
   
-<li><input type="checkbox" id="accordion2">  
-<label for="accordion2">Insert Accordion Title here</label><div>  
-<p>Insert content here</p>  
-</div></li>  
-  
-<li><input type="checkbox" id="accordion3">  
-<label for="accordion3">Insert Accordion Title here</label><div>  
-<p>Insert content here</p>  
-</div></li>  
+<details>
+	<summary> 
+<li><input type="checkbox" id="accordion#3">  
+<label for="accordion#3">Nature in Neighbourhood</label></li></summary><div>  
+<p>Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.</p>  
+</div></details>    
   
 </ul>
 
