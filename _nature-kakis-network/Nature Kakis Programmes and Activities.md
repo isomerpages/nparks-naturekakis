@@ -26,25 +26,24 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 </figure> 	
 </section>	
 
-<section>
-<ul class="jekyllcodex_accordion">    
 
 
+<title>Accordion in HTML5</title>
 
 
 	<details>
-		<summary><strong>Therapeutic Horticulture</strong></summary>
-		<p align="justify">	Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote minfulness. Click <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens/therapeutic-horticulture-programmes">here</a> to find out more.</p>
+		<summary>Accordion One</summary>
+		Body Content 1
 	</details>
 	<details>
 		<summary>Accordion Two</summary>
 		Body Content 2
 	</details>
 
-	
-	
 
-</ul>
+
+
+
 	
 <h5>Therapeutic Horticulture</h5>
 <figure>  
@@ -100,4 +99,4 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 	</p><h3><b>What can you do as a Nature Kaki?</b></h3>	
 	<b></b><p align="justify"><b>As a member of the Nature Kakis Network, individuals can participate in Nature Kakis activities and also go one step further to help grow community interest by planning, organizing and implementing a wide variety of activities and programmes. Be one of our Nature Kakis champions and you will get to benefit from capability development, training, knowledge sharing, as well as the chance to build your network and forge relationships with like-minded individuals. </b></p><b>
 		
-</b><p><b>Take a look at some upcoming Nature Kakis activities <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> and <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">join</a> a Chapter  today!</b></p></section></section>
+</b><p><b>Take a look at some upcoming Nature Kakis activities <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> and <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">join</a> a Chapter  today!</b></p></section>
