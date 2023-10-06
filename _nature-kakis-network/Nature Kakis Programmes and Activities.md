@@ -23,7 +23,7 @@ Join us as a Nature Kakis today and help to plan and organize City in Nature act
 <picture> 
 <img src="/images/nk8bubbles.PNG"> 
 </picture>
-<figcaption><p align="justify">Click <a style="float:right" href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to view the Nature Kakis Brochure.</p></figcaption>
+<figcaption><p align="justify">Click <a href="/files/nature%20kakis_brochure_a4_18sept2023%20latest.pdf">here</a> to view the Nature Kakis Brochure.</p></figcaption>
 </figure> 	
 
 
