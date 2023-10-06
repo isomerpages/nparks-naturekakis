@@ -60,11 +60,11 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 	
 <details>
 	<summary> <label for="accordion#7"></label><b>Friends of the Park</b></summary><div>  
-<p align="justify">Work with Friends of the Parks to participate in designing and implementing programmes in park spaces and nature areas. Click&nbsp;[here](https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement)&nbsp;to learn more about this programme.</p> </div></details>    
+<p align="justify">Work with Friends of the Parks to participate in designing and implementing programmes in park spaces and nature areas. Click <a href="https://www.nparks.gov.sg/partner-us/volunteer/friends-of-the-parks">here</a> to find out more.</p> </div></details>    
 	
 <details>
 	<summary> <label for="accordion#7"></label><b>Community Animals</b></summary><div>  
-<p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click&nbsp;[here](https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement)&nbsp;to learn more about this programme.</p></div></details>    
+<p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a href="https://www.nparks.gov.sg/avs/animals">here</a> to find out more.</p></div></details>    
 </ul>
 
 <h5>Therapeutic Horticulture</h5>
