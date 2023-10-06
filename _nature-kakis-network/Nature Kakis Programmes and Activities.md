@@ -22,7 +22,7 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 <picture> 
 <img src="/images/nature%20kakis_brochure_a4_10oct2023%20latest.jpg"> 
 </picture>
-<figcaption><p align="justify">Click <a href="/files/nature%20kakis_brochure_a4_18sept2023%20latest.pdf">here</a> to view the Nature Kakis Brochure.</p></figcaption>
+<figcaption><p align="justify">Click <a href="/files/nature%20kakis_brochure_a4_18sept2023%20latest.pdf">here</a> to view the Nature Kakis Brochure.<br></p></figcaption>
 </figure> 	
 </section>	
 
