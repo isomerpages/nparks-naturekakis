@@ -15,7 +15,7 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 	<br>
 </section>
 
-
+<section>
 <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">City in Nature Activities for Nature Kakis to Participate in</h3>
 
 <figure>  
@@ -24,7 +24,28 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 </picture>
 <figcaption><p align="justify">Click <a href="/files/nature%20kakis_brochure_a4_18sept2023%20latest.pdf">here</a> to view the Nature Kakis Brochure.</p></figcaption>
 </figure> 	
+</section>	
 
+<section>
+
+<ul class="jekyllcodex\_accordion">  
+  
+<li><input type="checkbox" id="accordion1">  
+<label for="accordion1">Insert Accordion Title here</label><div>  
+<p>Insert content here</p>  
+</div></li>  
+  
+<li><input type="checkbox" id="accordion2">  
+<label for="accordion2">Insert Accordion Title here</label><div>  
+<p>Insert content here</p>  
+</div></li>  
+  
+<li><input type="checkbox" id="accordion3">  
+<label for="accordion3">Insert Accordion Title here</label><div>  
+<p>Insert content here</p>  
+</div></li>  
+  
+</ul>
 
 <h5>Therapeutic Horticulture</h5>
 <figure>  
@@ -80,4 +101,4 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 	</p><h3><b>What can you do as a Nature Kaki?</b></h3>	
 	<b></b><p align="justify"><b>As a member of the Nature Kakis Network, individuals can participate in Nature Kakis activities and also go one step further to help grow community interest by planning, organizing and implementing a wide variety of activities and programmes. Be one of our Nature Kakis champions and you will get to benefit from capability development, training, knowledge sharing, as well as the chance to build your network and forge relationships with like-minded individuals. </b></p><b>
 		
-</b><p><b>Take a look at some upcoming Nature Kakis activities <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> and <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">join</a> a Chapter  today!</b></p></section>
+</b><p><b>Take a look at some upcoming Nature Kakis activities <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> and <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">join</a> a Chapter  today!</b></p></section></section>
