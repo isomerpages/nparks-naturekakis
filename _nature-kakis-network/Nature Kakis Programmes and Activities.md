@@ -31,8 +31,6 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 
 
 
-<!--meta charset="utf-8"-->
-<title>Accordion in HTML5</title>
 
 	<details>
 		<summary><strong>Therapeutic Horticulture</strong></summary>
