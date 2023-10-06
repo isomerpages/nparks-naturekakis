@@ -29,25 +29,23 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 <section>
 <ul class="jekyllcodex_accordion">    
 
-<details>
-<summary> 
-<li><input id="accordion#1"><label for="accordion#1">Therapeutic Horticulture</label> </li></summary>
-<div>  
-<p align="justify">Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote mindfulness. Click&nbsp;[here](https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement)to find out more.</p>  
-</div></details>
-  
-<details>
-<summary> 
-<li><input type="checkbox" id="accordion#2">  
-<label for="accordion#2">OneMillionTrees Movement</label></li></summary><div>  
-<p>Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a style="float:right" href="https://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens/therapeutic-horticulture-programmes">here</a> to find out more.</p></div></details>  
-  
-<details>
-	<summary> 
-<li><input type="checkbox" id="accordion#3">  
-<label for="accordion#3">Nature in Neighbourhood</label></li></summary><div>  
-<p>Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.</p>  
-</div></details>    	
+
+
+<!--meta charset="utf-8"-->
+<title>Accordion in HTML5</title>
+
+	<details>
+		<summary><strong>Therapeutic Horticulture</strong></summary>
+		<p align="justify">	Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote minfulness. Click <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens/therapeutic-horticulture-programmes">here</a> to find out more.</p>
+	</details>
+	<details>
+		<summary>Accordion Two</summary>
+		Body Content 2
+	</details>
+
+	
+	
+
 </ul>
 	
 <h5>Therapeutic Horticulture</h5>
@@ -55,7 +53,7 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 <picture> 
 <img style="width:auto;height:200px;margin:30px" align="top" src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png"> 
 </picture>
-<figcaption><p align="justify">	Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote minfulness. Click <a style="float:right" href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more.</p></figcaption>
+<figcaption><p align="justify">	Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote minfulness. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more.</p></figcaption>
 </figure> 	
 	
 <h5>OneMillionTrees Movement</h5>
