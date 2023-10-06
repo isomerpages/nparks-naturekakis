@@ -46,8 +46,8 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 </div></details>    
 	
 <details>
-	<summary> <label for="accordion#4">DIY Nature Walk</label></summary><div>  
-<p>Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides. Click&nbsp;[here](https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement)&nbsp;to look at some trail guides made by our Volunteers and Partners.</p>
+	<summary> <label for="accordion#4"><b>DIY Nature Walk</b></label></summary><div>  
+<p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens/therapeutic-horticulture-programmes">here</a>.</p>
 </div></details>    
  
 <details>
