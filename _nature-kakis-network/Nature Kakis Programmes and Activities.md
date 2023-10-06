@@ -19,7 +19,13 @@ Join us as a Nature Kakis today and help to plan and organize City in Nature act
 
 <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">City in Nature Activities for Nature Kakis to Participate in</h3>
 
-[insert brochure's 8 activities diagram]
+<figure>  
+<picture> 
+<img src="/images/nk8bubbles.PNG"> 
+</picture>
+<figcaption><p align="justify">Click <a style="float:right" href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to view the Nature Kakis Brochure.</p></figcaption>
+</figure> 	
+
 
 <h5>Therapeutic Horticulture</h5>
 <figure>  
