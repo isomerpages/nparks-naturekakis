@@ -55,8 +55,16 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 <p>Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents.</p> </div></details>    	
 
 <details>
-	<summary> <label for="accordion#6"></label>Biodiversity &amp; Wildlife</summary><div>  
-<p>Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents.</p> </div></details>    
+	<summary> <label for="accordion#6"></label>Community in Bloom</summary><div>  
+<p>Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. Click&nbsp;[here](https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement)&nbsp;to learn more about this programme.</p> </div></details>    
+	
+<details>
+	<summary> <label for="accordion#7"></label>Friends of the Park</summary><div>  
+<p>Work with Friends of the Parks to participate in designing and implementing programmes in park spaces and nature areas. Click&nbsp;[here](https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement)&nbsp;to learn more about this programme.</p> </div></details>    
+	
+<details>
+	<summary> <label for="accordion#7"></label>Community Animals</summary><div>  
+<p>Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click&nbsp;[here](https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement)&nbsp;to learn more about this programme.</p> </div></details>    
 	
 </ul>
 
