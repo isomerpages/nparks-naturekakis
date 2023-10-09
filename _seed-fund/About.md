@@ -35,5 +35,4 @@ The Seed Fund can:</p>
 
 <section>
 <ul style="“list-style-type:circle”">
-<li><p align="justify">To support the recurring Nature Kakis Activities/Events by your Chapter, the Seed Fund can cover:</p></li></ul></section>
-	
+<li><p align="justify">To support the recurring Nature Kakis Activities/Events by your Chapter</p></li></ul></section>
