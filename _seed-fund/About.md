@@ -31,8 +31,8 @@ The Seed Fund can:</p>
 
 <section>	
 <ul style="“list-style-type:disc”">
-<li><p align="justify">To aid the training of the Nature Kakis to self-organize activities</p></li></ul></section>
+<li><p align="justify">Aid the training of the Nature Kakis to self-organize activities</p></li></ul></section>
 
 <section>
 <ul style="“list-style-type:circle”">
-<li><p align="justify">To support the recurring Nature Kakis Activities/Events by your Chapter</p></li></ul></section>
+<li><p align="justify">Support the recurring Nature Kakis Activities/Events by your Chapter</p></li></ul></section>
