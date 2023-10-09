@@ -11,52 +11,29 @@ description: ""
 <b>Objectives:</b><br>
 <p align="justify">With Nature Kakis Network being a platform that accelerates the mainstreaming of the City in Nature initiatives to wider community in the heartlands, the Seed Fund aims to help set up chapters, or groups, in each constituency, to promote development so they can self-organize and lead projects for the community, by the community.</p><br>
 	
-<b>Effective Date:</b><br>
+<p align="justify"><b>Effective Date:</b><br></p>
 <p align="justify">Interested Chapters are encouraged to apply for the Nature Kakis Seed Fund early as participation will be on a first-come, first-served basis, and subject to availability of funds.</p><br>
 </section>
 	
 <section>
 <b>Eligibility:</b><br>
-<p align="justify">To apply, the Chapter must first be an established Nature Kakis Chapter that has received appointment letters.</p>
+<p align="justify">To apply, the Chapter must first be an established Nature Kakis Chapter that has received appointment letters.<br>
+The Seed Fund can:</p>
 	
 <ul style="“list-style-type:disc”">
-<li><p align="justify">To help build your Nature Kakis Chapter, the Seed Fund can cover the:</p></li>
+<li><p align="justify">Help build your Nature Kakis Chapter though the:</p></li>
 	
 <ul style="“list-style-type:circle”">
-<li><p align="justify">Printing and fabrication of wearable identity items* of Nature Kakis Chapters<br>
-	<i>*Note: Requirement for identity items to mention Nature Kakis and/or Chapter logo and/or Chapter name</i></p></li>
+<li><p align="justify">Printing and fabrication of wearable identity items of Nature Kakis Chapters<br></p></li>
 	
-<li><p align="justify">Production and printing cost of publicity collaterals* for Chapters’ recruitment of Nature Kakis and its activities, e.g., exhibition panels and pull-up banners<br>
-	<i>*Note: Requirement for contents of collaterals to be Nature Kakis related</i></p></li><br><p></p></ul></ul></section>	
+<li><p align="justify">Production and printing cost of publicity collaterals* for Chapters’ recruitment of Nature Kakis and its activities<br></p></li>
+</ul></ul></section>	
 
 <section>	
 <ul style="“list-style-type:disc”">
-<li><p align="justify">To aid the training* of the Nature Kakis to self-organize activities, the Seed Fund can cover the:</p></li>
-
-<ul style="“list-style-type:circle”">
-	<li><p align="justify">Material costs used for training</p></li>
-	<li><p align="justify">Transportation for trainees between community centers (near Chapters) and training venue</p></li>
-	<li><p align="justify">Non-NParks Partner Fees for City in Nature related activities<br>
-		<i>*Note: Reimbursable after trainees conduct related activity for at least 10 people in their precinct.</i></p></li></ul><p></p></ul></section>	
+<li><p align="justify">To aid the training of the Nature Kakis to self-organize activities</p></li></ul></section>
 
 <section>
 <ul style="“list-style-type:circle”">
-<li><p align="justify">To support the recurring Nature Kakis Activities/Events by your Chapter, the Seed Fund can cover:</p></li>
-<ul style="“list-style-type:circle”">
-	<li>Material costs for recurring events</li>
-	<li>Tools and equipment that can be reused for subsequent Nature Kakis activities and not one off</li>
-	<li>Appreciation Tokens</li><br>
-	<i>*Note: Requirement for items to mention Nature Kakis and/or Chapter logo and/or Chapter name</i>
-	</ul><p></p></ul></section>
+<li><p align="justify">To support the recurring Nature Kakis Activities/Events by your Chapter, the Seed Fund can cover:</p></li></ul></section>
 	
-	
-<ul class="jekyllcodex\_accordion">  
-	<li><input type="checkbox" id="accordion1">  
-	<label for="accordion1">Insert Accordion Title here</label><div>
-		<p>Insert content here</p>  
-	</div></li>  
-	<li><input type="checkbox" id="accordion2">  
-	<label for="accordion2">Insert Accordion Title here</label><div>  
-		<p>Insert content here</p>  
-	</div></li>  
-</ul>
