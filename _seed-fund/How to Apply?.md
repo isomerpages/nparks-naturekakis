@@ -5,23 +5,18 @@ description: ""
 ---
 <section>
 	<h5>Application Process</h5>
-<p align="justify">To start your application for the Nature Kakis Seed Fund, please get in touch with the NParks Engagement manager who has been your primary point of contact.</p><br>
-
-<p align="justify">There are two stages in the Seed Fund application process:
-</p>
+	<p align="justify">To start your application for the Nature Kakis Seed Fund, please get in touch with the NParks Engagement manager who has been your primary point of contact.</p>
+	<p align="justify">There are two stages in the Seed Fund application process:</p>
 	<ul style="“list-style-type:disc”">
-	<li>Application stage</li>
+		<li>Application stage</li>
 		<li>Reimbursement stage</li>
-		<p></p></ul>
+	</ul>
+	<p><b>Stage 1: Application</b></p>
+	<p align="justify">After approaching the NParks Engagement manager, they will contact you to guide you on the process, including the submission of relevant application forms and supporting documents for approval prior to purchase of items and/or commencing your activities. You are required to submit your application before any site work begins.</p>
+	<p align="justify">"Your proposal will be assessed based on the project’s merits and ability to contribute towards building your Nature Kakis Chapter.</p>
+	<p align="justify">If your application is approved, you will receive a letter of offer from NParks. This letter of offer will be valid for 12 months during which the project should be completed. You may only begin purchasing items upon receiving the letter of offer.</p>
+</section>
 
-<p align="justify"><b>Stage 1: Application</b><br>
-After approaching the NParks Engagement manager, they will contact you to guide you on the process, including the submission of relevant application forms and supporting documents for approval prior to purchase of items and/or commencing your activities. You are required to submit your application before any site work begins.<br>
-	
-Your proposal will be assessed based on the project’s merits and ability to contribute towards building your Nature Kakis Chapter.<br>
-	
-If your application is approved, you will receive a letter of offer from NParks. This letter of offer will be valid for 12 months during which the project should be completed. You may only begin purchasing items upon receiving the letter of offer.<br> 
-</p></section>
-	
 <p align="justify">Documents Required for Seed Fund Application to be submitted to the Engagement Mangager:<br>
 	</p><ul style="“list-style-type:disc”">
 	<li>Completed Application Form</li>
