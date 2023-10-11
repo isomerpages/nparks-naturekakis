@@ -18,8 +18,7 @@ description: ""
 	<p align="justify">After approaching the NParks Engagement manager, they will contact you to guide you on the process, including the submission of relevant application forms and supporting documents for approval prior to purchase of items and/or commencing your activities. You are required to submit your application before any site work begins.</p>
 	<p align="justify">"Your proposal will be assessed based on the project’s merits and ability to contribute towards building your Nature Kakis Chapter.</p>
 	<p align="justify">If your application is approved, you will receive a letter of offer from NParks. This letter of offer will be valid for 12 months during which the project should be completed. You may only begin purchasing items upon receiving the letter of offer.</p>
-	<br>
-	<p align="justify">Documents Required for Seed Fund Application to be submitted to the Engagement Manager:</p>
+	<p align="justify"><b>Documents Required for Seed Fund Application to be submitted to the Engagement Manager:</b></p>
 	<ul align="justify">
 		<li>Completed Application Form</li>
 		<li>Document showing estimated cost of items (e.g., Quotations from vendors/suppliers with itemised breakdown</li>
@@ -33,7 +32,7 @@ description: ""
 <section>
 	<h5>Stage 2: Reimbursement</h5>
 	<p align="justify">Once the Nature Kakis activities/events and/or the production of items are completed, please contact your Engagement Manager to begin the reimbursement process.</p>
-	<p align="justify">Documents Required for Reimbursement to be submitted to the Engagement Manager:</p>
+	<p align="justify"><b>Documents Required for Reimbursement to be submitted to the Engagement Manager:</b></p>
 	<ul align="justify">
 		<li>Completed Reimbursement Form – Reimbursement form will be provided by NParks</li>
 		<li>Tax invoices and receipts/proof of payment that show final amount paid by applicant to vendors</li>
