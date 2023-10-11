@@ -23,7 +23,7 @@ description: ""
 		<label for="accordion3">Eligibility</label><div>
 			<p align="justify">To apply, the Chapter must first be an established Nature Kakis Chapter that has received appointment letters.</p>
 			<p align="justify">The Seed Fund can:</p>
-			<ul>
+			<ul align="justify">
 				<li>Help build your Nature Kakis Chapter though the:</li>
 					<ul>
 						<li>Printing and fabrication of wearable identity items of Nature Kakis Chapter</li>
