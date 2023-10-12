@@ -38,17 +38,19 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
 			<label for="accordion3"><h5>Nature in Neighbourhood</h5></label><div>
-			<p align="justify">To apply, the Chapter must first be an established Nature Kakis Chapter that has received appointment letters.</p>
-			<p align="justify"><b>The Seed Fund can:</b></p>
-			<ul align="justify">
-				<li>Help build your Nature Kakis Chapter though the:</li>
-					<ul>
-						<li>Printing and fabrication of wearable identity items of Nature Kakis Chapter</li>
-						<li>Production and printing cost of publicity collaterals for Chapters’ recruitment of Nature Kakis and its activities</li>
-					</ul>
-				<li>Aid the training of the Nature Kakis to self-organize activities</li>
-				<li>Support the recurring Nature Kakis Activities/Events by your Chapter</li>
-			</ul>
+			<p align="justify">Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.</p>
+		</div></li>
+		<li><input type="checkbox" id="accordion4">
+			<label for="accordion4"><h5>DIY Nature Walks</h5></label><div>
+			<p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens/therapeutic-horticulture-programmes">here</a>.</p>
+		</div></li>
+		<li><input type="checkbox" id="accordion5">
+			<label for="accordion5"><h5>Biodiversity &amp; Wildlife</h5></label><div>
+			<p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents.</p>
+		</div></li>
+		<li><input type="checkbox" id="accordion6">
+			<label for="accordion6"><h5>Nature in Neighbourhood</h5></label><div>
+			<p align="justify">Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.</p>
 		</div></li>
 	</ul>
 </section>	
