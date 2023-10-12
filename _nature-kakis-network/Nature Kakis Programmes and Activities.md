@@ -50,7 +50,7 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 		</div></li>
 		<li><input type="checkbox" id="accordion6">
 			<label for="accordion6"><h5>Community in Bloom</h5></label><div>
-			<p align="justify">Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. Click <a href="https://www.nparks.gov.sg/gardening/community-in-bloom-initiative">here</a> to find out more.</p>
+			<p align="justify"><img style="width:75%" align="top" src="/images/CIB/community%20garden%20at%20spectra%20secondary%20school.jpg">Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. Click <a href="https://www.nparks.gov.sg/gardening/community-in-bloom-initiative">here</a> to find out more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion7">
 			<label for="accordion7"><h5>Friends of the Park</h5></label><div>
