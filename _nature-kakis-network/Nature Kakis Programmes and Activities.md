@@ -58,7 +58,7 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 		</div></li>
 		<li><input type="checkbox" id="accordion8">
 			<label for="accordion8"><h5>Community Animals</h5></label><div>
-			<p align="justify"><img style="width:75%" align="top" src="/images/Community%20animals/cam2dog.jpg">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a href="https://www.nparks.gov.sg/avs/animals">here</a> to find out more.</p>
+			<p align="justify"><img style="width:75%" align="top" src="/images/Community%20animals/cam2dog.jpg">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a href="https://www.nparks.gov.sg/avs/animals/animal-management/living-with-community-animals-in-your-neighbourhood/meeting-free-roaming-dogs">here</a> to find out more.</p>
 		</div></li>
 	</ul>
 </section>	
