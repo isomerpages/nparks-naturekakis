@@ -65,6 +65,6 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 	
 <section>
 <h3>What can you do as a Nature Kaki?</h3>	
-	<p align="justify"><b>As a member of the Nature Kakis Network, individuals can participate in Nature Kakis activities and also go one step further to help grow community interest by planning, organizing and implementing a wide variety of activities and programmes. Be one of our Nature Kakis champions and you will get to benefit from capability development, training, knowledge sharing, as well as the chance to build your network and forge relationships with like-minded individuals. </b></p><b>
+<p align="justify">As a member of the Nature Kakis Network, individuals can participate in Nature Kakis activities and also go one step further to help grow community interest by planning, organizing and implementing a wide variety of activities and programmes. Be one of our Nature Kakis champions and you will get to benefit from capability development, training, knowledge sharing, as well as the chance to build your network and forge relationships with like-minded individuals.</p>
 		
-</b><p><b>Take a look at some upcoming Nature Kakis activities <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> and <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">join</a> a Chapter  today!</b></p></section>
+<p>Take a look at some upcoming Nature Kakis activities <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a>.</p></section>
