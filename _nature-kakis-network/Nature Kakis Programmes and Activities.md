@@ -49,8 +49,16 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 			<p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion6">
-			<label for="accordion6"><h5>Nature in Neighbourhood</h5></label><div>
-			<p align="justify">Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.</p>
+			<label for="accordion6"><h5>Community in Bloom</h5></label><div>
+			<p align="justify">Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. Click <a href="https://www.nparks.gov.sg/gardening/community-in-bloom-initiative">here</a> to find out more.</p>
+		</div></li>
+		<li><input type="checkbox" id="accordion7">
+			<label for="accordion7"><h5>Biodiversity &amp; Wildlife</h5></label><div>
+			<p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents.</p>
+		</div></li>
+		<li><input type="checkbox" id="accordion8">
+			<label for="accordion8"><h5>Community in Bloom</h5></label><div>
+			<p align="justify">Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. Click <a href="https://www.nparks.gov.sg/gardening/community-in-bloom-initiative">here</a> to find out more.</p>
 		</div></li>
 	</ul>
 </section>	
