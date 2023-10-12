@@ -27,45 +27,6 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 </section>	
 
 <section>
-<ul class="jekyllcodex_accordion">    
-<details>
-	<summary> <label for="accordion#1"><b>Therapeutic Horticulture</b></label> </summary> <div>  
- <p align="justify">Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote mindfulness. Click <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens/therapeutic-horticulture-programmes">here</a> to find out more.</p>  
-</div></details>
-  
-<details>
-	<summary> <label for="accordion#2"><b>OneMillionTrees Movement</b></label></summary><div>  
-<p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more.</p>  
-</div></details>  
-  
-<details>
-	<summary> <label for="accordion#3"><b>Nature in Neighbourhood</b></label></summary><div>  
-<p align="justify">Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.</p>  
-</div></details>    
-	
-<details>
-	<summary> <label for="accordion#4"><b>DIY Nature Walk</b></label></summary><div>  
-<p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens/therapeutic-horticulture-programmes">here</a>.</p>
-</div></details>    
- 
-<details>
-	<summary> <label for="accordion#5"><b>Biodiversity &amp; Wildlife</b></label></summary><div>  
-<p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents.</p> </div></details>    	
-
-<details>
-	<summary> <label for="accordion#6"></label><b>Community in Bloom</b></summary><div>  
-<p align="justify">Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. Click <a href="https://www.nparks.gov.sg/gardening/community-in-bloom-initiative">here</a> to find out more.</p></div></details>    
-	
-<details>
-	<summary> <label for="accordion#7"></label><b>Friends of the Park</b></summary><div>  
-<p align="justify">Work with Friends of the Parks to participate in designing and implementing programmes in park spaces and nature areas. Click <a href="https://www.nparks.gov.sg/partner-us/volunteer/friends-of-the-parks">here</a> to find out more.</p> </div></details>    
-	
-<details>
-	<summary> <label for="accordion#7"></label><b>Community Animals</b></summary><div>  
-<p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a href="https://www.nparks.gov.sg/avs/animals">here</a> to find out more.</p></div></details>    
-</ul>
-
-<section>
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 			<label for="accordion1"><h5>Therapeutic Horticulture</h5></label><div>
@@ -76,7 +37,7 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 			<p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
-			<label for="accordion3"><h5>Eligibility</h5></label><div>
+			<label for="accordion3"><h5>Nature in Neighbourhood</h5></label><div>
 			<p align="justify">To apply, the Chapter must first be an established Nature Kakis Chapter that has received appointment letters.</p>
 			<p align="justify"><b>The Seed Fund can:</b></p>
 			<ul align="justify">
@@ -92,57 +53,10 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 	</ul>
 </section>	
 	
-<h5>Therapeutic Horticulture</h5>
-<figure>  
-<picture> 
-<img style="width:auto;height:200px;margin:30px" align="top" src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png"> 
-</picture>
-<figcaption><p align="justify">	Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote minfulness. Click <a style="float:right" href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more.</p></figcaption>
-</figure> 	
-	
-<h5>OneMillionTrees Movement</h5>
-<figure> 
-<img style="width:auto;height:300px;margin:30px" src="/images/OMT/treeplantingfamilytree%20(2).jpg"><figcaption><p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more about the movement.</p></figcaption>
-</figure> 	
-	
-<h5>Nature in Neighbourhood</h5>
-<figure> 
-<img style="width:auto;height:200px;margin:30px" src="/images/Nature%20in%20neighborhood/artmural2.PNG"><figcaption><p align="justify">Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.</p></figcaption>
-</figure> 	
-		
-<h5>DIY Nature Walks</h5>
-<figure> 
-<img style="width:auto;height:200px;margin:30px" src="/images/DIY%20Nature%20walks/naturewalk%20chek%20jawa.PNG"><figcaption><p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to look at some trail guides made by our Volunteers and Partners.</p></figcaption></figure> 		
-	
-	
-<h5>Biodiversity &amp; Wildlife</h5>
-<figure> 
-<img style="width:auto;height:200px;margin:30px" src="/images/Group%20photos/groupphoto1.PNG"><figcaption><p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents.</p></figcaption>
-</figure> 	
-	
-	
-<h5>Community in Bloom</h5>
-<figure> <img style="width:auto;height:200px;margin:30px" src="/images/CIB/community%20garden%20at%20spectra%20secondary%20school.jpg"><figcaption><p align="justify">Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to learn more about this programme.	</p></figcaption>
-</figure> 	
-	
-	
-<h5>Friends of the Parks</h5>
-<figure>
-<img style="width:auto;height:200px;margin:30px" src="/images/FOTP/aywi5915.JPG"><figcaption>
-<p align="justify">Work with Friends of the Parks to participate in designing and implementing programmes in park spaces and nature areas. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to learn more about this programme. </p></figcaption>
-</figure> 	
-	
-	
-<h5>Community Animals</h5>
-<figure>
-<img style="width:auto;height:200px;margin:30px" src="/images/Community%20animals/cam2dog.jpg">
-<figcaption><p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to learn more about this programme. 	</p></figcaption></figure> 	
-
-
 <section>
 	<br>
 	<p align="justify">
 	</p><h3><b>What can you do as a Nature Kaki?</b></h3>	
 	<b></b><p align="justify"><b>As a member of the Nature Kakis Network, individuals can participate in Nature Kakis activities and also go one step further to help grow community interest by planning, organizing and implementing a wide variety of activities and programmes. Be one of our Nature Kakis champions and you will get to benefit from capability development, training, knowledge sharing, as well as the chance to build your network and forge relationships with like-minded individuals. </b></p><b>
 		
-</b><p><b>Take a look at some upcoming Nature Kakis activities <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> and <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">join</a> a Chapter  today!</b></p></section></section>
+</b><p><b>Take a look at some upcoming Nature Kakis activities <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> and <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">join</a> a Chapter  today!</b></p></section>
