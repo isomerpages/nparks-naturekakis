@@ -38,7 +38,7 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
 			<label for="accordion3"><h5>Nature in Neighbourhood</h5></label><div>
-			<p align="justify">Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.</p>
+			<p align="justify"><img style="width:75%" align="top" src="/images/Nature%20in%20neighborhood/artmural2.PNG">Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion4">
 			<label for="accordion4"><h5>DIY Nature Walks</h5></label><div>
