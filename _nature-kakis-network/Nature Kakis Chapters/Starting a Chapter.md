@@ -43,15 +43,4 @@ third_nav_title: Nature Kakis Chapters
 </section>
 
 <section>
-	<p align="justify">Click here to contact us for queries related to starting a Chapter!</p></section>
-	
-<!---hide<p align="justify"><b>Stage 1</b>: Identify Nature Kakis Lead(s) and 3-5 committed members through People's Association Constituency Director.<br></p>
-
-<p align="justify"><b>Stage 2</b>: Sharing on the Nature Kakis Network by NParks to new Nature Kakis members and People's Association Constituency Director / representative.<br></p>
-
-<p align="justify"><b>Stage 3</b>: Plan a calendar of events and share it with NParks.<br></p>
-
-<p align="justify"><b>Stage 4</b>: Organise one Nature Kakis activity (e.g., tree planting).<br></p>
-
-<p align="justify"><b>Stage 5</b>: Recognition of Nature Kakis members through appointment letters.</p>
-</section><br>>-->
+<p align="justify">As part of our initiative, we will partner with the you and provide training to help you and other community leaders set up Nature Kakis chapters in each constituency. These Chapters can organise various greenery and City in Nature-related activities such as tree-planting and guided walks for the community. Find out more on the types of Nature Kakis programmes by clicking here.</p></section>
