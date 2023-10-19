@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Nature Kakis Happenings
           description: Find out what's happening
-          url: /nature-kakis-network/nature-kakis-happenings
+          url: /file/nature-kakis-happenings/
         - title: Join our activities
           description: Volunteer here
           url: /join-our-activities/
