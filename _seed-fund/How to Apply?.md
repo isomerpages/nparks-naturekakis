@@ -14,6 +14,8 @@ description: ""
 	<br>
 </section>
 
+<img src="/images/TH%20Activities/inductiontalks_horticulture_jacquelinechua%20(6).jpg">
+
 <section>
 	<h5>Stage 1: Application</h5>
 	<p align="justify">After approaching the NParks Engagement manager, they will contact you to guide you on the process, including the submission of relevant application forms and supporting documents for approval prior to purchase of items and/or commencing your activities. You are required to submit your application before any site work begins.</p>
