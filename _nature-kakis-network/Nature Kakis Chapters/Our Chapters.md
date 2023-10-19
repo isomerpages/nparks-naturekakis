@@ -33,6 +33,10 @@ third_nav_title: Nature Kakis Chapters
     <td>Bukit Gombak</td>
     <td>bgnaturekakis@gmail.com</td>
   </tr>
+		<tr>
+    <td>Buona Vista</td>
+    <td>pa_buonavistacc@pa.gov.sg</td>
+  </tr>
 		 <tr>
     <td>Marymount</td>
     <td>koh_jianqin@pa.gov.sg</td>
@@ -46,16 +50,28 @@ third_nav_title: Nature Kakis Chapters
     <td>nssnaturekakis@gmail.com</td>
   </tr>
 		 <tr>
-    <td>Pasir Ris</td>
+    <td>Pasir Ris Central</td>
     <td>naturekaki.pr@gmail.com</td>
   </tr>
+		<tr>
+    <td>Punggol Coast</td>
+    <td>pcnaturekakis@gmail.com</td>
+  </tr>
 		 <tr>
-    <td>Punggol</td>
+    <td>Punggol West</td>
     <td>natureinpunggol@gmail.com</td>
   </tr>
 		 <tr>
     <td>Taman Jurong</td>
     <td>tjgreenheart@gmail.com</td>
+  </tr>
+		<tr>
+    <td>Tanjong Pagar – Tiong Bahru</td>
+    <td>nbuddiestptb@gmail.com</td>
+  </tr>
+		<tr>
+    <td>Telok Blangah</td>
+    <td>pulaiecoclub@gmail.com</td>
   </tr>
 </tbody></table>	
 
