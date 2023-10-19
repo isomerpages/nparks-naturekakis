@@ -17,7 +17,8 @@ sections:
           url: /nature-kakis-network/nature-kakis-happenings
         - title: Join our activities
           description: Volunteer here
-          url: /privacy/
+          url: /join-our-activities/
+      variant: center
   - infopic:
       title: Nature Kakis Network
       subtitle: Support our
