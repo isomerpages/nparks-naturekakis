@@ -5,13 +5,16 @@ description: ""
 ---
 <style>
 	.responsivecal {
-		display: flex;
-		height:600px;
-		width:845px;
+		position:relative;
+		height: 50%
+		width:50%;
+		padding-bottom:50%;
 	}
 	
 	.responsivecal iframe {
-		display:flex;
+		position:absolute;
+		height:100%;
+		width:100%;
 	}
 </style>
 
