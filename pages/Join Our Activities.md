@@ -8,7 +8,7 @@ description: ""
 		position:relative;
 		height: 0%
 		width:50%;
-		padding-bottom:80%;
+		padding-bottom:100%;
 	}
 	
 	.responsivecal iframe {
