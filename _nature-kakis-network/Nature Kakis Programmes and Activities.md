@@ -40,7 +40,7 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 		</div></li>
 		<li><input type="checkbox" id="accordion5">
 			<label for="accordion5"><h5>Biodiversity &amp; Wildlife</h5></label><div>
-			<p align="justify"><img style="width:75%" align="top" src="/images/Group%20photos/groupphoto1.PNG">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents.</p>
+			<p align="justify"><img style="width:75%" align="top" src="/images/BioD%20&amp;%20wildlife/biod%20and%20wld.png">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion6">
 			<label for="accordion6"><h5>Community in Bloom</h5></label><div>
