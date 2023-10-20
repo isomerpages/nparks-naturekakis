@@ -6,6 +6,8 @@ description: ""
 <style>
 	.responsivecal {
 		display: flex;
+		height:600px;
+		width:845px;
 	}
 </style>
 
