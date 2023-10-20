@@ -44,7 +44,7 @@ sections:
           description: On 27 May 2023, the Network was launched during the Festival of
             Biodiversity.
           linktext: Learn more
-          url: www.nparks.gov.sg/nparks-corporate/news/2023/5/new-nparks-initiatives-to-strengthen-ecological-connectivity-and-encourage-community-stewardship-to-further-city-in-nature-vision
+          url: https://www.nparks.gov.sg/nparks-corporate/news/2023/5/new-nparks-initiatives-to-strengthen-ecological-connectivity-and-encourage-community-stewardship-to-further-city-in-nature-vision
         - title: $5000 Seed Funding for Chapters
           description: Supported by donations to NParks’ registered charity and IPC,
             Garden City Fund.
