@@ -8,7 +8,7 @@ description: ""
 image: ""
 ---
 <section>
-	<p align="justify">On the 7 October 2023 (Saturday), the Community Projects teams (Planning &amp; Programme and Engagement) from the Horticulture &amp; Community Division organised the third Nature Kakis Induction Programme at Jurong Lake Gardens, Gardenhouse, Mempat Hall. The event was attended by 40 Nature Kakis and Community In Bloom ambassadors. The central focus of the event was on horticulture, with a sub-topic focus on therapeutic design and contemplative landscaping. The topic of Horticulture is one of four induction topics that will be covered annually to improve the capabilities of Nature Kakis in organising community activities.</p>  
+	<p align="justify">On the 7 October 2023 (Saturday), the Community Projects teams (Planning &amp; Programmes and Engagement) from the Horticulture &amp; Community Division organised the third Nature Kakis Induction Programme at Jurong Lake Gardens, Gardenhouse, Mempat Hall. The event was attended by 40 Nature Kakis and Community In Bloom ambassadors. The central focus of the event was on horticulture, with a sub-topic focus on therapeutic design and contemplative landscaping. The topic of Horticulture is one of four induction topics that will be covered annually to improve the capabilities of Nature Kakis in organising community activities.</p>  
 
 <img src="/images/TH%20Activities/inductiontaalks_horticulture_th_jacquelinechua%20(1).jpg">
 	
