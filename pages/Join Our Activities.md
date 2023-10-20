@@ -19,7 +19,8 @@ description: ""
 	}
 </style>
 
-<section><h5>Volunteer with us</h5>
+<section>
+<h5>Volunteer with us</h5>
 <p align="justify">Are you someone who loves being surrounded by nature and is passionate about greenery? If so, we invite you to join us on our journey towards making Singapore our City in Nature, in your own community.</p>
 
 <img src="/images/DIY%20Nature%20walks/diy%20walk%20100.PNG">	
@@ -30,4 +31,5 @@ description: ""
 <br>
 <div class="responsivecal">
 	<iframe scrolling="no" frameborder="0" height="100%" width="100%" style="border:solid 10px #FFCB00" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffcb00&amp;ctz=Asia%2FSingapore&amp;showTitle=0&amp;src=bnBuYXR1cmVrYWtpc0BnbWFpbC5jb20&amp;src=ZW4tZ2Iuc2luZ2Fwb3JlI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%230B8043"></iframe>
-</div></section>
+</div>
+</section>
