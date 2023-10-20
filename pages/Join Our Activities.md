@@ -3,6 +3,23 @@ title: Join Our Activities
 permalink: /join-our-activities/
 description: ""
 ---
+<style>
+	.googleCalendar {
+		position: relative;
+		height: 0;
+		width: 50%;
+		padding-bottom: 50%;
+	}
+
+	.googleCalendar iframe{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+</style>
+
 <section><h5>Volunteer with us</h5>
 <p align="justify">Are you someone who loves being surrounded by nature and is passionate about greenery? If so, we invite you to join us on our journey towards making Singapore our City in Nature, in your own community.</p>
 
@@ -14,4 +31,6 @@ description: ""
 
 <p style="font-size:30px">TO EMBED CALENDAR OF EVENTS</p></section>
 
-<iframe scrolling="no" frameborder="0" height="600" width="845" style="border:solid 10px #FFCB00" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffcb00&amp;ctz=Asia%2FSingapore&amp;showTitle=0&amp;src=bnBuYXR1cmVrYWtpc0BnbWFpbC5jb20&amp;src=ZW4tZ2Iuc2luZ2Fwb3JlI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%230B8043"></iframe>
+<div class="responsivecal">
+	<iframe scrolling="no" frameborder="0" height="600" width="845" style="border:solid 10px #FFCB00" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffcb00&amp;ctz=Asia%2FSingapore&amp;showTitle=0&amp;src=bnBuYXR1cmVrYWtpc0BnbWFpbC5jb20&amp;src=ZW4tZ2Iuc2luZ2Fwb3JlI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%230B8043"></iframe>
+</div>
