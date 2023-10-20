@@ -6,9 +6,8 @@ description: ""
 <style>
 	.responsivecal {
 		position: relative;
-		height: 100%;
-		width: 100%;
-		padding-bottom: 50%;
+		height: 600px;
+		width:845px;
 	}
 
 	.responsivecal iframe{
