@@ -31,7 +31,7 @@ sections:
       title: Seed Fund
       subtitle: Apply for the
       id: infopic
-      description: Receive funding to build your Chapter
+      description: Tap on funding to build your Chapter
       button: Click here
       url: /seed-fund/about/
       image: /images/DIY Nature walks/20230610_100522.jpg
