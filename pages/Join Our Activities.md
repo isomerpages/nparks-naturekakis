@@ -5,18 +5,7 @@ description: ""
 ---
 <style>
 	.responsivecal {
-		position: relative;
-		height: 0%;
-		width:50%;
-		bottom-padding:50%;
-	}
-
-	.responsivecal iframe{
-		position: absolute;
-		top: 0;
-		left: 0;
-		width: 100%;
-		height: 100%;
+		display: flex;
 	}
 </style>
 
