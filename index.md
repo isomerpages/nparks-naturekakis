@@ -40,7 +40,7 @@ sections:
       title: You may like these
       id: textcards
       cards:
-        - title: Launch of Nature Kakis Network
+        - title: Launch of the Nature Kakis Network
           description: On 27 May 2023, the Network was launched during the Festival of
             Biodiversity.
           linktext: Learn more
