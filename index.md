@@ -51,7 +51,7 @@ sections:
           linktext: Learn more
           url: https://youthopia.sg/read/5000-seed-funding-for-volunteers-among-new-initiatives-by-nparks-to-cultivate-community-ownership/
         - title: A fun day out with Minister Desmond Lee
-          description: Nature Kakis take an exciting trip to Ubin
+          description: Nature Kakis take an exciting trip to Ubin.
           linktext: Learn more
           url: https://www.tiktok.com/@justkeepthinking/video/7107958620171668737
 ---
