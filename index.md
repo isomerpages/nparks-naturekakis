@@ -37,7 +37,7 @@ sections:
       image: /images/DIY Nature walks/20230610_100522.jpg
       alt: Image alt text
   - textcards:
-      title: Nature Kakis Network Features
+      title: You may like these
       id: textcards
       cards:
         - title: Launch of Nature Kakis Network
@@ -45,12 +45,9 @@ sections:
             Biodiversity.
           linktext: Learn more
           url: www.nparks.gov.sg/nparks-corporate/news/2023/5/new-nparks-initiatives-to-strengthen-ecological-connectivity-and-encourage-community-stewardship-to-further-city-in-nature-vision
-        - title: Card
-          description: Card description
+        - title: $5000 Seed Funding for Chapters
+          description: Supported by donations to NParks’ registered charity and IPC,
+            Garden City Fund.
           linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+          url: https://youthopia.sg/read/5000-seed-funding-for-volunteers-among-new-initiatives-by-nparks-to-cultivate-community-ownership/
 ---
