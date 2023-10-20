@@ -36,4 +36,21 @@ sections:
       url: /seed-fund/about/
       image: /images/DIY Nature walks/20230610_100522.jpg
       alt: Image alt text
+  - textcards:
+      title: Nature Kakis Network Features
+      id: textcards
+      cards:
+        - title: Launch of Nature Kakis Network
+          description: On 27 May 2023, the Network was launched during the Festival of
+            Biodiversity.
+          linktext: Learn more
+          url: www.nparks.gov.sg/nparks-corporate/news/2023/5/new-nparks-initiatives-to-strengthen-ecological-connectivity-and-encourage-community-stewardship-to-further-city-in-nature-vision
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
