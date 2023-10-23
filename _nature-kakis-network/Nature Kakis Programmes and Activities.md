@@ -48,7 +48,7 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 		</div></li>
 		<li><input type="checkbox" id="accordion7">
 			<label for="accordion7"><h5>Friends of the Park</h5></label><div>
-			<p align="justify"><img style="width:75%" align="top" src="/images/FOTP/aywi5915.JPG">Work with Friends of the Parks to participate in designing and implementing programmes in park spaces and nature areas. Click <a href="https://www.nparks.gov.sg/partner-us/volunteer/friends-of-the-parks">here</a> to find out more.</p>
+			<p align="justify"><img style="width:75%" align="top" src="/images/FOTP/aywi5915.JPG">Work with Friends of the Parks to participate in designing and implementing programmes in park spaces and nature areas. Click <a href="https://fotp.nparks.gov.sg/">here</a> to find out more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion8">
 			<label for="accordion8"><h5>Community Animals</h5></label><div>
