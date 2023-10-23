@@ -5,7 +5,7 @@ description: ""
 ---
 <section>
 	<h4>Application Process</h4>
-	<p align="justify">To start your application for the Nature Kakis Seed Fund, please get in touch with the NParks Engagement manager who has been your primary point of contact.</p>
+	<p align="justify">To start your application for the Nature Kakis Seed Fund, please get in touch with the NParks Community Projects (Engagement) manager who has been your primary point of contact.</p>
 	<p align="justify">There are <b>two stages</b> in the Seed Fund application process:</p>
 	<ol>
 		<li>Application stage</li>
