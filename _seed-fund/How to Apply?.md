@@ -37,7 +37,7 @@ description: ""
 	<h5>Stage 2: Reimbursement</h5>
 	<p align="justify">Once the Nature Kakis activities/events and/or the production of items are completed, please contact your Engagement Manager to begin the reimbursement process.</p>
 
-<img src="images/Seed%20Fund/seed%20fund%202.PNG">
+<img src="/images/Seed%20Fund/seed%20fund%202.PNG">
 
 <p align="justify"><b>Documents Required for Reimbursement to be submitted to the Engagement Manager:</b></p>
 	<ul align="justify">
