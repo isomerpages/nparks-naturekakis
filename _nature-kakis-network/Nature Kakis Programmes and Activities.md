@@ -5,7 +5,7 @@ description: ""
 ---
 <section>
 	<p align="justify">   
-The Nature Kakis Network is a platform that will help grow our City in Nature in the heartlands, as well as encourage greater appreciation and community stewardship for our City in Nature. We aim to establish Nature Kakis chapters in every precinct that can self-organise and lead programmes for the community and by the community, with support from partners, grassroot organisations and agencies including NParks and People’s Association (PA).<br></p>
+The Nature Kakis Network is a platform that will help grow our City in Nature in the heartlands, as well as encourage greater appreciation and community stewardship for our City in Nature. We aim to establish Nature Kakis chapters in every precinct that can self-organise and lead programmes for the community and by the community, with support from partners, grassroot organisations and agencies including National Parks Board (NParks) and People’s Association (PA).<br></p>
 
 <p align="justify">Nature Kakis can participate in and also go one step further to help grow community interest by planning, organizing and implementing a wide variety of activities and programmes.<br></p> 
 		
