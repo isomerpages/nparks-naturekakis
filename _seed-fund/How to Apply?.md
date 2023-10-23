@@ -20,7 +20,7 @@ description: ""
 	<p align="justify">Your proposal will be assessed based on the project’s merits and ability to contribute towards building your Nature Kakis Chapter.</p>
 	<p align="justify">If your application is approved, you will receive a letter of offer from NParks. This letter of offer will be valid for 12 months during which the project should be completed. You may only begin purchasing items upon receiving the letter of offer.</p>
 
-<img src="images/seed%20fund%201.png">
+<img src="/images/Seed%20Fund/seed%20fund%201.png">
 
 <p align="justify"><b>Documents Required for Seed Fund Application to be submitted to the Engagement Manager:</b></p>
 	<ul align="justify">
