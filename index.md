@@ -26,7 +26,7 @@ sections:
       button: Learn more
       url: /file/nature-kakis-happenings/
       alt: Image alt text
-      image: /images/grouppic1nk.jpg
+      image: /images/Group photos and Networking/grouppic1nk.jpg
   - infopic:
       title: Seed Fund
       subtitle: Apply for the
