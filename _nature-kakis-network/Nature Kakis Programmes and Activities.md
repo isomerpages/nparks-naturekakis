@@ -56,4 +56,4 @@ The Nature Kakis Network is a platform that will help grow our City in Nature in
 	
 <section>
 <h3>What can you do as a Nature Kaki?</h3>	
-<p align="justify">As a member of the Nature Kakis Network, individuals can participate in Nature Kakis activities and go one step further to help grow community interest by planning, organizing and implementing a wide variety of activities and programm. Take a look at some upcoming Nature Kakis activities <a href="join-our-activities/">here</a>.</p></section>
+<p align="justify">As a member of the Nature Kakis Network, individuals can participate in Nature Kakis activities and go one step further to help grow community interest by planning, organizing and implementing a wide variety of activities and programm. Take a look at some upcoming Nature Kakis activities <a href="/join-our-activities/">here</a>.</p></section>
