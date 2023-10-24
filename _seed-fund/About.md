@@ -28,13 +28,13 @@ description: ""
 			<li><input type="checkbox" id="accordion4">
 			<label for="accordion4"><h5>Funding Support</h5></label><div><p align="justify"><b>The Seed Fund can:</b></p>
 			<ul align="justify">
-				<li>Help build your Nature Kakis Chapter though the:</li>
+				<li>Help build your Nature Kakis chapter though the:</li>
 					<ul>
-						<li>Printing and fabrication of wearable identity items of Nature Kakis Chapter</li>
-						<li>Production and printing cost of publicity collaterals for Chapters’ recruitment of Nature Kakis and its activities</li>
+						<li>Printing and fabrication of wearable identity items of Nature Kakis chapters</li>
+						<li>Production and printing cost of publicity collaterals for Chapters’ recruitment of volunteers and its activities</li>
 					</ul>
 				<li>Aid the training of the Nature Kakis to self-organize activities</li>
-				<li>Support the recurring Nature Kakis Activities/Events by your Chapter</li>
+				<li>Support the recurring Nature Kakis Activities/Events by your chapter</li>
 			</ul>
 		</div></li>
 	</ul>
