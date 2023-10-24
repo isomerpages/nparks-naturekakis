@@ -20,7 +20,7 @@ description: ""
 		</div></li>
 		<li><input type="checkbox" id="accordion2">
 			<label for="accordion2"><h5>Effective Date</h5></label><div>
-			<p align="justify">Interested Chapters are encouraged to apply for the Nature Kakis Seed Fund early as participation will be on a first-come, first-served basis, and subject to availability of funds.</p>
+			<p align="justify">Interested chapters are encouraged to apply for the Seed Fund early, as it operates on a first-come, first-served basis and is subject to the availability funds.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
 			<label for="accordion3"><h5>Eligibility</h5></label><div>
