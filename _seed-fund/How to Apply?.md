@@ -26,7 +26,7 @@ description: ""
 	<ul align="justify">
 		<li>Completed Application Form</li>
 		<li>Document showing estimated cost of items (e.g., Quotations from vendors/suppliers with itemised breakdown</li>
-		<li>Proposed design of NK identity items, publicity collaterals and appreciation tokens/trophies, including details of the items</li>
+		<li>Proposed design of Nature Kakis identity items, publicity collaterals and appreciation tokens/trophies, including details of the items</li>
 	</ul>
 	<p align="justify"><b>Alteration</b><br>
 	NParks’ prior approval should be sought for any changes to the submitted proposal as deviation from the approved plan may affect the Seed Fund approval and subsequent reimbursement.</p>
