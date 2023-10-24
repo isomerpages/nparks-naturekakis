@@ -22,7 +22,7 @@ third_nav_title: Nature Kakis Chapters
   </tr>
 		<tr>
     <td><b>1<b></b></b></td>
-    <td>Identify Nature Kakis Lead(s) and 3-5 committed members through People's Association Constituency Director</td>
+    <td>Identify Nature Kakis Lead(s) and three to five committed members through People's Association Constituency Director</td>
   </tr>
   <tr>
 		<td><b>2</b></td>
@@ -34,7 +34,7 @@ third_nav_title: Nature Kakis Chapters
   </tr>
 		 <tr>
 			 <td><b>4</b></td>
-    <td>Organise one Nature Kakis activity (e.g., tree planting).</td>
+    <td>Organise one Nature Kakis activity (e.g., tree planting, nature walk).</td>
   </tr>
 		  <tr>
     <td><b>5</b></td>
@@ -45,4 +45,4 @@ third_nav_title: Nature Kakis Chapters
 </section>
 
 <section>
-<p align="justify">As part of our initiative, we will partner with the you and provide training to help you and other community leaders set up Nature Kakis chapters in each constituency. These Chapters can organise various greenery and City in Nature-related activities such as tree-planting and guided walks for the community. Find out more on the types of Nature Kakis programmes by clicking here.</p></section>
+<p align="justify">As part of our initiative, we will partner with you and provide training to help you and other community leaders set up Nature Kakis chapters in each constituency. These Chapters can organise various greenery and City in Nature-related activities such as tree-planting and guided walks for the community. Find out more on the types of Nature Kakis programmes by clicking here.</p></section>
