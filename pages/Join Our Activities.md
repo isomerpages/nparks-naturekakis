@@ -21,7 +21,7 @@ description: ""
 
 <section>
 <h5>Volunteer with us</h5>
-<p align="justify">Are you someone who loves being surrounded by nature and is passionate about greenery? If so, we invite you to join us on our journey towards making Singapore our City in Nature, in your own community.</p>
+<p align="justify">Are you someone who loves being surrounded by nature and is passionate about greenery? If so, we invite you to join us on our journey towards making Singapore our City in Nature, starting in your own community.</p>
 
 <img src="/images/DIY%20Nature%20walks/diy%20walk%20100.PNG">	
 	
