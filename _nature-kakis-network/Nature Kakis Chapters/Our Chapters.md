@@ -6,9 +6,6 @@ third_nav_title: Nature Kakis Chapters
 ---
 <section>
 	<p align="justify">The Nature Kakis chapters are the backbone of Network to make the community greener and more sustainable. These chapters are made up of passionate individuals who are committed to making a difference in their communities and beyond. Currently, the network consists of 13 established chapters island wide. We aim to grow this number and establish one Chapter in each Constituency.<br></p>
-
-<p align="justify">If you are a resident or grassroots volunteer of the following constituencies and you are interested in joining our Nature Kakis and/or participate in their activities, do reach out to them below!
-<br></p>
 	
 <img src="/images/Maps/nk%20map%20new.PNG">
 <br>
