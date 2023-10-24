@@ -24,7 +24,7 @@ description: ""
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
 			<label for="accordion3"><h5>Eligibility</h5></label><div>
-			<p align="justify">To apply, the Chapter must first be an established Nature Kakis Chapter that has received appointment letters.</p></div></li>
+			<p align="justify">To apply, the chapter must first be an established Nature Kakis chapter that has received appointment letters from National Parks Board (NParks).</p></div></li>
 			<li><input type="checkbox" id="accordion4">
 			<label for="accordion4"><h5>Funding Support</h5></label><div><p align="justify"><b>The Seed Fund can:</b></p>
 			<ul align="justify">
