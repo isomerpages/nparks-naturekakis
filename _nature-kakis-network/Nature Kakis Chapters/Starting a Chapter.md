@@ -22,7 +22,7 @@ third_nav_title: Nature Kakis Chapters
   </tr>
 		<tr>
     <td><b>1<b></b></b></td>
-    <td>Identify Nature Kakis Lead(s) and three to five committed members through People's Association Constituency Director</td>
+    <td>Identify Nature Kakis Lead(s) and three to five committed members through People's Association Constituency Director.</td>
   </tr>
   <tr>
 		<td><b>2</b></td>
