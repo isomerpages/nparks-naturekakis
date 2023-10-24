@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Nature Kakis Chapters
 ---
 <section>
-	<p align="justify">National Parks Board (NParks) builds communities through the Nature Kakis Network by bringing people who share a love for nature together to interact and bond through various engagement platforms. These can take the form of guided walks, workshops, and community events that are designed to connect individuals with shared interests and causes related to nature. By joining the Nature Kakis Network, members can participate in a range of activities that promote environmental conservation and sustainability, while also fostering a sense of community and belonging. Whether you are a seasoned nature enthusiast or just starting to explore the outdoors, the Nature Kakis Network offers a welcoming and inclusive space for all to come together and connect with nature and one another.</p>
+	<p align="justify">National Parks Board (NParks) builds communities through the Nature Kakis Network by bringing people who share a love for nature together to interact and bond through various engagement platforms. These can take the form of guided walks, workshops, and community events that are designed to connect individuals with shared interests and causes related to nature. By joining the Nature Kakis Network, members can participate in a range of activities that promote environmental conservation and sustainability, while also fostering a sense of community and belonging.</p>
 </section>
 
 <img src="/images/Group%20photos%20and%20Networking/163f7d98-cac1-445d-aff9-cb56c289a59e.jpg">
