@@ -33,7 +33,7 @@ sections:
       id: infopic
       description: This Seed Fund is supported by donations to NParks’ registered
         charity and IPC, Garden City Fund
-      button: Click here
+      button: learn more
       url: /seed-fund/about/
       image: /images/DIY Nature walks/20230610_100522.jpg
       alt: Image alt text
@@ -44,10 +44,10 @@ sections:
         - title: Launch of the Nature Kakis Network
           description: On 27 May 2023, the Network was launched during the Festival of
             Biodiversity.
-          linktext: Learn more
+          linktext: Click here
           url: https://www.nparks.gov.sg/nparks-corporate/news/2023/5/new-nparks-initiatives-to-strengthen-ecological-connectivity-and-encourage-community-stewardship-to-further-city-in-nature-vision
         - title: A fun day out with Minister Desmond Lee
           description: Nature Kakis take an exciting trip to Ubin.
-          linktext: Learn more
+          linktext: Click here
           url: https://www.tiktok.com/@justkeepthinking/video/7107958620171668737
 ---
