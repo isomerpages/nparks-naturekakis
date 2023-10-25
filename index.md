@@ -16,7 +16,7 @@ sections:
           description: Read about our past activities
           url: /file/nature-kakis-happenings/
         - title: Join our activities
-          description: Volunteer here
+          description: Volunteer opportunities here
           url: /join-our-activities/
       variant: center
   - infopic:
