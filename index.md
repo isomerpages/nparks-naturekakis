@@ -23,7 +23,7 @@ sections:
       title: Nature Kakis Network
       subtitle: Support our
       description: Contribute towards Singapore’s vision of a City in Nature
-      button: Learn more
+      button: About us
       url: /naturekakisnetwork/about/
       alt: Image alt text
       image: /images/Group photos and Networking/grouppic1nk.jpg
