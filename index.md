@@ -29,9 +29,10 @@ sections:
       image: /images/Group photos and Networking/grouppic1nk.jpg
   - infopic:
       title: Seed Fund
-      subtitle: Apply for the
+      subtitle: build your Chapter with the
       id: infopic
-      description: Tap on funding to build your Chapter
+      description: This Seed Fund is supported by donations to NParks’ registered
+        charity and IPC, Garden City Fund
       button: Click here
       url: /seed-fund/about/
       image: /images/DIY Nature walks/20230610_100522.jpg
@@ -45,11 +46,6 @@ sections:
             Biodiversity.
           linktext: Learn more
           url: https://www.nparks.gov.sg/nparks-corporate/news/2023/5/new-nparks-initiatives-to-strengthen-ecological-connectivity-and-encourage-community-stewardship-to-further-city-in-nature-vision
-        - title: $5,000 Seed Funding for Chapters
-          description: Supported by donations to NParks’ registered charity and IPC,
-            Garden City Fund.
-          linktext: Learn more
-          url: https://youthopia.sg/read/5000-seed-funding-for-volunteers-among-new-initiatives-by-nparks-to-cultivate-community-ownership/
         - title: A fun day out with Minister Desmond Lee
           description: Nature Kakis take an exciting trip to Ubin.
           linktext: Learn more
