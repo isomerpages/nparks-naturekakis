@@ -13,7 +13,7 @@ third_nav_title: Nature Kakis Chapters
 <section>
 <p align="justify">There are <b>five stages</b> in this process of starting a new Nature Kakis Chapter.</p>
 
- <style> table { border-collapse: collapse; width: 100%; } th, td { text-align: left; padding: 8px; } tr:nth-child(even) { background-color: #F6F6F6; } tr:hover {background-color: #B8E986;} </style> 
+ <style> table { border-collapse: collapse; width: 100%; } th, td { text-align: left; padding: 8px; } tr:nth-child(even) { background-color: #F6F6F6; } tr:hover {background-color: #FCDA3E;} </style> 
 
 <table style="width:100%">
   <tbody><tr>
