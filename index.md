@@ -13,7 +13,7 @@ sections:
       background: /images/chek jawa viewing tower.PNG
       key_highlights:
         - title: Nature Kakis Happenings
-          description: Our past activities
+          description: Read about our past activities
           url: /file/nature-kakis-happenings/
         - title: Join our activities
           description: Volunteer here
