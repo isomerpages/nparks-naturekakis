@@ -46,12 +46,8 @@ sections:
             Biodiversity.
           linktext: Click here
           url: https://www.nparks.gov.sg/nparks-corporate/news/2023/5/new-nparks-initiatives-to-strengthen-ecological-connectivity-and-encourage-community-stewardship-to-further-city-in-nature-vision
-        - title: A fun day out with Minister Desmond Lee
-          description: Nature Kakis take an exciting trip to Ubin.
-          linktext: Click here
-          url: https://www.tiktok.com/@justkeepthinking/video/7107958620171668737
         - title: Portraits of NParks Volunteers
-          description: Hear the stories from some volunteers.
+          description: Hear some stories from the volunteers.
           linktext: Click here
           url: https://www.youtube.com/watch?v=LGcQjWEftfk
         - title: NParks Explore A Route (NEAR) Mobile App
