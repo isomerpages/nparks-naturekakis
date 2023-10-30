@@ -54,4 +54,9 @@ sections:
           description: Hear the stories from some volunteers.
           linktext: Click here
           url: https://www.youtube.com/watch?v=LGcQjWEftfk
+        - title: NParks Explore A Route (NEAR) Mobile App
+          description: A mobile app for an interactive curated walking experience
+            island-wide.
+          linktext: Click here
+          url: https://pcn.nparks.gov.sg/the-pcn-experience/near/
 ---
