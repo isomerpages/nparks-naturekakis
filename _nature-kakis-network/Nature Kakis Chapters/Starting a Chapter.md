@@ -45,4 +45,4 @@ third_nav_title: Nature Kakis Chapters
 </section>
 
 <section>
-<p align="justify">As part of our initiative, we will partner with you and provide training to help you and other community leaders set up Nature Kakis chapters in each constituency. These chapters can organise various City in Nature-related activities such as tree planting, therapeutic horticulture activities and guided walks for the community. For enquiries related to starting a chapter in your constituency, click <a href="/nature-kakis-network/programmes-and-activities/">here</a>.</p></section>
+<p align="justify">As part of our initiative, we will partner with you and provide training to help you and other community leaders set up Nature Kakis chapters in each constituency. These chapters can organise various City in Nature-related activities such as tree planting, therapeutic horticulture activities and guided walks for the community. For enquiries related to starting a chapter in your constituency, click <a href="https://form.gov.sg/6450cd7145da250012d2a4dd">here</a>.</p></section>
