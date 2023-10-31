@@ -4,7 +4,7 @@ permalink: /nature-kakis-network/programmes-and-activities/
 description: ""
 ---
 <section>
-	<p align="justify">To empower the Nature Kakis chapters in organising City in Nature activities, National Parks Board (NParks) has prepared a suite of eight introductory Nature Kakis programmes that the chapters can explore in their communities. These programmes and activities cater to a diverse range of interests and skill levels, as well as provide a starting point for Nature Kakis chapters to explore new activities for their community. Although the suite of programmes is not exhaustive, it serves as a source of inspiration for to kickstart new programmes or improve existing ones. </p>	<br>
+	<p align="justify">To empower the Nature Kakis chapters in organising City in Nature activities, National Parks Board (NParks) has prepared a suite of eight introductory Nature Kakis programmes that the chapters can explore in their communities. These programmes and activities cater to a diverse range of interests and skill levels, as well as provide a starting point for Nature Kakis chapters to explore new activities for their community. Although the suite of programmes is not exhaustive, it serves as a source of inspiration for chapters to kickstart new programmes or improve existing ones. </p>	<br>
 </section>
 
 <section>
