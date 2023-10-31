@@ -10,7 +10,7 @@ third_nav_title: Nature Kakis Chapters
 <img src="/images/Maps/nk%20map%20new.PNG">
 <br>
 	
-<p align="justify">If you are a resident or grassroots volunteer of the following constituencies in the table below and you are interested in joining our Nature Kakis, do reach out to them below!<br></p>
+<p align="justify">Be one of our Nature Kakis champions and you will get to benefit from capability development, training, knowledge sharing as well as the chance to build your network and forge relationships with like-minded individuals. If you are a resident or grassroots volunteer of the following constituencies in the table below and you are interested in joining a chapter to participate in their activities, do reach out to them below!<br></p>
 
  <style> table { border-collapse: collapse; width: 100%; } th, td { text-align: left; padding: 8px; } tr:nth-child(even) { background-color: #F6F6F6; } tr:hover {background-color: #FCDA3E;} </style>  
 
