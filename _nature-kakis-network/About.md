@@ -11,7 +11,7 @@ description: ""
   
 <img src="/images/DIY%20Nature%20walks/naturewalks2.PNG"><br>
 	
-<p align="justify">Currently, Nature Kakis chapters are being established in every precinct, allowing individuals to self-organise and lead programmes for the community, with support from partners, grassroot organisations, and agencies including National Parks Board (NParks) and People’s Association (PA). Each Nature Kakis chapter will be community-driven and bring together individuals who share a passion for nature and conservation.</p>
+<p align="justify">We aim to establish Nature Kakis chapters in every precinct that can self-organise and lead programmes for the community and by the community, with support from partners, grassroots organisations and agencies including National Parks Board (NParks) and People’s Association (PA). Each Nature Kakis chapter will be community-driven and bring together individuals who share a passion for nature and conservation.</p>
 
 <p align="justify">By fostering a sense of community and encouraging greater appreciation and stewardship for our natural heritage, Nature Kakis Network aims to grow our City in Nature in the heartlands.</p>
 <br>
