@@ -61,6 +61,10 @@ third_nav_title: Nature Kakis Chapters
     <td>Taman Jurong</td>
     <td>tjgreenheart@gmail.com</td>
   </tr>
+		 <tr>
+    <td>Tampines West</td>
+    <td>[To be updated]</td>
+  </tr>
 		<tr>
     <td>Tanjong Pagar – Tiong Bahru</td>
     <td>nbuddiestptb@gmail.com</td>
