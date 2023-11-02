@@ -17,6 +17,6 @@ image: ""
 
 <img src="/images/TH%20Activities/inductiontalks_horticulture_jacquelinechua%20(13).jpg">	
 	
-<p align="justify">The second session was led by Mr Paul Bhathal (Snr Mgr/H&amp;C), who gave a talk on Therapeutic Gardens and Therapeutic Horticulture. The session included a hands-on activity called the Interactive Scent Bag Making Therapeutic Programming, which was led by expert facilitators. During the activity, participants had the opportunity to create their own scent bags using natural materials and learn about the therapeutic properties of different scents. The facilitators provided insights on the science behind the scents and its effects on the mind and body.</p>
-<p align="justify">At the end of the session, the emcee thanked the speakers and facilitators for their contributions in making the event a success, as well as the participants for their enthusiasm and active participation during the induction programme.</p>
+<p align="justify">The second session was begun with a talk on Therapeutic Gardens and Therapeutic Horticulture. This session included a hands-on activity called the Interactive Scent Bag Making Therapeutic Programming, which was led by expert facilitators. During the activity, participants had the opportunity to create their own scent bags using natural materials and learn about the therapeutic properties of different scents. The facilitators provided insights on the science behind the scents and its effects on the mind and body.</p>
+
 <p align="justify">Overall, the participants gained valuable knowledge about horticulture and had the opportunity to apply their learning in a hands-on activity. We would like to thank all the speakers and facilitators for making the programme a success.</p></section>
