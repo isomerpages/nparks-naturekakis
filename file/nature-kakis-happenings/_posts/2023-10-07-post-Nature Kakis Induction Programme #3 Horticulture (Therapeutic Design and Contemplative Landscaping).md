@@ -12,7 +12,7 @@ image: ""
 
 <img src="/images/TH%20Activities/inductiontaalks_horticulture_th_jacquelinechua%20(1).jpg">
 	
-<p align="justify">Ms Sophianne Araib (GD/Pks Ctrl &amp; HCG), commenced the Induction Programme with a warm welcome to the attendees. She provided an overview of Nature Kakis Network by covering the number of existing and new established Nature Kakis chapters and activities conducted by Nature Kakis to date. Following the introduction, Mr Woo Wee Meng (D/Community Projects (Planning &amp; Programme) shared updates on some of the key activities that the Nature Kakis conducted from June to August before introducing the day's induction programme.</p>
+<p align="justify">The Induction Programme was commenced with an overview of the Nature Kakis Network by covering the numbers of existing and new established Nature Kakis chapters and activities conducted by Nature Kakis to date. Following the introduction, updates on key activities that the Nature Kakis conducted from June to August were shared.</p>
 <p align="justify">The first session of the event featured a talk on contemplative landscaping by Mr Jason Wright (D/Design). The talk focused on how to create therapeutic landscapes in areas with space constraints that are too small to be developed into a full-fledged therapeutic garden. Following the talk, Mr Wright led an interactive activity that allowed participants to apply what they had learned and graded different landscape designs based on the design guidelines for contemplative landscaping.</p>  
 
 <img src="/images/TH%20Activities/inductiontalks_horticulture_jacquelinechua%20(13).jpg">	
