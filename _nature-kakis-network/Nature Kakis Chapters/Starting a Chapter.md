@@ -3,9 +3,11 @@ title: Starting a Chapter
 permalink: /nature-kakis-network/chapters/starting-a-chapter/
 description: ""
 third_nav_title: Nature Kakis Chapters
+variant: markdown
 ---
 <section>
 	<p align="justify">National Parks Board (NParks) builds communities through the Nature Kakis Network by bringing people who share a love for nature together to interact and bond through various engagement platforms. These can take the form of guided walks, workshops, and community events that are designed to connect individuals with shared interests and causes related to nature. By joining the Nature Kakis Network, members can participate in a range of activities that promote environmental conservation and sustainability, while also fostering a sense of community and belonging.</p>
+	<br>
 </section>
 
 <img src="/images/Group%20photos%20and%20Networking/163f7d98-cac1-445d-aff9-cb56c289a59e.jpg">
