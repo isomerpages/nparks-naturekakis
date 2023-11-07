@@ -10,7 +10,7 @@ variant: markdown
 
 <section>
 <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">City in Nature Activities for Nature Kakis to Participate in</h3>
-<a href="https://go.gov.sg/naturekakisbrochure"><img style="width:100%" align="top" src="/images/nature%20kakis_brochure_a4_14apr2023%20latest.png"></a>
+<a href="https://go.gov.sg/naturekakisbrochure"><img style="width:100%" align="top" src="/images/nk%20brochure2.PNG"></a>
 </section>	
 
 <section>
