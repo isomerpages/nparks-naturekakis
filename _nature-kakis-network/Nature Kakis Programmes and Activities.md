@@ -17,11 +17,13 @@ variant: markdown
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 			<label for="accordion1"><h5>Therapeutic Horticulture</h5></label><div>
-			<p align="justify"><img style="width:75%" align="top" src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png"><br>Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote mindfulness. Click <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens/therapeutic-horticulture-programmes">here</a> to find out more.<br></p>
+			<img style="width:75%" align="top" src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png">
+			<p align="justify">Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote mindfulness. Click <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens/therapeutic-horticulture-programmes">here</a> to find out more.<br></p>
 		</div></li>
 		<li><input type="checkbox" id="accordion2">
 			<label for="accordion2"><h5>OneMillionTrees Movement</h5></label><div>
-			<p align="justify"><img style="width:65%" align="top" src="/images/OMT/treeplantingfamilytree%20(2).jpg">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more.</p>
+			<img style="width:65%" align="top" src="/images/OMT/treeplantingfamilytree%20(2).jpg">
+			<p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
 			<label for="accordion3"><h5>Nature in Neighbourhood</h5></label><div>
