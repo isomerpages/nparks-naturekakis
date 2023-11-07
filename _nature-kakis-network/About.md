@@ -2,8 +2,12 @@
 title: About
 permalink: /naturekakisnetwork/about/
 description: ""
+variant: markdown
 ---
-# What is the Nature Kakis Network?
+<header>
+	<h1>What is the Nature Kakis Network?</h1>
+</header>
+
 <section>
 <p align="justify">Over the years, the community has played a pivotal role in greening up Singapore and conserving our natural heritage. Even today, the community continues to be active in City in Nature initiatives, programmes and activities, demonstrating their unwavering commitment to preserving our environment and promoting sustainable living.</p>
 
