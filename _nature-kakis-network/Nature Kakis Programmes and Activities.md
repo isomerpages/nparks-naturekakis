@@ -27,27 +27,33 @@ variant: markdown
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
 			<label for="accordion3"><h5>Nature in Neighbourhood</h5></label><div>
-			<p align="justify"><img style="width:75%" align="top" src="/images/Nature%20in%20neighborhood/artmural2.PNG">Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.</p>
+			<img style="width:75%" align="top" src="/images/Nature%20in%20neighborhood/artmural2.PNG">
+			<p align="justify">Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion4">
 			<label for="accordion4"><h5>DIY Nature Walks</h5></label><div>
-			<p align="justify"><img style="width:75%" align="top" src="/images/DIY%20Nature%20walks/naturewalk%20chek%20jawa.PNG">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides <a href="https://www.nparks.gov.sg/activities/walks-and-tours/going-on-a-diy-walk">here</a>.</p>
+			<img style="width:75%" align="top" src="/images/DIY%20Nature%20walks/naturewalk%20chek%20jawa.PNG">
+			<p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides <a href="https://www.nparks.gov.sg/activities/walks-and-tours/going-on-a-diy-walk">here</a>.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion5">
 			<label for="accordion5"><h5>Biodiversity &amp; Wildlife</h5></label><div>
-			<p align="justify"><img style="width:75%" align="top" src="/images/BioD%20&amp;%20wildlife/biod%20and%20wld.png">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents. Click <a href="https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/citizen-science-programmes">here</a> to view the Calendar of Citizen Science Events and <a href="https://www.nparks.gov.sg/biodiversity/wildlife-in-singapore">here</a> to read about the wildlife in Singapore.</p>
+			<img style="width:75%" align="top" src="/images/BioD%20&amp;%20wildlife/biod%20and%20wld.png">
+			<p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents. Click <a href="https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/citizen-science-programmes">here</a> to view the Calendar of Citizen Science Events and <a href="https://www.nparks.gov.sg/biodiversity/wildlife-in-singapore">here</a> to read about the wildlife in Singapore.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion6">
 			<label for="accordion6"><h5>Community in Bloom</h5></label><div>
-			<p align="justify"><img style="width:75%" align="top" src="/images/CIB/community%20garden%20at%20spectra%20secondary%20school.jpg">Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. Click <a href="https://gardeningsg.nparks.gov.sg/get-involved/community-gardens/">here</a> to find out more.</p>
+			<img style="width:75%" align="top" src="/images/CIB/community%20garden%20at%20spectra%20secondary%20school.jpg">
+			<p align="justify">Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. Click <a href="https://gardeningsg.nparks.gov.sg/get-involved/community-gardens/">here</a> to find out more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion7">
 			<label for="accordion7"><h5>Friends of the Park</h5></label><div>
-			<p align="justify"><img style="width:75%" align="top" src="/images/FOTP/aywi5915.JPG">Work with Friends of the Parks to participate in designing and implementing programmes in park spaces and nature areas. Click <a href="https://fotp.nparks.gov.sg/">here</a> to find out more.</p>
+			<img style="width:75%" align="top" src="/images/FOTP/aywi5915.JPG">
+			<p align="justify">Work with Friends of the Parks to participate in designing and implementing programmes in park spaces and nature areas. Click <a href="https://fotp.nparks.gov.sg/">here</a> to find out more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion8">
 			<label for="accordion8"><h5>Community Animals</h5></label><div>
-			<p align="justify"><img style="width:75%" align="top" src="/images/Community%20animals/cam2dog.jpg">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a href="https://www.nparks.gov.sg/avs/animals/animal-management/living-with-community-animals-in-your-neighbourhood/meeting-free-roaming-dogs">here</a> to find out more.</p>
+			<img style="width:75%" align="top" src="/images/Community%20animals/cam2dog.jpg">
+			<p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a href="https://www.nparks.gov.sg/avs/animals/animal-management/living-with-community-animals-in-your-neighbourhood/meeting-free-roaming-dogs">here</a> to find out more.</p>
 		</div></li>
 	</ul>
 </section>	
