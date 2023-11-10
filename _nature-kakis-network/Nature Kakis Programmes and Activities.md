@@ -10,14 +10,12 @@ variant: markdown
 
 <section>
 <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">City in Nature Activities for Nature Kakis to Participate in</h3>
-<a href="https://go.gov.sg/naturekakisbrochure"><img src="/images/nature%20kakis_brochure_newpic.png">
-
-</a><section><a href="https://go.gov.sg/naturekakisbrochure">
-	</a><ul class="jekyllcodex_accordion"><a href="https://go.gov.sg/naturekakisbrochure">
-		</a><li><a href="https://go.gov.sg/naturekakisbrochure"><input type="checkbox" id="accordion1">
-			<label for="accordion1"><h5>Therapeutic Horticulture</h5></label></a><div><a href="https://go.gov.sg/naturekakisbrochure">
+<a href="https://go.gov.sg/naturekakisbrochure"><img src="/images/nature%20kakis_brochure_newpic.png"></a>
+	<ul class="jekyllcodex_accordion">
+		<li><input type="checkbox" id="accordion1">
+			<label for="accordion1"><h5>Therapeutic Horticulture</h5></label><div>
 			<img align="top" src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png">
-			</a><p align="justify"><a href="https://go.gov.sg/naturekakisbrochure">Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote mindfulness. Click </a><a href="https://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens/therapeutic-horticulture-programmes">here</a> to find out more.<br></p>
+			<p align="justify">Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote mindfulness. Click <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens/therapeutic-horticulture-programmes">here</a> to find out more.<br></p>
 		</div></li>
 		<li><input type="checkbox" id="accordion2">
 			<label for="accordion2"><h5>OneMillionTrees Movement</h5></label><div>
@@ -59,4 +57,4 @@ variant: markdown
 	
 <section>
 <h3>What can you do as a Nature Kaki?</h3>	
-<p align="justify">As a member of the Nature Kakis Network, individuals can participate in Nature Kakis activities and go one step further to help grow community interest by planning, organizing and implementing a wide variety of activities and programmes. Take a look at some upcoming Nature Kakis activities <a href="/join-our-activities/">here</a>.</p></section></section>
+<p align="justify">As a member of the Nature Kakis Network, individuals can participate in Nature Kakis activities and go one step further to help grow community interest by planning, organizing and implementing a wide variety of activities and programmes. Take a look at some upcoming Nature Kakis activities <a href="/join-our-activities/">here</a>.</p></section>
