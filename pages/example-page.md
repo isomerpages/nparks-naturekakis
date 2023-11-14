@@ -3,22 +3,4 @@ title: Example Page
 permalink: /example-page/
 variant: markdown
 ---
-<style>
-	.responsivecal {
-		position:relative;
-		height: 0%
-		width:50%;
-		padding-bottom:100%;
-	}
-	
-	.responsivecal iframe {
-		position:absolute;
-		height:100%;
-		width:100%;
-		overflow:scroll;
-	}
-</style>
-
-<div class="responsivecal">
-	<iframe height="415" width="100%" src="https://www.google.com/maps/d/u/1/embed?mid=1xB2GeN8Wj2qN60d2J8eJ411K3Qsv0X4&amp;ehbc=2E312F&amp;noprof=1"></iframe>
-</div>
+<iframe height="415" width="100%" src="https://www.google.com/maps/d/u/1/embed?mid=1xB2GeN8Wj2qN60d2J8eJ411K3Qsv0X4&amp;ehbc=2E312F&amp;noprof=1"></iframe>
