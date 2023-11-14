@@ -1,0 +1,22 @@
+logo: /images/nk logo.jpg
+links:
+  - title: Nature Kakis Network
+    url: /naturekakisnetwork/about
+    sublinks:
+      - title: About
+        url: /naturekakisnetwork/about
+      - title: Nature Kakis Activities
+        url: /nature-kakis-network/programmes-and-activities/
+      - title: Nature Kakis Chapters
+        url: /nature-kakis-network/nature-kakis-chapters/our-chapters/
+  - title: Seed Fund
+    url: /seed-fund/about/
+    sublinks:
+      - title: About
+        url: /seed-fund/about/
+      - title: How to Apply?
+        url: /seed-fund/how-to-apply/
+  - title: Join Our Activities
+    url: /join-our-activities/
+  - title: Explore
+    resource_room: true

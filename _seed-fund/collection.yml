@@ -1,0 +1,6 @@
+collections:
+  seed-fund:
+    output: true
+    order:
+      - About.md
+      - How to Apply?.md
