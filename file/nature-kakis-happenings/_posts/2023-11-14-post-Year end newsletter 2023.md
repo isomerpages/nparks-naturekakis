@@ -13,7 +13,8 @@ variant: markdown
 	</section>
 	<section>
 	<h4>Major milestones</h4>
-<ul>
+<img src="/images/Group%20photos%20and%20Networking/grouppic1nk.jpg">
+	<ul>
 		<li><b>April</b></li>
 	<ul>
 	<li>The first <a href="">Nature Kakis networking session</a> is run at the Botanic Gardens on the 15th of April</li>
@@ -38,6 +39,7 @@ variant: markdown
 </ul></section>
 <section>
 	<h4>A year of firsts</h4>
+	<img src="/images/OMT/mpdb5763.JPG">
 	<p>As a grounds-up movement, the Nature Kakis Chapters have been busy running their own events to engage their communities. We would like to congratulate the following chapters for being the first to:</p>
 	<ul>
 		<li>Facilitate a <a href="">OneMillionTrees tree planting event</a>, by Our Green MoCa at [WHERE] and [WHEN]</li>
@@ -49,7 +51,8 @@ variant: markdown
 	</section>
 	<section>
 	<h4>Upcoming events</h4>
-	<p>We have exciting plans for the year ahead! Confirmed projects and events for Nature Kakis include:</p>
+	<img src="/images/Group%20photos%20and%20Networking/163f7d98-cac1-445d-aff9-cb56c289a59e.jpg">
+	<p>We have exciting plans for the year ahead! Upcoming projects and events for Nature Kakis include:</p>
 	<ul>
 		<li><b>The first Nature Kakis Annual Workplan and Appreciation Event</b></li> on the 20th of January, at Fort Canning Park
 	<li><b><a href="/https://sgf.nparks.gov.sg/">The Singapore Garden Festival</a></b> from 3rd-11th August at Suntec City</li>
