@@ -45,7 +45,7 @@ variant: markdown
 <li>Facilitate a <a href="">OneMillionTrees tree planting event</a>, by Our Green MoCa at [WHERE] and [WHEN]</li>
 <li><a href="">Lead a Nature in Neighbourhood event</a>, by Boon Lay Nature Kakis at [WHERE] and [WHEN], in which they painted their first nature-inspired mural</li>
 <li>Conduct a <a href="">guided walk</a> at [PLACE], by [CHAPTER] on [DATE]</li>
-<li>Conduct a <a href="">Therapeutic Horticulture</a> session  by [WHO] at [WHERE] on [DATE]</li>
+<li>Conduct a <a href="">Therapeutic Horticulture</a> session by Bukit Gombak Nature Kakis at Bedok Reservoir Park Therapeutic garden on [DATE]</li>
 </ul>
 <br>
 </section>
