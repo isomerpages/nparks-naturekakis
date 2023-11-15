@@ -17,23 +17,23 @@ variant: markdown
 <ul>
 <li><b>April</b></li>
 <ul>
-<li>The first <a href="">Nature Kakis networking session</a> is run at the Botanic Gardens on the 15th of April</li>
+<li>The first <a href="">Nature Kakis networking session</a> was run at the Botanic Gardens on the 15th of April</li>
 </ul>
 <li><b>May</b></li>
 <ul>
-<li><a href="">The launch of the Nature Kakis movement</a> on the 27th of May during the Festival of Biodiversity </li>
+<li><a href="">The Nature Kakis movement</a> was launched on the 27th of May during the Festival of Biodiversity </li>
 <ul>
-<li>The first 8 Nature Kakis Chapters are recognised (Boon Lay, Bukit Gombak, Marymount, Moulmein-Cairnhill, Nee Soon South, Pasir Ris-Central, Punggol and Taman Jurong)</li>
+<li>The first 8 Nature Kakis Chapters were recognised (Boon Lay, Bukit Gombak, Marymount, Moulmein-Cairnhill, Nee Soon South, Pasir Ris-Central, Punggol and Taman Jurong)</li>
 <li>The newly recognised chapters attended the <a href="">first induction talk</a> on Biodiversity and Wildlife Management</li>
 </ul></ul>
 <li><b>August</b></li>
 <ul>
-<li>The second <a href="/file/nature-kakis-happenings/permalink/">Nature Kakis induction talk</a> on Aboriculture is run at the Jurong Lake Gardens on the 26th of August.</li>
+<li>The second <a href="/file/nature-kakis-happenings/permalink/">Nature Kakis induction talk</a> on Aboriculture was run at the Jurong Lake Gardens on the 26th of August.</li>
 </ul>	
 <li><b>September-November</b></li>
 <ul>
-<li>5 additional chapters are recognised (Punggol Coast, Punggol West, Tampines West, Tanjong Pagar-Tiong Bahru, and Telok Blangah) at their own community events</li>
-<li>The <a href="/file/nature-kakis-happenings/induction7oct2023/">third Nature Kakis induction talk on Therapeutic Horticulture</a> on the 7th of October at the Jurong Lake Gardens
+<li>5 additional chapters were recognised (Punggol Coast, Punggol West, Tampines West, Tanjong Pagar-Tiong Bahru, and Telok Blangah) at their own community events</li>
+<li>The <a href="/file/nature-kakis-happenings/induction7oct2023/">third Nature Kakis induction talk on Therapeutic Horticulture</a> was run on the 7th of October at the Jurong Lake Gardens
 </li></ul>
 <br>
 </ul></section>
@@ -45,7 +45,7 @@ variant: markdown
 <li>Facilitate a <a href="">OneMillionTrees tree planting event</a>, by Our Green MoCa at [WHERE] and [WHEN]</li>
 <li><a href="">Lead a Nature in Neighbourhood event</a>, by Boon Lay Nature Kakis at [WHERE] and [WHEN], in which they painted their first nature-inspired mural</li>
 <li>Conduct a <a href="">guided walk</a> at [PLACE], by [CHAPTER] on [DATE]</li>
-<li>Conduct a <a href="">Therapeutic Horticulture</a> session by Bukit Gombak Nature Kakis at Bedok Reservoir Park Therapeutic garden on [DATE]</li>
+<li>Conduct a <a href="">Therapeutic Horticulture</a> session, by Bukit Gombak Nature Kakis at Bedok Reservoir Park Therapeutic garden on [DATE]</li>
 </ul>
 <br>
 </section>
