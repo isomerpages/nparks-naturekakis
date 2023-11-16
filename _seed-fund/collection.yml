@@ -2,5 +2,5 @@ collections:
   seed-fund:
     output: true
     order:
-      - About.md
+      - About the Seed Fund.md
       - How to Apply?.md
