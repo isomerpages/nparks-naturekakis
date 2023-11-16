@@ -4,8 +4,10 @@ permalink: /seed-fund/about/
 description: ""
 variant: markdown
 ---
-<section>
+<header>
 	<h3>Nature Kakis Seed Fund</h3>
+</header>
+<section>
 	<p align="justify">The Nature Kakis Seed Fund supports the development of the Nature Kakis Network, building of the Nature Kakis Network, training of Nature Kakis to self-organize activities, and recurring Nature Kakis activities/events.</p>
 	<p align="justify">This Seed Fund provides funding of up to $5,000 per Nature Kakis chapter, and there will be a full reimbursement of fundable items* made to the respective Citizens’ Consultative Committee (CCC) supporting each chapter. The use of funds for projects will be assessed based on the project’s merits and ability to contribute towards the Nature Kakis Network and chapter growth. </p>
 	<p><i>*Please note that Goods and Service Tax (GST) is not fundable.</i></p>
