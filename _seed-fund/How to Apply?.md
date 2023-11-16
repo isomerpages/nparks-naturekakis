@@ -4,8 +4,10 @@ permalink: /seed-fund/how-to-apply/
 description: ""
 variant: markdown
 ---
-<section>
+<header>
 	<h3>Application Process</h3>
+</header>
+<section>	
 	<p align="justify">To start your application for the Nature Kakis Seed Fund, please get in touch with the National Parks Board (NParks) Community Projects (Engagement) manager who has been your primary point of contact.</p>
 	<p align="justify">There are <b>two stages</b> in the Seed Fund application process:</p>
 	<ol>
