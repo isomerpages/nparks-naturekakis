@@ -2,9 +2,10 @@
 title: How to Apply?
 permalink: /seed-fund/how-to-apply/
 description: ""
+variant: markdown
 ---
 <section>
-	<h4>Application Process</h4>
+	<h3>Application Process</h3>
 	<p align="justify">To start your application for the Nature Kakis Seed Fund, please get in touch with the National Parks Board (NParks) Community Projects (Engagement) manager who has been your primary point of contact.</p>
 	<p align="justify">There are <b>two stages</b> in the Seed Fund application process:</p>
 	<ol>
@@ -15,7 +16,7 @@ description: ""
 </section>
 
 <section>
-	<h5>Stage 1: Application</h5>
+	<h4>Stage 1: Application</h4>
 	<p align="justify">After approaching the NParks Engagement manager, they will contact you to guide you on the process, including the submission of relevant application forms and supporting documents for approval prior to purchase of items and/or commencing your activities. You are required to submit your application before any procurement of items/ volunteer training begins.</p>
 	<p align="justify">Your proposal will be assessed based on the project’s merits and ability to contribute towards building your Nature Kakis chapter.</p>
 	<p align="justify">If your application is approved, you will receive a letter of offer from NParks. This letter of offer will be valid for 12 months during which the project should be completed. You may only begin purchasing items upon receiving the letter of offer.</p>
@@ -34,7 +35,7 @@ description: ""
 </section>
 
 <section>
-	<h5>Stage 2: Reimbursement</h5>
+	<h4>Stage 2: Reimbursement</h4>
 	<p align="justify">Once the Nature Kakis activities/events and/or the production of items are completed, please contact your Engagement Manager to begin the reimbursement process.</p>
 
 <img src="/images/Seed%20Fund/seed%20fund%205.PNG">
