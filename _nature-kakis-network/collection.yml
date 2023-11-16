@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About.md
-      - Nature Kakis Programmes and Activities.md
+      - Programmes and Activities.md
       - Nature Kakis Chapters/.keep
       - Nature Kakis Chapters/Our Chapters.md
       - Nature Kakis Chapters/Starting a Chapter.md
