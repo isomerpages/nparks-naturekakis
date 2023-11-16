@@ -4,6 +4,6 @@ collections:
     order:
       - About.md
       - Programmes and Activities.md
-      - Nature Kakis Chapters/.keep
-      - Nature Kakis Chapters/Our Chapters.md
-      - Nature Kakis Chapters/Starting a Chapter.md
+      - Chapters/.keep
+      - Chapters/Our Chapters.md
+      - Chapters/Starting a Chapter.md
