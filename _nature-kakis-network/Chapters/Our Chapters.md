@@ -14,7 +14,7 @@ variant: markdown
 
  <style> table { border-collapse: collapse; width: 100%; } th, td { text-align: left; padding: 8px; } tr:nth-child(even) { background-color: #F6F6F6; } tr:hover {background-color: #FCDA3E;} </style>  
 
-<h5>Nature Kakis Chapter Contact Information</h5>
+<h3>Nature Kakis Chapter Contact Information</h3>
 
 <table style="width:100%">
   <tbody>
