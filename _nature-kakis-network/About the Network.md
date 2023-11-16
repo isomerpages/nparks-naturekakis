@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <header>
-	<h1>What is the Nature Kakis Network?</h1>
+	<h3>What is the Nature Kakis Network?</h3>
 </header>
 
 <section>
