@@ -40,12 +40,10 @@ variant: markdown
 <section>
 <h4>Significant events</h4>
 <img src="/images/OMT/mpdb5763.JPG">
-<p>As a grounds-up movement, the Nature Kakis Chapters have been busy running their own events to engage their communities. We would like to congratulate the following chapters for being the first to:</p>
+<p>As a grounds-up movement, the Nature Kakis Chapters have been busy running their own events to engage their communities. A total of XX events were run by XX chapters this year, involving over XX participants.</p><p>  Some highlights from the year are:</p>
 <ul>
-<li>Facilitate a <a href="">OneMillionTrees tree planting event</a>, by Our Green MoCa at [WHERE] and [WHEN]</li>
-<li><a href="">Lead a Nature in Neighbourhood event</a>, by Boon Lay Nature Kakis at [WHERE] and [WHEN], in which they painted their first nature-inspired mural</li>
-<li>Conduct a <a href="">guided walk</a> at [PLACE], by [CHAPTER] on [DATE]</li>
-<li>Conduct a <a href="">Therapeutic Horticulture</a> session, by Bukit Gombak Nature Kakis at Bedok Reservoir Park Therapeutic garden on [DATE]</li>
+	<li><a href="">Tree planting facilitated by Punggol Coast Nature Kakis</a>, in which 60 trees were planted. </li>
+	<li>A <a href="">Therapeutic Horticulture session conducted by Bukit Gombak Nature Kakis</a> at Bedok Reservoir Park Therapeutic garden</li>
 </ul>
 <br>
 </section>
