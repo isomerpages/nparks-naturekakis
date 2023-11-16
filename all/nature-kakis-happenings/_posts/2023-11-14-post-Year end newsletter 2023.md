@@ -23,7 +23,7 @@ variant: markdown
 <ul>
 <li><a href="">The Nature Kakis movement</a> was launched on the 27th of May during the Festival of Biodiversity </li>
 <ul>
-<li>The first 8 Nature Kakis Chapters were recognised (Boon Lay, Bukit Gombak, Marymount, Moulmein-Cairnhill, Nee Soon South, Pasir Ris-Central, Punggol and Taman Jurong)</li>
+<li>The first 9 Nature Kakis Chapters were recognised (Boon Lay, Bukit Gombak, Marymount, Moulmein-Cairnhill, Nee Soon South, Pasir Ris-Central, Punggol Coast, Punggol West and Taman Jurong)</li>
 <li>The newly recognised chapters attended the <a href="">first induction talk</a> on Biodiversity and Wildlife Management</li>
 </ul></ul>
 <li><b>August</b></li>
@@ -32,13 +32,13 @@ variant: markdown
 </ul>	
 <li><b>September-November</b></li>
 <ul>
-<li>5 additional chapters were recognised (Punggol Coast, Punggol West, Tampines West, Tanjong Pagar-Tiong Bahru, and Telok Blangah) at their own community events</li>
+<li>4 additional chapters were recognised (Buona Vista, Tanjong Pagar-Tiong Bahru, Tampines West, and Telok Blangah (Pulai Eco Club)) at their own community events</li>
 <li>The <a href="/file/nature-kakis-happenings/induction7oct2023/">third Nature Kakis induction talk on Therapeutic Horticulture</a> was run on the 7th of October at the Jurong Lake Gardens
 </li></ul>
 <br>
 </ul></section>
 <section>
-<h4>A year of firsts</h4>
+<h4>Significant events</h4>
 <img src="/images/OMT/mpdb5763.JPG">
 <p>As a grounds-up movement, the Nature Kakis Chapters have been busy running their own events to engage their communities. We would like to congratulate the following chapters for being the first to:</p>
 <ul>
