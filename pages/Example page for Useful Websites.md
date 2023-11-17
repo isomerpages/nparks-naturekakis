@@ -21,33 +21,35 @@ description: ""
 .button1 {
   background-color: white; 
   color: black; 
-  border: 2px solid #04AA6D;
+  border: 2px solid #215732;
 }
 .button1:hover {
-  background-color: #04AA6D;
+  background-color: #215732;
   color: white;
 }
 .button2 {
   background-color: white; 
   color: black; 
-  border: 2px solid #008CBA;
+  border: 2px solid #215732;
 }
 .button2:hover {
-  background-color: #008CBA;
+  background-color: #215732;
   color: white;
 }
 .button3 {
   background-color: white; 
   color: black; 
-  border: 2px solid #008CBA;.
+  border: 2px solid #215732;.
 }
 .button3:hover {
-  background-color: #008CBA;
+  background-color: #215732;
   color: white;
 }
 </style>
 
 <button class="button button1">Community Animals</button>
-<button class="button button2">Blddddue</button>
+<button class="button button2">Community in Bloom</button>
 <br>
-<button class="button button3">cc</button>
+<button class="button button3">Design Guidelines for Contemplative Landscapes</button>
+<button class="button button2">Community in Bloom</button>
+<br>
