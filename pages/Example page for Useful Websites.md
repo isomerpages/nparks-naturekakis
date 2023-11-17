@@ -4,7 +4,13 @@ permalink: /usefulwebsites/
 variant: markdown
 description: ""
 ---
-
+<style>
+.container {
+    display: grid;
+    grid-template-columns: repeat(n, 1fr);
+    gap: 10px;
+}
+</style>
 
 <style>
 .button {
@@ -55,5 +61,3 @@ description: ""
 <button class="button button3">Design Guidelines for Contemplative Landscapes</button>
 <button class="button button4">Friends of the Parks</button>
 <button class="button button5">Friends of the Parks</button>
-	
-
