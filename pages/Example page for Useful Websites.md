@@ -6,7 +6,6 @@ description: ""
 ---
 
 
-	<title>Two Columns of Clickable Buttons</title>
 	<style>
 		.container {
 			display: flex;
@@ -49,6 +48,4 @@ description: ""
 			<button class="button">Button 6</button>
 		</div>
 	</div>
-
-
 
