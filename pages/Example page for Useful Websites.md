@@ -54,10 +54,10 @@ description: ""
 }	
 </style>
 
-
-
+<div style="width: 100%">
 <button class="button button1">Community Animals</button>
 <button class="button button2">Community in Bloom</button>
 <button class="button button3">Design Guidelines for Contemplative Landscapes</button>
 <button class="button button4">Friends of the Parks</button>
 <button class="button button5">Friends of the Parks</button>
+</div>	
