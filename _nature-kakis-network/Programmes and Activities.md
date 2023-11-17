@@ -40,7 +40,7 @@ variant: markdown
 		<li><input type="checkbox" id="accordion6">
 			<label for="accordion6"><h5>Community in Bloom</h5></label><div>
 			<img align="top" src="/images/CIB/community%20garden%20at%20spectra%20secondary%20school.jpg">
-			<p align="justify">Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. Click <a href="https://gardeningsg.nparks.gov.sg/get-involved/community-gardens/">here</a> to find out more.</p>
+			<p align="justify">Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. Click <a href="https://go.gov.sg/gardeningsg-community-gardens">here</a> to find out more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion7">
 			<label for="accordion7"><h5>Friends of the Park</h5></label><div>
