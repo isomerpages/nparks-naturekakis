@@ -16,7 +16,7 @@ description: ""
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
-	width: 200px;
+	width: 250px;
 }
 .button1 {
   background-color: white; 
