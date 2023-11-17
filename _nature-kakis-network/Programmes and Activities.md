@@ -10,7 +10,7 @@ variant: markdown
 
 <section>
 <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">City in Nature Activities for Nature Kakis to Participate in</h3>
-<a href="https://go.gov.sg/naturekakisbrochure"><img src="/images/nature%20kakis_brochure_newpic.png"></a>
+<a href="https://go.gov.sg/naturekakisbrochure"><img src="/images/Nature_Kakis_Brochure_new1.png"></a>
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 			<label for="accordion1"><h5>Therapeutic Horticulture</h5></label><div>
