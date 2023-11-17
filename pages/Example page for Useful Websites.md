@@ -4,66 +4,51 @@ permalink: /usefulwebsites/
 variant: markdown
 description: ""
 ---
-<style>
-.button {
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  cursor: pointer;
-}
-.button1 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #215732;
-}
-.button1:hover {
-  background-color: #215732;
-  color: white;
-}
-.button2 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #215732;
-}
-.button2:hover {
-  background-color: #215732;
-  color: white;
-}
-.button3 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #215732;
-}
-.button3:hover {
-  background-color: #215732;
-  color: white;
-}	
-.buttons { 
-  table-layout: fixed;
-  border: 1px solid white;
-	border-collapse: collapse; 
-}
-.buttons button { 
-  width: 100%;
-}
-</style>
 
-<table class="buttons">
- <tbody><tr>
-	 <td><button type="button1">Community Animals</button></td>
-    <td><button type="button2">Community in Bloom</button></td>
-	</tr>
-	<tr>		
-		<td><button type="button3">Design Guidelines for Contemplative Landscapes</button></td>
-		<td><button type="button4">Friends of the Parks</button></td>
-  </tr>
-	<tr>
-		<td><button type="button5">E</button></td>
-		<td></td>
-</tr></tbody></table>
+
+	<title>Two Columns of Clickable Buttons</title>
+	<style>
+		.container {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-between;
+			align-items: center;
+			width: 80%;
+			margin: 0 auto;
+		}
+		.column {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			width: 45%;
+		}
+		.button {
+			display: inline-block;
+			padding: 10px 20px;
+			background-color: #4CAF50;
+			color: white;
+			text-align: center;
+			text-decoration: none;
+			font-size: 16px;
+			margin: 10px;
+			border-radius: 5px;
+			cursor: pointer;
+		}
+	</style>
+
+
+	<div class="container">
+		<div class="column">
+			<button class="button">Button 1</button>
+			<button class="button">Button 2</button>
+			<button class="button">Button 3</button>
+		</div>
+		<div class="column">
+			<button class="button">Button 4</button>
+			<button class="button">Button 5</button>
+			<button class="button">Button 6</button>
+		</div>
+	</div>
+
+
+
