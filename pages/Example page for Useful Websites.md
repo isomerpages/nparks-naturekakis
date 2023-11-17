@@ -47,7 +47,8 @@ description: ""
 .buttons { 
   width: 100%;
   table-layout: fixed;
-  border-collapse: collapse; 
+  border: 1px solid white;
+	border-collapse: collapse; 
 }
 .buttons button { 
   width: 100%;
