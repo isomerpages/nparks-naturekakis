@@ -7,6 +7,20 @@ description: ""
 
 
 <style>
+.container {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-between;
+			align-items: center;
+			width: 80%;
+			margin: 0 auto;
+}
+		.column {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			width: 45%;
+}	
 .button {
   border: none;
   color: white;
