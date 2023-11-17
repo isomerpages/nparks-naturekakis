@@ -56,19 +56,17 @@ description: ""
   width: 100%;
 }
 </style>
+
 <table class="buttons">
  <tbody><tr>
-    <td><button type="button">Community Animals</button>
-	</td></tr>
-	<tr>
-    <td><button type="button">Community in Bloom</button>
-	</td></tr>
+	 <td><button type="button">Community Animals</button></td>
+    <td><button type="button">Community in Bloom</button></td>
+	</tr>
 	<tr>		
-    <td><button type="button">Design Guidelines for Contemplative Landscapes</button>
- 	</td></tr>
+		<td><button type="button">Design Guidelines for Contemplative Landscapes</button></td>
+		<td><button type="button">Friends of the Parks</button></td>
+  </tr>
 	<tr>
-		<td><button type="button">Friends of the Parks</button>
-  </td></tr>
-	<tr>
-		<td><button type="button">E</button>
-</td></tr></tbody></table>
+		<td><button type="button">E</button></td>
+		<td></td>
+</tr></tbody></table>
