@@ -47,7 +47,7 @@ description: ""
 }
 </style>
 
-<button class="button button1">Community Animals<img src="/images/Community%20animals/cam%20dogs.jpg"></button>
+<button class="button button1"><h5>Community Animals</h5><img src="/images/Community%20animals/cam%20dogs.jpg"></button>
 <a href="https://go.gov.sg/gardeningsg-community-gardens" rel="noopener" target="_blank"><button class="button button2">Community in Bloom<img src="/images/CIB/thegivinggardenatkimtian_jacquelinechua_2021-11-07%20(6).jpg"></button></a>
 <br>
 <button class="button button3">Design Guidelines for Contemplative Landscapes</button>
