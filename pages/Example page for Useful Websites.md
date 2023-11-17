@@ -37,11 +37,23 @@ description: ""
   background-color: #215732;
   color: white;
 }
+.button3 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #215732;
+}
+.button3:hover {
+  background-color: #215732;
+  color: white;
+}	
 </style>
 
 
 
-<button class="button button1">Green</button>
-<button class="button button2">Blue</button>
-
+<button class="button button1">Community Animals</button>
+<button class="button button2">Community in Bloom</button>
+<button class="button button3">Design Guidelines for Contemplative Landscapes</button>
+<button class="button button4">Friends of the Parks</button>
+<button class="button button5">Friends of the Parks</button>
+	
 
