@@ -4,8 +4,6 @@ permalink: /usefulwebsites/
 variant: markdown
 description: ""
 ---
-
-
 <style>
 .button {
   border: none;
@@ -40,7 +38,8 @@ description: ""
 .button3 {
   background-color: white; 
   color: black; 
-  border: 2px solid #008CBA;
+  border: 2px solid #008CBA;.
+	width: 100%
 }
 .button3:hover {
   background-color: #008CBA;
@@ -48,11 +47,6 @@ description: ""
 }
 </style>
 
-
-
 <button class="button button1">Green</button>
-<br>
 <button class="button button2">Blue</button>
 <button class="button button3">FFFBlue</button>
-
-
