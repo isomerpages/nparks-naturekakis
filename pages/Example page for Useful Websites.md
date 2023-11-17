@@ -37,7 +37,6 @@ description: ""
   background-color: #008CBA;
   color: white;
 }
-}
 .button3 {
   background-color: white; 
   color: black; 
