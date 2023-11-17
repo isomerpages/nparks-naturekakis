@@ -51,5 +51,5 @@ description: ""
 <button class="button button2">Community in Bloom</button>
 <br>
 <button class="button button3">Design Guidelines for Contemplative Landscapes</button>
-<button class="button button2">Community in Bloom</button>
+<button class="button button2">Friends of the Park</button>
 <br>
