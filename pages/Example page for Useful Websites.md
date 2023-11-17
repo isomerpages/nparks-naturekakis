@@ -53,12 +53,6 @@ description: ""
   width: 100%;
 }
 </style>
-<style>
-	table, th, td {
-  border: 1px solid white;
-  border-collapse: collapse;
-}	
-</style>
 
 <table class="buttons">
  <tbody><tr>
