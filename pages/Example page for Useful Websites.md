@@ -45,7 +45,6 @@ description: ""
   color: white;
 }	
 .buttons { 
-  width: 100%;
   table-layout: fixed;
   border: 1px solid white;
 	border-collapse: collapse; 
@@ -53,7 +52,9 @@ description: ""
 .buttons button { 
   width: 100%;
 }
-table, th, td {
+</style>
+<style>
+	table, th, td {
   border: 1px solid white;
   border-collapse: collapse;
 }	
