@@ -5,14 +5,6 @@ variant: markdown
 description: ""
 ---
 <style>
-.container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 10px;
-}
-</style>
-
-<style>
 .button {
   border: none;
   color: white;
@@ -54,6 +46,34 @@ description: ""
 }	
 </style>
 
+<style>
+.buttons { 
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  background-color: red; 
+}
+.buttons button { 
+  width: 100%;
+}
+</style>
+<table class="buttons">
+ <tbody><tr>
+    <td><button type="button">A</button>
+	</td></tr>
+	<tr>
+    <td><button type="button">B</button>
+	</td></tr>
+	<tr>		
+    <td><button type="button">C</button>
+ 	</td></tr>
+	<tr>
+		<td><button type="button">D</button>
+  </td></tr>
+	<tr>
+		<td><button type="button">E</button>
+</td></tr></tbody></table>
+
 <div style="width: 100%">
 <button class="button button1">Community Animals</button>
 <button class="button button2">Community in Bloom</button>
@@ -61,3 +81,4 @@ description: ""
 <button class="button button4">Friends of the Parks</button>
 <button class="button button5">Friends of the Parks</button>
 </div>	
+
