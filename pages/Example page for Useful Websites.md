@@ -16,6 +16,7 @@ description: ""
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
+	width: 200px;
 }
 .button1 {
   background-color: white; 
@@ -39,7 +40,6 @@ description: ""
   background-color: white; 
   color: black; 
   border: 2px solid #008CBA;.
-	width: 100%
 }
 .button3:hover {
   background-color: #008CBA;
@@ -47,6 +47,7 @@ description: ""
 }
 </style>
 
-<button class="button button1">Green</button>
-<button class="button button2">Blue</button>
-<button class="button button3">FFFBlue</button>
+<button class="button button1">Community Animals</button>
+<button class="button button2">Blddddue</button>
+<br>
+<button class="button button3">cc</button>
