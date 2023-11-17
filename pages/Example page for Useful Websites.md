@@ -48,7 +48,7 @@ description: ""
 </style>
 
 <button class="button button1">Community Animals<img src="/images/Community%20animals/cam%20dogs.jpg"></button>
-<a href="https://go.gov.sg/gardeningsg-community-gardens"><button class="button button2">Community in Bloom</button></a>
+<a href="https://go.gov.sg/gardeningsg-community-gardens" rel="noopener" target="_blank"><button class="button button2">Community in Bloom</button></a>
 <br>
 <button class="button button3">Design Guidelines for Contemplative Landscapes</button>
 <button class="button button2">Friends of the Park</button>
