@@ -58,26 +58,17 @@ description: ""
 </style>
 <table class="buttons">
  <tbody><tr>
-    <td><button type="button">A</button>
+    <td><button type="button">Community Animals</button>
 	</td></tr>
 	<tr>
-    <td><button type="button">B</button>
+    <td><button type="button">Community in Bloom</button>
 	</td></tr>
 	<tr>		
-    <td><button type="button">C</button>
+    <td><button type="button">Design Guidelines for Contemplative Landscapes</button>
  	</td></tr>
 	<tr>
-		<td><button type="button">D</button>
+		<td><button type="button">Friends of the Parks</button>
   </td></tr>
 	<tr>
 		<td><button type="button">E</button>
 </td></tr></tbody></table>
-
-<div style="width: 100%">
-<button class="button button1">Community Animals</button>
-<button class="button button2">Community in Bloom</button>
-<button class="button button3">Design Guidelines for Contemplative Landscapes</button>
-<button class="button button4">Friends of the Parks</button>
-<button class="button button5">Friends of the Parks</button>
-</div>	
-
