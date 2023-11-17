@@ -56,14 +56,14 @@ description: ""
 
 <table class="buttons">
  <tbody><tr>
-	 <td><button type="button">Community Animals</button></td>
-    <td><button type="button">Community in Bloom</button></td>
+	 <td><button type="button1">Community Animals</button></td>
+    <td><button type="button2">Community in Bloom</button></td>
 	</tr>
 	<tr>		
-		<td><button type="button">Design Guidelines for Contemplative Landscapes</button></td>
-		<td><button type="button">Friends of the Parks</button></td>
+		<td><button type="button3">Design Guidelines for Contemplative Landscapes</button></td>
+		<td><button type="button4">Friends of the Parks</button></td>
   </tr>
 	<tr>
-		<td><button type="button">E</button></td>
+		<td><button type="button5">E</button></td>
 		<td></td>
 </tr></tbody></table>
