@@ -50,8 +50,7 @@ description: ""
 .buttons { 
   width: 100%;
   table-layout: fixed;
-  border-collapse: collapse;
-  background-color: red; 
+  border-collapse: collapse; 
 }
 .buttons button { 
   width: 100%;
