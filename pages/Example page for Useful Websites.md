@@ -44,9 +44,6 @@ description: ""
   background-color: #215732;
   color: white;
 }	
-</style>
-
-<style>
 .buttons { 
   width: 100%;
   table-layout: fixed;
