@@ -20,5 +20,7 @@ links:
     url: /join-our-activities/
   - title: Explore
     resource_room: true
+  - title: Useful Links
+    url: /usefullinks
   - title: Contact Us
     url: /contactus/
