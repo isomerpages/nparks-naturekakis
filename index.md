@@ -26,7 +26,7 @@ sections:
       button: About us
       url: /naturekakisnetwork/about/
       alt: Image alt text
-      image: /images/Group photos and Networking/grouppic1nk.jpg
+      image: /images/Groups Networking Engagement/grouppic1nk.jpg
   - infopic:
       title: Seed Fund
       subtitle: build your Chapter with the
