@@ -42,7 +42,7 @@ description: ""
 			<h4>Community in Bloom</h4>
 			<img src="/images/CIB/thegivinggardenatkimtian_jacquelinechua_2021-11-07%20(6).jpg"><br>
 		</div></a>
-		<a class="button" href=""><div class="box">
+		<a class="button" href="/images/design_landscape_MicrosoftTeams_image.png"><div class="box">
 			<h4>Design Guidelines for Contemplative Landscapes</h4>
 			<img src=""><br>
 		</div></a>
