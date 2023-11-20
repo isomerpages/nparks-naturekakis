@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Chapters
 variant: markdown
 ---
- 
-
 <table style="width:100%">
   <tbody><tr>
 		<td><b>Stage</b></td>
@@ -35,6 +33,12 @@ variant: markdown
 </tbody></table>
 <br>
 
+<style>
+	a[target="_blank"]:after {
+		content:none;
+		margin: 0 3px 0 5px;
+	}
+</style>
 
 <section>
 <p align="justify">As part of our initiative, we will partner with you and provide training to help you and other community leaders set up Nature Kakis chapters in each constituency. These chapters can organise various City in Nature-related activities such as tree planting, therapeutic horticulture activities and guided walks for the community. For enquiries related to starting a chapter in your constituency, click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/nk-formsg-enquiries">here</a>.</p></section>
