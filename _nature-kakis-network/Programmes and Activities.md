@@ -20,7 +20,7 @@ variant: markdown
 		<li><input type="checkbox" id="accordion2">
 			<label for="accordion2"><h5>OneMillionTrees Movement</h5></label><div>
 			<img align="top" src="/images/OMT/omt%20image.png">
-			<p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more.</p>
+			<p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a rel="noopener noreferrer" target="_blank" href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
 			<label for="accordion3"><h5>Nature in Neighbourhood</h5></label><div>
