@@ -21,6 +21,7 @@ description: ""
 .button1 {
   background-color: white; 
   color: black; 
+	border-radius: 12px;
   border: 2px solid #215732;
 }
 .button1:hover {
@@ -30,7 +31,8 @@ description: ""
 .button2 {
   background-color: white; 
   color: black; 
-  border: 2px solid #215732;
+  border-radius: 12px;
+	border: 2px solid #215732;
 }
 .button2:hover {
   background-color: #215732;
@@ -39,12 +41,43 @@ description: ""
 .button3 {
   background-color: white; 
   color: black; 
-  border: 2px solid #215732;.
+  border-radius: 12px;
+	border: 2px solid #215732;.
 }
 .button3:hover {
   background-color: #215732;
   color: white;
 }
+.button4 {
+  background-color: white; 
+  color: black; 
+	border-radius: 12px;
+  border: 2px solid #215732;
+}
+.button4:hover {
+  background-color: #215732;
+  color: white;
+}
+.button5 {
+  background-color: white; 
+  color: black; 
+  border-radius: 12px;
+	border: 2px solid #215732;
+}
+.button5:hover {
+  background-color: #215732;
+  color: white;
+}
+.button6 {
+  background-color: white; 
+  color: black; 
+  border-radius: 12px;
+	border: 2px solid #215732;.
+}
+.button6:hover {
+  background-color: #215732;
+  color: white;
+}	
 </style>
 
 <button class="button button1">Community Animals<img src="/images/Community%20animals/cam%20dogs.jpg"></button>
