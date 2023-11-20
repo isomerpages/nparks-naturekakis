@@ -1,6 +1,6 @@
 ---
 title: Example page 2 for useful websites
 permalink: /usefulweb2/
-variant: tiptap
+variant: markdown
 description: ""
 ---
