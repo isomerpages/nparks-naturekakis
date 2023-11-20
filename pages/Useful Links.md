@@ -48,7 +48,7 @@ description: ""
 		</div></a>
 		<a class="button" target="_blank" href="https://go.gov.sg/contemplative-landscape-design-guidelines"><div class="box">
 			<h4>Design Guidelines for Contemplative Landscapes</h4>
-			<img src="/images/design_landscape_MicrosoftTeams_image.png"><br>
+			<img src="/images/design_landscape_1.png"><br>
 		</div></a>
 		<a class="button" target="_blank" href="https://go.gov.sg/fotp-nk"><div class="box">
 			<h4>Friends of the<br>Park</h4>
