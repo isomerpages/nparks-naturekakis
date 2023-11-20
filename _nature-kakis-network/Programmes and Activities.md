@@ -4,12 +4,12 @@ permalink: /nature-kakis-network/programmes-and-activities/
 description: ""
 variant: markdown
 ---
-<section>
+<style>
 	a[target="_blank"]:after {
 		content: none;
 		margin: 0 3px 0 5px;
 	}
-</section>
+</style>
 
 <section>
 	<p align="justify">The Nature Kakis chapters can explore a wide variety of activities and programmes, such as those listed below. These programmes and activities cater to a diverse range of interests and skill levels, as well as provide a starting point for Nature Kakis chapters to explore new activities for their community. Although the programmes is not exhaustive, it serves as a source of inspiration for chapters to kickstart new programmes and/or improve existing ones. </p>	<br>
