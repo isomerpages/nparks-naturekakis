@@ -10,7 +10,7 @@ sections:
   - hero:
       title: Nature Kakis Network
       subtitle: Growing our City in Nature
-      background: /images/DIY Nature walks/naturewalks2.PNG
+      background: /images/TH Activities/IMG_20231118_WA0000.jpg
       key_highlights:
         - title: Nature Kakis Happenings
           description: Read about our past activities
