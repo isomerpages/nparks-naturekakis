@@ -5,16 +5,7 @@ description: ""
 third_nav_title: Chapters
 variant: markdown
 ---
-<section>
-	<p align="justify">National Parks Board (NParks) builds communities through the Nature Kakis Network by bringing people who share a love for nature together to interact and bond through various engagement platforms. These can take the form of guided walks, workshops, and community events that are designed to connect individuals with shared interests and causes related to nature. By joining the Nature Kakis Network, members can participate in a range of activities that promote environmental conservation and sustainability, while also fostering a sense of community and belonging.</p>
-</section>
-
-<img src="/images/Groups%20Networking%20Engagement/163f7d98_cac1_445d_aff9_cb56c289a59e__2_.jpg">
-
-<section>
-<p align="justify">There are <b>five stages</b> in this process of starting a new Nature Kakis Chapter.</p>
-
- <style> table { border-collapse: collapse; width: 100%; } th, td { text-align: left; padding: 8px; } tr:nth-child(even) { background-color: #F6F6F6; } tr:hover {background-color: #FCDA3E;} </style> 
+ 
 
 <table style="width:100%">
   <tbody><tr>
@@ -43,7 +34,7 @@ variant: markdown
   </tr>
 </tbody></table>
 <br>
-</section>
+
 
 <section>
 <p align="justify">As part of our initiative, we will partner with you and provide training to help you and other community leaders set up Nature Kakis chapters in each constituency. These chapters can organise various City in Nature-related activities such as tree planting, therapeutic horticulture activities and guided walks for the community. For enquiries related to starting a chapter in your constituency, click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/nk-formsg-enquiries">here</a>.</p></section>
