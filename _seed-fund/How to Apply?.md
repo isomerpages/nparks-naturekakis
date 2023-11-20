@@ -57,5 +57,5 @@ variant: markdown
 		<li>(If claiming under recurring events) Photos and events detail of recurring events</li>
 		<li>Vendor creation template &amp; Direct Authorisation Credit (DCA) Form for e-payment</li>
 	</ul>
-	<p align="justify">You will receive a reimbursement letter once the reimbursement is approved and the reimbursement will be made to the respective Citizens’ Consultative Committee (CCC) supporting your chapter. For enquiries related to the Seed Fund, click <a rel="noopener noreferrer" target="_blank" href="https://form.gov.sg/6450cd7145da250012d2a4dd">here</a>.</p>
+	<p align="justify">You will receive a reimbursement letter once the reimbursement is approved and the reimbursement will be made to the respective Citizens’ Consultative Committee (CCC) supporting your chapter. For enquiries related to the Seed Fund, click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/nk-formsg-enquiries">here</a>.</p>
 </section>
