@@ -2,5 +2,5 @@ collections:
   example-folder:
     output: true
     order:
-      - example-page.md
+      - Example Page Map.md
       - Example page for Useful Websites.md
