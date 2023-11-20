@@ -34,7 +34,7 @@ description: ""
 
 <section>
 	<div class="wrapper">
-		<a class="button" href=""><div class="box">
+		<a class="button" href="https://go.gov.sg/community-animals"><div class="box">
 			<h4>Community Animals</h4>
 			<img src="/images/Community%20animals/cam2dog.jpg"><br>
 		</div></a>
@@ -42,19 +42,19 @@ description: ""
 			<h4>Community in Bloom</h4>
 			<img src="/images/CIB/thegivinggardenatkimtian_jacquelinechua_2021-11-07%20(6).jpg"><br>
 		</div></a>
-		<a class="button" href="/images/design_landscape_MicrosoftTeams_image.png"><div class="box">
+		<a class="button" href="https://go.gov.sg/contemplative-landscape-design-guidelines"><div class="box">
 			<h4>Design Guidelines for Contemplative Landscapes</h4>
-			<img src=""><br>
+			<img src="/images/design_landscape_MicrosoftTeams_image.png"><br>
 		</div></a>
-		<a class="button" href=""><div class="box">
+		<a class="button" href="https://go.gov.sg/fotp-nk"><div class="box">
 			<h4>Friends of the<br>Park</h4>
 			<img src="/images/FOTP/fotp%20briefing.png"><br>
 		</div></a>
-		<a class="button" href=""><div class="box">
+		<a class="button" href="https://go.gov.sg/omt-nk"><div class="box">
 			<h4>OneMillionTrees Movement</h4>
 			<img src="/images/OMT/mpdb5763.JPG"><br>
 		</div></a>
-		<a class="button" href=""><div class="box">
+		<a class="button" href="https://go.gov.sg/theraputic-horticulture"><div class="box">
 			<h4>Therapeutic Horticulture</h4>
 			<img src="/images/TH%20Activities/bukit%20gombak%20scent%20bag%20and%20soil%20mixing%20.jpg"><br>
 		</div></a>
