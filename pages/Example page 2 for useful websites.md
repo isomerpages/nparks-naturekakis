@@ -48,7 +48,7 @@ description: ""
 			<img src="/images/CIB/thegivinggardenatkimtian_jacquelinechua_2021-11-07%20(6).jpg"><br>
 		</div></a>
 		<a class="button" href=""><div class="box">
-			<h4>Friends of the Park</h4>
+			<h4>Friends of the<br>Park</h4>
 			<img src="/images/CIB/thegivinggardenatkimtian_jacquelinechua_2021-11-07%20(6).jpg"><br>
 		</div></a>
 		<a class="button" href=""><div class="box">
