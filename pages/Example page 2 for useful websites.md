@@ -30,11 +30,15 @@ description: ""
 		border-radius: 16px;
 	}
 
+	a[target="_blank"]:after {
+		content: none;
+		margin: 0 3px 0 5px;
+	}
 </style>
 
 <section>
 	<div class="wrapper">
-		<a class="button" target="_blank" href="https://go.gov.sg/community-animals"><div class="box">
+		<a class="button" rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/community-animals"><div class="box">
 			<h4>Community Animals</h4>
 			<img src="/images/Community%20animals/cam2dog.jpg"><br>
 		</div></a>
@@ -54,7 +58,7 @@ description: ""
 			<h4>OneMillionTrees Movement</h4>
 			<img src="/images/OMT/mpdb5763.JPG"><br>
 		</div></a>
-		<a class="button" target="_blank" href="https://go.gov.sg/theraputic-horticulture"><div class="box">
+		<a class="button" rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/theraputic-horticulture"><div class="box">
 			<h4>Therapeutic Horticulture</h4>
 			<img src="/images/TH%20Activities/bukit%20gombak%20scent%20bag%20and%20soil%20mixing%20.jpg"><br>
 		</div></a>
