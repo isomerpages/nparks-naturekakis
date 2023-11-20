@@ -22,12 +22,12 @@ variant: markdown
 		<li><input type="checkbox" id="accordion1">
 			<label for="accordion1"><h5>Therapeutic Horticulture</h5></label><div>
 			<img align="top" src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png">
-			<p align="justify">Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote mindfulness. Click <a rel="noopener noreferrer" target="_blank" href="https://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens/therapeutic-horticulture-programmes">here</a> to find out more.<br></p>
+			<p align="justify">Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote mindfulness. Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/theraputic-horticulture">here</a> to find out more.<br></p>
 		</div></li>
 		<li><input type="checkbox" id="accordion2">
 			<label for="accordion2"><h5>OneMillionTrees Movement</h5></label><div>
 			<img align="top" src="/images/OMT/omt%20image.png">
-			<p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a rel="noopener noreferrer" target="_blank" href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement">here</a> to find out more.</p>
+			<p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a rel="noopener noreferrer" target="_blank" href="https://https://go.gov.sg/omt-nk">here</a> to find out more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
 			<label for="accordion3"><h5>Nature in Neighbourhood</h5></label><div>
@@ -52,7 +52,7 @@ variant: markdown
 		<li><input type="checkbox" id="accordion7">
 			<label for="accordion7"><h5>Friends of the Park</h5></label><div>
 			<img align="top" src="/images/FOTP/aywi5915.JPG">
-			<p align="justify">Work with Friends of the Parks to participate in designing and implementing programmes in park spaces and nature areas. Click <a href="https://fotp.nparks.gov.sg/">here</a> to find out more.</p>
+			<p align="justify">Work with Friends of the Parks to participate in designing and implementing programmes in park spaces and nature areas. Click <a href="https://go.gov.sg/fotp-nk">here</a> to find out more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion8">
 			<label for="accordion8"><h5>Community Animals</h5></label><div>
