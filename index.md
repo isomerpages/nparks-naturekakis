@@ -4,8 +4,7 @@ title: Nature Kakis Network
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: NParks will never send an SMS to request for payment/money
-  transfers or links to ask for credentials/passwords.
+notification: ""
 sections:
   - hero:
       title: Nature Kakis Network
