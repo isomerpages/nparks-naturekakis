@@ -37,12 +37,12 @@ variant: markdown
 		<li><input type="checkbox" id="accordion4">
 			<label for="accordion4"><h5>DIY Nature Walks</h5></label><div>
 			<img align="top" src="/images/DIY%20Nature%20walks/naturewalk%20chek%20jawa.PNG">
-			<p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides <a href="https://www.nparks.gov.sg/activities/walks-and-tours/going-on-a-diy-walk">here</a>.</p>
+			<p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides <a href="https://go.gov.sg/diy-nature-walks">here</a>.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion5">
 			<label for="accordion5"><h5>Biodiversity &amp; Wildlife</h5></label><div>
 			<img align="top" src="/images/BioD%20&amp;%20wildlife/biod%20and%20wld.png">
-			<p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents. Click <a href="https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/citizen-science-programmes">here</a> to view the Calendar of Citizen Science Events and <a href="https://www.nparks.gov.sg/biodiversity/wildlife-in-singapore">here</a> to read about the wildlife in Singapore.</p>
+			<p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents. Click <a href="https://go.gov.sg/citizen-science-nk">here</a> to view the Calendar of Citizen Science Events and <a href="https://go.gov.sg/wildlife-nk">here</a> to read about the wildlife in Singapore.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion6">
 			<label for="accordion6"><h5>Community in Bloom</h5></label><div>
@@ -57,11 +57,12 @@ variant: markdown
 		<li><input type="checkbox" id="accordion8">
 			<label for="accordion8"><h5>Community Animals</h5></label><div>
 			<img align="top" src="/images/Community%20animals/cam2dog.jpg">
-			<p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a href="https://www.nparks.gov.sg/avs/animals/animal-management/living-with-community-animals-in-your-neighbourhood/meeting-free-roaming-dogs">here</a> to find out more.</p>
+			<p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a href="https://https://go.gov.sg/community-animals">here</a> to find out more.</p>
 		</div></li>
 	</ul>
 </section>	
 	
 <section>
 <h3>What can you do as a Nature Kaki?</h3>	
-<p align="justify">As a member of the Nature Kakis Network, individuals can participate in Nature Kakis activities and go one step further to help grow community interest by planning, organizing and implementing a wide variety of activities and programmes. Take a look at some upcoming Nature Kakis activities <a href="/join-our-activities/">here</a>.</p></section>
+<p align="justify">As a member of the Nature Kakis Network, individuals can participate in Nature Kakis activities and go one step further to help grow community interest by planning, organizing and implementing a wide variety of activities and programmes. Take a look at some upcoming Nature Kakis activities <a href="/join-our-activities/">here</a>.</p>
+</section>
