@@ -28,7 +28,6 @@ description: ""
 	a:hover.button {
 		border: solid 5px #215732;
 		border-radius: 16px;
-		transition-duration: 0.2s;
 	}
 
 </style>
