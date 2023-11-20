@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Nature Kakis Happenings
           description: Read about our past activities
-          url: /file/nature-kakis-happenings/
+          url: /all/nature-kakis-happenings/
         - title: Join our activities
           description: Volunteer opportunities here
           url: /join-our-activities/
