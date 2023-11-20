@@ -15,7 +15,7 @@ description: ""
 
 	.box {
 		border: solid 1px #215732 ;
-		border-radius: 12px;
+		border-radius: 10px;
 		padding: 10px 25px 10px 25px;
 		text-align:center;
 	}
@@ -26,9 +26,9 @@ description: ""
 	}
 	
 	a:hover.button {
-		background-color: #215732 ;
-		border-radius: 12px;
-		color: white;
+		border: solid 5px #215732;
+		border-radius: 16px;
+		transition-duration: 0.2s;
 	}
 
 </style>
