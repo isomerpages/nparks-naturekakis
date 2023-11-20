@@ -25,6 +25,4 @@ variant: markdown
 <ul>
 	<li><a href="">Kayaking in Nature @ the Jurong Lake Gardens</a></li>
 	</ul>
-	<p>Keen on joining the Nature Kakis @ Boon Lay? Drop them an email at <a href="mailto:&quot;naturekakis@gmail.com&quot;">naturekakis@gmail.com</a>!</p>
-	
-	
+	<p>Keen on joining the Nature Kakis @ Boon Lay? Drop them an email at <a href="mailto:&quot;naturekakis@gmail.com&quot;">naturekakis@gmail.com</a>, or message them via their <a href="https://www.facebook.com/NatureKakis">Facebook</a> or <a href="https://www.instagram.com/naturekakis/">Instagram</a> page.</p>
