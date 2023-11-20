@@ -15,27 +15,31 @@ description: ""
 
 	.box {
 		border: solid 1px #215732 ;
-		border-radius: 5px;
-		padding: 5px 10px 15px 10px;
+		border-radius: 12px;
+		padding: 10px 25px 10px 25px;
 		text-align:center;
 	}
 	
 	a:link.button, a:visited.button {
 		text-decoration:none;
-		color:#215732
+		color: #744F28;
 	}
 	
 	a:hover.button {
 		background-color: #215732 ;
-		border-radius: 5px;
+		border-radius: 12px;
+	}
+	
+	.box > h4:hover {
+		text-color: white;
 	}
 </style>
 
 <section>
 	<div class="wrapper">
-		<a class="button" href="/page-index/glossary/edible-plants/"><div class="box">
-			<h4>Community Animals</h4>
-			<img style="height:275px; width:275px" src=""><br>
+		<a class="button" href="https://go.gov.sg/gardeningsg-community-gardens"><div class="box">
+			<h4>Community in Bloom</h4>
+			<img src="/images/CIB/thegivinggardenatkimtian_jacquelinechua_2021-11-07%20(6).jpg"><br>
 		</div></a>
 	</div>
 </section>
