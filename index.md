@@ -10,7 +10,7 @@ sections:
   - hero:
       title: Nature Kakis Network
       subtitle: Growing our City in Nature
-      background: /images/chek jawa viewing tower.PNG
+      background: /images/DIY Nature walks/naturewalks2.PNG
       key_highlights:
         - title: Nature Kakis Happenings
           description: Read about our past activities
