@@ -15,7 +15,7 @@ variant: markdown
 		<li><input type="checkbox" id="accordion1">
 			<label for="accordion1"><h5>Therapeutic Horticulture</h5></label><div>
 			<img align="top" src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png">
-			<p align="justify">Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote mindfulness. Click <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens/therapeutic-horticulture-programmes">here</a> to find out more.<br></p>
+			<p align="justify">Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote mindfulness. Click <a rel="noopener noreferrer" target="_blank" href="https://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens/therapeutic-horticulture-programmes">here</a> to find out more.<br></p>
 		</div></li>
 		<li><input type="checkbox" id="accordion2">
 			<label for="accordion2"><h5>OneMillionTrees Movement</h5></label><div>
