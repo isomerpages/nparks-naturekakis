@@ -37,7 +37,7 @@ variant: markdown
 <h3>How to start a chapter?</h3>
 <section><p align="justify">There are <b>five stages</b> in this process of starting a new Nature Kakis chapter.</p><br></section>
 
-<table style="width:100%; bottom-padding: 10px;">
+<table style="width:100%;">
   <tbody><tr>
 		<td><b>Stage</b></td>
 		<td><b>Action</b></td>
@@ -62,7 +62,7 @@ variant: markdown
     <td><b>5</b></td>
     <td>Recognition of Nature Kakis members through appointment letters.</td>
   </tr>
-</tbody></table>
+</tbody></table> <br>
 
 <section>
 <p align="justify">As part of the initiative, National Parks Board (NParks) will partner with you and provide training to help you and other community leaders set up Nature Kakis chapters in each constituency. Set up a Nature Kakis chapter and play an active role in promoting environmental awareness and conservation in your community! If you are interested in starting a Nature Kakis chapter in your constituency, please click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/nk-formsg-enquiries">here</a>.</p></section>
