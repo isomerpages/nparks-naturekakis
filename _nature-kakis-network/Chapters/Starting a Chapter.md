@@ -38,6 +38,7 @@ variant: markdown
     <td>Recognition of Nature Kakis members through appointment letters.</td>
   </tr>
 </tbody></table>
+<br>
 
 <style>
 	a[target="_blank"]:after {
@@ -47,4 +48,4 @@ variant: markdown
 </style>
 
 <section>
-<p align="justify">As part of our initiative, we will partner with you and provide training to help you and other community leaders set up Nature Kakis chapters in each constituency. These chapters can organise various City in Nature-related activities such as tree planting, therapeutic horticulture activities and guided walks for the community. For enquiries related to starting a chapter in your constituency, click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/nk-formsg-enquiries">here</a>.</p></section>
+<p align="justify">As part of the initiative, National Parks Board (NParks) will partner with you and provide training to help you and other community leaders set up Nature Kakis chapters in each constituency. By setting up a Nature Kakis chapter and joining the Network, you can play an active role in promoting environmental awareness and conservation in your community, while also fostering a sense of community and belonging among its members. If you are interested in starting a Nature Kakis chapter in your constituency, please click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/nk-formsg-enquiries">here</a>.</p></section>
