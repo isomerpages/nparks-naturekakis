@@ -6,10 +6,10 @@ third_nav_title: Chapters
 variant: markdown
 ---
 <section>
-	<img src="/images/BioD%20&amp;%20wildlife/BioDandWildlife__1__Resized_2.jpg">
-<p align="justify">The Nature Kakis chapters are part of a network of passionate volunteers that work together to run events that involve, engage and inspire communities to care for nature.</p> 
+	<img src="/images/BioD%20&amp;%20wildlife/BioDandWildlife__2__Resized.jpg">
+<p align="justify">The Nature Kakis chapters are part of a network of passionate volunteers that come together to run <a href="/join-our-activities/">grounds-up activities</a> that involve, engage and inspire communities to care for our City In Nature.</p> 
 <p>Every chapter is constituency-based as the Nature Kakis chapters are run by grassroots volunteers, schools, and residents. Currently, the network consists of 13 established chapters island-wide. We aim to grow this number and establish one chapter per constituency.</p>
-<p align="justify">Nature Kakis chapters are guided by NParks, with <a href="">induction sessions</a> and <a href="">training</a> available to get chapters started. Recognised chapters are also eligible for <a href="/seed-fund/about/">seed funding</a> to support chapter development.</p>
+<p align="justify">Nature Kakis chapters are guided by NParks, with <a href="">induction sessions</a> and <a href="">training</a> to get chapters started. Recognised chapters are also eligible for <a href="/seed-fund/about/">seed funding</a> to support chapter development.</p>
 <br>
 </section>
 <section>
