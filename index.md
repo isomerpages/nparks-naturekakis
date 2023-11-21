@@ -2,7 +2,7 @@
 layout: homepage
 title: Nature Kakis Network
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/Nature_Kakis_Logo_Full_Colour.png
 permalink: /
 notification: ""
 sections:
