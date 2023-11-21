@@ -38,31 +38,34 @@ variant: markdown
 <section><p align="justify">There are <b>five stages</b> in this process of starting a new Nature Kakis chapter.</p><br></section>
 
 <table style="width:100%;">
-  <tbody><tr>
-		<td><b>Stage</b></td>
-		<td><b>Action</b></td>
-  </tr>
+  <tbody>
 		<tr>
-    <td><b>1<b></b></b></td>
-    <td>Identify Nature Kakis Lead(s) and three to five committed members through People's Association Constituency Director.</td>
-  </tr>
-  <tr>
-		<td><b>2</b></td>
-    <td>Sharing on the Nature Kakis Network by NParks to new Nature Kakis members and People's Association Constituency Director / representative.</td>
-  </tr>
-		  <tr>
-				<td><b>3</b></td>
-    <td>Plan a calendar of events and share it with NParks.</td>
-  </tr>
-		 <tr>
-			 <td><b>4</b></td>
-    <td>Organise one Nature Kakis activity (e.g., tree planting, nature walk).</td>
-  </tr>
-		  <tr>
-    <td><b>5</b></td>
-    <td>Recognition of Nature Kakis members through appointment letters.</td>
-  </tr>
-</tbody></table> <br>
+			<td><b>Stage</b></td>
+			<td><b>Action</b></td>
+		</tr>
+		<tr>
+			<td><b>1<b></b></b></td>
+			<td>Identify Nature Kakis Lead(s) and three to five committed members through People's Association Constituency Director.</td>
+		</tr>
+		<tr>
+			<td><b>2</b></td>
+			<td>Sharing on the Nature Kakis Network by NParks to new Nature Kakis members and People's Association Constituency Director / representative.</td>
+		</tr>
+		<tr>
+			<td><b>3</b></td>
+			<td>Plan a calendar of events and share it with NParks.</td>
+		</tr>
+		<tr>
+			<td><b>4</b></td>
+			<td>Organise one Nature Kakis activity (e.g., tree planting, nature walk).</td>
+		</tr>
+		<tr>
+			<td><b>5</b></td>
+			<td>Recognition of Nature Kakis members through appointment letters.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
 
 <section>
 <p align="justify">As part of the initiative, National Parks Board (NParks) will partner with you and provide training to help you and other community leaders set up Nature Kakis chapters in each constituency. Set up a Nature Kakis chapter and play an active role in promoting environmental awareness and conservation in your community! If you are interested in starting a Nature Kakis chapter in your constituency, please click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/nk-formsg-enquiries">here</a>.</p></section>
