@@ -41,5 +41,5 @@ variant: markdown
 	<li><a href="">Punggol West</a></li>
 	<li><a href="">Tampines West</a></li>
 	</ul>
-<p align="justify">Don't see your district listed here? <a href="=&quot;/nature-kakis-network/chapters/starting-a-chapter/&quot;">Start a chapter in your area</a> today! </p>
+<p align="justify">Don't see your district here? <a href="=&quot;/nature-kakis-network/chapters/starting-a-chapter/&quot;">Start a chapter in your area</a> today! </p>
 </section>
