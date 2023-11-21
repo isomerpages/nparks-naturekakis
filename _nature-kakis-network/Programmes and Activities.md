@@ -47,17 +47,17 @@ variant: markdown
 		<li><input type="checkbox" id="accordion6">
 			<label for="accordion6"><h5>Community in Bloom</h5></label><div>
 			<img align="top" src="/images/CIB/community%20garden%20at%20spectra%20secondary%20school.jpg">
-			<p align="justify">Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. Click <a href="https://go.gov.sg/gardeningsg-community-gardens">here</a> to find out more.</p>
+			<p align="justify">Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/gardeningsg-community-gardens">here</a> to find out more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion7">
 			<label for="accordion7"><h5>Friends of the Park</h5></label><div>
 			<img align="top" src="/images/FOTP/aywi5915.JPG">
-			<p align="justify">Work with Friends of the Parks to participate in designing and implementing programmes in park spaces and nature areas. Click <a href="https://go.gov.sg/fotp-nk">here</a> to find out more.</p>
+			<p align="justify">Work with Friends of the Parks to participate in designing and implementing programmes in park spaces and nature areas. Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/fotp-nk">here</a> to find out more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion8">
 			<label for="accordion8"><h5>Community Animals</h5></label><div>
 			<img align="top" src="/images/Community%20animals/cam2dog.jpg">
-			<p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a href="https://https://go.gov.sg/community-animals">here</a> to find out more.</p>
+			<p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a rel="noopener noreferrer" target="_blank" href="https://https://go.gov.sg/community-animals">here</a> to find out more.</p>
 		</div></li>
 	</ul>
 </section>	
