@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<img src="/images/Nature%20in%20neighborhood/artmural2__2_.PNG">
+<img src="/images/Nature%20in%20neighborhood/artmural2_Resized.jpg">
 <p>Formed in April 2022, Nature Kakis @ Boon Lay focuses on the <b>3Es</b>:</p>
 <ul>
 <li><b>Engaging</b> residents to enjoy nature as kakis;</li>
