@@ -24,6 +24,6 @@ variant: markdown
 <p>Some events run by the Nature Kakis @ Boon Lay include:</p>
 <ul>
 	<li><a href="/all/nature-kakis-happenings/kayaking-2023-10-29/">Kayaking in Nature @ the Jurong Lake Gardens</a></li>
-	<li><a href="">Mural painting of local biodiversity at the void decks of block 123 southwest somewhere</a></li>
+	<li><a href="">Painting murals of local biodiversity at the void decks of block 123 southwest somewhere</a></li>
 	</ul>
 <p>Keen on joining the Nature Kakis @ Boon Lay? Drop them an email at <a href="mailto:&quot;naturekakis@gmail.com&quot;">naturekakis@gmail.com</a>, or message them via their <a href="https://www.facebook.com/NatureKakis">Facebook</a> or <a href="https://www.instagram.com/naturekakis/">Instagram</a> page.</p>
