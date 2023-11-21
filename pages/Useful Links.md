@@ -40,7 +40,7 @@ description: ""
 	<div class="wrapper">
 		<a class="button" rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/community-animals"><div class="box">
 			<h4>Community Animals</h4>
-			<img src="/images/Community%20animals/cam2dog.jpg"><br>
+			<img src="/images/Community%20animals/CAM_Resized.jpg"><br>
 		</div></a>
 		<a class="button" target="_blank" href="https://go.gov.sg/gardeningsg-community-gardens"><div class="box">
 			<h4>Community in Bloom</h4>
