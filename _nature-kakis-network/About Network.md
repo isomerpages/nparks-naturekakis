@@ -13,7 +13,7 @@ variant: markdown
 
 <p align="justify">Nature Kakis Network is a platform that provides opportunities for members of the public to participate in City in Nature-related initiatives and activities. This initiative is centred at the heart of local communities, with the goal of making nature-related programmes and activities more accessible to the wider community. </p><br>
   
-<img src="/images/DIY%20Nature%20walks/naturewalks2.PNG"><br>
+<img src="/images/DIY%20Nature%20walks/naturewalks2__2_.PNG"><br>
 	
 <p align="justify">We aim to establish Nature Kakis chapters in every precinct that can self-organise and lead programmes for the community and by the community, with support from partners, grassroots organisations and agencies including National Parks Board (NParks) and People’s Association (PA). Each Nature Kakis chapter will be community-driven and bring together individuals who share a passion for nature and conservation.</p>
 
