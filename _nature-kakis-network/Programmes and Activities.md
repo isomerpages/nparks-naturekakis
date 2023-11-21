@@ -46,7 +46,7 @@ variant: markdown
 		</div></li>
 		<li><input type="checkbox" id="accordion6">
 			<label for="accordion6"><h5>Nature in Neighbourhood</h5></label><div>
-			<img align="top" src="/images/Nature%20in%20neighborhood/artmural2_Resized.jpg">
+			<img align="top" src="/images/Nature%20in%20neighborhood/nin1__2_.jpg">
 			<p align="justify">Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion7">
