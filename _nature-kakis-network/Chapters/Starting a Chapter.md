@@ -10,7 +10,7 @@ variant: markdown
 <img src="/images/Groups%20Networking%20Engagement/163f7d98_cac1_445d_aff9_cb56c289a59e__2_.jpg">
 
 <h3>How to start a chapter?</h3>
-<section><p align="justify">There are <b>five stages</b> in this process of starting a new Nature Kakis chapter.</p></section>
+<section><p align="justify">There are <b>five stages</b> in this process of starting a new Nature Kakis chapter.</p><br></section>
 
 <table style="width:100%">
   <tbody><tr>
