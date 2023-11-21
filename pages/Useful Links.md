@@ -44,7 +44,7 @@ description: ""
 		</div></a>
 		<a class="button" target="_blank" href="https://go.gov.sg/gardeningsg-community-gardens"><div class="box">
 			<h4>Community in Bloom</h4>
-			<img src="/images/CIB/thegivinggardenatkimtian_jacquelinechua_2021-11-07%20(6).jpg"><br>
+			<img src="/images/CIB/CommunityInBloom__4_.jpg"><br>
 		</div></a>
 		<a class="button" target="_blank" href="https://go.gov.sg/contemplative-landscape-design-guidelines"><div class="box">
 			<h4>Design Guidelines for Contemplative Landscapes</h4>
