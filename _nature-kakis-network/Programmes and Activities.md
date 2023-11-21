@@ -36,7 +36,7 @@ variant: markdown
 		</div></li>
 		<li><input type="checkbox" id="accordion4">
 			<label for="accordion4"><h5>DIY Nature Walks</h5></label><div>
-			<img align="top" src="/images/DIY%20Nature%20walks/naturewalks2_Resized.jpg">
+			<img align="top" src="/images/DIY%20Nature%20walks/GuideFacilitation_ChekJawa_2023_08_05_JacquelineChua__10__Resized.jpg">
 			<p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/diy-nature-walks">here</a>.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion5">
