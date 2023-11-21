@@ -1,6 +1,6 @@
 title: Nature Kakis Network
 url: https://naturekakisnetwork.nparks.gov.sg
-favicon: /images/nk logo.jpg
+favicon: /images/Nature_Kakis_Logo_Full_Colour.png
 colors:
   primary-color: "#215732"
   secondary-color: "#744f28"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d9mzm4bflht79.amplifyapp.com
 prod: https://master.d9mzm4bflht79.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/Nature_Kakis_Logo_Full_Colour.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
