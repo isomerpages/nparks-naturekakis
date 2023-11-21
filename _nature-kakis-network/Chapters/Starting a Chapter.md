@@ -38,7 +38,6 @@ variant: markdown
     <td>Recognition of Nature Kakis members through appointment letters.</td>
   </tr>
 </tbody></table>
-<br>
 
 <style>
 	a[target="_blank"]:after {
