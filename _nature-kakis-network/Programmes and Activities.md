@@ -27,7 +27,7 @@ variant: markdown
 		<li><input type="checkbox" id="accordion2">
 			<label for="accordion2"><h5>Community Animals</h5></label><div>
 			<img align="top" src="/images/Community%20animals/cam2dog_Resized.jpg">
-			<p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a rel="noopener noreferrer" target="_blank" href="https://https://go.gov.sg/community-animals">here</a> to find out more.</p>
+			<p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/community-animals">here</a> to find out more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
 			<label for="accordion3"><h5>Community in Bloom</h5></label><div>
