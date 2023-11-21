@@ -60,7 +60,7 @@ description: ""
 		</div></a>
 		<a class="button" rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/theraputic-horticulture"><div class="box">
 			<h4>Therapeutic Horticulture</h4>
-			<img src="/images/TH%20Activities/bukit%20gombak%20scent%20bag%20and%20soil%20mixing%20.jpg"><br>
+			<img src="/images/TH%20Activities/TheapeuticHorticulture__2__Resized.jpg"><br>
 		</div></a>
 	</div>
 </section>
