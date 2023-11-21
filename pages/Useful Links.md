@@ -52,7 +52,7 @@ description: ""
 		</div></a>
 		<a class="button" target="_blank" href="https://go.gov.sg/fotp-nk"><div class="box">
 			<h4>Friends of the<br>Park</h4>
-			<img src="/images/fotp2__2_.PNG"><br>
+			<img src="/images/FOTP/fotp2__2_.PNG"><br>
 		</div></a>
 		<a class="button" target="_blank" href="https://go.gov.sg/omt-nk"><div class="box">
 			<h4>OneMillionTrees Movement</h4>
