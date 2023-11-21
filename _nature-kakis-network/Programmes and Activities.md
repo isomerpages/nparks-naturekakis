@@ -42,7 +42,7 @@ variant: markdown
 		<li><input type="checkbox" id="accordion5">
 			<label for="accordion5"><h5>Biodiversity &amp; Wildlife</h5></label><div>
 			<img align="top" src="/images/BioD%20&amp;%20wildlife/biod%20and%20wld.png">
-			<p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents. Click <a href="https://go.gov.sg/citizen-science-nk">here</a> to view the Calendar of Citizen Science Events and <a href="https://go.gov.sg/wildlife-nk">here</a> to read about the wildlife in Singapore.</p>
+			<p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents. Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/citizen-science-nk">here</a> to view the Calendar of Citizen Science Events and <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/wildlife-nk">here</a> to read about the wildlife in Singapore.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion6">
 			<label for="accordion6"><h5>Community in Bloom</h5></label><div>
