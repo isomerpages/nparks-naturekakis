@@ -65,7 +65,7 @@ variant: markdown
 		</tr>
 	</tbody>
 </table>
-<br style="line-height: 10px;">
+<br style="margin-top: 0px">
 
 <section>
 <p align="justify">As part of the initiative, National Parks Board (NParks) will partner with you and provide training to help you and other community leaders set up Nature Kakis chapters in each constituency. Set up a Nature Kakis chapter and play an active role in supporting your community!</p>
