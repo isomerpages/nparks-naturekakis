@@ -21,32 +21,32 @@ variant: markdown
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 			<label for="accordion1"><h5>Therapeutic Horticulture</h5></label><div>
-			<img align="top" src="/images/TH%20Activities/theraputic_horticulture_activity1theraputic_horticulture_activity1.png">
+			<img align="top" src="/images/TH%20Activities/TheapeuticHorticulture__3__Resized.jpg">
 			<p align="justify">Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote mindfulness. Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/theraputic-horticulture">here</a> to find out more.<br></p>
 		</div></li>
 		<li><input type="checkbox" id="accordion2">
 			<label for="accordion2"><h5>OneMillionTrees Movement</h5></label><div>
-			<img align="top" src="/images/OMT/omt%20image.png">
+			<img align="top" src="/images/OMT/treeplantingfamilytree_Resized.jpg">
 			<p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/omt-nk">here</a> to find out more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
 			<label for="accordion3"><h5>Nature in Neighbourhood</h5></label><div>
-			<img align="top" src="/images/Nature%20in%20neighborhood/artmural2.PNG">
+			<img align="top" src="/images/Nature%20in%20neighborhood/natureinneighbourhood_art_mural_Resized.jpg">
 			<p align="justify">Brainstorm and create innovative ways for residents to learn more about nature in your neighbourhood, such as by painting a nature mural or organising games to encourage residents to participate in nature-based activities.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion4">
 			<label for="accordion4"><h5>DIY Nature Walks</h5></label><div>
-			<img align="top" src="/images/DIY%20Nature%20walks/naturewalk%20chek%20jawa.PNG">
+			<img align="top" src="/images/DIY%20Nature%20walks/naturewalks2_Resized.jpg">
 			<p align="justify">Immerse in the flora and fauna of your neighbourhood, parks and gardens by participating in, assisting or even conducting guided walks for residents in your constituency using our DIY trail guides <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/diy-nature-walks">here</a>.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion5">
 			<label for="accordion5"><h5>Biodiversity &amp; Wildlife</h5></label><div>
-			<img align="top" src="/images/BioD%20&amp;%20wildlife/biod%20and%20wld.png">
+			<img align="top" src="/images/BioD%20&amp;%20wildlife/BioDandWildlife__1__Resized.jpg">
 			<p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents. Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/citizen-science-nk">here</a> to view the Calendar of Citizen Science Events and <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/wildlife-nk">here</a> to read about the wildlife in Singapore.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion6">
 			<label for="accordion6"><h5>Community in Bloom</h5></label><div>
-			<img align="top" src="/images/CIB/community%20garden%20at%20spectra%20secondary%20school.jpg">
+			<img align="top" src="/images/CIB/CommunityInBloom__3_.jpg">
 			<p align="justify">Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/gardeningsg-community-gardens">here</a> to find out more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion7">
@@ -56,7 +56,7 @@ variant: markdown
 		</div></li>
 		<li><input type="checkbox" id="accordion8">
 			<label for="accordion8"><h5>Community Animals</h5></label><div>
-			<img align="top" src="/images/Community%20animals/cam2dog.jpg">
+			<img align="top" src="/images/Community%20animals/cam2dog_Resized.jpg">
 			<p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a rel="noopener noreferrer" target="_blank" href="https://https://go.gov.sg/community-animals">here</a> to find out more.</p>
 		</div></li>
 	</ul>
