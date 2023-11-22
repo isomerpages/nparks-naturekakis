@@ -6,9 +6,9 @@ description: ""
 ---
 <h3>Building of Nature Kakis Network</h3>  
 <section>
-<p align="justify">To support the Network, National Parks Board (NParks) will provide training for the Nature Kakis chapters. Nature Kakis will have the skills and knowledge needed to plan and execute successful City in Nature events and activities for their chapters. 
-	
-At our company, we are committed to supporting and training the Nature Kakis Network to ensure that they have the skills and knowledge they need to plan and execute successful events and activities. To achieve this, we have developed an induction series that covers four major topics: environmental conservation, event planning, community engagement, and leadership development. These topics are designed to provide Nature Kakis with a comprehensive understanding of the issues related to environmental conservation and sustainability, as well as the skills they need to plan and execute successful events and activities.
+<p align="justify">To support the Network, National Parks Board (NParks) will provide training for the Nature Kakis chapters. Nature Kakis will have the skills and knowledge needed to plan and execute successful City in Nature events and activities for their chapters.<br>
+
+To facilitate this, NParks has an induction series that covers four major topics: environmental conservation, event planning, community engagement, and leadership development. These topics are designed to provide Nature Kakis with a comprehensive understanding of the issues related to environmental conservation and sustainability, as well as the skills they need to coordinate and organise green events and activities.
 
 In addition to the induction series, we also offer on-the-job training to help Nature Kakis gain practical experience in event planning and management. This training is designed to provide Nature Kakis with hands-on experience in planning and executing events, as well as the opportunity to work with experienced event planners and community leaders.
 
