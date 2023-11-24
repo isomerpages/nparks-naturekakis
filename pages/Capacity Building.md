@@ -30,7 +30,7 @@ description: ""
 			<img align="top" src="/images/DIY Nature walks/GuideFacilitation_ChekJawa_20230805__11__Resized.jpg">
 			<p align="justify">These topic specific sessions are based on chapters’ interests and goes in-depth on nature conservation, human-wildlife matters, local biodiversity, gardening, therapeutic horticulture, and community animals.</p>
 
-<h3>Training opportunities</h3>
+<strong>Training opportunities</strong>
 <p align="justify">Nature Kakis will receive hands-on training in event planning and facilitation, and the opportunity to work with experienced experts and community leaders to learn from each other.</p>
 <p align="justify">Chapters may also learn more about engaging their community through targeted trainings sessions with subject experts. The training sessions will be arranged after the expression of interest by the chapters.</p>
 <div class="isomer-image-wrapper"><img alt="" src="/images/DIY Nature walks/GuideFacilitation_ChekJawa_20230805__1__Resized.jpg"></div>
@@ -46,4 +46,4 @@ description: ""
 <h3>Next Steps</h3>
 <p align="justify">As Nature Kakis progress through the training programmes, they will develop their skills and advance, enabling them to bring more City in Nature initiatives into the heartlands and lead these activities for the community, by the community.</p>
 
-<p align="justify">Established Nature Kakis chapters have the added benefit of being able to apply for the <a href="/seed-fund/about/" rel="noopener noreferrer nofollow" target="_blank">Nature Kakis Seed Fund</a> to fund and facilitate the preparation and implementation of their programmes. By leveraging the Seed Fund and planning ahead, chapters can make a meaningful impact in their communitie.</p>
+<p align="justify">Established Nature Kakis chapters can apply for the <a href="/seed-fund/about/" rel="noopener noreferrer nofollow" target="_blank">Nature Kakis Seed Fund</a> to fund and facilitate the preparation and implementation of their programmes. By leveraging the Seed Fund and planning ahead, chapters can make a meaningful impact in their communitie.</p>
