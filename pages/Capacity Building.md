@@ -33,11 +33,8 @@ description: ""
 			<label for="accordion2"><h5>Topic specific training sessions</h5></label><div>
 			<img align="top" src="/images/Groups Networking Engagement/networkingtalk.jpg">
 			<p align="justify">These topic specific sessions are based on chapters’ interests and goes in-depth on nature conservation, human-wildlife matters, local biodiversity, gardening, therapeutic horticulture, and community animals.</p>
-		</div></li>
-</ul>
 
-
-<h4>Training opportunities</h4>
+<h3>Training opportunities</h3>
 <p align="justify">Nature Kakis will receive hands-on training in event planning and facilitation, and the opportunity to work with experienced experts and community leaders to learn from each other.</p>
 <p align="justify">Chapters may also learn more about engaging their community through targeted trainings sessions with subject experts. The training sessions will be arranged after the expression of interest by the chapters.</p>
 <div class="isomer-image-wrapper"><img alt="" src="/images/DIY Nature walks/GuideFacilitation_ChekJawa_20230805__1__Resized.jpg"></div>
@@ -47,8 +44,10 @@ description: ""
 <p align="justify">See below for the Nature Kakis programmes with a brief overview of the activity.</p>
 
 <table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Activity</strong></p></td><td rowspan="1" colspan="1"><p align="justify"><strong>What can Nature Kakis do?</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p align="justify"><strong>DIY Nature Walks</strong></p></td><td rowspan="1" colspan="1"><p align="justify">Participate in organised training walks to learn how to be a better Nature Guide. Certain exciting venues such as Pulau Ubin and our Nature Reserves may be featured.</p></td></tr><tr><td rowspan="1" colspan="1"><p align="justify"><strong>Community Animals</strong></p></td><td rowspan="1" colspan="1"><p align="justify">Participate in a training programme with the Animal Veterinary Service at NParks to learn more about issues surrounding community animals and pets in Singapore and be equipped with skills to help address them.</p></td></tr><tr><td rowspan="1" colspan="1"><p align="justify"><strong>Biodiversity and Wildlife</strong></p></td><td rowspan="1" colspan="1"><p align="justify">Participate in training to learn how to facilitate such citizen science activities.</p></td></tr><tr><td rowspan="1" colspan="1"><p align="justify"><strong>OneMillionTrees Movement</strong></p></td><td rowspan="1" colspan="1"><p align="justify">Participate in the training programme to become an OneMillionTrees facilitator to run tree planting activities within the community</p></td></tr></tbody></table><p><em>* The duration and contents of the training programmes will be customized according to the needs each chapter.</em></p><div class="isomer-image-wrapper"><img alt="" src="/images/DIY Nature walks/GuideFacilitation_ChekJawa_20230805__11__Resized.jpg"></div>
+		</div></li>
+</ul>
 
-<h4>Next Steps</h4>
+<h3>Next Steps</h3>
 <p align="justify">As Nature Kakis progress through the training programmes, they will develop their skills and advance, enabling them to bring more City in Nature initiatives into the heartlands and lead these activities for the community, by the community.</p>
 
 <p align="justify">Established Nature Kakis chapters have the added benefit of being able to apply for the <a href="/seed-fund/about/" rel="noopener noreferrer nofollow" target="_blank">Nature Kakis Seed Fund</a> to fund and facilitate the preparation and implementation of their programmes. By leveraging the Seed Fund and planning ahead, chapters can make a meaningful impact in their communitie.</p>
