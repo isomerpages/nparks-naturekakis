@@ -24,13 +24,12 @@ description: ""
 		</div></li>
 		<li><input type="checkbox" id="accordion2">
 			<label for="accordion2"><h5>Topic specific training sessions</h5></label><div>
-			<img align="top" src="/images/Community%20animals/cam2dog_Resized.jpg">
+			<img align="top" src="/images/Groups Networking Engagement/networkingtalk.jpg">
 			<p align="justify">These topic specific sessions are based on chapters’ interests and goes in-depth on nature conservation, human-wildlife matters, local biodiversity, gardening, therapeutic horticulture, and community animals.</p>
 		</div></li>
 </ul>
 
-<ul data-tight="true" class="tight"><li><p align="justify"><strong>Nature Kakis 101 Induction programme</strong> series covering four topics annually on <em>biodiversity and wildlife; arboriculture; horticulture; and community engagement</em></p><p align="justify">These topics are designed to provide Nature Kakis with a comprehensive understanding of the issues related to nature and the community, as well as the skills they need to lead and facilitate City in Nature related activities.</p></li><li><p align="justify"><strong>Topic specific training sessions</strong> based on Nature Kakis chapters’ interests</p>
-<p align="justify">The topic specific sessions are based on chapters’ interests and goes in-depth on nature conservation, human-wildlife matters, local biodiversity, gardening, therapeutic horticulture, and community animals.</p></li></ul><div class="isomer-image-wrapper"><img alt="" src="/images/Groups Networking Engagement/networkingtalk.jpg"></div>
+
 <h4>Overview of the Nature Kakis 101 Induction Programme Series</h4>
 <p align="justify">Through the induction series, we aim to equip Nature Kakis with the skills and knowledge they need to plan and execute City in Nature related activities for their chapters.</p>
 <p align="justify">The diagram below illustrates the overall timeline and framework to help train Nature Kakis in both theoretical and practical skills to aid in their programmes.</p><div class="isomer-image-wrapper"><img alt="" src="/images/timelinenkind.png"></div>
