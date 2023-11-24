@@ -20,9 +20,6 @@ description: ""
 			<label for="accordion1"><h5>Nature Kakis 101 Induction programme</h5></label><div>
 			<img align="top" src="/images/Groups Networking Engagement/Networking__1__Resized_2.jpg">
 			<p align="justify">This Induction programme series covers four topics annually on <em>biodiversity and wildlife; arboriculture; horticulture; and community engagement.</em> These topics are designed to provide Nature Kakis with a comprehensive understanding of the issues related to nature and the community, as well as the skills they need to lead and facilitate City in Nature related activities.</p>
-			<h3>Overview of the Nature Kakis 101 Induction Programme Series</h3>
-<p align="justify">Through the induction series, we aim to equip Nature Kakis with the skills and knowledge they need to plan and execute City in Nature related activities for their chapters.</p>
-
 <p align="justify">The diagram below illustrates the overall timeline and framework to help train Nature Kakis in both theoretical and practical skills to aid in their programmes.</p><div class="isomer-image-wrapper"><img alt="" src="/images/timelinenkind.png"></div>
 
 <p align="justify">* <em>The framework above serves as a guide; actual</em> <em>schedule of topics may vary yearly.</em></p>
