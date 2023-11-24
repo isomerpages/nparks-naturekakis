@@ -31,8 +31,7 @@ description: ""
 			<p align="justify">These topic specific sessions are based on chapters’ interests and goes in-depth on nature conservation, human-wildlife matters, local biodiversity, gardening, therapeutic horticulture, and community animals.</p>
 
 <strong>Training opportunities</strong>
-<p align="justify">Nature Kakis will receive hands-on training in event planning and facilitation, and the opportunity to work with experienced experts and community leaders to learn from each other.</p>
-<p align="justify">Chapters may also learn more about engaging their community through targeted trainings sessions with subject experts. The training sessions will be arranged after the expression of interest by the chapters.</p>
+<p align="justify">Nature Kakis will receive hands-on training in event planning and facilitation, and the opportunity to work with experienced experts and community leaders to learn from each other. Chapters may also learn more about engaging their community through targeted trainings sessions with subject experts. The training sessions will be arranged after the expression of interest by the chapters.</p>
 <div class="isomer-image-wrapper"><img alt="" src="/images/DIY Nature walks/GuideFacilitation_ChekJawa_20230805__1__Resized.jpg"></div>
 <p align="justify"><strong>Structured training programmes for Nature Kakis</strong></p>
 <p align="justify">This suite of training opportunities is designed by the various NParks divisions specifically for the Nature Kakis network, serving to equip Nature Kakis practical skills and deeper knowledge of specific programmes.</p>
