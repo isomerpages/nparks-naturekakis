@@ -18,15 +18,16 @@ description: ""
 <ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 			<label for="accordion1"><h5>Nature Kakis 101 Induction programme</h5></label><div>
-			<img align="top" src="/images/BioD%20&amp;%20wildlife/BioDandWildlife__1__Resized.jpg">
-			<p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents. Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/citizen-science-nk">here</a> to view the Calendar of Citizen Science Events and <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/wildlife-nk">here</a> to read about the wildlife in Singapore.</p>
-		</div></li>
+			<img align="top" src="/images/Groups Networking Engagement/Networking__1__Resized_2.jpg">
+			<p align="justify">This Induction programme series covers four topics annually on <em>biodiversity and wildlife; arboriculture; horticulture; and community engagement.</em></p><em><br>
+			<p align="justify">These topics are designed to provide Nature Kakis with a comprehensive understanding of the issues related to nature and the community, as well as the skills they need to lead and facilitate City in Nature related activities.</p>
+		</em></div></li><em>
 		<li><input type="checkbox" id="accordion2">
 			<label for="accordion2"><h5>Community Animals</h5></label><div>
 			<img align="top" src="/images/Community%20animals/cam2dog_Resized.jpg">
 			<p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/community-animals">here</a> to find out more.</p>
 		</div></li>
-</ul>
+</em></ul><em>
 
 <ul data-tight="true" class="tight"><li><p align="justify"><strong>Nature Kakis 101 Induction programme</strong> series covering four topics annually on <em>biodiversity and wildlife; arboriculture; horticulture; and community engagement</em></p><p align="justify">These topics are designed to provide Nature Kakis with a comprehensive understanding of the issues related to nature and the community, as well as the skills they need to lead and facilitate City in Nature related activities.</p></li><li><p align="justify"><strong>Topic specific training sessions</strong> based on Nature Kakis chapters’ interests</p>
 <p align="justify">The topic specific sessions are based on chapters’ interests and goes in-depth on nature conservation, human-wildlife matters, local biodiversity, gardening, therapeutic horticulture, and community animals.</p></li></ul><div class="isomer-image-wrapper"><img alt="" src="/images/Groups Networking Engagement/networkingtalk.jpg"></div>
@@ -50,4 +51,4 @@ description: ""
 <h4>Next Steps</h4>
 <p align="justify">As Nature Kakis progress through the training programmes, they will develop their skills and advance, enabling them to bring more City in Nature initiatives into the heartlands and lead these activities for the community, by the community.</p>
 
-<p align="justify">Established Nature Kakis chapters have the added benefit of being able to apply for the <a href="/seed-fund/about/" rel="noopener noreferrer nofollow" target="_blank">Nature Kakis Seed Fund</a> to fund and facilitate the preparation and implementation of their programmes. By leveraging the Seed Fund and planning ahead, chapters can make a meaningful impact in their communitie.</p>
+<p align="justify">Established Nature Kakis chapters have the added benefit of being able to apply for the <a href="/seed-fund/about/" rel="noopener noreferrer nofollow" target="_blank">Nature Kakis Seed Fund</a> to fund and facilitate the preparation and implementation of their programmes. By leveraging the Seed Fund and planning ahead, chapters can make a meaningful impact in their communitie.</p></em>
