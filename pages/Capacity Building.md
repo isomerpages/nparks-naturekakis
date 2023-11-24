@@ -37,13 +37,6 @@ description: ""
 </ul>
 
 
-<h4>Overview of the Nature Kakis 101 Induction Programme Series</h4>
-<p align="justify">Through the induction series, we aim to equip Nature Kakis with the skills and knowledge they need to plan and execute City in Nature related activities for their chapters.</p>
-<p align="justify">The diagram below illustrates the overall timeline and framework to help train Nature Kakis in both theoretical and practical skills to aid in their programmes.</p><div class="isomer-image-wrapper"><img alt="" src="/images/timelinenkind.png"></div>
-<p align="justify">* <em>The framework above serves as a guide; actual</em> <em>schedule of topics may vary yearly.</em></p>
-<p align="justify"><strong>Nature Kakis 101 Induction Talk Series</strong></p>
-<p align="justify">This programme series is designed to give Nature Kakis a launchpad into the work that NParks does and the role that Nature Kakis can play with regards to selected Nature Kakis programmes. Depending on the topic, the sessions could include hands-on interactive elements to help Nature Kakis internalise the content and advice shared by the speakers. The programmes will be scheduled quarterly with each catering to a different topic. Nature Kakis are encouraged to attend this programmes to learn more about new topics, gain deeper insight into NParks programmes, and ask any questions they might have to our esteemed speakers.</p><div class="isomer-image-wrapper"><img alt="" src="/images/Groups Networking Engagement/Networking__1__Resized_2.jpg"></div>
-
 <h4>Training opportunities</h4>
 <p align="justify">Nature Kakis will receive hands-on training in event planning and facilitation, and the opportunity to work with experienced experts and community leaders to learn from each other.</p>
 <p align="justify">Chapters may also learn more about engaging their community through targeted trainings sessions with subject experts. The training sessions will be arranged after the expression of interest by the chapters.</p>
