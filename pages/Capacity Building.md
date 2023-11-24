@@ -4,6 +4,13 @@ permalink: /capacity-building/
 variant: markdown
 description: ""
 ---
+<style>
+  a[target="_blank"]:after {
+    content: none;
+    margin: 0 3px 0 5px;
+  }
+</style>
+
 <h3>Building of Nature Kakis Network</h3><div class="isomer-image-wrapper">
 <img alt="" src="/images/Groups Networking Engagement/Networking__1__Resized_2.jpg"></div>
 <p align="justify">To support Nature Kakis chapters in their programmes, resources, subject matter expertise and trainings will be provided to the Nature Kakis chapters. National Parks Board (NParks) has developed a comprehensive framework for capacity building consisting of various opportunities in different mediums. The Nature Kakis Capacity Building Framework includes:</p>
