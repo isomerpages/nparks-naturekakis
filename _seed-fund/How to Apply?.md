@@ -13,9 +13,10 @@ a[target="_blank"]:after {
 details > summary {
 	text-indent: -22px;
 	margin-left: 22px;
+	font-size: 16px;
 	}
 	
-details > ol li {
+details > ul li {
 	margin-left: 22px;
 	}
 </style>
@@ -61,7 +62,7 @@ details > ol li {
 <img src="/images/Seed%20Fund/seed%20fund%205.PNG"><br>
 
 <details>
-	<summary><b>Documents Required for Reimbursement to be submitted to the Engagement Manager:</b></summary>
+	<summary><b>Documents Required for Reimbursement to be submitted to the Engagement Manager</b></summary>
 		<ul align="justify">
 			<li>Completed Reimbursement Form</li>
 			<li>Tax invoices and receipts/proof of payment that show final amount paid by applicant to vendors</li>
