@@ -26,10 +26,6 @@ details > p {
 details[open] > summary {
 	font-weight: 800;
 	}
-
-details[closed] > summary {
-	font-weight: 800;
-	}
 </style>
 
 <section>
