@@ -21,6 +21,11 @@ tr:hover {
 tr:hover a {
 		color: black !important;
 	}
+	
+table {
+	width: 95%;
+	height: auto;
+	}
 </style>
 
 <section>
