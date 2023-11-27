@@ -6,7 +6,7 @@ description: ""
 ---
 <style>
 th {
-	background-color: #7a9a01;
+	background-color: #215732;
 		color: white !important;
 	}
 
