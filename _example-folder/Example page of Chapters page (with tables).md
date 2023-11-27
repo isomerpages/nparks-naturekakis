@@ -4,6 +4,25 @@ permalink: /example-folder/example-chapters/
 variant: markdown
 description: ""
 ---
+<style>
+th {
+	background-color: #7a9a01;
+		color: white !important;
+	}
+
+tr:nth-child(odd) {
+   background-color: #f2f2f2;
+}
+	
+tr:hover {
+	background-color: #ffcb00;
+	}
+	
+tr:hover a {
+		color: black !important;
+	}
+</style>
+
 <section>
 	<img src="/images/BioD%20&amp;%20wildlife/BioDandWildlife__2__Resized.jpg">
 	<p align="justify">The Nature Kakis chapters are part of a network of passionate volunteers that come together to run <a href="/join-our-activities/">grounds-up activities</a> that involve, engage, and inspire communities to care for our City In Nature.</p> 
