@@ -47,7 +47,7 @@ details[open] > summary {
 			</div></li>
 			<li><input type="checkbox" id="accordion2">
 				<label for="accordion2"><h5>Topic specific training sessions</h5></label><div>
-					<img align="top" src="/images/DIY Nature walks/GuideFacilitation_ChekJawa_20230805__11__Resized.jpg">
+					<img align="top" src="/images/DIY%20Nature%20walks/IMG_20231127_131148_914.JPG">
 					<p align="justify">These topic specific sessions are based on chapters’ interests and goes in-depth on nature conservation, human-wildlife matters, local biodiversity, gardening, therapeutic horticulture, and community animals.</p>
 					<details>
 						<summary>Training opportunities</summary>
