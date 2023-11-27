@@ -60,7 +60,7 @@ details > img {
 							<p align="justify">This suite of training opportunities is designed by the various NParks divisions specifically for the Nature Kakis network, serving to equip Nature Kakis practical skills and deeper knowledge of specific programmes.</p>
 							<p align="justify">All trainings provided by NParks are for the purpose of enabling Nature Kakis to conduct self-run activities when they are capable to do so. As such, Nature Kakis chapters are encouraged to conduct nature activities for their community after being equipped during the trainings.</p>
 							<p align="justify">See below for the Nature Kakis programmes with a brief overview of the activity.</p>
-							<table style="margin-left: 22px; width:823.33px">
+							<table style="margin-left: 22px; width:97%">
 								<tbody>
 									<tr>
 										<td rowspan="1" colspan="1"><p><strong>Activity</strong></p></td>
@@ -85,7 +85,7 @@ details > img {
 								</tbody>
 						</table>
 						<p><em>* The duration and contents of the training programmes will be customized according to the needs each chapter.</em></p>
-						<img style="margin-left: 22px; width:823.33px; height: auto" src="/images/Groups Networking Engagement/networkingtalk.jpg">
+						<img style="margin-left: 22px; width:97%; height: auto" src="/images/Groups Networking Engagement/networkingtalk.jpg">
 					</details>
 			</div></li>
 	</ul>
