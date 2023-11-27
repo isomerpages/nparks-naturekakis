@@ -19,36 +19,99 @@ description: ""
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 			<label for="accordion1"><h4>Northwest CDC</h4></label><div>
-				<ul>
-					<li><a href="/all/chapters/nee-soon-south/">Nee Soon South</a></li>
-				</ul>
+				<table>
+					<thead>
+							<tr><th>Chapter</th>
+							<th>Email</th>
+					</tr></thead>
+					<tbody>
+						<tr>
+							<td><a href="/all/chapters/nee-soon-south/">Nee Soon South</a></td>
+							<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
+						</tr>
+					</tbody>
+			</table>
 		</div></li>
 		<li><input type="checkbox" id="accordion2">
 			<label for="accordion2"><h4>Southwest CDC</h4></label><div>
-				<ul>
-					<li><a href="/all/chapters/boon-lay/">Boon Lay</a></li>
-					<li><a href="/all/chapters/bukit-gombak/">Bukit Gombak</a></li>
-					<li><a href="/all/chapters/taman-jurong/">Taman Jurong</a></li>
-					<li><a href="/all/chapters/telok-blangah/">Telok Blangah</a></li>
-				</ul>
+				<table>
+					<thead>
+							<tr><th>Chapter</th>
+							<th>Email</th>
+					</tr></thead>
+					<tbody>
+						<tr>
+							<td><a href="/all/chapters/boon-lay/">Boon Lay</a></td>
+							<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
+						</tr>
+						<tr>
+							<td><a href="/all/chapters/bukit-gombak/">Bukit Gombak</a></td>
+							<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
+						</tr>
+						<tr>
+							<td><a href="/all/chapters/taman-jurong/">Taman Jurong</a></td>
+							<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
+						</tr>
+						<tr>
+							<td><a href="/all/chapters/telok-blangah/">Telok Blangah</a></td>
+							<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
+					</tr>
+				</tbody>
+			</table>
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
 			<label for="accordion3"><h4>Central Singapore CDC</h4></label><div>
-				<ul>
-					<li><a href="">Buona Vista</a></li>
-					<li><a href="/all/chapters/marymount/">Marymount</a></li>
-					<li><a href="/all/chapters/moulmein-cainhill/">Moulmein-Cairnhill</a></li>
-					<li><a href="/all/chapters/tanjong-pagar-tiong-bahru/">Tanjong Pagar-Tiong Bahru</a></li>
-				</ul>
+				<table>
+					<thead>
+							<tr><th>Chapter</th>
+							<th>Email</th>
+					</tr></thead>
+					<tbody>
+						<tr>
+							<td><a href="">Buona Vista</a></td>
+							<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
+						</tr>
+						<tr>
+							<td><a href="/all/chapters/marymount/">Marymount</a></td>
+							<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
+						</tr>
+						<tr>
+							<td><a href="/all/chapters/moulmein-cainhill/">Moulmein-Cairnhill</a></td>
+							<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
+						</tr>
+						<tr>
+							<td><a href="/all/chapters/tanjong-pagar-tiong-bahru/">Tanjong Pagar-Tiong Bahru</a></td>
+							<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
+						</tr>
+					</tbody>
+				</table>
 		</div></li>
 		<li><input type="checkbox" id="accordion4">
 			<label for="accordion4"><h4>Northeast CDC</h4></label><div>
-				<ul>
-					<li><a href="/all/chapters/pasir-ris-central/">Pasir Ris Central</a></li>
-					<li><a href="/all/chapters/punggol-coast/">Punggol Coast</a></li>
-					<li><a href="/all/chapters/punggol-west/">Punggol West</a></li>
-					<li><a href="/all/chapters/tampines-west/">Tampines West</a></li>
-				</ul>
+				<table>
+					<thead>
+							<tr><th>Chapter</th>
+							<th>Email</th>
+					</tr></thead>
+					<tbody>
+						<tr>
+							<td><a href="/all/chapters/pasir-ris-central/">Pasir Ris Central</a></td>
+							<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
+						</tr>
+						<tr>
+							<td><a href="/all/chapters/punggol-coast/">Punggol Coast</a></td>
+							<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
+						</tr>
+						<tr>
+							<td><a href="/all/chapters/punggol-west/">Punggol West</a></td>
+							<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
+						</tr>
+						<tr>
+							<td><a href="/all/chapters/tampines-west/">Tampines West</a></td>
+							<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
+						</tr>
+					</tbody>
+				</table>
 		</div></li>
 	</ul>
 	<p align="justify">Don't see your district here? <a href="/nature-kakis-network/chapters/starting-a-chapter/">Start a chapter in your area</a> today!</p>
