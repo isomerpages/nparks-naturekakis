@@ -17,7 +17,6 @@ details {
 details > summary {
 	text-indent:-22px;
 	margin-left:22px;
-	font-size: 16px;
 	}
 	
 details > ul li {
