@@ -85,7 +85,7 @@ details > img {
 								</tbody>
 						</table>
 						<p><em>* The duration and contents of the training programmes will be customized according to the needs each chapter.</em></p>
-						<img style="margin-left: 22px" src="/images/Groups Networking Engagement/networkingtalk.jpg">
+						<img style="margin-left: 22px; width:823.33px; height: auto" src="/images/Groups Networking Engagement/networkingtalk.jpg">
 					</details>
 			</div></li>
 	</ul>
