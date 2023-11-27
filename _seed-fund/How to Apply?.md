@@ -44,7 +44,7 @@ details > ul li {
 <img src="/images/Seed%20Fund/seed%20fund%201.png"><br>
 
 <details>
-	<summary><b>Documents Required for Seed Fund Application to be submitted to the Engagement Manager</b></summary>
+	<summary><strong>Documents Required for Seed Fund Application to be submitted to the Engagement Manager</strong></summary>
 	<ul align="justify">
 		<li>Completed Application Form</li>
 		<li>Document showing estimated cost of items (e.g., Quotations from vendors/suppliers with itemised breakdown</li>
@@ -60,7 +60,7 @@ details > ul li {
 <img src="/images/Seed%20Fund/seed%20fund%205.PNG"><br>
 
 <details>
-	<summary><b>Documents Required for Reimbursement to be submitted to the Engagement Manager</b></summary>
+	<summary><strong>Documents Required for Reimbursement to be submitted to the Engagement Manager</strong></summary>
 	<ul align="justify">
 		<li>Completed Reimbursement Form</li>
 		<li>Tax invoices and receipts/proof of payment that show final amount paid by applicant to vendors</li>
