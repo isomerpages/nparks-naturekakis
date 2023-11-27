@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p></p>
+<p>Want to join the Tampines Go Green? Email them at <a href="mailto:&quot;tbc&quot;">[TBC]</a> to find out more!</p>
