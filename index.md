@@ -14,9 +14,9 @@ sections:
         - title: Nature Kakis Happenings
           description: Read about our past activities
           url: /all/nature-kakis-happenings/
-        - title: Join our activities
-          description: Volunteer opportunities here
-          url: /join-our-activities/
+        - title: Be a Nature Kaki
+          description: View the Chapters here
+          url: /nature-kakis-network/nature-kakis-chapters/our-chapters/
       variant: center
   - infopic:
       title: Nature Kakis Network
