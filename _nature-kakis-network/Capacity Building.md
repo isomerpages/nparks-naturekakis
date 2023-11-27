@@ -14,7 +14,7 @@ details {
 	cursor: pointer;
 	}
     
-summary {
+details > summary {
 	text-indent: -22px;
 	margin-left: 22px;
 	}
@@ -54,7 +54,6 @@ details[open] > summary {
 							<p align="justify">Nature Kakis will receive hands-on training in event planning and facilitation, and the opportunity to work with experienced experts and community leaders to learn from each other. Chapters may also learn more about engaging their community through targeted trainings sessions with subject experts. The training sessions will be arranged after the expression of interest by the chapters.</p>
 							<img style="margin-left: 22px; width:97%; height: auto" src="/images/DIY Nature walks/GuideFacilitation_ChekJawa_20230805__1__Resized.jpg">
 					</details>
-					<br>
 					<details>
 						<summary>Structured training programmes for Nature Kakis</summary>
 							<p align="justify">This suite of training opportunities is designed by the various NParks divisions specifically for the Nature Kakis network, serving to equip Nature Kakis practical skills and deeper knowledge of specific programmes.</p>
