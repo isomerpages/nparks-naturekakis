@@ -10,17 +10,17 @@ description: ""
     margin: 0 3px 0 5px;
   }
 	
-	details {  
-  cursor: pointer;
-  }  
+	details {
+		cursor: pointer;
+	}
     
-	details > summary {  
-  text-indent:-22px;
-  margin-left:22px;
+	details > summary {
+ text-indent:-22px;
+ margin-left:22px;
 	}
 
-	details > p {  
-  margin-left: 22px;
+	details > p {
+ margin-left: 22px;
 	}
 </style>
 
