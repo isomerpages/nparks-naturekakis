@@ -14,7 +14,7 @@ details {
 	cursor: pointer;
 	}
     
-details summary {
+ul details > summary {
 	text-indent: -22px;
 	margin-left: 22px;
 	}
