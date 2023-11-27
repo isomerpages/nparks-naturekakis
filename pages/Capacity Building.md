@@ -52,7 +52,7 @@ details > img {
 					<details>
 						<summary><strong>Training opportunities</strong></summary>
 							<p align="justify">Nature Kakis will receive hands-on training in event planning and facilitation, and the opportunity to work with experienced experts and community leaders to learn from each other. Chapters may also learn more about engaging their community through targeted trainings sessions with subject experts. The training sessions will be arranged after the expression of interest by the chapters.</p>
-							<img style="padding-left: 22px" src="/images/DIY Nature walks/GuideFacilitation_ChekJawa_20230805__1__Resized.jpg">
+							<img style="margin-left: 22px" src="/images/DIY Nature walks/GuideFacilitation_ChekJawa_20230805__1__Resized.jpg">
 					</details>
 					<br>
 					<details>
@@ -60,7 +60,7 @@ details > img {
 							<p align="justify">This suite of training opportunities is designed by the various NParks divisions specifically for the Nature Kakis network, serving to equip Nature Kakis practical skills and deeper knowledge of specific programmes.</p>
 							<p align="justify">All trainings provided by NParks are for the purpose of enabling Nature Kakis to conduct self-run activities when they are capable to do so. As such, Nature Kakis chapters are encouraged to conduct nature activities for their community after being equipped during the trainings.</p>
 							<p align="justify">See below for the Nature Kakis programmes with a brief overview of the activity.</p>
-							<table style="margin-left: 22px">
+							<table style="margin-left: 22px; width:823.33px">
 								<tbody>
 									<tr>
 										<td rowspan="1" colspan="1"><p><strong>Activity</strong></p></td>
