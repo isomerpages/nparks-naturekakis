@@ -35,7 +35,6 @@ details > ul li {
 	<li>Application stage</li>
 	<li>Reimbursement stage</li>
 </ol>
-<br>
 
 <h4>Stage 1: Application</h4>
 <p align="justify">After approaching the NParks Engagement manager, they will contact you to guide you on the process, including the submission of relevant application forms and supporting documents for approval prior to purchase of items and/or commencing your activities. You are required to submit your application before any procurement of items/ volunteer training begins.</p>
@@ -52,9 +51,8 @@ details > ul li {
 		<li>Proposed design of Nature Kakis identity items, publicity collaterals and appreciation tokens/trophies, including details of the items</li>
 	</ul>
 </details>
-	<p align="justify"><b>Alteration</b><br>
-	NParks’ prior approval should be sought for any changes to the submitted proposal as deviation from the approved plan may affect the Seed Fund approval and subsequent reimbursement.</p>
-	<br>
+
+<p align="justify"><b>Alteration</b><br>NParks’ prior approval should be sought for any changes to the submitted proposal as deviation from the approved plan may affect the Seed Fund approval and subsequent reimbursement.</p><br>
 	
 <h4>Stage 2: Reimbursement</h4>
 <p align="justify">Once the Nature Kakis activities/events and/or the production of items are completed, please contact your Engagement Manager to begin the reimbursement process.</p>
