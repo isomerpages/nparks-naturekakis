@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p></p>
+<p>Want to join the Nature Buddies @ Tanjong Pagar-Tiong Bahru? Email them at <a href="mailto:&quot;nbuddiestptb@gmail.com&quot;">nbuddiestptb@gmail.com</a> to find out more!</p>
