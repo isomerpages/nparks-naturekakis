@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p></p>
+<p>Want to join the Pasir Ris Central Nature Kakis? Email them at <a href="mailto:&quot;tjgreenheart@gmail.com&quot;">tjgreenheart@gmail.com</a> to find out more!</p>
