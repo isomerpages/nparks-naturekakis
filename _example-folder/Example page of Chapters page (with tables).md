@@ -23,8 +23,8 @@ description: ""
 					<li><a href="/all/chapters/nee-soon-south/">Nee Soon South</a></li>
 				</ul>
 		</div></li>
-		<li><input type="checkbox" id="accordion1">
-			<label for="accordion1"><h4>Southwest CDC</h4></label><div>
+		<li><input type="checkbox" id="accordion2">
+			<label for="accordion2"><h4>Southwest CDC</h4></label><div>
 				<ul>
 					<li><a href="/all/chapters/boon-lay/">Boon Lay</a></li>
 					<li><a href="/all/chapters/bukit-gombak/">Bukit Gombak</a></li>
@@ -32,8 +32,8 @@ description: ""
 					<li><a href="/all/chapters/telok-blangah/">Telok Blangah</a></li>
 				</ul>
 		</div></li>
-		<li><input type="checkbox" id="accordion1">
-			<label for="accordion1"><h4>Central Singapore CDC</h4></label><div>
+		<li><input type="checkbox" id="accordion3">
+			<label for="accordion3"><h4>Central Singapore CDC</h4></label><div>
 				<ul>
 					<li><a href="">Buona Vista</a></li>
 					<li><a href="/all/chapters/marymount/">Marymount</a></li>
@@ -41,8 +41,8 @@ description: ""
 					<li><a href="/all/chapters/tanjong-pagar-tiong-bahru/">Tanjong Pagar-Tiong Bahru</a></li>
 				</ul>
 		</div></li>
-		<li><input type="checkbox" id="accordion1">
-			<label for="accordion1"><h4>Central Singapore CDC</h4></label><div><h4>Northeast CDC</h4>
+		<li><input type="checkbox" id="accordion4">
+			<label for="accordion4"><h4>Northeast CDC</h4></label><div>
 				<ul>
 					<li><a href="/all/chapters/pasir-ris-central/">Pasir Ris Central</a></li>
 					<li><a href="/all/chapters/punggol-coast/">Punggol Coast</a></li>
