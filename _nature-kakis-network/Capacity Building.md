@@ -41,7 +41,7 @@ details > p {
 			<p align="justify">This programme series is designed to give Nature Kakis a launchpad into the work that NParks does and the role that Nature Kakis can play with regards to selected Nature Kakis programmes. Depending on the topic, the sessions could include hands-on interactive elements to help Nature Kakis internalise the content and advice shared by the speakers. The programmes will be scheduled quarterly with each catering to a different topic. Nature Kakis are encouraged to attend this programmes to learn more about new topics, gain deeper insight into NParks programmes, and ask any questions they might have to our esteemed speakers.</p>
 	</div></li>
 	<li><input type="checkbox" id="accordion2">
-			<label for="accordion2">Topic specific training sessions</label><div>
+		<label for="accordion2">Topic specific training sessions</label><div>
 			<img align="top" src="/images/DIY%20Nature%20walks/IMG_20231127_131148_914.JPG">
 			<p align="justify">These topic specific sessions are based on chapters’ interests and goes in-depth on nature conservation, human-wildlife matters, local biodiversity, gardening, therapeutic horticulture, and community animals.</p>
 			<details>
@@ -80,10 +80,10 @@ details > p {
 					</tbody>
 				</table>
 				<p><em>* The duration and contents of the training programmes will be customized according to the needs each chapter.</em></p>
-						<img style="margin-left: 22px; width:97%; height: auto" src="/images/Groups Networking Engagement/networkingtalk.jpg">
+				<img style="margin-left: 22px; width:97%; height: auto" src="/images/Groups Networking Engagement/networkingtalk.jpg">
 			</details>
-			</div></li>
-	</ul>
+	</div></li>
+</ul>
 
 <section>
 	<h3>Next Steps</h3>
