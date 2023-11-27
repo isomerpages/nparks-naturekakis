@@ -2,9 +2,9 @@ collections:
   nature-kakis-network:
     output: true
     order:
-      - Capacity Building.md
       - About Network.md
       - Programmes and Activities.md
       - Chapters/.keep
       - Chapters/Our Chapters.md
       - Chapters/Starting a Chapter.md
+      - Capacity Building.md
