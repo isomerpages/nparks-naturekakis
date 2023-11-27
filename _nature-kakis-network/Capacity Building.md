@@ -14,17 +14,13 @@ details {
 	cursor: pointer;
 	}
     
-details > summary {
+details summary {
 	text-indent: -22px;
 	margin-left: 22px;
 	}
 
 details > p {
 	margin-left: 22px;
-	}
-	
-details[open] > summary {
-	font-weight: 800;
 	}
 </style>
 
