@@ -21,11 +21,6 @@ tr:hover {
 tr:hover a {
 		color: black !important;
 	}
-	
-table {
-	width: 95%;
-	height: auto;
-	}
 </style>
 
 <section>
@@ -43,7 +38,7 @@ table {
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 			<label for="accordion1"><h4>Northwest CDC</h4></label><div>
-				<table>
+				<table style="width: 100%; height: auto">
 					<thead>
 							<tr><th>Chapter</th>
 							<th>Email</th>
@@ -58,11 +53,13 @@ table {
 		</div></li>
 		<li><input type="checkbox" id="accordion2">
 			<label for="accordion2"><h4>Southwest CDC</h4></label><div>
-				<table>
+				<table style="width: 100%; height: auto">
 					<thead>
-							<tr><th>Chapter</th>
+						<tr>
+							<th>Chapter</th>
 							<th>Email</th>
-					</tr></thead>
+						</tr>
+					</thead>
 					<tbody>
 						<tr>
 							<td><a href="/all/get-to-know-the-chapters/boon-lay/">Boon Lay</a></td>
@@ -85,11 +82,13 @@ table {
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
 			<label for="accordion3"><h4>Central Singapore CDC</h4></label><div>
-				<table>
+				<table style="width: 100%; height: auto">
 					<thead>
-							<tr><th>Chapter</th>
+						<tr>
+							<th>Chapter</th>
 							<th>Email</th>
-					</tr></thead>
+						</tr>
+					</thead>
 					<tbody>
 						<tr>
 							<td><a href="/all/get-to-know-the-chapters/buona-vista/">Buona Vista</a></td>
@@ -112,11 +111,13 @@ table {
 		</div></li>
 		<li><input type="checkbox" id="accordion4">
 			<label for="accordion4"><h4>Northeast CDC</h4></label><div>
-				<table>
+				<table style="width: 100%; height: auto">
 					<thead>
-							<tr><th>Chapter</th>
+						<tr>
+							<th>Chapter</th>
 							<th>Email</th>
-					</tr></thead>
+						</tr>
+					</thead>
 					<tbody>
 						<tr>
 							<td><a href="/all/get-to-know-the-chapters/pasir-ris-central/">Pasir Ris Central</a></td>
