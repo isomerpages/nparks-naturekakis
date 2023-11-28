@@ -69,7 +69,7 @@ details > p {
 						<tbody>
 							<tr>
 								<td align="justify"><strong>DIY Nature Walks</strong></td>
-								<td>Participate in organised training walks to learn how to be a better Nature Guide. Certain exciting venues such as Pulau Ubin and our Nature Reserves may be featured.</td>
+								<td>Participate in organised training walks to learn how to be a Nature Guide.</td>
 							</tr>
 							<tr>
 								<td align="justify"><strong>Community Animals</strong></td>
