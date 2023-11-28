@@ -24,11 +24,11 @@ details > p {
 	}
 </style>
 
-<section>
-	<h3>Building of Nature Kakis Network</h3>
-		<img alt="" src="/images/DIY%20Nature%20walks/IMG_20231127_130858_398__2_.JPG">
-		<p align="justify">To support Nature Kakis chapters in their programmes, resources, subject matter expertise and trainings will be provided to the Nature Kakis chapters. National Parks Board (NParks) has developed a comprehensive framework for capacity building consisting of various opportunities in different mediums. The Nature Kakis Capacity Building Framework includes:</p>
-</section>
+<h3>Building of Nature Kakis Network</h3>
+
+<img alt="" src="/images/DIY%20Nature%20walks/IMG_20231127_130858_398__2_.JPG">
+
+<p align="justify">To support Nature Kakis chapters in their programmes, resources, subject matter expertise and trainings will be provided to the Nature Kakis chapters. National Parks Board (NParks) has developed a comprehensive framework for capacity building consisting of various opportunities in different mediums. The Nature Kakis Capacity Building Framework includes:</p>
 	
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
@@ -87,7 +87,8 @@ details > p {
 	</div></li>
 </ul>
 
-<section>
-	<h3>Next Steps</h3>
-		<p align="justify">As Nature Kakis progress through the training programmes, they will develop their skills and advance, enabling them to bring more City in Nature initiatives into the heartlands and lead these activities for the community, by the community.</p>
-		<p align="justify">Established Nature Kakis chapters can apply for the <a href="/seed-fund/about/" rel="noopener noreferrer nofollow" target="_blank">Nature Kakis Seed Fund</a> to fund and facilitate the preparation and implementation of their programmes. By leveraging the Seed Fund and planning ahead, chapters can make a meaningful impact in their communities.</p></section>
+<h3>Next Steps</h3>
+
+<p align="justify">As Nature Kakis progress through the training programmes, they will develop their skills and advance, enabling them to bring more City in Nature initiatives into the heartlands and lead these activities for the community, by the community.</p>
+
+<p align="justify">Established Nature Kakis chapters can apply for the <a href="/seed-fund/about/" rel="noopener noreferrer nofollow" target="_blank">Nature Kakis Seed Fund</a> to fund and facilitate the preparation and implementation of their programmes. By leveraging the Seed Fund and planning ahead, chapters can make a meaningful impact in their communities.</p>
