@@ -27,7 +27,7 @@ details > p {
 <section>
 	<h3>Building of Nature Kakis Network</h3>
 		<img alt="" src="/images/DIY%20Nature%20walks/IMG_20231127_130858_398__2_.JPG">
-		<p align="justify">To support Nature Kakis chapters in their programmes, resources, subject matter expertise and trainings will be provided to the Nature Kakis chapters. National Parks Board (NParks) has developed a comprehensive framework for capacity building consisting of various opportunities in different mediums. The Nature Kakis Capacity Building Framework includes:</p>
+		<p align="justify">To support Nature Kakis chapters in their programmes — resources, subject matter expertise and trainings will be provided to the Nature Kakis chapters. National Parks Board (NParks) has developed a comprehensive framework for capacity building consisting of various opportunities in different mediums. The Nature Kakis Capacity Building Framework includes:</p>
 </section>
 	
 <ul class="jekyllcodex_accordion">
