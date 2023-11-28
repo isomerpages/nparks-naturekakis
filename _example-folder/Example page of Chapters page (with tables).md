@@ -5,6 +5,12 @@ variant: markdown
 description: ""
 ---
 <style>
+@media screen and (max-width: 400px) {
+		table {
+			width: 40%;
+			height: auto;
+	}
+
 th {
 	background-color: #215732;
 		color: white !important;
