@@ -157,12 +157,12 @@ a[target="_blank"]:after {
 	</thead>
 	<tbody>
 		<tr>
-			<td>Northwest</td>
+			<td>North West</td>
 			<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/nee-soon-south/">Nee Soon South</a></td>
 			<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
 		</tr>
 		<tr>
-			<td>Northwest</td>
+			<td>South West</td>
 			<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/boon-lay/">Boon Lay</a></td>
 			<td><a href="mailto:naturekakis@gmail.com">naturekakis@gmail.com</a></td>
 		</tr>
@@ -179,7 +179,8 @@ a[target="_blank"]:after {
 			<td><a href="mailto:pulaiecoclub@gmail.com">pulaiecoclub@gmail.com</a></td>
 		</tr>
 		<tr>
-		<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/buona-vista/">Buona Vista</a></td>
+			<td>Central</td>
+			<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/buona-vista/">Buona Vista</a></td>
 			<td><a href="mailto:pa_buonavistacc@pa.gov.sg">pa_buonavistacc@pa.gov.sg</a></td>
 		</tr>
 		<tr>
@@ -195,6 +196,7 @@ a[target="_blank"]:after {
 			<td><a href="mailto:nbuddiestptb@gmail.com">nbuddiestptb@gmail.com</a></td>
 		</tr>
 		<tr>
+			<td>North East</td>
 			<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/pasir-ris-central/">Pasir Ris Central</a></td>
 			<td><a href="mailto:naturekaki.pr@gmail.com">naturekaki.pr@gmail.com</a></td>
 		</tr>
