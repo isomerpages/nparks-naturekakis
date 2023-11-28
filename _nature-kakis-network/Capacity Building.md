@@ -77,7 +77,7 @@ details > p {
 							</tr>
 							<tr>
 								<td align="justify"><strong>Biodiversity and Wildlife</strong></td>
-								<td align="justify">Participate in training to learn how to facilitate such citizen science activities.</td>
+								<td align="justify">Participate in training to learn how to facilitate citizen science activities.</td>
 							</tr>
 							<tr>
 								<td align="justify"><strong>OneMillionTrees Movement</strong></td>
