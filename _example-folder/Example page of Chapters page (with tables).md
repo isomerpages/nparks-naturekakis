@@ -10,17 +10,27 @@ th {
 		color: white !important;
 	}
 
-th.district {
+th.districtodd {
 	background-color: white;
 	color: black !important;
 	}
+
+th.districteven {
+	background-color: #f2f2f2;
+	color: black !important;
+	}
+
+td.districteven {
+	background-color: #f2f2f2;
+	}
 	
-tr:nth-child(odd) {
-   background-color: #f2f2f2;
-}
-	
-tr:hover {
-	background-color: #ffcb00;
+tr:hover{
+	background-color: #7A9A01;
+	font-weight:700;
+	}
+
+tr:hover > td.districteven {
+	background-color: #7A9A01;
 	}
 	
 tr:hover a {
@@ -162,29 +172,29 @@ a[target="_blank"]:after {
 	</thead>
 	<tbody>
 		<tr>
-			<th class="district" rowspan="1">North West</th>
+			<th class="districtodd" rowspan="1">North West</th>
 			<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/nee-soon-south/">Nee Soon South</a></td>
 			<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
 		</tr>
-		<tr>
-			<th class="district" rowspan="4">South West</th>
-			<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/boon-lay/">Boon Lay</a></td>
-			<td><a href="mailto:naturekakis@gmail.com">naturekakis@gmail.com</a></td>
+		<tr class="districteven">
+			<th class="districteven" rowspan="4">South West</th>
+			<td class="districteven"><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/boon-lay/">Boon Lay</a></td>
+			<td class="districteven"><a href="mailto:naturekakis@gmail.com">naturekakis@gmail.com</a></td>
 		</tr>
 		<tr>
-			<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/bukit-gombak/">Bukit Gombak</a></td>
-			<td><a href="mailto:bgnaturekakis@gmail.com">bgnaturekakis@gmail.com</a></td>
+			<td class="districteven"><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/bukit-gombak/">Bukit Gombak</a></td>
+			<td class="districteven"><a href="mailto:bgnaturekakis@gmail.com">bgnaturekakis@gmail.com</a></td>
 		</tr>
 		<tr>
-			<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/taman-jurong/">Taman Jurong</a></td>
-			<td><a href="mailto:tjgreenheart@gmail.com">tjgreenheart@gmail.com</a></td>
+			<td class="districteven"><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/taman-jurong/">Taman Jurong</a></td>
+			<td class="districteven"><a href="mailto:tjgreenheart@gmail.com">tjgreenheart@gmail.com</a></td>
 		</tr>
 		<tr>
-			<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/telok-blangah/">Telok Blangah</a></td>
-			<td><a href="mailto:pulaiecoclub@gmail.com">pulaiecoclub@gmail.com</a></td>
+			<td class="districteven"><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/telok-blangah/">Telok Blangah</a></td>
+			<td class="districteven"><a href="mailto:pulaiecoclub@gmail.com">pulaiecoclub@gmail.com</a></td>
 		</tr>
 		<tr>
-			<th class="district" rowspan="4">Central</th>
+			<th class="districtodd" rowspan="4">Central</th>
 			<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/buona-vista/">Buona Vista</a></td>
 			<td><a href="mailto:pa_buonavistacc@pa.gov.sg">pa_buonavistacc@pa.gov.sg</a></td>
 		</tr>
@@ -201,21 +211,21 @@ a[target="_blank"]:after {
 			<td><a href="mailto:nbuddiestptb@gmail.com">nbuddiestptb@gmail.com</a></td>
 		</tr>
 		<tr>
-			<th class="district" rowspan="4">North East</th>
-			<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/pasir-ris-central/">Pasir Ris Central</a></td>
-			<td><a href="mailto:naturekaki.pr@gmail.com">naturekaki.pr@gmail.com</a></td>
+			<th class="districteven" rowspan="4">North East</th>
+			<td class="districteven"><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/pasir-ris-central/">Pasir Ris Central</a></td>
+			<td class="districteven"><a href="mailto:naturekaki.pr@gmail.com">naturekaki.pr@gmail.com</a></td>
 		</tr>
 		<tr>
-			<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/punggol-coast/">Punggol Coast</a></td>
-			<td><a href="mailto:pcnaturekakis@gmail.com">pcnaturekakis@gmail.com</a></td>
+			<td class="districteven"><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/punggol-coast/">Punggol Coast</a></td>
+			<td class="districteven"><a href="mailto:pcnaturekakis@gmail.com">pcnaturekakis@gmail.com</a></td>
 		</tr>
 		<tr>
-			<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/punggol-west/">Punggol West</a></td>
-			<td><a href="mailto:natureinpunggol@gmail.com">natureinpunggol@gmail.com</a></td>
+			<td class="districteven"><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/punggol-west/">Punggol West</a></td>
+			<td class="districteven"><a href="mailto:natureinpunggol@gmail.com">natureinpunggol@gmail.com</a></td>
 		</tr>
 		<tr>
-			<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/tampines-west/">Tampines West</a></td>
-			<td><a href="mailto:[To be updated]">[To be updated]</a></td>
+			<td class="districteven"><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/tampines-west/">Tampines West</a></td>
+			<td class="districteven"><a href="mailto:[To be updated]">[To be updated]</a></td>
 		</tr>
 	</tbody>
 </table>
