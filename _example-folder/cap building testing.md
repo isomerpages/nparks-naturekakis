@@ -13,7 +13,7 @@ a[target="_blank"]:after {
 details {
 	cursor: pointer;
 	}
-    
+
 details > summary {
 	text-indent: -22px;
 	margin-left: 22px;
@@ -32,7 +32,8 @@ details > p {
 	
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
-		<label for="accordion1">Nature Kakis 101 Induction programme</label><div>
+		<label for="accordion1">Nature Kakis 101 Induction programme</label>
+		<div>
 			<img align="top" src="/images/Groups Networking Engagement/Networking__1__Resized_2.jpg">
 			<p align="justify">This Induction programme series covers four topics annually on <em>biodiversity and wildlife; arboriculture; horticulture; and community engagement.</em> These topics are designed to provide Nature Kakis with a comprehensive understanding of the issues related to nature and the community, as well as the skills they need to lead and facilitate City in Nature related activities.</p>
 			<p align="justify">The diagram below illustrates the overall timeline and framework to help train Nature Kakis in both theoretical and practical skills to aid in their programmes.</p>
@@ -41,7 +42,8 @@ details > p {
 			<p align="justify">This programme series is designed to give Nature Kakis a launchpad into the work that NParks does and the role that Nature Kakis can play with regards to selected Nature Kakis programmes. Depending on the topic, the sessions could include hands-on interactive elements to help Nature Kakis internalise the content and advice shared by the speakers. The programmes will be scheduled quarterly with each catering to a different topic. Nature Kakis are encouraged to attend this programmes to learn more about new topics, gain deeper insight into NParks programmes, and ask any questions they might have to our esteemed speakers.</p>
 	</div></li>
 	<li><input type="checkbox" id="accordion2">
-		<label for="accordion2">Topic specific training sessions</label><div>
+		<label for="accordion2">Topic specific training sessions</label>
+		<div>
 			<img align="top" src="/images/DIY%20Nature%20walks/IMG_20231127_131148_914.JPG">
 			<p align="justify">These topic specific sessions are based on chapters’ interests and goes in-depth on nature conservation, human-wildlife matters, local biodiversity, gardening, therapeutic horticulture, and community animals.</p>
 			<details>
