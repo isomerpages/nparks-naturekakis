@@ -59,26 +59,28 @@ details > p {
 					<p align="justify">All trainings provided by NParks are for the purpose of enabling Nature Kakis to conduct self-run activities when they are capable to do so. As such, Nature Kakis chapters are encouraged to conduct nature activities for their community after being equipped during the trainings.</p>
 					<p align="justify">See below for the Nature Kakis programmes with a brief overview of the activity.</p>
 					<table style="margin-left: 22px; width:97%">
+						<thead>
+							<tr>
+								<th>Activity</th>
+								<th align="justify">What can Nature Kakis do?</th>
+							</tr>
+						</thead>
 						<tbody>
 							<tr>
-								<td rowspan="1" colspan="1"><p><strong>Activity</strong></p></td>
-								<td rowspan="1" colspan="1"><p align="justify"><strong>What can Nature Kakis do?</strong></p></td>
+								<td align="justify"><strong>DIY Nature Walks</strong></td>
+								<td>Participate in organised training walks to learn how to be a better Nature Guide. Certain exciting venues such as Pulau Ubin and our Nature Reserves may be featured.</td>
 							</tr>
 							<tr>
-								<td rowspan="1" colspan="1"><p align="justify"><strong>DIY Nature Walks</strong></p></td>
-								<td rowspan="1" colspan="1"><p align="justify">Participate in organised training walks to learn how to be a better Nature Guide. Certain exciting venues such as Pulau Ubin and our Nature Reserves may be featured.</p></td>
+								<td align="justify"><strong>Community Animals</strong></td>
+								<td align="justify">Participate in a training programme with the Animal Veterinary Service at NParks to learn more about issues surrounding community animals and pets in Singapore and be equipped with skills to help address them.</td>
 							</tr>
 							<tr>
-								<td rowspan="1" colspan="1"><p align="justify"><strong>Community Animals</strong></p></td>
-								<td rowspan="1" colspan="1"><p align="justify">Participate in a training programme with the Animal Veterinary Service at NParks to learn more about issues surrounding community animals and pets in Singapore and be equipped with skills to help address them.</p></td>
+								<td align="justify"><strong>Biodiversity and Wildlife</strong></td>
+								<td align="justify">Participate in training to learn how to facilitate such citizen science activities.</td>
 							</tr>
 							<tr>
-								<td rowspan="1" colspan="1"><p><strong>Biodiversity and Wildlife</strong></p></td>
-								<td rowspan="1" colspan="1"><p align="justify">Participate in training to learn how to facilitate such citizen science activities.</p></td>
-							</tr>
-							<tr>
-								<td rowspan="1" colspan="1"><p align="justify"><strong>OneMillionTrees Movement</strong></p></td>
-								<td rowspan="1" colspan="1"><p align="justify">Participate in the training programme to become an OneMillionTrees facilitator to run tree planting activities within the community</p></td>
+								<td align="justify"><strong>OneMillionTrees Movement</strong></td>
+								<td align="justify">Participate in the training programme to become an OneMillionTrees facilitator to run tree planting activities within the community</td>
 							</tr>
 						</tbody>
 					</table>
