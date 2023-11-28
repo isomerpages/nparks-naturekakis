@@ -43,7 +43,7 @@ details > ul li {
 
 <img src="/images/Seed%20Fund/seed%20fund%201.png"><br>
 
-<ul class="jeyllcodex_accordion">
+<ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
 		<label for="accordion1"><strong>Documents Required for Seed Fund Application to be submitted to the Engagement Manager</strong></label><div>
 			<ul align="justify">
@@ -61,7 +61,7 @@ details > ul li {
 
 <img src="/images/Seed%20Fund/seed%20fund%205.PNG"><br>
 
-<ul class="jeyllcodex_accordion">
+<ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion2">
 		<label for="accordion2"><strong>Documents Required for Reimbursement to be submitted to the Engagement Manager</strong></label><div>
 			<ul align="justify">
