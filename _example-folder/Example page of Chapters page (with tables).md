@@ -5,12 +5,6 @@ variant: markdown
 description: ""
 ---
 <style>
-@media screen and (max-width: 400px) {
-		table {
-			width: 40%;
-			height: auto;
-	}
-
 th {
 	background-color: #215732;
 		color: white !important;
@@ -47,6 +41,14 @@ a[target="_blank"]:after {
 	content:none;
 	margin: 0 3px 0 5px;
 	}
+
+@media screen and (max-width: 400px) {
+	table {
+		width: 350px;
+		height: auto;
+		font-size: 9px;
+	}
+}
 </style>
 
 <section>
