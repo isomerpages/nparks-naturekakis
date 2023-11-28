@@ -43,14 +43,16 @@ details > ul li {
 
 <img src="/images/Seed%20Fund/seed%20fund%201.png"><br>
 
-<details>
-	<summary><strong>Documents Required for Seed Fund Application to be submitted to the Engagement Manager</strong></summary>
-	<ul align="justify">
-		<li>Completed Application Form</li>
-		<li>Document showing estimated cost of items (e.g., Quotations from vendors/suppliers with itemised breakdown</li>
-		<li>Proposed design of Nature Kakis identity items, publicity collaterals and appreciation tokens/trophies, including details of the items</li>
-	</ul>
-</details>
+<div>
+	<details>
+		<summary><strong>Documents Required for Seed Fund Application to be submitted to the Engagement Manager</strong></summary>
+		<ul align="justify">
+			<li>Completed Application Form</li>
+			<li>Document showing estimated cost of items (e.g., Quotations from vendors/suppliers with itemised breakdown</li>
+			<li>Proposed design of Nature Kakis identity items, publicity collaterals and appreciation tokens/trophies, including details of the items</li>
+		</ul>
+	</details>
+</div>
 
 <p align="justify"><b>Alteration</b><br>NParks’ prior approval should be sought for any changes to the submitted proposal as deviation from the approved plan may affect the Seed Fund approval and subsequent reimbursement.</p><br>
 	
