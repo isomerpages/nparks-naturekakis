@@ -44,44 +44,48 @@ details > p {
 		<label for="accordion2">Topic specific training sessions</label><div>
 			<img align="top" src="/images/DIY%20Nature%20walks/IMG_20231127_131148_914.JPG">
 			<p align="justify">These topic specific sessions are based on chapters’ interests and goes in-depth on nature conservation, human-wildlife matters, local biodiversity, gardening, therapeutic horticulture, and community animals.</p>
-			<details>
-				<summary><strong>Training opportunities</strong></summary>
-				<p align="justify">Nature Kakis will receive hands-on training in event planning and facilitation, and the opportunity to work with experienced experts and community leaders to learn from each other. Chapters may also learn more about engaging their community through targeted trainings sessions with subject experts. The training sessions will be arranged after the expression of interest by the chapters.</p>
-				<img style="margin-left: 22px; width:97%; height: auto" src="/images/DIY Nature walks/GuideFacilitation_ChekJawa_20230805__1__Resized.jpg">
-			</details>
+			<div>
+				<details>
+					<summary><strong>Training opportunities</strong></summary>
+					<p align="justify">Nature Kakis will receive hands-on training in event planning and facilitation, and the opportunity to work with experienced experts and community leaders to learn from each other. Chapters may also learn more about engaging their community through targeted trainings sessions with subject experts. The training sessions will be arranged after the expression of interest by the chapters.</p>
+					<img style="margin-left: 22px; width:97%; height: auto" src="/images/DIY Nature walks/GuideFacilitation_ChekJawa_20230805__1__Resized.jpg">
+				</details>
+			</div>
 			<br>
-			<details>
-				<summary><strong>Structured training programmes for Nature Kakis</strong></summary>
-				<p align="justify">This suite of training opportunities is designed by the various NParks divisions specifically for the Nature Kakis network, serving to equip Nature Kakis practical skills and deeper knowledge of specific programmes.</p>
-				<p align="justify">All trainings provided by NParks are for the purpose of enabling Nature Kakis to conduct self-run activities when they are capable to do so. As such, Nature Kakis chapters are encouraged to conduct nature activities for their community after being equipped during the trainings.</p>
-				<p align="justify">See below for the Nature Kakis programmes with a brief overview of the activity.</p>
-				<table style="margin-left: 22px; width:97%">
-					<tbody>
-						<tr>
-							<td rowspan="1" colspan="1"><p><strong>Activity</strong></p></td>
-							<td rowspan="1" colspan="1"><p align="justify"><strong>What can Nature Kakis do?</strong></p></td>
-						</tr>
-						<tr>
-							<td rowspan="1" colspan="1"><p align="justify"><strong>DIY Nature Walks</strong></p></td>
-							<td rowspan="1" colspan="1"><p align="justify">Participate in organised training walks to learn how to be a better Nature Guide. Certain exciting venues such as Pulau Ubin and our Nature Reserves may be featured.</p></td>
-						</tr>
-						<tr>
-							<td rowspan="1" colspan="1"><p align="justify"><strong>Community Animals</strong></p></td>
-							<td rowspan="1" colspan="1"><p align="justify">Participate in a training programme with the Animal Veterinary Service at NParks to learn more about issues surrounding community animals and pets in Singapore and be equipped with skills to help address them.</p></td>
-						</tr>
-						<tr>
-							<td rowspan="1" colspan="1"><p><strong>Biodiversity and Wildlife</strong></p></td>
-							<td rowspan="1" colspan="1"><p align="justify">Participate in training to learn how to facilitate such citizen science activities.</p></td>
-						</tr>
-						<tr>
-							<td rowspan="1" colspan="1"><p align="justify"><strong>OneMillionTrees Movement</strong></p></td>
-							<td rowspan="1" colspan="1"><p align="justify">Participate in the training programme to become an OneMillionTrees facilitator to run tree planting activities within the community</p></td>
-						</tr>
-					</tbody>
-				</table>
-				<p><em>* The duration and contents of the training programmes will be customized according to the needs each chapter.</em></p>
-				<img style="margin-left: 22px; width:97%; height: auto" src="/images/Groups Networking Engagement/networkingtalk.jpg">
-			</details>
+			<div>
+				<details>
+					<summary><strong>Structured training programmes for Nature Kakis</strong></summary>
+					<p align="justify">This suite of training opportunities is designed by the various NParks divisions specifically for the Nature Kakis network, serving to equip Nature Kakis practical skills and deeper knowledge of specific programmes.</p>
+					<p align="justify">All trainings provided by NParks are for the purpose of enabling Nature Kakis to conduct self-run activities when they are capable to do so. As such, Nature Kakis chapters are encouraged to conduct nature activities for their community after being equipped during the trainings.</p>
+					<p align="justify">See below for the Nature Kakis programmes with a brief overview of the activity.</p>
+					<table style="margin-left: 22px; width:97%">
+						<tbody>
+							<tr>
+								<td rowspan="1" colspan="1"><p><strong>Activity</strong></p></td>
+								<td rowspan="1" colspan="1"><p align="justify"><strong>What can Nature Kakis do?</strong></p></td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1"><p align="justify"><strong>DIY Nature Walks</strong></p></td>
+								<td rowspan="1" colspan="1"><p align="justify">Participate in organised training walks to learn how to be a better Nature Guide. Certain exciting venues such as Pulau Ubin and our Nature Reserves may be featured.</p></td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1"><p align="justify"><strong>Community Animals</strong></p></td>
+								<td rowspan="1" colspan="1"><p align="justify">Participate in a training programme with the Animal Veterinary Service at NParks to learn more about issues surrounding community animals and pets in Singapore and be equipped with skills to help address them.</p></td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1"><p><strong>Biodiversity and Wildlife</strong></p></td>
+								<td rowspan="1" colspan="1"><p align="justify">Participate in training to learn how to facilitate such citizen science activities.</p></td>
+							</tr>
+							<tr>
+								<td rowspan="1" colspan="1"><p align="justify"><strong>OneMillionTrees Movement</strong></p></td>
+								<td rowspan="1" colspan="1"><p align="justify">Participate in the training programme to become an OneMillionTrees facilitator to run tree planting activities within the community</p></td>
+							</tr>
+						</tbody>
+					</table>
+					<p><em>* The duration and contents of the training programmes will be customized according to the needs each chapter.</em></p>
+					<img style="margin-left: 22px; width:97%; height: auto" src="/images/Groups Networking Engagement/networkingtalk.jpg">
+				</details>
+		</div>
 	</div></li>
 </ul>
 
