@@ -81,7 +81,7 @@ details > p {
 							</tr>
 							<tr>
 								<td align="justify"><strong>OneMillionTrees Movement</strong></td>
-								<td align="justify">Participate in the training programme to become an OneMillionTrees facilitator to run tree planting activities within the community</td>
+								<td align="justify">Participate in the training programme to become an OneMillionTrees facilitator and conduct tree planting activities within the community.</td>
 							</tr>
 						</tbody>
 					</table>
