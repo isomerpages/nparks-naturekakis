@@ -56,7 +56,7 @@ a[target="_blank"]:after {
 	<p align="justify">If you are a resident or grassroots volunteer in the following constituencies and are interested in joining the Nature Kakis, do reach out to the established chapters listed below.</p>
 	<p align="justify">Also, to learn more about what each established chapter offers before joining, please click on the chapter names in the table below and discover the Nature Kakis in your area!</p>
 	
-<table style="width:70%; height:auto; margin-left:auto; margin-right:auto; margin-top:35px">
+<table style="width:50%; height:auto; margin-left:auto; margin-right:auto; margin-top:35px">
 	<thead>
 		<tr>
 			<th>District</th>
