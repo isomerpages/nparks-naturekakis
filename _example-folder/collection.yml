@@ -2,7 +2,6 @@ collections:
   example-folder:
     output: true
     order:
-      - cap building testing.md
       - Example page of Chapters page (with tables).md
       - Example Page Map.md
       - Example page for Useful Websites.md
