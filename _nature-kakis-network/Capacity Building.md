@@ -56,7 +56,7 @@ details > p {
 				<details>
 					<summary><strong>Structured training programmes for Nature Kakis</strong></summary>
 					<p align="justify">This suite of training opportunities is designed by the various NParks divisions for the Nature Kakis network, serving to equip Nature Kakis with practical skills and deeper knowledge of specific programmes. </p>
-					<p align="justify">All trainings provided for Nature Kakis are to enable them to conduct self-run activities when they are capable to do so. We encourage Nature Kakis chapters to take advantage of these trainings and to conduct engaging nature activities for their community. With the skills and knowledge gained from our trainings, Nature Kakis can make a meaningful contribution to the City in Nature vision and inspire others to do the same.</p>
+					<p align="justify">All trainings provided are to enable Nature Kakis to conduct self-run activities when they are capable to do so. We encourage Nature Kakis chapters to take advantage of these trainings and to conduct engaging nature activities for their community. With the skills and knowledge gained from our trainings, Nature Kakis can make a meaningful contribution to the City in Nature vision and inspire others to do the same.</p>
 					<p align="justify">See below for the Nature Kakis programmes with a brief overview of the activity.</p>
 					<table style="margin-left: 22px; width:97%">
 						<thead>
