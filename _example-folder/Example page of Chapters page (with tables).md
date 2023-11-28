@@ -38,7 +38,7 @@ tr:hover a {
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 			<label for="accordion1"><h4>Northwest CDC</h4></label><div>
-				<table style="width: 100%; height: auto">
+				<table style="width: 80%; height: auto">
 					<thead>
 							<tr><th>Chapter</th>
 							<th>Email</th>
@@ -53,7 +53,7 @@ tr:hover a {
 		</div></li>
 		<li><input type="checkbox" id="accordion2">
 			<label for="accordion2"><h4>Southwest CDC</h4></label><div>
-				<table style="width: 100%; height: auto">
+				<table style="width: 80%; height: auto">
 					<thead>
 						<tr>
 							<th>Chapter</th>
@@ -82,7 +82,7 @@ tr:hover a {
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
 			<label for="accordion3"><h4>Central Singapore CDC</h4></label><div>
-				<table style="width: 100%; height: auto">
+				<table style="width: 80%; height: auto">
 					<thead>
 						<tr>
 							<th>Chapter</th>
@@ -111,7 +111,7 @@ tr:hover a {
 		</div></li>
 		<li><input type="checkbox" id="accordion4">
 			<label for="accordion4"><h4>Northeast CDC</h4></label><div>
-				<table style="width: 100%; height: auto">
+				<table style="width: 80%; height: auto">
 					<thead>
 						<tr>
 							<th>Chapter</th>
