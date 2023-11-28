@@ -73,7 +73,7 @@ details > p {
 							</tr>
 							<tr>
 								<td align="justify"><strong>Community Animals</strong></td>
-								<td align="justify">Participate in a training programme with the Animal Veterinary Service at NParks to learn more about issues surrounding community animals and pets in Singapore and be equipped with skills to help address them.</td>
+								<td align="justify">Participate in a training programme to learn more about issues surrounding community animals and pets in Singapore and be equipped with skills to help address them.</td>
 							</tr>
 							<tr>
 								<td align="justify"><strong>Biodiversity and Wildlife</strong></td>
