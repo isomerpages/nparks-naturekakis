@@ -44,7 +44,7 @@ a[target="_blank"]:after {
 
 @media screen and (max-width: 400px) {
 	table {
-		width: 500px;
+		width: 300px;
 		height: auto;
 	}
 }
