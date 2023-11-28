@@ -46,7 +46,7 @@ a[target="_blank"]:after {
 	table {
 		width: 350px;
 		height: auto;
-		font-size: 16px;
+		font-size: 14px;
 	}
 }
 </style>
