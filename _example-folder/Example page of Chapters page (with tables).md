@@ -26,11 +26,11 @@ td.districteven {
 	
 tr:hover{
 	background-color: #7A9A0180;
-	font-weight:700;
+	font-weight:600;
 	}
 
 tr:hover > td.districteven {
-	background-color: #7A9A0180;
+	background-color: #7A9A0120;
 	}
 	
 tr:hover a {
