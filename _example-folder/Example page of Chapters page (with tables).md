@@ -51,12 +51,12 @@ a[target="_blank"]:after {
 	<br>
 </section>
 
-<section>
 <h3>Nature Kakis Chapters by district</h3>
 	<img src="/images/Maps/nk%20map%20new.PNG">
-	<p align="justify">Keen to join a chapter or see what they offer? Explore our links below to learn about the Nature Kakis around Singapore!</p>
-
-<table style="width:70%; height:auto; margin-left:auto; margin-right:auto">
+	<p align="justify">If you are a resident or grassroots volunteer in the following constituencies and are interested in joining the Nature Kakis, do reach out to the established chapters listed below.</p>
+	<p align="justify">Also, to learn more about what each established chapter offers before joining, please click on the chapter names in the table below and discover the Nature Kakis in your area!</p>
+	
+<table style="width:70%; height:auto; margin-left:auto; margin-right:auto; margin-top:35px">
 	<thead>
 		<tr>
 			<th>District</th>
@@ -125,4 +125,3 @@ a[target="_blank"]:after {
 </table>
 
 <p align="justify">Don't see your district here? <a rel="noopener noreferrer" target="_blank" href="/nature-kakis-network/chapters/starting-a-chapter/">Start a chapter in your area</a> today!</p>
-</section>
