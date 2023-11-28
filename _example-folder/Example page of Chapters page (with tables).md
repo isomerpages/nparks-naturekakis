@@ -54,9 +54,9 @@ a[target="_blank"]:after {
 <section>
 <h3>Nature Kakis Chapters by district</h3>
 	<img src="/images/Maps/nk%20map%20new.PNG">
-	<p align="justify">Keen to join a chapter or see what they offer? Explore our links below to learn about the Nature Kakis Chapters across Singapore!</p>
+	<p align="justify">Keen to join a chapter or see what they offer? Explore our links below to learn about the Nature Kakis around Singapore!</p>
 
-<table>
+<table style="width:80%; height:auto; margin-left:auto; margin-right:auto">
 	<thead>
 		<tr>
 			<th>District</th>
