@@ -9,16 +9,16 @@ a[target="_blank"]:after {
 	content:none;
 	margin: 0 3px 0 5px;
 	}
-	
+
 details {
 	cursor: pointer;
 	}
-	
+
 details > summary {
 	text-indent:-22px;
 	margin-left:22px;
 	}
-	
+
 details > ul li {
 	margin-left: 22px;
 	}
@@ -51,7 +51,7 @@ details > ul li {
 				<li>Document showing estimated cost of items (e.g., Quotations from vendors/suppliers with itemised breakdown</li>
 				<li>Proposed design of Nature Kakis identity items, publicity collaterals and appreciation tokens/trophies, including details of the items</li>
 			</ul>
-	</li>
+	<div></div></li>
 </ul>
 
 <p align="justify"><b>Alteration</b><br>NParks’ prior approval should be sought for any changes to the submitted proposal as deviation from the approved plan may affect the Seed Fund approval and subsequent reimbursement.</p>
