@@ -41,13 +41,6 @@ a[target="_blank"]:after {
 	content:none;
 	margin: 0 3px 0 5px;
 	}
-
-@media screen and (max-width: 400px) {
-	table {
-		width: 300px;
-		height: auto;
-	}
-}
 </style>
 
 <section>
@@ -124,7 +117,7 @@ a[target="_blank"]:after {
 			<td class="districteven"><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/punggol-west/">Punggol West</a></td>
 			<td class="districteven"><a href="mailto:natureinpunggol@gmail.com">natureinpunggol@gmail.com</a></td>
 		</tr>
-		<tr>
+		<tr style="border-bottom:solid 1px lightgrey">
 			<td class="districteven"><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/tampines-west/">Tampines West</a></td>
 			<td class="districteven"><a href="mailto:[To be updated]">[To be updated]</a></td>
 		</tr>
