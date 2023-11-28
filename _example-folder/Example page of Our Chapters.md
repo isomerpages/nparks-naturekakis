@@ -54,7 +54,6 @@ a[target="_blank"]:after {
 	<p align="justify">The Nature Kakis chapters are part of a network of passionate volunteers that come together to run <a rel="noopener noreferrer" target="_blank" href="/join-our-activities/">grounds-up activities</a> that involve, engage, and inspire communities to care for our City In Nature.</p> 
 	<p align="justify">Every chapter is constituency-based as the Nature Kakis chapters are run by grassroots volunteers, schools, and residents. Currently, the network consists of 13 established chapters island-wide. We aim to grow this number and establish one chapter per constituency.</p>
 	<p align="justify">Nature Kakis chapters are guided by NParks, with <a rel="noopener noreferrer" target="_blank" href="">induction sessions</a> and <a rel="noopener noreferrer" target="_blank" href="">training</a> to get chapters started. Recognised chapters are also eligible for <a rel="noopener noreferrer" target="_blank" href="/seed-fund/about/">seed funding</a> to support chapter development.</p>
-	<br>
 </section>
 
 <h3>Nature Kakis Chapters by district</h3>
