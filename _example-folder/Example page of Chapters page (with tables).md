@@ -162,7 +162,7 @@ a[target="_blank"]:after {
 	<p align="justify">Don't see your district here? <a rel="noopener noreferrer" target="_blank" href="/nature-kakis-network/chapters/starting-a-chapter/">Start a chapter in your area</a> today!</p>
 </section>
 
-<table style="width: 100%; height: auto">
+<table>
 	<thead>
 		<tr>
 			<th>District</th>
