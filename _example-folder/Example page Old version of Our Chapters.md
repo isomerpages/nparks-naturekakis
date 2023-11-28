@@ -76,9 +76,10 @@ description: ""
 	</tbody>
 </table>	
 
-<p align="justify">We look forward to expanding these efforts across the heartlands in Singapore and create a wider network of Nature Kakis chapters. By working together, we can make a positive impact on our community and be part of Singapore's City in Nature transformation. </p>
+<p align="justify">We look forward to expanding these efforts across the heartlands in Singapore and create a wider network of Nature Kakis chapters. By working together, we can make a positive impact on our community and be part of Singapore's City in Nature transformation. </p><br>
 </section>
-<hr>
+
+
 <hr>
 <section>
 <h3>Nature Kakis Chapters by district</h3>
