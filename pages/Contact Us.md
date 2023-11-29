@@ -66,33 +66,33 @@ a[target="_blank"]:after {
 	<tbody>
 		<tr>
 			<th class="districtodd" rowspan="1">North West</th>
-			<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/nee-soon-south/">Nee Soon South</a></td>
+			<td>Nee Soon South</td>
 			<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
 		</tr>
 		<tr class="districteven">
 			<th class="districteven" rowspan="4">South West</th>
-			<td class="districteven"><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/boon-lay/">Boon Lay</a></td>
+			<td class="districteven">Boon Lay</td>
 			<td class="districteven"><a href="mailto:naturekakis@gmail.com">naturekakis@gmail.com</a></td>
 		</tr>
 		<tr>
-			<td class="districteven"><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/bukit-gombak/">Bukit Gombak</a></td>
+			<td class="districteven">Bukit Gombak</td>
 			<td class="districteven"><a href="mailto:bgnaturekakis@gmail.com">bgnaturekakis@gmail.com</a></td>
 		</tr>
 		<tr>
-			<td class="districteven"><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/taman-jurong/">Taman Jurong</a></td>
+			<td class="districteven">Taman Jurong</td>
 			<td class="districteven"><a href="mailto:tjgreenheart@gmail.com">tjgreenheart@gmail.com</a></td>
 		</tr>
 		<tr>
-			<td class="districteven"><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/telok-blangah/">Telok Blangah</a></td>
+			<td class="districteven">Telok Blangah</td>
 			<td class="districteven"><a href="mailto:pulaiecoclub@gmail.com">pulaiecoclub@gmail.com</a></td>
 		</tr>
 		<tr>
 			<th class="districtodd" rowspan="4">Central</th>
-			<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/buona-vista/">Buona Vista</a></td>
+			<td>Buona Vista</td>
 			<td><a href="mailto:pa_buonavistacc@pa.gov.sg">pa_buonavistacc@pa.gov.sg</a></td>
 		</tr>
 		<tr>
-			<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/marymount/">Marymount</a></td>
+			<td>Marymount</td>
 			<td><a href="mailto:koh_jianqin@pa.gov.sg">koh_jianqin@pa.gov.sg</a></td>
 		</tr>
 		<tr>
