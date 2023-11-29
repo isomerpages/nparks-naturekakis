@@ -88,7 +88,7 @@ th {
 							</tr>
 							<tr>
 								<td align="justify"><strong>Biodiversity and Wildlife</strong></td>
-								<td align="justify">Participate in training to learn how to facilitate citizen science activities.</td>
+								<td align="justify">Participate in training to learn how to facilitate citizen science activities. Read an example of a Nature Kaki facilitated session by clicking <a href="/all/nature-kakis-happenings/kayaking-2023-10-29/">here</a>.</td>
 							</tr>
 							<tr>
 								<td align="justify"><strong>OneMillionTrees Movement</strong></td>
