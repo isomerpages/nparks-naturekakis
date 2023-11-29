@@ -23,6 +23,11 @@ details > p {
 	margin-left: 22px;
 	}
 	
+th {
+	background-color:#215732;
+	color: white !important;
+}
+
 @media screen and (max-width: 400px) {
 	table {
 		font-size: 14px;
