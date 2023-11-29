@@ -22,6 +22,11 @@ details > summary {
 details > p {
 	margin-left: 22px;
 	}
+	
+@media screen and (max-width: 400px) {
+	table {font-size: 14px;
+	}
+}
 </style>
 
 <section>
