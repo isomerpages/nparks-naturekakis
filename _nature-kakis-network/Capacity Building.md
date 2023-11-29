@@ -88,11 +88,11 @@ th {
 							</tr>
 							<tr>
 								<td align="justify"><strong>Biodiversity and Wildlife</strong></td>
-								<td align="justify">Participate in training to learn how to facilitate citizen science activities. Read an example of a Nature Kaki facilitated session by clicking <a href="/all/nature-kakis-happenings/kayaking-2023-10-29/">here</a>.</td>
+								<td align="justify">Participate in training to learn how to facilitate citizen science activities. Read an example of a Nature Kaki facilitated session by clicking <a rel="noopener noreferrer nofollow" target="_blank" href="/all/nature-kakis-happenings/kayaking-2023-10-29/">here</a>.</td>
 							</tr>
 							<tr>
 								<td align="justify"><strong>OneMillionTrees Movement</strong></td>
-								<td align="justify">Participate in the training programme to become an OneMillionTrees facilitator and conduct tree planting activities within the community. Read an example of a Nature Kaki facilitated session by clicking <a href="/all/nature-kakis-happenings/pcnk-omt-20230924/">here</a>.</td>
+								<td align="justify">Participate in the training programme to become an OneMillionTrees facilitator and conduct tree planting activities within the community. Read an example of a Nature Kaki facilitated session by clicking <a rel="noopener noreferrer nofollow" target="_blank" href="/all/nature-kakis-happenings/pcnk-omt-20230924/">here</a>.</td>
 							</tr>
 						</tbody>
 					</table>
@@ -106,5 +106,5 @@ th {
 <section>
 	<h3>Next Steps</h3>
 		<p align="justify">As Nature Kakis progress through the training programmes, they will develop their skills and advance, enabling them to bring more City in Nature initiatives into the heartlands and lead these activities for the community, by the community.</p>
-		<p align="justify">Established Nature Kakis chapters can apply for the <a href="/seed-fund/about/" rel="noopener noreferrer nofollow" target="_blank">Nature Kakis Seed Fund</a> to fund and facilitate the preparation and implementation of their programmes. By leveraging the Seed Fund and planning ahead, chapters can make a meaningful impact in their communities.</p>
+		<p align="justify">Established Nature Kakis chapters can apply for the <a rel="noopener noreferrer nofollow" target="_blank" href="/seed-fund/about/">Nature Kakis Seed Fund</a> to fund and facilitate the preparation and implementation of their programmes. By leveraging the Seed Fund and planning ahead, chapters can make a meaningful impact in their communities.</p>
 </section>
