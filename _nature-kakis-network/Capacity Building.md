@@ -92,7 +92,7 @@ th {
 							</tr>
 							<tr>
 								<td align="justify"><strong>OneMillionTrees Movement</strong></td>
-								<td align="justify">Participate in the training programme to become an OneMillionTrees facilitator and conduct tree planting activities within the community.</td>
+								<td align="justify">Participate in the training programme to become an OneMillionTrees facilitator and conduct tree planting activities within the community. Read an example of a Nature Kaki facilitated session by clicking <a href="/all/nature-kakis-happenings/pcnk-omt-20230924/">here</a>.</td>
 							</tr>
 						</tbody>
 					</table>
