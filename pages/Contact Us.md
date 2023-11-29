@@ -125,5 +125,5 @@ a[target="_blank"]:after {
 
 Click <a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/naturekakis-chapter-info">here</a> to learn about the chapters.
 
-##### Send your questions
+<h3>Send your questions</h3>
 If you have a query related to the Nature Kakis Network, please fill in this <a rel="noopener noreferrer nofollow" target="_blank" href="https://form.gov.sg/6450cd7145da250012d2a4dd">online form</a>.
