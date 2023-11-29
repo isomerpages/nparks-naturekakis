@@ -24,7 +24,8 @@ details > p {
 	}
 	
 @media screen and (max-width: 400px) {
-	table {font-size: 14px;
+	table {
+		font-size: 14px;
 	}
 }
 </style>
