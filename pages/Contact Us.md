@@ -96,20 +96,20 @@ a[target="_blank"]:after {
 			<td><a href="mailto:koh_jianqin@pa.gov.sg">koh_jianqin@pa.gov.sg</a></td>
 		</tr>
 		<tr>
-			<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/moulmein-cainhill/">Moulmein-Cairnhill</a></td>
+			<td>Moulmein-Cairnhill</td>
 			<td><a href="mailto:ourgreenmoca@gmail.com">ourgreenmoca@gmail.com</a></td>
 		</tr>
 		<tr>
-			<td><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/tanjong-pagar-tiong-bahru/">Tanjong Pagar-Tiong Bahru</a></td>
+			<td>Tanjong Pagar-Tiong Bahru</td>
 			<td><a href="mailto:nbuddiestptb@gmail.com">nbuddiestptb@gmail.com</a></td>
 		</tr>
 		<tr>
 			<th class="districteven" rowspan="4">North East</th>
-			<td class="districteven"><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/pasir-ris-central/">Pasir Ris Central</a></td>
+			<td class="districteven">Pasir Ris Central</td>
 			<td class="districteven"><a href="mailto:naturekaki.pr@gmail.com">naturekaki.pr@gmail.com</a></td>
 		</tr>
 		<tr>
-			<td class="districteven"><a rel="noopener noreferrer" target="_blank" href="/all/get-to-know-the-chapters/punggol-coast/">Punggol Coast</a></td>
+			<td class="districteven">Punggol Coast</td>
 			<td class="districteven"><a href="mailto:pcnaturekakis@gmail.com">pcnaturekakis@gmail.com</a></td>
 		</tr>
 		<tr>
