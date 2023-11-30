@@ -7,6 +7,8 @@ third_nav_title: Chapters
 ---
 <h3>Get in touch with the Nature Kakis</h3>
 
+<img src="/images/Maps/nk%20map%20new.PNG">
+
 <p align="justify">If you are a resident or grassroots volunteer in the following constituencies and are interested in joining the Nature Kakis, do reach out to the established chapters listed below.</p>
 
 <style>
