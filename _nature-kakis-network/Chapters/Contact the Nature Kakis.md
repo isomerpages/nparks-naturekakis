@@ -5,12 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Chapters
 ---
-<h3>Get in touch with the Nature Kakis</h3>
-
-<img src="/images/Maps/nk%20map%20new.PNG">
-
-<p align="justify">If you are a resident or grassroots volunteer in the following constituencies and are interested in joining the Nature Kakis, do reach out to the established chapters listed below.</p>
-
 <style>
 th {
 	background-color: #215732;
@@ -55,6 +49,20 @@ a[target="_blank"]:after {
 	}
 }
 </style>
+
+<img src="/images/BioD%20&amp;%20wildlife/BioDandWildlife__2__Resized.jpg">
+
+<p align="justify">The Nature Kakis chapters are part of a network of passionate volunteers that come together to run grounds-up activities that involve, engage, and inspire communities to care for our City In Nature.</p> 
+
+<p align="justify">Every chapter is constituency-based as the Nature Kakis chapters are run by grassroots volunteers, schools, and residents. Currently, the network consists of 13 established chapters island-wide. We aim to grow this number and establish one chapter per constituency.</p>
+
+<p align="justify">Nature Kakis chapters are guided by NParks, with <a rel="noopener noreferrer" target="_blank" href="/nature-kakis-network/capacity-building/">induction sessions and training</a> to get chapters started. Recognised chapters are also eligible for <a rel="noopener noreferrer" target="_blank" href="/seed-fund/about/">seed funding</a> to support chapter development.</p>
+
+<h3>Get in touch with the Nature Kakis</h3>
+	
+<img src="/images/Maps/nk%20map%20new.PNG">
+	
+<p align="justify">If you are a resident or grassroots volunteer in the following constituencies and are interested in joining the Nature Kakis, do reach out to the established chapters listed below.</p>
 
 <h5>Established Nature Kakis Chapters by district</h5>
 
@@ -125,8 +133,11 @@ a[target="_blank"]:after {
 		</tr>
 	</tbody>
 </table>
+
 <p align="justify">* <em>Information was last updated in October 2023</em></p>
+
 <p align="justify">Click <a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/naturekakis-chapter-info">here</a> to learn about the chapters.</p>
 
 <h3>Send your questions</h3>
+
 <p align="justify">If you have a query related to the Nature Kakis Network, please fill in this <a rel="noopener noreferrer nofollow" target="_blank" href="https://form.gov.sg/6450cd7145da250012d2a4dd">online form</a>.</p>
