@@ -122,7 +122,7 @@ a[target="_blank"]:after {
 		</tr>
 	</tbody>
 </table>
-<p align="justify">* <em>Information is as last updated on October 2023</em></p>
+<p align="justify">* <em>Information was last updated in October 2023</em></p>
 <p align="justify">Click <a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/naturekakis-chapter-info">here</a> to learn about the chapters.</p>
 
 <h3>Send your questions</h3>
