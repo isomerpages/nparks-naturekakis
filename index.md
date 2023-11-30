@@ -16,7 +16,7 @@ sections:
           url: /all/nature-kakis-happenings/
         - title: Be a Nature Kaki
           description: View the Chapters here
-          url: /nature-kakis-network/nature-kakis-chapters/our-chapters/
+          url: /nature-kakis-network/nature-kakis-chapters/contact-the-nature-kakis/
       variant: center
   - infopic:
       title: Nature Kakis Network
