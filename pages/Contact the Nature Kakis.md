@@ -53,7 +53,7 @@ a[target="_blank"]:after {
 }
 </style>
 
-<h5>Nature Kakis Chapters by district</h5>
+<h5>Established Nature Kakis Chapters by district</h5>
 
 <table style="width:100%; height:auto; margin-left:auto; margin-right:auto; margin-top:35px">
 	<thead>
@@ -122,7 +122,7 @@ a[target="_blank"]:after {
 		</tr>
 	</tbody>
 </table>
-
+<p align="justify">* <em>Information is as last updated on October 2023</em></p>
 <p align="justify">Click <a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/naturekakis-chapter-info">here</a> to learn about the chapters.</p>
 
 <h3>Send your questions</h3>
