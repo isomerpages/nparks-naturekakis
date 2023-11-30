@@ -7,10 +7,10 @@ links:
         url: /naturekakisnetwork/about
       - title: Programmes and Activities
         url: /nature-kakis-network/programmes-and-activities/
-      - title: Chapters
-        url: /nature-kakis-network/nature-kakis-chapters/our-chapters/
       - title: Capacity Building
         url: /nature-kakis-network/capacity-building/
+      - title: Chapters
+        url: /nature-kakis-network/our-chapters
   - title: Seed Fund
     url: /seed-fund/about/
     sublinks:
@@ -20,5 +20,3 @@ links:
         url: /seed-fund/how-to-apply/
   - title: Useful Links
     url: /usefullinks
-  - title: Contact the Nature Kakis
-    url: /contact-the-nature-kakis
