@@ -64,5 +64,5 @@ variant: markdown
 	
 <section>
 <h3>What can you do as a Nature Kaki?</h3>	
-<p align="justify">As a member of the Nature Kakis Network, individuals can participate in Nature Kakis activities and go one step further to help grow community interest by planning, organizing and implementing a wide variety of activities and programmes. Take a look at some upcoming Nature Kakis activities <a href="/join-our-activities/">here</a>.</p>
+<p align="justify">As a member of the Nature Kakis Network, individuals can participate in Nature Kakis activities and go one step further to help grow community interest by planning, organizing and implementing a wide variety of activities and programmes. Get in touch with the chapters to join Nature Kakis activities <a href="/nature kakis-network/chapters/the-chapters/">here</a>.</p>
 </section>
