@@ -30,7 +30,7 @@ variant: markdown
 </style>  
 
 
-<section><p align="justify">Starting a Nature Kakis chapter in your constituency is an important step towards transforming Singapore into a City in Nature. By setting up a Nature Kakis chapter, you can contribute to this vision by promoting environmental awareness and conservation in your community. Join us in bringing people together through a shared love for nature and create an inclusive community that is committed to making a positive impact on the environment!</p></section>
+<section><p align="justify">Starting a Nature Kakis chapter in your district is an important step towards transforming Singapore into a City in Nature. By setting up a Nature Kakis chapter, you can contribute to this vision by promoting environmental awareness and conservation in your community. Join us in bringing people together through a shared love for nature and create an inclusive community that is committed to making a positive impact on the environment!</p></section>
 
 <img src="/images/Groups%20Networking%20Engagement/163f7d98_cac1_445d_aff9_cb56c289a59e__2_.jpg">
 
