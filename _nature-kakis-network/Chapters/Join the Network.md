@@ -136,7 +136,7 @@ a[target="_blank"]:after {
 
 <p align="justify">* <em>Information was last updated in October 2023</em></p>
 
-<p align="justify">Click <a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/naturekakis-chapter-info">here</a> to read about the established chapters and some of the he activities that they have conducted..</p>
+<p align="justify">Click <a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/naturekakis-chapter-info">here</a> to read about the established chapters and some of the activities that they have conducted..</p>
 
 <h3>Send your questions</h3>
 
