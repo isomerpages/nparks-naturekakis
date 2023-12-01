@@ -138,7 +138,7 @@ a[target="_blank"]:after {
 
 <p align="justify">Click <a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/naturekakis-chapter-info">here</a> to read about the established chapters and some of the activities that they have conducted.</p>
 
-<p align="justify">Don't see your precinct here? <a rel="noopener noreferrer" target="_blank" href="/nature-kakis-network/chapters/starting-a-chapter/">Start a chapter in your area</a> today!</p>
+<p align="justify">Don't see your district here? <a rel="noopener noreferrer" target="_blank" href="/nature-kakis-network/chapters/starting-a-chapter/">Start a chapter in your area</a> today!</p>
 
 <h3>Send your questions</h3>
 
