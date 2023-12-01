@@ -18,7 +18,7 @@ variant: markdown
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 			<label for="accordion1"><h5>Objectives</h5></label><div>
-			<p align="justify">With Nature Kakis Network being a platform that accelerates the mainstreaming of the City in Nature initiatives to wider communities in the heartlands, the Seed Fund aims to help set up and develop chapters in each constituency. These chapters will be empowered to self-organize and lead projects for the community, by the community.</p>
+			<p align="justify">With Nature Kakis Network being a platform that accelerates the mainstreaming of the City in Nature initiatives to wider communities in the heartlands, the Seed Fund aims to help set up and develop chapters in each precinct. These chapters will be empowered to self-organize and lead projects for the community, by the community.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion2">
 			<label for="accordion2"><h5>Effective Date</h5></label><div>
