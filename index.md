@@ -11,8 +11,8 @@ sections:
       subtitle: Growing our City in Nature
       background: /images/DIY Nature walks/IMG_20231127_131219_573.JPG
       key_highlights:
-        - title: Nature Kakis Happenings
-          description: Read about our past activities
+        - title: Nature Kakis Programmes
+          description: Read about our activities
           url: /all/nature-kakis-happenings/
         - title: Be a Nature Kaki
           description: View the Chapters here
