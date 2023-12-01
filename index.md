@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Nature Kakis Programmes
           description: Read about our activities
-          url: /all/nature-kakis-happenings/
+          url: /nature-kakis-network/programmes-and-activities/
         - title: Be a Nature Kaki
           description: View the Chapters here
           url: /nature-kakis-network/chapters/about-chapters/
