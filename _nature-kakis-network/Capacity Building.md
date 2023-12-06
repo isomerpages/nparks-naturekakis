@@ -58,7 +58,7 @@ th {
 			<div>
 				<details>
 					<summary><strong>Training opportunities</strong></summary>
-					<p align="justify">Nature Kakis will receive hands-on training in event planning and facilitation, and the opportunity to learn and  work with experienced experts and community leaders to learn from each other. Chapters may also learn more about engaging their community through targeted trainings sessions with subject experts. The training sessions will be arranged based on the interests of the chapters.</p>
+					<p align="justify">Nature Kakis will receive hands-on training in event planning and facilitation, and the opportunity to learn and  work with experienced experts and community leaders to learn from each other. Chapters may also learn more about engaging their community through targeted trainings sessions with the subject experts. The training sessions will be arranged based on the interests of the chapters.</p>
 					<img style="margin-left: 22px; width:97%; height: auto" src="/images/DIY Nature walks/GuideFacilitation_ChekJawa_20230805__1__Resized.jpg">
 				</details>
 			</div>
