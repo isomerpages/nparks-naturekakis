@@ -96,7 +96,7 @@ th {
 							</tr>
 						</tbody>
 					</table>
-					<p><em>* The duration and contents of the training programmes will be customised according to the needs each chapter.</em></p>
+					<p><em>* The duration and contents of the training programmes will be customised according to the needs of each chapter.</em></p>
 					<img style="margin-left: 22px; width:97%; height: auto" src="/images/Groups Networking Engagement/networkingtalk.jpg">
 				</details>
 		</div>
