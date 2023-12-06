@@ -38,7 +38,7 @@ th {
 <section>
 	<h3>Building of Nature Kakis Network</h3>
 		<img alt="" src="/images/DIY%20Nature%20walks/IMG_20231127_130858_398__2_.JPG">
-		<p align="justify">To support Nature Kakis chapters in their programmes—resources, subject matter expertise and trainings will be provided to the Nature Kakis chapters. National Parks Board (NParks) has developed a comprehensive framework for capacity building consisting of various opportunities in different mediums. The Nature Kakis Capacity Building Framework includes:</p>
+		<p align="justify">To support Nature Kakis chapters in their programmes—resources and trainings on subject matters will be provided to the Nature Kakis chapters. National Parks Board (NParks) has developed a comprehensive framework for capacity building consisting of various opportunities in different mediums. The Nature Kakis Capacity Building Framework includes:</p>
 </section>
 	
 <ul class="jekyllcodex_accordion">
@@ -49,7 +49,7 @@ th {
 			<p align="justify">The diagram below illustrates the overall timeline and framework to help train Nature Kakis in both theoretical and practical skills to aid in their programmes.</p>
 			<img src="/images/timelinenkind.png">
 			<p align="justify">* <em>The framework above serves as a guide; actual schedule of topics may vary yearly.</em></p>
-			<p align="justify">This programme series is designed to give Nature Kakis a launchpad into the work that NParks does and the role that Nature Kakis can play with regards to selected Nature Kakis programmes. Depending on the topic, the sessions could include hands-on interactive elements to help Nature Kakis internalise the content and advice shared by the speakers. The programmes will be scheduled quarterly with each catering to a different topic. Nature Kakis are encouraged to attend this programmes to learn more about new topics, gain deeper insight into NParks programmes, and ask any questions they might have to our esteemed speakers.</p>
+			<p align="justify">This programme series is designed to give Nature Kakis a launchpad into the work that NParks does and the role that Nature Kakis can play with regards to selected Nature Kakis programmes. Depending on the topic, the sessions could include hands-on interactive elements to help Nature Kakis internalise the content and advice shared by the speakers. The programmes will be scheduled quarterly with each catering to a different topic. Nature Kakis are encouraged to attend these programmes to learn more about new topics, gain deeper insight into NParks programmes, and ask any questions they might have to our esteemed speakers.</p>
 	</div></li>
 	<li><input type="checkbox" id="accordion2">
 		<label for="accordion2"><h5>Topic specific training sessions</h5></label><div>
