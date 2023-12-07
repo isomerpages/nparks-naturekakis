@@ -81,12 +81,16 @@ a[target="_blank"]:after {
 			<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
 		</tr>
 		<tr class="districteven">
-			<th class="districteven" rowspan="4">South West</th>
+			<th class="districteven" rowspan="5">South West</th>
 			<td class="districteven">Boon Lay</td>
 			<td class="districteven"><a href="mailto:naturekakis@gmail.com">naturekakis@gmail.com</a></td>
 		</tr>
 		<tr>
 			<td class="districteven">Bukit Gombak</td>
+			<td class="districteven"><a href="mailto:bgnaturekakis@gmail.com">bgnaturekakis@gmail.com</a></td>
+		</tr>
+		<tr>
+			<td class="districteven">Jurong Spring</td>
 			<td class="districteven"><a href="mailto:bgnaturekakis@gmail.com">bgnaturekakis@gmail.com</a></td>
 		</tr>
 		<tr>
