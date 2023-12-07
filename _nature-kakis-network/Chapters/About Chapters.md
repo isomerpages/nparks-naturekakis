@@ -98,9 +98,13 @@ a[target="_blank"]:after {
 			<td class="districteven"><a href="mailto:pulaiecoclub@gmail.com">pulaiecoclub@gmail.com</a></td>
 		</tr>
 		<tr>
-			<th class="districtodd" rowspan="4">Central</th>
+			<th class="districtodd" rowspan="5">Central</th>
 			<td>Buona Vista</td>
 			<td><a href="mailto:pa_buonavistacc@pa.gov.sg">pa_buonavistacc@pa.gov.sg</a></td>
+		</tr>
+		<tr>
+			<td>Henderson – Dawson</td>
+			<td><a href="mailto:[To be updated]">[To be updated]</a></td>
 		</tr>
 		<tr>
 			<td>Marymount</td>
