@@ -91,7 +91,7 @@ a[target="_blank"]:after {
 		</tr>
 		<tr>
 			<td class="districteven">Jurong Spring</td>
-			<td class="districteven"><a href="mailto:bgnaturekakis@gmail.com">bgnaturekakis@gmail.com</a></td>
+			<td class="districteven"><a href="mailto:[To be updated]">[To be updated]</a></td>
 		</tr>
 		<tr>
 			<td class="districteven">Taman Jurong</td>
