@@ -103,7 +103,7 @@ a[target="_blank"]:after {
 			<td><a href="mailto:pa_buonavistacc@pa.gov.sg">pa_buonavistacc@pa.gov.sg</a></td>
 		</tr>
 		<tr>
-			<td>Henderson – Dawson</td>
+			<td>Henderson-Dawson</td>
 			<td><a href="mailto:[To be updated]">[To be updated]</a></td>
 		</tr>
 		<tr>
