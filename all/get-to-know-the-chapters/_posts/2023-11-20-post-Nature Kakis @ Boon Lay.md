@@ -5,25 +5,6 @@ date: 2023-11-20
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
-<img src="/images/Nature%20in%20neighborhood/artmural2_Resized.jpg">
-<p>Formed in April 2022, Nature Kakis @ Boon Lay focuses on the <b>3Es</b>:</p>
-<ul>
-<li><b>Engaging</b> residents to enjoy nature as kakis;</li>
-<li><b>Educating</b> residents on biodiversity and conservation and</li>
-<li><b>Encouraging</b> residents to take action in conserving nature.</li>
-	</ul>
-<p>This is done via the <b>3Cs</b>:</p>
-<ul>
-<li><b>Connecting</b> residents through outreach channels</li>
-<li><b>Collaborating</b> with envrionmental groups and</li>
-<li><b>Creating</b> oppertunities to drive awareness and actions.</li>
-	</ul>
-<p>Nature Kakis @ Boon Lay have participated in and run events as part of Biodiversity and Wildlife, Nature in neighbourhood, and DIY Nature trails.</p> 
-<p>Some events run by the Nature Kakis @ Boon Lay include:</p>
-<ul>
-	<li><a href="/all/nature-kakis-happenings/kayaking-2023-10-29/">Kayaking in Nature @ the Jurong Lake Gardens</a></li>
-	<li><a href="">Painting murals of local biodiversity at the void decks of block 123 southwest somewhere</a></li>
-	</ul>
-<p>Keen on joining the Nature Kakis @ Boon Lay? Drop them an email at <a href="mailto:&quot;naturekakis@gmail.com&quot;">naturekakis@gmail.com</a>, or message them via their <a href="https://www.facebook.com/NatureKakis">Facebook</a> or <a href="https://www.instagram.com/naturekakis/">Instagram</a> page.</p>
+<div class="isomer-image-wrapper"><img height="auto" width="100%" src="/images/Nature%20in%20neighborhood/artmural2_Resized.jpg"></div><p>Formed in April 2022, Nature Kakis @ Boon Lay focuses on the <strong>3Es</strong>:</p><ul data-tight="true" class="tight"><li><p><strong>Engaging</strong> residents to enjoy nature as kakis;</p></li><li><p><strong>Educating</strong> residents on biodiversity and conservation and</p></li><li><p><strong>Encouraging</strong> residents to take action in conserving nature.</p></li></ul><p>This is done via the <strong>3Cs</strong>:</p><ul data-tight="true" class="tight"><li><p><strong>Connecting</strong> residents through outreach channels</p></li><li><p><strong>Collaborating</strong> with envrionmental groups and</p></li><li><p><strong>Creating</strong> oppertunities to drive awareness and actions.</p></li></ul><p>The Nature Kakis @ Boon Lay have run activities and projects as part of <a href="/all/nature-kakis-happenings/tree-planting/" rel="noopener noreferrer nofollow" target="_blank">Tree Planting</a>, <a href="/all/nature-kakis-happenings/nature-walks/" rel="noopener noreferrer nofollow" target="_blank">Nature Walks</a>, and <a href="/all/nature-kakis-happenings/nature-in-neighbourhood/" rel="noopener noreferrer nofollow" target="_blank">Nature in Neighbourhood</a>. </p><p>Keen on joining the Nature Kakis @ Boon Lay, or participating in their events? Drop them an email at <a href="mailto:&quot;naturekakis@gmail.com&quot;" rel="noopener noreferrer nofollow" target="_blank">naturekakis@gmail.com</a>, or message them via their <a href="https://www.facebook.com/NatureKakis" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> or <a href="https://www.instagram.com/naturekakis/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> page.</p>
