@@ -37,6 +37,13 @@ sections:
       url: /nature-kakis/programmes-and-activities/
       image: /images/DIY Nature walks/20230610_100522.jpg
       alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - textcards:
       title: You may like these
       id: textcards
