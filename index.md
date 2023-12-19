@@ -46,6 +46,7 @@ sections:
       button: discover more
       alt: Image alt text
       url: /nature-kakis/chapters/about-chapters/
+      image: /images/DIY Nature walks/intertidal2.jpeg
   - textcards:
       title: You may like these
       id: textcards
