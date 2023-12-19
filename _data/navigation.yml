@@ -1,16 +1,16 @@
 logo: /images/nknparkslogo1__2_.PNG
 links:
   - title: Nature Kakis Network
-    url: /naturekakisnetwork/about
+    url: /naturekakis/about
     sublinks:
       - title: About Network
-        url: /naturekakisnetwork/about
+        url: /naturekakis/about/
       - title: Programmes and Activities
-        url: /nature-kakis-network/programmes-and-activities/
+        url: /nature-kakis/programmes-and-activities/
       - title: Capacity Building
-        url: /nature-kakis-network/capacity-building/
+        url: /nature-kakis/capacity-building/
       - title: Chapters
-        url: /nature-kakis-network/chapters/about-chapters/
+        url: /nature-kakis/chapters/about-chapters/
   - title: Seed Fund
     url: /seed-fund/about/
     sublinks:
