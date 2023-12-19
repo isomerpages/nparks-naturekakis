@@ -59,9 +59,6 @@ a[target="_blank"]:after {
 <p align="justify">Nature Kakis chapters are guided by NParks, with <a rel="noopener noreferrer" target="_blank" href="/nature-kakis-network/capacity-building/">induction sessions and training</a> to get chapters started. Recognised chapters are also eligible for <a rel="noopener noreferrer" target="_blank" href="/seed-fund/about/">seed funding</a> to support chapter development.</p>
 
 <h3>Get in touch with the Nature Kakis</h3>
-	
-<img src="/images/Maps/nk%20map%20new.PNG">
-	
 <p align="justify">If you are a resident or grassroots volunteer in the following constituencies and are interested in joining the Nature Kakis, do reach out to the established chapters listed below.</p>
 
 <h5>Established Nature Kakis Chapters by district</h5>
@@ -146,7 +143,7 @@ a[target="_blank"]:after {
 
 <p align="justify">Click <a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/naturekakischaptersinfo">here</a> to read about the established chapters and some of the activities that they have conducted.</p>
 
-<p align="justify">Don't see any chapter in your district here? <a rel="noopener noreferrer" target="_blank" href="/nature-kakis-network/chapters/starting-a-chapter/">Start a chapter in your area</a> today!</p>
+<p align="justify">Don't see any chapter in your district here? <a rel="noopener noreferrer" target="_blank" href="/nature-kakis/chapters/starting-a-chapter/">Start a chapter in your area</a> today!</p>
 
 <h3>Send your questions</h3>
 
