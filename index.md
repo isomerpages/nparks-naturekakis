@@ -27,13 +27,14 @@ sections:
       alt: Image alt text
       image: /images/Groups Networking Engagement/grouppic1nk.jpg
   - infopic:
-      title: Seed Fund
-      subtitle: build your Chapter with the
+      title: Programmes & Activities
+      subtitle: participate and plan
       id: infopic
-      description: This Seed Fund is supported by donations to NParks’ registered
-        charity and IPC, Garden City Fund
+      description: Discover the diverse Nature Kakis programmes and activities to
+        explore Singapore’s natural heritage, from guided walks to citizen
+        science initiatives.
       button: learn more
-      url: /seed-fund/about/
+      url: /nature-kakis/programmes-and-activities/
       image: /images/DIY Nature walks/20230610_100522.jpg
       alt: Image alt text
   - textcards:
