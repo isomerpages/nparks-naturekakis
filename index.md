@@ -32,18 +32,21 @@ sections:
       id: infopic
       description: Discover the diverse Nature Kakis programmes and activities to
         explore Singapore’s natural heritage, from guided walks to citizen
-        science initiatives.
+        science initiatives
       button: learn more
       url: /nature-kakis/programmes-and-activities/
       image: /images/DIY Nature walks/20230610_100522.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Chapters
+      subtitle: Read about the
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Join a dedicated Nature Kaki volunteer group in your neighbourhood,
+        uniting residents of all ages in pursuit of green goals and
+        environmental stewardship
+      button: learn more
       alt: Image alt text
+      url: /nature-kakis/chapters/about-chapters/
   - textcards:
       title: You may like these
       id: textcards
