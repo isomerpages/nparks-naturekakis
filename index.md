@@ -41,10 +41,9 @@ sections:
       title: Chapters
       subtitle: Read about the
       id: infopic
-      description: Join a dedicated Nature Kaki volunteer group in your neighbourhood,
-        uniting residents of all ages in pursuit of green goals and
-        environmental stewardship
-      button: learn more
+      description: Find out more about the Nature Kakis in your neighbourhood and
+        learn about their impactful initiatives
+      button: discover more
       alt: Image alt text
       url: /nature-kakis/chapters/about-chapters/
   - textcards:
