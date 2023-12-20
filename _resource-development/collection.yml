@@ -1,4 +1,5 @@
 collections:
   resource-development:
     output: true
-    order: []
+    order:
+      - Capacity Building.md
