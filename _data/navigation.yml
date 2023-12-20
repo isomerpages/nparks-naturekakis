@@ -11,9 +11,11 @@ links:
         url: /nature-kakis/capacity-building/
       - title: Chapters
         url: /nature-kakis/chapters/about-chapters/
-  - title: Seed Fund
-    url: /seed-fund/about/
+  - title: Resource Development
+    url: Resource Development/resource-development/capacity-building/
     sublinks:
+      - title: Capacity Building
+        url: /resource-development/capacity-building/development/capacity-building/
       - title: About Seed Fund
         url: /seed-fund/about/
       - title: How to Apply?
