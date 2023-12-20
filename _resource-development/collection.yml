@@ -1,0 +1,4 @@
+collections:
+  resource-development:
+    output: true
+    order: []
