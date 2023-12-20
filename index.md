@@ -47,6 +47,18 @@ sections:
       alt: Image alt text
       url: /nature-kakis/chapters/about-chapters/
       image: /images/DIY Nature walks/intertidal2.jpeg
+  - infopic:
+      title: Resource Development
+      subtitle: Build your chapter
+      id: infopic
+      description: With comprehensive training and financial support, Nature Kakis can
+        expand capabilities, foster collaboration, and drive change in their
+        communities
+      button: Learn more
+      url: /resource-development/capacity-building/
+      image: /images/DIY Nature
+        walks/GuideFacilitation_ChekJawa_20230805__6__Resized.jpg
+      alt: Image alt text
   - textcards:
       title: You may like these
       id: textcards
