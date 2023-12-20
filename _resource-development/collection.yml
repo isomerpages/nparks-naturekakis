@@ -2,4 +2,5 @@ collections:
   resource-development:
     output: true
     order:
+      - Seed Fund/.keep
       - Capacity Building.md
