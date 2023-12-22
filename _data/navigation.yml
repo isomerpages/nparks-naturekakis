@@ -1,7 +1,7 @@
 logo: /images/nknparkslogo1__2_.PNG
 links:
   - title: Nature Kakis Network
-    url: /nature-kakis/about
+    url: /nature-kakis/about/
     sublinks:
       - title: About Network
         url: /naturekakis/about/
