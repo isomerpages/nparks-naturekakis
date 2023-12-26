@@ -20,20 +20,20 @@ sections:
       variant: center
   - infopic:
       title: Nature Kakis Network
-      subtitle: Support our
-      description: Contribute towards Singapore’s vision of a City in Nature
+      subtitle: learn about our
+      description: Learn more about the Nature Kakis programme, and how communities
+        can contribute to Singapore’s vision of a City in Nature
       button: About us
       url: /nature-kakis/about/
       alt: Image alt text
       image: /images/Groups Networking Engagement/grouppic1nk.jpg
   - infopic:
       title: Programmes & Activities
-      subtitle: participate and plan
+      subtitle: Community-led engagements
       id: infopic
-      description: Discover the diverse Nature Kakis programmes and activities to
-        explore Singapore’s natural heritage, from guided walks to therapeutic
-        horticulture activities
-      button: learn more
+      description: Discover how Nature Kakis are bringing nature to their communities
+        through walks, neighbourhood projects, outreach initiatives, and more!
+      button: let's learn
       url: /nature-kakis/programmes-and-activities/
       image: /images/DIY Nature walks/20230610_100522.jpg
       alt: Image alt text
@@ -41,20 +41,19 @@ sections:
       title: Chapters
       subtitle: Read about the
       id: infopic
-      description: Find out more about the Nature Kakis in your neighbourhood and
-        learn about their impactful initiatives
-      button: discover more
+      description: Learn more about the Nature Kakis in your neighbourhood and join
+        their activities
+      button: let's connect
       alt: Image alt text
       url: /nature-kakis/chapters/about-chapters/
       image: /images/DIY Nature walks/intertidal2.jpeg
   - infopic:
-      title: Resource Development
+      title: Resources for Nature Kakis
       subtitle: Build your chapter
       id: infopic
-      description: With comprehensive training and financial support, Nature Kakis can
-        expand capabilities, foster collaboration, and drive change in their
-        communities
-      button: Learn more
+      description: Find more information on training, seed funds, and reference
+        materials here
+      button: let's go
       url: /resource-development/capacity-building/
       image: /images/DIY Nature
         walks/GuideFacilitation_ChekJawa_20230805__6__Resized.jpg
