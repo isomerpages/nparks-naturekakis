@@ -4,6 +4,13 @@ permalink: /seed-fund/about/
 description: ""
 variant: markdown
 ---
+<style>
+  a[target="_blank"]:after {
+    content: none;
+    margin: 0 3px 0 5px;
+  }
+</style>
+
 <header>
 	<h3>Nature Kakis Seed Fund</h3>
 </header>
