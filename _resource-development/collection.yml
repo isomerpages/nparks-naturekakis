@@ -2,7 +2,7 @@ collections:
   resource-development:
     output: true
     order:
+      - Capacity Building.md
       - Seed Fund/.keep
       - Seed Fund/How to Apply?.md
       - Seed Fund/About Seed Fund.md
-      - Capacity Building.md
