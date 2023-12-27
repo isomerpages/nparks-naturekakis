@@ -51,7 +51,7 @@ sections:
       title: Resources for Nature Kakis
       subtitle: Build your chapter
       id: infopic
-      description: Find more information on training, seed funds, and reference
+      description: Find more information on training, seed fund, and reference
         materials here
       button: let's go
       url: /resource-development/capacity-building/
