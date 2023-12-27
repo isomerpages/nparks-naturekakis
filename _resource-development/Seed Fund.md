@@ -29,3 +29,6 @@ variant: markdown
 			<p align="justify">To apply, the chapter must first be an established Nature Kakis chapter that has received appointment letters from National Parks Board (NParks).</p></div></li>
 	</ul>
 </section>
+
+<p align="justify">To start your application for the Nature Kakis Seed Fund, please get in touch with the National Parks Board (NParks) Community Projects (Engagement) manager who has been your primary point of contact.</p>
+<p align="justify">There are <b>two stages</b> in the Seed Fund application process:</p>
