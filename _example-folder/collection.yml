@@ -2,7 +2,7 @@ collections:
   example-folder:
     output: true
     order:
-      - How to Apply?.md
+      - old How to Apply?.md
       - Example seed fund old.md
       - Example Programmes & Activities 27 dec old.md
       - Example of cap building.md
