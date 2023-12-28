@@ -39,7 +39,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Chapters
-      subtitle: Read about the
+      subtitle: Get to know the
       id: infopic
       description: Learn more about the Nature Kakis in your neighbourhood and join
         their activities
