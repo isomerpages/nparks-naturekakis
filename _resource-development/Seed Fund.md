@@ -37,4 +37,4 @@ variant: markdown
 	</ul>
 </section>
 
-<p align="justify">To start your application for the Nature Kakis Seed Fund, please get in touch with the National Parks Board (NParks) Community Projects (Engagement) manager who has been your primary point of contact. For other enquiries related to the Seed Fund, click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/nk-formsg-enquiries">here</a>.</p>
+<p align="justify">To start your application for the Nature Kakis Seed Fund, please get in touch with the NParks Community Projects (Engagement) manager who has been your primary point of contact. For other enquiries related to the Seed Fund, click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/nk-formsg-enquiries">here</a>.</p>
