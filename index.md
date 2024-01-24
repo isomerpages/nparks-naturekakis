@@ -26,7 +26,7 @@ sections:
       button: About us
       url: /nature-kakis/about/
       alt: Image alt text
-      image: /images/Groups Networking Engagement/grouppic1nk.jpg
+      image: /images/Groups Networking Engagement/nkwp1.jpeg
   - infopic:
       title: Programmes & Activities
       subtitle: Community-led engagements
