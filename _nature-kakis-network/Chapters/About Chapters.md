@@ -136,10 +136,15 @@ a[target="_blank"]:after {
 			<td class="districteven">Tampines West</td>
 			<td class="districteven"><a href="mailto:[To be updated]">[To be updated]</a></td>
 		</tr>
+			<tr>
+			<th class="districtodd" rowspan="1">South East</th>
+			<td>Siglap</td>
+			<td><a href="mailto:[To be updated]">[To be updated]</a></td>
+		</tr>
 	</tbody>
 </table>
 
-<p align="justify">* <em>Information was last updated in October 2023</em></p>
+<p align="justify">* <em>Information was last updated in Dec 2023</em></p>
 
 <p align="justify">Click <a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/naturekakischaptersinfo">here</a> to read about the established chapters and some of the activities that they have conducted.</p>
 
