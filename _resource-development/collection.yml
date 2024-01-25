@@ -1,0 +1,6 @@
+collections:
+  resource-development:
+    output: true
+    order:
+      - Capacity Building.md
+      - Seed Fund.md
