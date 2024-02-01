@@ -6,17 +6,16 @@ description: ""
 ---
 <style>
 	.responsivecal {
-		position:relative;
-		height: 0%
-		width:50%;
-		padding-bottom:100%;
+		position: relative;
+		width: 100%; /* Set the width to 100% for mobile view */
+		padding-bottom: 100%; /* Maintain aspect ratio */
 	}
 	
 	.responsivecal iframe {
-		position:absolute;
-		height:100%;
-		width:100%;
-		overflow:scroll;
+		position: absolute;
+		height: 100%; /* Set the height to 100% for mobile view */
+		width: 100%; /* Set the width to 100% for mobile view */
+		overflow: scroll;
 	}
 </style>
 
