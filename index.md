@@ -14,9 +14,9 @@ sections:
         - title: Join a Nature Kakis chapter
           description: View established Chapters here
           url: /nature-kakis/chapters/about-chapters/
-        - title: Nature Kakis Happenings
-          description: Read about our past activities
-          url: ""
+        - title: Event calendar
+          description: Discover what is happening
+          url: /nature-kakis/calendar/
       variant: center
   - infopic:
       title: Nature Kakis Network
