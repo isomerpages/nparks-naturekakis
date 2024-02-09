@@ -15,7 +15,7 @@ variant: markdown
 	<h3>Nature Kakis Network Seed Fund</h3>
 </header>
 <section>
-	<p align="justify">The Nature Kakis Seed Fund supports the development of the Nature Kakis Network, building of the Nature Kakis Network, training of Nature Kakis to self-organize activities, and recurring Nature Kakis activities/events.</p>
+	<p align="justify">The Nature Kakis Network Seed Fund supports the development of the Nature Kakis Network, building of the Nature Kakis Network, training of Nature Kakis to self-organize activities, and recurring Nature Kakis activities/events.</p>
 	<p align="justify">This Seed Fund provides funding of up to $5,000 per Nature Kakis chapter, and there will be a full reimbursement of fundable items* made to the respective Citizens’ Consultative Committee (CCC) supporting each chapter. The use of funds for projects will be assessed based on the project’s merits and ability to contribute towards the Nature Kakis Network and chapter growth. </p>
 	<p><i>*Please note that Goods and Service Tax (GST) is not fundable.</i></p>
 	<br>
@@ -37,4 +37,4 @@ variant: markdown
 	</ul>
 </section>
 
-<p align="justify">To start your application for the Nature Kakis Seed Fund, please get in touch with the NParks Community Projects (Engagement) manager who has been your primary point of contact. For other enquiries related to the Seed Fund, click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/nk-formsg-enquiries">here</a>.</p>
+<p align="justify">To start your application for the Nature Kakis Network Seed Fund, please get in touch with the NParks Community Projects (Engagement) manager who has been your primary point of contact. For other enquiries related to the Seed Fund, click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/nk-formsg-enquiries">here</a>.</p>
