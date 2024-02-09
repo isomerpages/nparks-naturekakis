@@ -12,7 +12,7 @@ variant: markdown
 </style>
 
 <header>
-	<h3>Nature Kakis Seed Fund</h3>
+	<h3>Nature Kakis Network Seed Fund</h3>
 </header>
 <section>
 	<p align="justify">The Nature Kakis Seed Fund supports the development of the Nature Kakis Network, building of the Nature Kakis Network, training of Nature Kakis to self-organize activities, and recurring Nature Kakis activities/events.</p>
