@@ -27,12 +27,12 @@ variant: markdown
 		<li><input type="checkbox" id="accordion2">
 			<label for="accordion2"><h5>Community Animals</h5></label><div>
 			<img align="top" src="/images/Community%20animals/cam2dog_Resized.jpg">
-			<p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/community-animals">here</a> to find out more.</p>
+			<p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. <br>Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/community-animals">here</a> to find out more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
 			<label for="accordion3"><h5>Community in Bloom</h5></label><div>
 			<img align="top" src="/images/CIB/CommunityInBloom__3_.jpg">
-			<p align="justify">Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/gardeningsg-community-gardens">here</a> to find out more.</p>
+			<p align="justify">Grow a variety of edibles and flowering plants in your community garden, or an allotment garden in a park near you. <br>Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/gardeningsg-community-gardens">here</a> to find out more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion4">
 			<label for="accordion4"><h5>DIY Nature Walks</h5></label><div>
