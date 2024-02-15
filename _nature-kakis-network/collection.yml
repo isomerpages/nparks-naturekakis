@@ -2,7 +2,6 @@ collections:
   nature-kakis-network:
     output: true
     order:
-      - Example Title.md
       - About Nature Kakis.md
       - Programmes and Activities.md
       - Chapters/.keep
