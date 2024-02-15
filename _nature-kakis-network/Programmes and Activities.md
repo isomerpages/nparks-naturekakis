@@ -17,7 +17,7 @@ variant: markdown
 
 <section>
 <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">City in Nature Activities for Nature Kakis to Participate in</h3>
-<a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/naturekakisbrochure"><img src="/images/Brochure/Nature_Kakis_Brochure_A4_27dec2023_latest.png"></a>
+<img src="/images/Brochure/Nature_Kakis_Brochure_A4_2Feb2024_latest.png">
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 			<label for="accordion1"><h5>Biodiversity &amp; Wildlife</h5></label><div>
