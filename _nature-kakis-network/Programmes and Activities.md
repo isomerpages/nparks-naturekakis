@@ -57,7 +57,7 @@ variant: markdown
 		<li><input type="checkbox" id="accordion8">
 			<label for="accordion8"><h5>Therapeutic Horticulture</h5></label><div>
 			<img align="top" src="/images/TH%20Activities/TheapeuticHorticulture__3__Resized.jpg">
-			<p align="justify">Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote mindfulness. Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/theraputic-horticulture">here</a> to find out more.<br></p>
+			<p align="justify">Participate and assist in therapeutic horticulture programmes that use plants and nature-related activities to promote low intensity exercise, stimulate memory, encourage positive social interactions and promote mindfulness. <br>Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/theraputic-horticulture">here</a> to find out more.<br></p>
 		</div></li>
 	</ul>
 </section>	
