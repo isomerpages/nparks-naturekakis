@@ -52,7 +52,7 @@ variant: markdown
 		<li><input type="checkbox" id="accordion7">
 			<label for="accordion7"><h5>OneMillionTrees Movement</h5></label><div>
 			<img align="top" src="/images/OMT/treeplantingfamilytree_Resized.jpg">
-			<p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/omt-nk">here</a> to find out more.</p>
+			<p align="justify">Participate in, assist or co-facilitate the community-led tree planting events within housing estates for the residents in your constituency. <br>Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/omt-nk">here</a> to find out more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion8">
 			<label for="accordion8"><h5>Therapeutic Horticulture</h5></label><div>
