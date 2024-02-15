@@ -42,7 +42,7 @@ variant: markdown
 		<li><input type="checkbox" id="accordion5">
 			<label for="accordion5"><h5>Friends of the Park</h5></label><div>
 			<img align="top" src="/images/FOTP/aywi5915.JPG">
-			<p align="justify">Work with Friends of the Parks to participate in designing and implementing programmes in park spaces and nature areas. Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/fotp-nk">here</a> to find out more.</p>
+			<p align="justify">Work with Friends of the Parks to participate in designing and implementing programmes in park spaces and nature areas. <br>Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/fotp-nk">here</a> to find out more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion6">
 			<label for="accordion6"><h5>Nature in Neighbourhood</h5></label><div>
