@@ -134,7 +134,8 @@ a[target="_blank"]:after {
 		</tr>
 		<tr style="border-bottom:solid 1px lightgrey">
 			<td class="districteven">Tampines West</td>
-			<td class="districteven"><a href="mailto:[To be updated]">[To be updated]</a></td>
+			<td class="districteven"><a href="mailto:tampineswestnaturekakis@gmail.com">tampineswestnaturekakis@gmail.com</a></td>
+
 		</tr>
 			<tr>
 			<th class="districtodd" rowspan="1">South East</th>
