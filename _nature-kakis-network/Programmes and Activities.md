@@ -45,3 +45,7 @@ description: ""
 <img align="top" src="/images/FOTP/aywi5915.JPG">
 <p align="justify">Many parks and nature areas in Singapore are part of the Friends of The Parks programme, in which localised volunteer groups help to maintain, improve, and advocate for the responsible use of our green spaces. Nature Kakis groups have collaborated with them to bring more communities to green spaces near them, and to learn about nature in their own backyards. Check out their collaborations <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/fotp-nk">here</a>.</p><br><br></section>
 
+<section>
+.<h5>Nature in Neighbourhood</h5>
+<img align="top" src="/images/Nature%20in%20neighborhood/nin1__2_.jpg">
+<p align="justify">Nature can be found everywhere in Singapore, including our urban areas! By running projects close to home, Nature Kakis have been invaluable touchpoints for their communities to learn about and experience nature right at their doorstep. Visit some of their neighbourhoods and learn about their projects <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/fotp-nk">here</a>.</p><br><br></section>
