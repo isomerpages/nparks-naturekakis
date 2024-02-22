@@ -39,3 +39,8 @@ description: ""
 <h5>DIY Nature Walks</h5>
 <img align="top" src="/images/DIY%20Nature%20walks/GuideFacilitation_ChekJawa_2023_08_05_JacquelineChua__10__Resized.jpg">
 <p align="justify">With an extensive network of parks, gardens, nature reserves and park connectors, Singapore has a wide variety of green spaces for communities to explore. Nature Kakis have been organising walks for their communities based on their interests, and have even combined walks with other activities like beach cleanups to make our green spaces even better. Read about their efforts to take nature walks one step further <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/diy-nature-walks">here</a>!</p><br><br></section>
+
+<section>
+<h5>Friends of the Park</h5>
+<img align="top" src="/images/FOTP/aywi5915.JPG">
+<p align="justify">Many parks and nature areas in Singapore are part of the Friends of The Parks programme, in which localised volunteer groups help to maintain, improve, and advocate for the responsible use of our green spaces. Nature Kakis groups have collaborated with them to bring more communities to green spaces near them, and to learn about nature in their own backyards. Check out their collaborations <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/fotp-nk">here</a>.</p><br><br></section>
