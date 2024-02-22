@@ -29,3 +29,8 @@ description: ""
 <h5>Community Animals</h5>
 			<img align="top" src="/images/Community%20animals/cam2dog_Resized.jpg">
 <p align="justify">Nature Kakis are involved in managing community animal care, improving pet welfare, and reaching out to pet owners in their neighbourhood. They engage residents on responsible pet ownership, assist or organise pet-related events, and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Read more about their pet projects <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/community-animals">here</a> to find out more.<br><br></p></section>
+
+<section>
+<h5>Community in Bloom</h5>
+	<img align="top" src="/images/CIB/CommunityInBloom__3_.jpg">
+<p align="justify">Community Gardens are great spaces to involve people in greening their neighbourhood, to learn about plants, and to organise nature-related activities and events. Nature Kakis have been collaborating with Community Gardens under the Community In Bloom programme to engage their communities through gardening. See how they have grown <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/gardeningsg-community-gardens">here!</a> </p><br><br></section>
