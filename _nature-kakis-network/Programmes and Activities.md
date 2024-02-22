@@ -18,14 +18,14 @@ description: ""
 <section>
 <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">City in Nature Activities for Nature Kakis to Participate in</h3>
 <img src="/images/Brochure/Nature_Kakis_Brochure_A4_2Feb2024_latest.png">
-<br></section>
+<br><br></section>
 
 <section>
 <h5>Biodiversity &amp; Wildlife</h5>
 			<img align="top" src="/images/BioD%20&amp;%20wildlife/BioDandWildlife__1__Resized.jpg">
-			<p align="justify">Engage in biodiversity watches, webinars, and wildlife management efforts with fellow residents and nature groups. Singapore's rich biodiversity, comprising a wide range of plants and animals, is showcased through engaging communities in walks, neighbourhood projects, and outreach activities. Nature Kakis help communities appreciate the island's diverse wildlife. Explore how they have embraced the wild side <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/citizen-science-nk">here</a>!<br></p></section>
+			<p align="justify">Engage in biodiversity watches, webinars, and wildlife management efforts with fellow residents and nature groups. Singapore's rich biodiversity, comprising a wide range of plants and animals, is showcased through engaging communities in walks, neighbourhood projects, and outreach activities. Nature Kakis help communities appreciate the island's diverse wildlife. Explore how they have embraced the wild side <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/citizen-science-nk">here</a>!<br><br></p></section>
 
 <section>
 <h5>Community Animals</h5>
 			<img align="top" src="/images/Community%20animals/cam2dog_Resized.jpg">
-<p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. <br>Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/community-animals">here</a> to find out more.<br></p></section>
+<p align="justify">Nature Kakis are involved in managing community animal care, improving pet welfare, and reaching out to pet owners in their neighbourhood. They engage residents on responsible pet ownership, assist or organise pet-related events, and help to encourage stewardship in the responsible care and management of cats and dogs in our community. Read more about their pet projects here.<a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/community-animals">here</a> to find out more.<br><br></p></section>
