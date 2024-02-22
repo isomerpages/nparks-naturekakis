@@ -20,6 +20,9 @@ description: ""
 <img src="/images/Brochure/Nature_Kakis_Brochure_A4_2Feb2024_latest.png">
 </section>
 
+<section>
 <h5>Biodiversity &amp; Wildlife</h5>
 			<img align="top" src="/images/BioD%20&amp;%20wildlife/BioDandWildlife__1__Resized.jpg">
-			<p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents. <br>Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/citizen-science-nk">here</a> to view the Calendar of Citizen Science Events and <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/wildlife-nk">here</a> to read about the wildlife in Singapore.</p>
+			<p align="justify">Plan and participate in biodiversity watches and webinars with fellow residents and nature groups. You can also learn how to manage human-wildlife encounters and assist in wildlife management efforts with residents. <br>Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/citizen-science-nk">here</a> to view the Calendar of Citizen Science Events and <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/wildlife-nk">here</a> to read about the wildlife in Singapore.</p></section>
+
+	
