@@ -34,3 +34,8 @@ description: ""
 <h5>Community in Bloom</h5>
 	<img align="top" src="/images/CIB/CommunityInBloom__3_.jpg">
 <p align="justify">Community Gardens are great spaces to involve people in greening their neighbourhood, to learn about plants, and to organise nature-related activities and events. Nature Kakis have been collaborating with Community Gardens under the Community In Bloom programme to engage their communities through gardening. See how they have grown <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/gardeningsg-community-gardens">here!</a> </p><br><br></section>
+
+<section>
+<h5>DIY Nature Walks</h5>
+<img align="top" src="/images/DIY%20Nature%20walks/GuideFacilitation_ChekJawa_2023_08_05_JacquelineChua__10__Resized.jpg">
+<p align="justify">With an extensive network of parks, gardens, nature reserves and park connectors, Singapore has a wide variety of green spaces for communities to explore. Nature Kakis have been organising walks for their communities based on their interests, and have even combined walks with other activities like beach cleanups to make our green spaces even better. Read about their efforts to take nature walks one step further <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/diy-nature-walks">here</a>!</p><br><br></section>
