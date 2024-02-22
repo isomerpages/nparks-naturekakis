@@ -29,4 +29,3 @@ description: ""
 <h5>Community Animals</h5>
 			<img align="top" src="/images/Community%20animals/cam2dog_Resized.jpg">
 <p align="justify">Engage residents on responsible pet ownership, assist or organise pet-related events and help to encourage stewardship in the responsible care and management of cats and dogs in our community. <br>Click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/community-animals">here</a> to find out more.<br></p></section>
-	
