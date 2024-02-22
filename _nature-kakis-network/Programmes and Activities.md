@@ -44,3 +44,4 @@ description: ""
 <h5>Friends of the Park</h5>
 <img align="top" src="/images/FOTP/aywi5915.JPG">
 <p align="justify">Many parks and nature areas in Singapore are part of the Friends of The Parks programme, in which localised volunteer groups help to maintain, improve, and advocate for the responsible use of our green spaces. Nature Kakis groups have collaborated with them to bring more communities to green spaces near them, and to learn about nature in their own backyards. Check out their collaborations <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/fotp-nk">here</a>.</p><br><br></section>
+
