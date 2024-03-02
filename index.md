@@ -11,12 +11,12 @@ sections:
       subtitle: Growing our City in Nature
       background: /images/DIY Nature walks/IMG_20231127_131219_573.JPG
       key_highlights:
-        - title: Join a Nature Kakis chapter
-          description: View established Chapters here
-          url: /nature-kakis/chapters/about-chapters/
-        - title: Event calendar
+        - title: "Join our activities "
+          description: Learn about our Programmes
+          url: /nature-kakis/programmes-and-activities/
+        - title: Follow Us on Instagram
           description: Discover what is happening
-          url: /nature-kakis/calendar/
+          url: https://www.instagram.com/naturekakis_network?igsh=eGc0OWgxaWxN3NrIn
       variant: center
   - infopic:
       title: Nature Kakis Network
