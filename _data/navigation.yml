@@ -9,8 +9,6 @@ links:
         url: /nature-kakis/programmes-and-activities/
       - title: Chapters
         url: /nature-kakis/chapters/about-chapters/
-      - title: Event Calendar
-        url: /nature-kakis/calendar/
   - title: Resource Development
     url: /resource-development/capacity-building/
     sublinks:
@@ -19,4 +17,4 @@ links:
       - title: Seed Fund
         url: /seed-fund/about/
       - title: Resource links
-        url: /usefullinks
+        url: /resourcelinks/
