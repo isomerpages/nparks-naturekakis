@@ -2,6 +2,6 @@ collections:
   resource-development:
     output: true
     order:
-      - Useful Links.md
       - Capacity Building.md
       - Seed Fund.md
+      - Useful Links.md
