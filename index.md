@@ -11,7 +11,7 @@ sections:
       subtitle: Growing our City in Nature
       background: /images/DIY Nature walks/IMG_20231127_131219_573.JPG
       key_highlights:
-        - title: "Join our activities "
+        - title: Join our activities
           description: Learn about our Programmes
           url: /nature-kakis/programmes-and-activities/
         - title: Follow Us on Instagram
