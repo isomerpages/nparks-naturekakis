@@ -12,7 +12,7 @@ description: ""
 </style>
 
 <section>
-<p align="justify">Nature Kakis chapters are key leaders within their constituency, driving community-led nature programmes, activities, and projects, bringing our City In Nature to their communities. They can explore a wide variety of activities and programmes, catering to diverse interests and skill levels, providing a starting point for Nature Kakis chapters to explore new activities for their community. While the list is not exhaustive, it serves as a source of inspiration for chapters to kickstart new programmes and/or improve existing ones.</p><br>
+<p align="justify">Nature Kakis chapters are key leaders within their constituency, driving community-led nature programmes, activities, and projects, bringing our City In Nature to their communities. They can explore a wide variety of activities and programmes, catering to diverse interests and skill levels, providing a starting point for Nature Kakis chapters to explore new activities for their community. While the list is not exhaustive, it serves as a source of inspiration for chapters to kickstart new programmes and/or improve existing ones. If you join us as a Nature Kakis steward, you will have the opportunity to participate in the following activities!</p><br>
 </section>
 
 <section>
