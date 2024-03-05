@@ -16,7 +16,7 @@ variant: markdown
 </header>
 <section>
 	<p align="justify">The Nature Kakis Network Seed Fund supports the development of the Nature Kakis Network, building of the Nature Kakis Network, training of Nature Kakis to self-organize activities, and recurring Nature Kakis activities/events.</p>
-	<p align="justify">This Seed Fund provides funding of up to $5,000 per Nature Kakis chapter, and there will be a full reimbursement of fundable items* made to the respective Citizens’ Consultative Committee (CCC) supporting each chapter. The use of funds for projects will be assessed based on the project’s merits and ability to contribute towards the Nature Kakis Network and chapter growth. </p><br><p></p>Click <a rel="noopener noreferrer" target="_blank" href="/files/NKN_Seed_Fund.pdf">here</a> to find out more.<p></p>
+	<p align="justify">This Seed Fund provides funding of up to $5,000 per Nature Kakis chapter, and there will be a full reimbursement of fundable items* made to the respective Citizens’ Consultative Committee (CCC) supporting each chapter. The use of funds for projects will be assessed based on the project’s merits and ability to contribute towards the Nature Kakis Network and chapter growth.<br>Click <a rel="noopener noreferrer" target="_blank" href="/files/NKN_Seed_Fund.pdf">here</a> to find out more.</p>
 	<p><i>*Please note that Goods and Service Tax (GST) is not fundable.</i></p>
 	<br>
 </section>
