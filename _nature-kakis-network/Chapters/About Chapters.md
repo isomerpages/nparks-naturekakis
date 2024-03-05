@@ -78,13 +78,17 @@ a[target="_blank"]:after {
 			<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
 		</tr>
 		<tr class="districteven">
-			<th class="districteven" rowspan="5">South West</th>
+			<th class="districteven" rowspan="6">South West</th>
 			<td class="districteven">Boon Lay</td>
 			<td class="districteven"><a href="mailto:naturekakis@gmail.com">naturekakis@gmail.com</a></td>
 		</tr>
 		<tr>
 			<td class="districteven">Bukit Gombak</td>
 			<td class="districteven"><a href="mailto:bgnaturekakis@gmail.com">bgnaturekakis@gmail.com</a></td>
+		</tr>
+		<tr>
+			<td class="districteven">Chua Chu Kang</td>
+			<td class="districteven"><a href="mailto:[To be updated]">[To be updated]</a></td>
 		</tr>
 		<tr>
 			<td class="districteven">Jurong Spring</td>
@@ -99,7 +103,7 @@ a[target="_blank"]:after {
 			<td class="districteven"><a href="mailto:pulaiecoclub@gmail.com">pulaiecoclub@gmail.com</a></td>
 		</tr>
 		<tr>
-			<th class="districtodd" rowspan="5">Central</th>
+			<th class="districtodd" rowspan="6">Central</th>
 			<td>Buona Vista</td>
 			<td><a href="mailto:pa_buonavistacc@pa.gov.sg">pa_buonavistacc@pa.gov.sg</a></td>
 		</tr>
@@ -120,6 +124,10 @@ a[target="_blank"]:after {
 			<td><a href="mailto:nbuddiestptb@gmail.com">nbuddiestptb@gmail.com</a></td>
 		</tr>
 		<tr>
+			<td>Toa Payoh</td>
+			<td><a href="mailto:nbuddiestptb@gmail.com">nbuddiestptb@gmail.com</a></td>
+		</tr>
+		<tr>
 			<th class="districteven" rowspan="4">North East</th>
 			<td class="districteven">Pasir Ris Central</td>
 			<td class="districteven"><a href="mailto:naturekaki.pr@gmail.com">naturekaki.pr@gmail.com</a></td>
@@ -135,7 +143,6 @@ a[target="_blank"]:after {
 		<tr style="border-bottom:solid 1px lightgrey">
 			<td class="districteven">Tampines West</td>
 			<td class="districteven"><a href="mailto:tampineswestnaturekakis@gmail.com">tampineswestnaturekakis@gmail.com</a></td>
-
 		</tr>
 			<tr>
 			<th class="districtodd" rowspan="1">South East</th>
@@ -145,7 +152,7 @@ a[target="_blank"]:after {
 	</tbody>
 </table>
 
-<p align="justify">* <em>Information was last updated in Dec 2023</em></p>
+<p align="justify">* <em>Information was last updated in Feb 2024</em></p>
 
 <p align="justify">Click <a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/naturekakischaptersinfo">here</a> to read about the established chapters and some of the activities that they have conducted.</p>
 
