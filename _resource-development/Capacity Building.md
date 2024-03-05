@@ -45,8 +45,7 @@ th {
 	<li><input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5>Nature Kakis 101 Induction programme</h5></label><div>
 			<img align="top" src="/images/Groups Networking Engagement/Networking__1__Resized_2.jpg">
-			<p align="justify">The Induction programme series comprises five annual sessions covering topics on <em>biodiversity and wildlife, arboriculture, horticulture, community engagement, and planning for City in Nature activities. These sessions aim to equip Nature Kakis with a comprehensive understanding of nature-related issues and community involvement, as well as the necessary skills to lead City in Nature activities. The programme serves as a launchpad into NParks' work and the potential roles of Nature Kakis in selected programmes, featuring hands-on interactive elements and expert speakers. Scheduled quarterly, each session focuses on a different topic, encouraging Nature Kakis to deepen their knowledge, gain insights into NParks programmes, and engage with speakers.</em></p><em>
-	</em></div></li><em>
+			<p align="justify">The Induction programme series comprises five annual sessions covering topics on <em>biodiversity and wildlife, arboriculture, horticulture, community engagement, and planning for City in Nature activities</em>. These sessions aim to equip Nature Kakis with a comprehensive understanding of nature-related issues and community involvement, as well as the necessary skills to lead City in Nature activities. The programme serves as a launchpad into NParks' work and the potential roles of Nature Kakis in selected programmes, featuring hands-on interactive elements and expert speakers. Scheduled quarterly, each session focuses on a different topic, encouraging Nature Kakis to deepen their knowledge, gain insights into NParks programmes, and engage with speakers.</p></div></li>
 	<li><input type="checkbox" id="accordion2">
 		<label for="accordion2"><h5>Topic specific training sessions</h5></label><div>
 			<img align="top" src="/images/DIY%20Nature%20walks/IMG_20231127_131148_914.JPG">
@@ -97,10 +96,11 @@ th {
 				</details>
 		</div>
 	</div></li>
-</em></ul><em>
+	</ul>
+
 
 <section>
 	<h3>Next Steps</h3>
 		<p align="justify">As Nature Kakis progress through the training programmes, they will develop their skills, enabling them to bring more City in Nature initiatives into the heartlands and lead these activities for the community, by the community.</p>
 		<p align="justify">Established Nature Kakis chapters can apply for the <a rel="noopener noreferrer nofollow" target="_blank" href="/seed-fund/about/">Nature Kakis Seed Fund</a> to fund and facilitate the preparation and implementation of their programmes. By leveraging the Seed Fund and planning ahead, chapters can make a meaningful impact in their communities.</p>
-</section></em>
+</section>
