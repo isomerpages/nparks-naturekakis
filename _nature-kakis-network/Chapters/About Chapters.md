@@ -52,11 +52,8 @@ a[target="_blank"]:after {
 
 <img src="/images/BioD%20&amp;%20wildlife/BioDandWildlife__2__Resized.jpg">
 
-<p align="justify">The Nature Kakis chapters are part of a network of passionate volunteers that come together to run activities that involve, engage, and inspire communities to care for our City In Nature.</p> 
-
-<p align="justify">Every chapter is run by grassroots volunteers, schools, and residents. Currently, the network consists of 19 established chapters island-wide. We aim to grow this number and establish one chapter per precinct.</p>
-
-<p align="justify">Nature Kakis chapters are guided by NParks, with <a rel="noopener noreferrer" target="_blank" href="/resource-development/capacity-building/">induction sessions and training</a> to get chapters started. Recognised chapters are also eligible for <a rel="noopener noreferrer" target="_blank" href="/seed-fund/about/">seed funding</a> to support chapter development.</p>
+<p align="justify">The Nature Kakis chapters are part of a network of passionate volunteers that come together to run activities that involve, engage, and inspire communities to care for our City In Nature. Every chapter is run by grassroots volunteers, schools, and residents. Currently, the network consists of 18 established chapters island-wide.</p>
+<p align="justify">We aim to grow this number and establish one chapter per precinct. Nature Kakis chapters are guided by NParks, with <a rel="noopener noreferrer" target="_blank" href="/resource-development/capacity-building/">induction sessions and training</a> to get chapters started. Recognised chapters are also eligible for <a rel="noopener noreferrer" target="_blank" href="/seed-fund/about/">seed funding</a> to support chapter development.</p>
 
 <h3>Get in touch with the Nature Kakis</h3>
 <p align="justify">If you are a resident or grassroots volunteer in the following constituencies and are interested in joining the Nature Kakis, do reach out to the established chapters listed below.</p>
