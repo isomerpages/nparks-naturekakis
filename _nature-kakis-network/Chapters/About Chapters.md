@@ -120,8 +120,8 @@ a[target="_blank"]:after {
 			<td><a href="mailto:nbuddiestptb@gmail.com">nbuddiestptb@gmail.com</a></td>
 		</tr>
 		<tr>
-			<td>Toa Payoh</td>
-			<td><a href="mailto:nbuddiestptb@gmail.com">nbuddiestptb@gmail.com</a></td>
+			<td>Toa Payoh Central</td>
+			<td><a href="mailto:nbuddiestptb@gmail.com">tpycz6rn@gmail.com</a></td>
 		</tr>
 		<tr>
 			<th class="districteven" rowspan="4">North East</th>
