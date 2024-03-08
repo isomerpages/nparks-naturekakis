@@ -62,3 +62,4 @@ description: ""
 			<p align="justify">Nature is a great stress reliever. Interacting with natural materials and green spaces has been proven to have a host of health benefits, such as improving mental well-being, encouraging the young and elderly to improve their motor skills, and serving as the basis of positive social interactions. Nature Kakis have been conducting therapeutic horticulture activities for their communities to bring all these benefits home. Check out how they craft their own connections <a rel="noopener noreferrer" target="_blank" href="/all/nature-kakis-happenings/therapeutic-horticulture/">here</a>.<br></p>
 		</div></li>
 	</ul>
+<p>If you'd like to discover more about the Nature Kakis activities, we invite you to visit our Instagram <a rel="noopener noreferrer" target="_blank" href="https://www.instagram.com/naturekakis_network?igsh=eGc0OWgxaWxN3NrIn">here</a>.</p>
