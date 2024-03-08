@@ -24,4 +24,9 @@ description: ""
 	<li><input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5>Biodiversity &amp; Wildlife</h5></label><div>
 			<img align="top" src="/images/BioD%20&amp;%20wildlife/BioDandWildlife__1__Resized.jpg">
-<p align="justify">Engage in biodiversity watches, webinars, and wildlife management efforts with fellow residents and nature groups. Singapore's rich biodiversity, comprising a wide range of plants and animals, is showcased through engaging communities in walks, neighbourhood projects, and outreach activities. Nature Kakis help communities appreciate the island's diverse wildlife. Explore how they have embraced the wild side <a rel="noopener noreferrer" target="_blank" href="/all/nature-kakis-happenings/biodiversity-and-wildlife/">here</a>.</p></div></li></ul>
+<p align="justify">Engage in biodiversity watches, webinars, and wildlife management efforts with fellow residents and nature groups. Singapore's rich biodiversity, comprising a wide range of plants and animals, is showcased through engaging communities in walks, neighbourhood projects, and outreach activities. Nature Kakis help communities appreciate the island's diverse wildlife. Explore how they have embraced the wild side <a rel="noopener noreferrer" target="_blank" href="/all/nature-kakis-happenings/biodiversity-and-wildlife/">here</a>.</p></div></li>
+		<li><input type="checkbox" id="accordion2">
+			<label for="accordion2"><h5>Community Animals</h5></label><div>
+			<img align="top" src="/images/Community%20animals/cam2dog_Resized.jpg">
+			<p align="justify">Pets are a community’s best friend! Nature Kakis are involved in managing community animal care, improving pet welfare, and reaching out to pet owners in their neighbourhood. Read more about their pet projects <a rel="noopener noreferrer" target="_blank" href="/all/nature-kakis-happenings/community-animals/">here</a>to find out more.</p>
+</div></li></ul>
