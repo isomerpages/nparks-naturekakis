@@ -2,7 +2,7 @@ collections:
   nature-kakis-network:
     output: true
     order:
-      - Example p&a.md
+      - Programmes and Activities.md
       - About Nature Kakis.md
       - mar24 old Programmes and Activities.md
       - Chapters/.keep
