@@ -44,6 +44,12 @@ description: ""
 			<label for="accordion5"><h5>Nature in Neighbourhood</h5></label><div>
 			<img align="top" src="/images/Nature%20in%20neighborhood/nin1__2_.jpg">
 			<p align="justify">Nature can be found everywhere in Singapore, including our urban areas! By running projects close to home, Nature Kakis have been invaluable touchpoints for their communities to learn about and experience nature right at their doorstep. Visit some of their neighbourhoods and learn about their projects <a rel="noopener noreferrer" target="_blank" href="/all/nature-kakis-happenings/nature-in-neighbourhood/">here</a>.</p>
+		</div></li>
+		<li><input type="checkbox" id="accordion6">
+			<label for="accordion6"><h5>Nature Walks</h5></label><div>
+			<img align="top" src="/images/DIY%20Nature%20walks/GuideFacilitation_ChekJawa_2023_08_05_JacquelineChua__10__Resized.jpg">
+			<p align="justify">
+			With an extensive network of parks, gardens, nature reserves and park connectors, Singapore has a wide variety of green spaces for communities to explore. Nature Kakis have been organising walks for their communities based on their interests, and have even combined walks with other activities like beach cleanups to make our green spaces even better. Read about their efforts to take nature walks one step further  <a rel="noopener noreferrer" target="_blank" href="/all/nature-kakis-happenings/nature-walks/">here</a>.</p>
 </div></li>
 		<li><input type="checkbox" id="accordion7">
 			<label for="accordion7"><h5>OneMillionTrees Movement</h5></label><div>
