@@ -2,6 +2,7 @@ collections:
   example-folder:
     output: true
     order:
+      - Chapters pages/Example page of Our Chapters.md
       - Chapters pages/Example page Old version of Our Chapters.md
       - Chapters pages/Example chapter pages.md
       - Chapters pages/.keep
