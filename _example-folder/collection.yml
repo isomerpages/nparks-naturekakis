@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Chapters pages/.keep
-      - Example chapter pages.md
       - Jacq's draft page for NK programmes.md
       - mar24 old Programmes and Activities.md
       - Event Calendar.md
