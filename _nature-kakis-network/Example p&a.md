@@ -45,5 +45,9 @@ description: ""
 			<img align="top" src="/images/Nature%20in%20neighborhood/nin1__2_.jpg">
 			<p align="justify">Nature can be found everywhere in Singapore, including our urban areas! By running projects close to home, Nature Kakis have been invaluable touchpoints for their communities to learn about and experience nature right at their doorstep. Visit some of their neighbourhoods and learn about their projects <a rel="noopener noreferrer" target="_blank" href="/all/nature-kakis-happenings/nature-in-neighbourhood/">here</a>.</p>
 </div></li>
-	
+		<li><input type="checkbox" id="accordion7">
+			<label for="accordion7"><h5>OneMillionTrees Movement</h5></label><div>
+			<img align="top" src="/images/OMT/treeplantingfamilytree_Resized.jpg">
+			<p align="justify">The OneMillionTrees movement is a nationwide effort to plant a million more trees across Singapore over the next 10 years, bringing the number of trees in Singapore to more than 8 million. Nature Kakis are key players in this movement by serving as facilitators and organisers of tree planting activities within their constituencies. Dig into their activities  <a rel="noopener noreferrer" target="_blank" href="/all/nature-kakis-happenings/tree-planting/">here</a>.</p>
+</div></li>
 </ul>
