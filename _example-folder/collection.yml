@@ -2,6 +2,7 @@ collections:
   example-folder:
     output: true
     order:
+      - Chapters pages/Example chapter pages.md
       - Chapters pages/.keep
       - Jacq's draft page for NK programmes.md
       - mar24 old Programmes and Activities.md
