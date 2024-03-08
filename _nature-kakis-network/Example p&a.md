@@ -50,4 +50,9 @@ description: ""
 			<img align="top" src="/images/OMT/treeplantingfamilytree_Resized.jpg">
 			<p align="justify">The OneMillionTrees movement is a nationwide effort to plant a million more trees across Singapore over the next 10 years, bringing the number of trees in Singapore to more than 8 million. Nature Kakis are key players in this movement by serving as facilitators and organisers of tree planting activities within their constituencies. Dig into their activities  <a rel="noopener noreferrer" target="_blank" href="/all/nature-kakis-happenings/tree-planting/">here</a>.</p>
 </div></li>
-</ul>
+		<li><input type="checkbox" id="accordion8">
+			<label for="accordion8"><h5>Therapeutic Horticulture</h5></label><div>
+			<img align="top" src="/images/TH%20Activities/TheapeuticHorticulture__3__Resized.jpg">
+			<p align="justify">Nature is a great stress reliever. Interacting with natural materials and green spaces has been proven to have a host of health benefits, such as improving mental well-being, encouraging the young and elderly to improve their motor skills, and serving as the basis of positive social interactions. Nature Kakis have been conducting therapeutic horticulture activities for their communities to bring all these benefits home. Check out how they craft their own connections <a rel="noopener noreferrer" target="_blank" href="/all/nature-kakis-happenings/therapeutic-horticulture/">here</a>.<br></p>
+		</div></li>
+	</ul>
