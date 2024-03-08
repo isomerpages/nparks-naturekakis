@@ -2,6 +2,7 @@ collections:
   example-folder:
     output: true
     order:
+      - Example calendar/.keep
       - Example calendar.md
       - Example activities/Join Our Activities.md
       - Example activities/Example Programmes & Activities 27 dec old.md
