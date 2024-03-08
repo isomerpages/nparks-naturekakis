@@ -29,4 +29,14 @@ description: ""
 			<label for="accordion2"><h5>Community Animals</h5></label><div>
 			<img align="top" src="/images/Community%20animals/cam2dog_Resized.jpg">
 			<p align="justify">Pets are a community’s best friend! Nature Kakis are involved in managing community animal care, improving pet welfare, and reaching out to pet owners in their neighbourhood. Read more about their pet projects <a rel="noopener noreferrer" target="_blank" href="/all/nature-kakis-happenings/community-animals/">here</a>to find out more.</p>
+</div></li>
+		<li><input type="checkbox" id="accordion3">
+			<label for="accordion3"><h5>Community in Bloom</h5></label><div>
+			<img align="top" src="/images/CIB/CommunityInBloom__3_.jpg">
+			<p align="justify">Community Gardens are great spaces to involve people in greening their neighbourhood, to learn about plants, and to organise nature-related activities and events. Nature Kakis have been collaborating with Community Gardens under the Community In Bloom programme to engage their communities through gardening. See how they have grown <a rel="noopener noreferrer" target="_blank" href="/all/nature-kakis-happenings/community-in-bloom/">here</a>.</p>
+</div></li>
+		<li><input type="checkbox" id="accordion4">
+			<label for="accordion5"><h5>Friends of the Park</h5></label><div>
+			<img align="top" src="/images/FOTP/aywi5915.JPG">
+			Many parks in Singapore are part of the Friends of The Parks programme, in which localised volunteer groups help to maintain, improve, and advocate for the responsible use of our green spaces. Nature Kakis groups have collaborated with them to bring more communities to green spaces near them, and to learn about nature in their own backyards. Check out their collaborations <a rel="noopener noreferrer" target="_blank" href="/all/nature-kakis-happenings/friends-of-the-parks/">here</a>.<p></p>
 </div></li></ul>
