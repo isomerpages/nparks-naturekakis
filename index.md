@@ -76,4 +76,11 @@ sections:
             island-wide.
           linktext: Click here
           url: https://pcn.nparks.gov.sg/the-pcn-experience/near/
+  - infobar:
+      title: Example Video
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
+      url: /all/video/nkvideoone/
 ---
