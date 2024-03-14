@@ -4,3 +4,8 @@ permalink: /example-folder/permalink/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/timelinenkind.png">
+</div>
+<p></p>
