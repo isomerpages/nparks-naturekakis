@@ -19,6 +19,15 @@ sections:
           url: https://www.instagram.com/naturekakis_network?igsh=eGc0OWgxaWxN3NrIn
       variant: center
   - infopic:
+      title: Example video
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      url: https://www.youtube.com/watch?v=LGcQjWEftfk&t=190s
+      image: /images/PrintScreen.png
+      alt: Image alt text
+  - infopic:
       title: Nature Kakis Network
       subtitle: learn about our
       description: Learn more about the Nature Kakis programme, and how communities
