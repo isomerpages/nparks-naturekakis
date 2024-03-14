@@ -2,6 +2,7 @@ collections:
   example-folder:
     output: true
     order:
+      - Example Title.md
       - Example resource building/Example page for Useful Websites.md
       - Example resource building/Example of cap building.md
       - Example resource building/.keep
