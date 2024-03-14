@@ -20,10 +20,10 @@ sections:
       variant: center
   - infopic:
       title: Example video
-      subtitle: Add an image and text
+      subtitle: Get to know our nature kak
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Look at all the fun we have!
+      button: CLICK HERE
       url: https://www.youtube.com/watch?v=LGcQjWEftfk&t=190s
       image: /images/PrintScreen.png
       alt: Image alt text
