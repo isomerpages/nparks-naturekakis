@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Exple Title.md
-      - Example resource building/Example page for Useful Websites.md
+      - Example resource building/page for Useful Websites.md
       - Example resource building/Example of cap building.md
       - Example resource building/.keep
       - Example seed fund/old How to Apply?.md
