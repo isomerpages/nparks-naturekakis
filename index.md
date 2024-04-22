@@ -14,9 +14,9 @@ sections:
         - title: Join Us today
           description: Learn about our Network
           url: /nature-kakis/about/
-        - title: Follow Us on Instagram
+        - title: Follow Us on Instagram & Facebook
           description: Discover what is happening
-          url: https://www.instagram.com/naturekakis_network?igsh=eGc0OWgxaWxN3NrIn
+          url: https://www.instagram.com/naturekakis_network?igsh=ZzIzODN4eXQ4bnIx&utm_source=qr
       variant: center
   - infopic:
       title: Join Nature Kakis Today!
