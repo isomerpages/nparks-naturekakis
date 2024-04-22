@@ -20,13 +20,14 @@ sections:
       variant: center
   - infopic:
       title: Join Nature Kakis Today!
-      subtitle: for GovTech to insert video
+      subtitle: Govtech help
       id: infopic
       description: |-
-        Embed Min's video & centralise alignment
-        (can remove the image and just retain the title)
+        Watch and get inspired by our Nature Kakis leads
+
+        (note to GovTech: Help to embed video and centralise :))
       image: /images/PrintScreen.png
-      alt: Image alt text
+      alt: Video of Minister and NK leads
   - infopic:
       title: Nature Kakis Network
       subtitle: learn about our
