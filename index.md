@@ -19,12 +19,10 @@ sections:
           url: https://www.instagram.com/naturekakis_network?igsh=eGc0OWgxaWxN3NrIn
       variant: center
   - infopic:
-      title: Example video
-      subtitle: Get to know our nature kak
+      title: Join Nature Kakis Today!
+      subtitle: "for GovTech to insert video "
       id: infopic
-      description: Look at all the fun we have!
-      button: CLICK HERE
-      url: https://www.youtube.com/watch?v=LGcQjWEftfk&t=190s
+      description: Embed Min's video & centralise alignment
       image: /images/PrintScreen.png
       alt: Image alt text
   - infopic:
