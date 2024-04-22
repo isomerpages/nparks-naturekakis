@@ -4,7 +4,7 @@ title: Nature Kakis
 description: An Isomer site of the Singapore Government
 image: /images/Nature_Kakis_Logo_Full_Colour.png
 permalink: /
-notification: ""
+notification: This website was co-created by Nature Kakis Youth Stewards.
 sections:
   - hero:
       title: Nature Kakis
