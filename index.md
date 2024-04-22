@@ -20,9 +20,11 @@ sections:
       variant: center
   - infopic:
       title: Join Nature Kakis Today!
-      subtitle: "for GovTech to insert video "
+      subtitle: for GovTech to insert video
       id: infopic
-      description: Embed Min's video & centralise alignment
+      description: |-
+        Embed Min's video & centralise alignment
+        (can remove the image and just retain the title)
       image: /images/PrintScreen.png
       alt: Image alt text
   - infopic:
