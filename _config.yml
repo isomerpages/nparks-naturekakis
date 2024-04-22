@@ -3,14 +3,14 @@ url: https://naturekakis.nparks.gov.sg
 favicon: /images/Nature_Kakis_Logo_Full_Colour.png
 colors:
   primary-color: "#215732"
-  secondary-color: "#744f28"
+  secondary-color: "#244102"
   media-colors:
     - title: media-color-one
       color: "#ffcb00"
     - title: media-color-two
       color: "#7a9a01"
     - title: media-color-three
-      color: "#75787b"
+      color: "#8b572a"
     - title: media-color-four
       color: "#ff9e1b"
     - title: media-color-five
