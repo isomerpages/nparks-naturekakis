@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: Nature Kakis
-description: An Isomer site of the Singapore Government
+title: "Nature Kakis Network "
+description: "This website is an Isomer website co-created and co-managed with
+  Nature Kakis Youth Stewards. "
 image: /images/Nature_Kakis_Logo_Full_Colour.png
 permalink: /
 notification: This website was co-created by Nature Kakis Youth Stewards.
