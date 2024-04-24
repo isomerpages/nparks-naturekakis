@@ -1,4 +1,4 @@
-title: Nature Kakis
+title: "Nature Kakis Network "
 url: https://naturekakis.nparks.gov.sg
 favicon: /images/Nature_Kakis_Logo_Full_Colour.png
 colors:
@@ -15,7 +15,8 @@ colors:
       color: "#ff9e1b"
     - title: media-color-five
       color: "#af272f"
-description: An Isomer site of the Singapore Government
+description: "This website is an Isomer website co-created and co-managed with
+  Nature Kakis Youth Stewards. "
 permalink: none
 baseurl: ""
 exclude:
