@@ -69,4 +69,4 @@ variant: markdown
 <section>
 <p align="justify" style="margin-top: 40px">As part of the initiative, National Parks Board (NParks) will partner with you and provide <a rel="noopener noreferrer" target="_blank" href="/resource-development/capacity-building/">training</a> to help you and other community leaders set up Nature Kakis chapters in each precinct. Set up a Nature Kakis chapter and play an active role in supporting your community!</p>
 	
-<p>If you are interested in starting a Nature Kakis chapter in your constituency, please click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/nk-formsg-enquiries">here</a>.</p></section>
+<p>If you are interested in starting a Nature Kakis chapter in your constituency, please fill in the query form <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/nk-formsg-enquiries">here</a>.</p></section>
