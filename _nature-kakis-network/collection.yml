@@ -2,7 +2,7 @@ collections:
   nature-kakis-network:
     output: true
     order:
-      - About Nature Kakis.md
+      - Who are we?.md
       - Programmes and Activities.md
       - Chapters/.keep
       - Chapters/Established Chapters.md
