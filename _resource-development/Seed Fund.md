@@ -9,9 +9,9 @@ variant: tiptap
 </p>
 <p>With the Nature Kakis Network serving as a platform that accelerates the
 mainstreaming of City in Nature initiatives within wider heartland communities,
-the Seed Fund supports the development and building of the network, the
-training of Nature Kakis to self-organize activities, and the organization
-of recurring Nature Kakis activities and events.</p>
+the Nature Kakis Network Seed Fund supports the development and building
+of the network, the training of Nature Kakis to self-organize activities,
+and the organization of recurring Nature Kakis activities and events.</p>
 <p><strong><u>Eligibility</u></strong>
 </p>
 <p>To apply, the chapter must first be an <strong>established Nature Kakis chapter</strong> that
