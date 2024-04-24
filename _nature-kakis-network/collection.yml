@@ -2,7 +2,7 @@ collections:
   nature-kakis-network:
     output: true
     order:
-      - Who are we.md
+      - WHO ARE WE.md
       - What we do.md
       - Join Us/.keep
       - Join Us/Established Chapters.md
