@@ -2,39 +2,45 @@
 title: Seed Fund
 permalink: /seed-fund/about/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<style>
-  a[target="_blank"]:after {
-    content: none;
-    margin: 0 3px 0 5px;
-  }
-</style>
-
-<header>
-	<h3>Nature Kakis Network Seed Fund</h3>
-</header>
-<section>
-	<p align="justify">The Nature Kakis Network Seed Fund supports the development of the Nature Kakis Network, building of the Nature Kakis Network, training of Nature Kakis to self-organize activities, and recurring Nature Kakis activities/events.</p>
-	<p align="justify">This Seed Fund provides funding of up to $5,000 per Nature Kakis chapter, and there will be a full reimbursement of fundable items* made to the respective Citizens’ Consultative Committee (CCC) supporting each chapter. The use of funds for projects will be assessed based on the project’s merits and ability to contribute towards the Nature Kakis Network and chapter growth.<br>Click <a rel="noopener noreferrer" target="_blank" href="/files/NKN_Seed_Fund.pdf">here</a> to find out more.</p>
-	<p><i>*Please note that Goods and Service Tax (GST) is not fundable.</i></p>
-	<br>
-</section>
-
-<section>
-	<ul class="jekyllcodex_accordion">
-		<li><input type="checkbox" id="accordion1">
-			<label for="accordion1"><h5>Objectives</h5></label><div>
-			<p align="justify">With Nature Kakis Network being a platform that accelerates the mainstreaming of the City in Nature initiatives to wider communities in the heartlands, the Seed Fund aims to help set up and develop chapters in each precinct. These chapters will be empowered to self-organize and lead projects for the community, by the community.</p>
-		</div></li>
-		<li><input type="checkbox" id="accordion2">
-			<label for="accordion2"><h5>Effective Date</h5></label><div>
-			<p align="justify">Interested chapters are encouraged to apply for the Seed Fund early, as it operates on a first-come, first-served basis and is subject to the availability funds.</p>
-		</div></li>
-		<li><input type="checkbox" id="accordion3">
-			<label for="accordion3"><h5>Eligibility</h5></label><div>
-			<p align="justify">To apply, the chapter must first be an established Nature Kakis chapter that has received appointment letters from National Parks Board (NParks).</p></div></li>
-	</ul>
-</section>
-
-<p align="justify">To start your application for the Nature Kakis Network Seed Fund, please get in touch with the NParks Community Projects (Engagement) manager who has been your primary point of contact. For other enquiries related to the Seed Fund, click <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/nk-formsg-enquiries">here</a>.</p>
+<h3>Nature Kakis Network Seed Fund</h3>
+<p><strong><u>Objectives</u></strong>
+</p>
+<p>With the Nature Kakis Network serving as a platform that accelerates the
+mainstreaming of City in Nature initiatives within wider heartland communities,
+the Seed Fund supports the development and building of the network, the
+training of Nature Kakis to self-organize activities, and the organization
+of recurring Nature Kakis activities and events.</p>
+<p><strong><u>Eligibility</u></strong>
+</p>
+<p>To apply, the chapter must first be an <strong>established Nature Kakis chapter</strong> that
+has received appointment letters from National Parks Board (NParks).</p>
+<p>Interested established chapters are encouraged to apply for the Seed Fund
+early, as it operates on a first-come, first-served basis and is subject
+to the availability of funds.</p>
+<p></p>
+<p><strong><u>Fund Details </u></strong>
+</p>
+<p>This Seed Fund provides funding of <strong>up to $5,000* per Nature Kakis chapter</strong>,
+and there will be a<strong> full reimbursement </strong>of fundable items
+made to the respective <strong>Citizens’ Consultative Committee (CCC) </strong>supporting
+each chapter. The use of funds for projects will be assessed based on the
+project’s merits and ability to contribute towards the Nature Kakis Network
+and chapter growth.</p>
+<p>You may refer to the infographics below on fundable items and book a virtual
+consultation with us through your NParks Community Projects (Engagement)
+manager today.
+<br>
+</p>
+<p><em>*Please note that Goods and Service Tax (GST) is not fundable.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nature Kakis Seed Fund fundable items" src="/images/Slide2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="How to tap on the seed fund" src="/images/Slide3.png">
+</div>
+<p></p>
