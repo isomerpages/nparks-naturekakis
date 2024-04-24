@@ -148,7 +148,7 @@ a[target="_blank"]:after {
 	</tbody>
 </table>
 
-<p align="justify">* <em>Information was last updated in Feb 2024</em></p>
+<p align="justify">* <em>Information was last updated in Apr 2024</em></p>
 
 <p align="justify">Click <a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/naturekakischaptersinfo">here</a> to read about the established chapters and some of the activities that they have conducted.</p>
 
