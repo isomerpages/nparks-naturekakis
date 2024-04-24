@@ -42,11 +42,9 @@ a[target="_blank"]:after {
 	content:none;
 	margin: 0 3px 0 5px;
 	}
-
 @media screen and (max-width: 400px) {
 	table {
 		font-size: 13px;
-	}
 }
 </style>
 
