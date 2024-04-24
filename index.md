@@ -15,7 +15,7 @@ sections:
           description: Learn about our Network
           url: /nature-kakis/about/
         - title: Connect through Instagram
-          description: "Stay updated "
+          description: Stay updated
           url: https://go.gov.sg/nkig
         - title: Follow us on Facebook
           description: Explore past events
