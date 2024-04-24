@@ -14,9 +14,12 @@ sections:
         - title: Join Us today
           description: Learn about our Network
           url: /nature-kakis/about/
-        - title: Follow Us on Instagram & Facebook
-          description: Discover what is happening
-          url: https://www.instagram.com/naturekakis_network?igsh=ZzIzODN4eXQ4bnIx&utm_source=qr
+        - title: Connect through Instagram
+          description: "Stay updated "
+          url: https://go.gov.sg/nkig
+        - title: Follow us on Facebook
+          description: Explore past events
+          url: https://go.gov.sg/nkfb
       variant: center
   - infopic:
       title: Join Nature Kakis Today!
