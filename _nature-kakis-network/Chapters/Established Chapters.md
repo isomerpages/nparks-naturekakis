@@ -2,7 +2,7 @@
 title: Established Chapters
 permalink: /nature-kakis/chapters/about-chapters/
 variant: markdown
-description: "Established Chapters "
+description: Established Chapters
 third_nav_title: Chapters
 ---
 <style>
@@ -70,7 +70,7 @@ a[target="_blank"]:after {
 			<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
 		</tr>
 		<tr class="districteven">
-			<th class="districteven" rowspan="6">South West</th>
+			<th class="districteven" rowspan="8">South West</th>
 			<td class="districteven">Boon Lay</td>
 			<td class="districteven"><a href="mailto:naturekakis@gmail.com">naturekakis@gmail.com</a></td>
 		</tr>
@@ -81,10 +81,18 @@ a[target="_blank"]:after {
 		<tr>
 			<td class="districteven">Chua Chu Kang</td>
 			<td class="districteven"><a href="mailto:[To be updated]">[To be updated]</a></td>
+				</tr>
+		<tr>
+			<td class="districteven">Hong Kah North</td>
+			<td class="districteven"><a href="mailto:[To be updated]">[To be updated]</a></td>
 		</tr>
 		<tr>
 			<td class="districteven">Jurong Spring</td>
 			<td class="districteven"><a href="mailto:pa_jurongspringcc@pa.gov.sg">pa_jurongspringcc@pa.gov.sg</a></td>
+				</tr>
+		<tr>
+			<td class="districteven">Nanyang</td>
+			<td class="districteven"><a href="mailto:[To be updated]">[To be updated]</a></td>
 		</tr>
 		<tr>
 			<td class="districteven">Taman Jurong</td>
@@ -137,10 +145,15 @@ a[target="_blank"]:after {
 			<td class="districteven"><a href="mailto:tampineswestnaturekakis@gmail.com">tampineswestnaturekakis@gmail.com</a></td>
 		</tr>
 			<tr>
-			<th class="districtodd" rowspan="1">South East</th>
-			<td>Siglap</td>
+			<th class="districtodd" rowspan="2">South East</th>
+			<td>Kembangan-Chai Chee</td>
+			<td><a href="mailto:[To be updated]">[To be updated]</a></td>
+				</tr>
+		<tr>
+	<td>Siglap</td>
 			<td><a href="mailto:[To be updated]">[To be updated]</a></td>
 		</tr>
+		
 	</tbody>
 </table>
 
