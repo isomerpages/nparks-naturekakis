@@ -23,7 +23,7 @@ sections:
       variant: center
   - infopic:
       title: Join Nature Kakis Today!
-      subtitle: Govtech help
+      subtitle: Govtech help!
       id: infopic
       description: |-
         Watch and get inspired by our Nature Kakis leads
