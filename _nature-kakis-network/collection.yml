@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - WHO ARE WE.md
-      - What we do.md
+      - WHAT WE DO.md
       - Join Us/.keep
       - Join Us/Established Chapters.md
       - Join Us/Starting a Chapter.md
