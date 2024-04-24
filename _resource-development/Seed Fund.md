@@ -19,8 +19,7 @@ has received appointment letters from National Parks Board (NParks).</p>
 <p>Interested established chapters are encouraged to apply for the Seed Fund
 early, as it operates on a first-come, first-served basis and is subject
 to the availability of funds.</p>
-<p></p>
-<p><strong><u>Fund Details </u></strong>
+<p><strong><u>Fund Details</u></strong>
 </p>
 <p>This Seed Fund provides funding of <strong>up to $5,000* per Nature Kakis chapter</strong>,
 and there will be a<strong> full reimbursement </strong>of fundable items
