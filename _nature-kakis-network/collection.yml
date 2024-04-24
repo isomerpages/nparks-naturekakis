@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Who are we?.md
-      - Programmes and Activities.md
+      - What we do.md
       - Chapters/.keep
       - Chapters/Established Chapters.md
       - Chapters/Starting a Chapter.md
