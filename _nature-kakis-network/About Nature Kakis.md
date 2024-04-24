@@ -17,15 +17,7 @@ of the public to participate in City in Nature-related initiatives and
 activities. This initiative is centred at the heart of local communities,
 with the goal of making nature-related programmes and activities more accessible
 to the wider community.</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/DIY%20Nature%20walks/GuideFacilitation_ChekJawa_20230805__9__Resized.jpg">
-</div>
-<p>
-<br>
-</p>
+<p></p>
 <p>We aim to establish Nature Kakis chapters in every precinct that can self-organise
 and lead programmes for the community and by the community, with support
 from partners, grassroots organisations and agencies including National
@@ -35,6 +27,8 @@ for nature and conservation.</p>
 <p>By fostering a sense of community and encouraging greater appreciation
 and stewardship for our natural heritage, Nature Kakis Network aims to
 grow our City in Nature in the heartlands.</p>
+<p><strong>Stay connected with us on Instagram and Facebook to join our community and stay updated on Nature Kakis related initiatives and activities. Follow us on Instagram <em>[@NatureKakis_Network] </em>and like our Facebook page<em> [Nature Kakis Network] </em>for the latest updates and to be part of our nature-loving community.</strong>
+</p>
 <p>
 <br>
 </p>
