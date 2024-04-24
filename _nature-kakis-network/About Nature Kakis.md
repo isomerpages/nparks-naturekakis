@@ -4,9 +4,9 @@ permalink: /nature-kakis/about/
 description: ""
 variant: tiptap
 ---
-<p><strong><em>[to insert graphics drawn by youth stewards]</em></strong>
-</p>
 <h3>What is the Nature Kakis Network?</h3>
+<p><strong><em>[to insert graphics drawn by youth stewards and to insert liner 'Graphics designed by Nature Kakis Youth Stewards]</em></strong>
+</p>
 <p>Over the years, the community has played a pivotal role in greening up
 Singapore and conserving our natural heritage. Even today, the community
 continues to be active in City in Nature initiatives, programmes and activities,
