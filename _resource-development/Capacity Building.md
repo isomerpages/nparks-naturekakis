@@ -44,7 +44,7 @@ th {
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5>Nature Kakis Induction programme</h5></label><div>
-			<img align="top" src="/images/![]/images/FINAL_Induction_Programme_for_Year_2024.png">
+			<img align="top" src="/images/FINAL_Induction_Programme_for_Year_2024.png">
 			<p align="justify">The Induction programme series comprises five annual sessions covering topics on <em>biodiversity and wildlife, arboriculture, horticulture, community engagement, and planning for City in Nature activities</em>. These sessions aim to equip Nature Kakis with a comprehensive understanding of nature-related issues and community involvement, as well as the necessary skills to lead City in Nature activities. The programme serves as a launchpad into NParks' work and the potential roles of Nature Kakis in selected programmes, featuring hands-on interactive elements and expert speakers. Each session focuses on a different topic, encouraging Nature Kakis to deepen their knowledge, gain insights into NParks programmes, and engage with speakers.<br>If you're interested in learning more about our induction programmes, please visit our Instagram <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/nkig">here</a> and Facebook page<a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/nkfb"> here</a> </p></div></li>
 	<li><input type="checkbox" id="accordion2">
 		<label for="accordion2"><h5>Topic specific training sessions</h5></label><div>
