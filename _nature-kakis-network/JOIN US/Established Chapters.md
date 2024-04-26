@@ -84,7 +84,7 @@ a[target="_blank"]:after {
 				</tr>
 		<tr>
 			<td class="districteven">Hong Kah North</td>
-			<td class="districteven"><a href="mailto:[To be updated]">[To be updated]</a></td>
+			<td class="districteven"><a href="mailto: PA_hongkahnorthcc@pa.gov.sg">PA_hongkahnorthcc@pa.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td class="districteven">Jurong Spring</td>
@@ -92,7 +92,7 @@ a[target="_blank"]:after {
 				</tr>
 		<tr>
 			<td class="districteven">Nanyang</td>
-			<td class="districteven"><a href="mailto:[To be updated]">[To be updated]</a></td>
+			<td class="districteven"><a href="mailto: PA_nanyangcc@pa.gov.sg">PA_nanyangcc@pa.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td class="districteven">Taman Jurong</td>
