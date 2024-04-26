@@ -27,7 +27,7 @@ from partners, grassroots organisations and agencies including National
 Parks Board (NParks) and People’s Association (PA). Each Nature Kakis chapter
 will be community-driven and bring together individuals who share a passion
 for nature and conservation.</p>
-<p><strong><em>Stay connected with us on Instagram and Facebook to join our community and stay updated on Nature Kakis related initiatives and activities. </em></strong>
+<p><strong><em>Stay connected with us on Instagram and Facebook to join our community and stay updated on Nature Kakis related initiatives and activities.</em></strong>
 </p>
 <p><strong><em>Follow us on Instagram (@NatureKakis_Network) and like our Facebook page (Nature Kakis Network) for the latest updates and to be part of our nature-loving community.</em></strong>
 </p>
