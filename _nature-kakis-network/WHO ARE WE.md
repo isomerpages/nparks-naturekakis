@@ -4,8 +4,9 @@ permalink: /nature-kakis/about/
 description: ""
 variant: tiptap
 ---
-<p><strong>[insert photos]</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+</div>
 <p>Over the years, the community has played a pivotal role in greening up
 Singapore and conserving our natural heritage. Even today, the community
 continues to be active in City in Nature initiatives, programmes and activities,
@@ -16,8 +17,10 @@ of the public to participate in City in Nature-related initiatives and
 activities. This initiative is centred at the heart of local communities,
 with the goal of making nature-related programmes and activities more accessible
 to the wider community.</p>
-<p><strong>[insert photos]</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+</div>
 <p>We aim to establish Nature Kakis chapters in every precinct that can self-organise
 and lead programmes for the community and by the community, with support
 from partners, grassroots organisations and agencies including National
