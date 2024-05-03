@@ -1,11 +1,11 @@
 ---
 layout: homepage
-title: "Nature Kakis Network "
-description: "This website is an Isomer website co-created and co-managed with
-  Nature Kakis Youth Stewards. "
+title: Nature Kakis Network
+description: This website is an Isomer website co-created and co-managed with
+  Nature Kakis Youth Stewards.
 image: /images/Nature_Kakis_Logo_Full_Colour.png
 permalink: /
-notification: This website was co-created by Nature Kakis Youth Stewards.
+notification: This website was co-created with Nature Kakis Youth Stewards.
 sections:
   - hero:
       title: Nature Kakis
