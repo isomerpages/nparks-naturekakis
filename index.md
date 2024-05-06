@@ -35,8 +35,8 @@ sections:
   - infopic:
       title: Nature Kakis Network
       subtitle: learn about our
-      description: Learn more about the Nature Kakis programme, and how communities
-        can contribute to Singapore’s vision of a City in Nature
+      description: Learn more about Nature Kakis Network, and how communities can
+        contribute to Singapore’s vision of a City in Nature.
       button: About us
       url: /nature-kakis/about/
       alt: Image alt text
@@ -45,8 +45,9 @@ sections:
       title: Programmes & Activities
       subtitle: Community-led engagements
       id: infopic
-      description: Discover how Nature Kakis are bringing nature to their communities
-        through walks, neighbourhood projects, outreach initiatives, and more!
+      description: Discover how Nature Kakis can organise activities for their
+        communities through walks, neighbourhood projects, outreach initiatives,
+        and more!
       button: let's learn
       url: /nature-kakis/programmes-and-activities/
       image: /images/DIY Nature walks/20230610_100522.jpg
