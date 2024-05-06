@@ -24,7 +24,7 @@ image below:</p>
 </div>
 <p><em>Scroll down to read more in-depth about each of the programmes.</em>
 </p>
-<p><em>*Note: Below graphic banners were hand-drawn by Nature Kakis Youth Stewards.</em>
+<p><em>*Note: Below graphic banners were hand-drawn by Nature Kakis Youth Stewards.</em> 
 <br>
 </p>
 <h3>Nature Kakis Activities</h3>
@@ -88,9 +88,11 @@ to foster engagement.</p>
 <ul>
 <li>
 <p>Community in Bloom</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/CIB/CommunityInBloom__3_.jpg">
-</div>
+</li>
+<li>
+<p>]</p>
+<p></p>
+<p>[insert banner</p>
 <p>Community Gardens are great spaces to involve people in greening their
 neighbourhood, to learn about plants, and to organise nature-related activities
 and events. Nature Kakis have been collaborating with Community Gardens
@@ -120,9 +122,13 @@ doorstep. Visit some of their neighbourhoods and learn about their projects
 </li>
 <li>
 <p>Nature Walks</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/DIY%20Nature%20walks/GuideFacilitation_ChekJawa_2023_08_05_JacquelineChua__10__Resized.jpg">
-</div>
+</li>
+<li>
+<p></p>
+<p>[insert banner]</p>
+<p></p>
+</li>
+<li>
 <p>With an extensive network of parks, gardens, nature reserves and park
 connectors, Singapore has a wide variety of green spaces for communities
 to explore. Nature Kakis have been organising walks for their communities
@@ -153,8 +159,4 @@ their communities to bring all these benefits home. Check out how they
 craft their own connections <a href="/all/nature-kakis-happenings/therapeutic-horticulture/" rel="noopener noreferrer" target="_blank">here</a>.
 <br>
 </p>
-<p>If you'd like to discover more about the Nature Kakis activities, we invite
-you to visit our Instagram <a href="https://www.instagram.com/naturekakis_network?igsh=eGc0OWgxaWxN3NrIn" rel="noopener noreferrer" target="_blank">here</a>.Follow
-us on Instagram&nbsp;_\[@NatureKakis\_Network\]_&nbsp;and like our Facebook
-page&nbsp;_\[Nature Kakis Network\]_&nbsp;for the latest updates and to
-be part of our nature-loving community.</p>
+<p></p>
