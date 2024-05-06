@@ -122,7 +122,4 @@ you to visit our Instagram <a href="https://www.instagram.com/naturekakis_networ
 us on Instagram&nbsp;_\[@NatureKakis\_Network\]_&nbsp;and like our Facebook
 page&nbsp;_\[Nature Kakis Network\]_&nbsp;for the latest updates and to
 be part of our nature-loving community.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYFZ1565.jpg">
-</div>
 <p></p>
