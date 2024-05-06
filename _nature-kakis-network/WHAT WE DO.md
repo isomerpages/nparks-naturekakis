@@ -110,8 +110,7 @@ and Trap-Neuter-Release-Manage (TNRM).</p>
 <p>Nature Kakis may plan and execute engagement events tailored to their
 community, including social media campaigns and collaboration with pet
 interest groups.</p>
-<p>&nbsp;</p>
-<p>Find out more <a href="all/nature-kakis-happenings/community-animals/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u>!</u>
+<p>&nbsp;Find out more <a href="all/nature-kakis-happenings/community-animals/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u>!</u>
 </p>
 <ul>
 <li>
