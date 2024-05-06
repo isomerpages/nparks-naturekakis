@@ -58,10 +58,10 @@ neighbourhood, to learn about plants, and to organise nature-related activities
 and events. Nature Kakis have been collaborating with Community Gardens
 under the Community In Bloom programme to engage their communities through
 gardening. See how they have grown <a href="/all/nature-kakis-happenings/community-in-bloom/" rel="noopener noreferrer" target="_blank">here</a>.</p>
-</li>
-<li>
-<p>Friends of the Park</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYFZ1565.jpg">
+</div>
 <p>Many parks in Singapore are part of the Friends of The Parks programme,
 in which localised volunteer groups help to maintain, improve, and advocate
 for the responsible use of our green spaces. Nature Kakis groups have collaborated
@@ -124,3 +124,7 @@ you to visit our Instagram <a href="https://www.instagram.com/naturekakis_networ
 us on Instagram&nbsp;_\[@NatureKakis\_Network\]_&nbsp;and like our Facebook
 page&nbsp;_\[Nature Kakis Network\]_&nbsp;for the latest updates and to
 be part of our nature-loving community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYFZ1565.jpg">
+</div>
+<p></p>
