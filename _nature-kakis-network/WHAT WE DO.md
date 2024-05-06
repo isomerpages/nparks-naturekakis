@@ -29,9 +29,10 @@ existing ones in in their communities.</p>
 <h3>Nature Kakis Activities</h3>
 <ul>
 <li>
-<p>Biodiversity &amp; Wildlife</p>
-<p></p>
-<p>[insert banner]</p>
+<p><strong>Biodiversity &amp; Wildlife</strong>
+</p>
+<p><strong>[insert banner]</strong>
+</p>
 </li>
 </ul>
 <p>Singapore’s urban and natural landscape teems with biodiversity and wildlife,
@@ -114,8 +115,10 @@ interest groups.</p>
 </p>
 <ul>
 <li>
-<p>Community in Bloom</p>
-<p>[insert banner]</p>
+<p><strong>Community in Bloom</strong>
+</p>
+<p><strong>[insert banner]</strong>
+</p>
 <p></p>
 <p>Community in Bloom is a nationwide gardening movement started by NParks
 in May 2005, aimed at promoting community spirit and a gardening culture
@@ -168,8 +171,9 @@ role of an active advocator to encourage responsible park usage.</p>
 <p>&nbsp;</p>
 <p>Find out more on Friends of the Park<a href="https://fotp.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> here</a>!</p>
 <p></p>
-<p>Nature in Neighbourhood</p>
-<p><em>[Insert Banner]</em>
+<p><strong>Nature in Neighbourhood</strong>
+</p>
+<p><strong><em>[Insert Banner]</em></strong>
 </p>
 <p></p>
 <p>Nature in the Neighbourhood programmes provide a platform for Nature Kakis
@@ -203,9 +207,10 @@ materials and equipment from reliable vendors.</p>
 <p></p>
 </li>
 <li>
-<p>Nature Walks</p>
-<p>[insert banner]</p>
-<p></p>
+<p><strong>Nature Walks</strong>
+</p>
+<p><strong>[insert banner]</strong>
+</p>
 <p></p>
 <p>With the transformation of Singapore into a City in Nature, all households
 will be a 10-minute walk from a park by 2030, bringing nature closer to
