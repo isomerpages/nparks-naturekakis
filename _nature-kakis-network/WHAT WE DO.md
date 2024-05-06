@@ -33,18 +33,38 @@ existing ones in in their communities.</p>
 <p></p>
 <p>[insert banner]</p>
 </li>
+</ul>
+<p>Singapore’s urban and natural landscape teems with biodiversity and wildlife,
+providing opportunities for Singaporeans to learn about and coexist with
+these natural wonders. Nature Kakis chapters can:</p>
+<p>§&nbsp; Participate in Community in Nature activities organized by NParks
+(e.g. CIN Biodiversity Watch).</p>
+<p>§&nbsp; Self-organise biodiversity/photography walks to engage residents
+in learning about biodiversity.</p>
+<p>§&nbsp; Spread awareness and educate the community on biodiversity in
+the neighborhood through creative methods.</p>
+<p>§&nbsp; Educate the community on responsible practices to minimize human-wildlife
+conflict.</p>
+<p>§&nbsp; Incorporate wildlife management topics into other community programs
+organized by the Nature Kakis chapter.</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>ngage in biodiversity watches, webinars, and wildlife management efforts
-with fellow residents and nature groups. Singapore's rich biodiversity,
-comprising a wide range of plants and animals, is showcased through engaging
-communities in walks, neighbourhood projects, and outreach activities.
-Nature Kakis help communities appreciate the island's diverse wildlife.
-Explore how they have embraced the wild side <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer" target="_blank">here</a>.</p>
+<p>Nature Kakis can educate and connect with residents by emphasizing the
+community's role in ensuring safe and enjoyable encounters with wildlife.
+This includes good practices such as observing wildlife from a distance,
+refraining from feeding animals, keeping food/plastic bags out of sight,
+and disposing of waste properly.</p>
+</li>
+</ul>
+<p>Nature Kakis can plan a variety of programs to engage their community,
+ranging from webinars and engagement talks to sharing advisory materials
+with the community. After training from NParks, Nature Kakis may also consider
+running targeted programs in their community to address specific issues
+through methods such as house visits.</p>
+<p>Find out more <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WEDT0575.jpg">
 </div>
-</li>
-</ul>
 <p></p>
 <p>Promoting responsible pet ownership and community animal caregiving is
 essential for improving animal health and welfare in our urban environment.
@@ -60,30 +80,24 @@ issues within the community.</p>
 </p>
 <p>Nature Kakis can organize educational programmes for current and potential
 pet owners, focusing on responsible pet ownership and spreading awareness
-of AVS guidelines and recommedations for pet care. These guidelines may
-cover topics such as:</p>
-<p>§ Considerations or pet ownership&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>§&nbsp; Sterilisation</p>
-<p>§&nbsp; Microchipping and licensing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>§&nbsp; Veterinary attention&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>§&nbsp; Dealing with missing pets&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>§&nbsp; Pet Owner etiquette&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+of AVS guidelines and recommendations for pet care. These guidelines may
+cover topics such as sterilisation, microchipping, licensing and pet owner
+etiquette. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;</p>
 <p><u>Care for community animals &amp; animal welfare</u>
 </p>
 <p>Nature Kakis can educate residents on best practices for interacting with
 and caring for common community animals such as community cats and free-roaming
-dogs. The topics covered could include:</p>
-<p>§&nbsp; Responsible community animal feeding</p>
-<p>§&nbsp; Living harmoniously with community animals</p>
-<p>§&nbsp; Trap-Neuter-Release-Manage (TNRM)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+dogs. The topics covered could include responsible community animal feeding
+and Trap-Neuter-Release-Manage (TNRM).</p>
 <p><u>Engaging the community as a whole</u>
 </p>
-<p>Encouraging community engagement through pet-related events and exhibitions
-is an effective way to educate residents about responsible pet ownership.
-With AVS's Pets' Day Out serves as a potential model for reference, Nature
-Kakis are encouraged to plan and execute events tailored to their community,
-including social media campaigns and collaboration with pet interest groups
-to foster engagement.</p>
+<p>Nature Kakis may plan and execute engagement events tailored to their
+community, including social media campaigns and collaboration with pet
+interest groups.</p>
+<p>&nbsp;</p>
+<p>Find out more <a href="all/nature-kakis-happenings/community-animals/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u>!</u>
+</p>
 <ul>
 <li>
 <p>Community in Bloom</p>
