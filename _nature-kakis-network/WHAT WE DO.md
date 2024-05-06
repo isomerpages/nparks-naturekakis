@@ -30,20 +30,19 @@ can look forward to participate and self-organise as a Nature Kakis:</p>
 </li>
 <li>
 <p></p>
-<p>Engage in biodiversity watches, webinars, and wildlife management efforts
-with fellow residents and nature groups. Singapore's rich biodiversity,
-comprising a wide range of plants and animals, is showcased through engaging
-communities in walks, neighbourhood projects, and outreach activities.
-Nature Kakis help communities appreciate the island's diverse wildlife.
-Explore how they have embraced the wild side <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer" target="_blank">here</a>.</p>
+<p>[insert vbanner] Engage in biodiversity watches, webinars, and wildlife
+management efforts with fellow residents and nature groups. Singapore's
+rich biodiversity, comprising a wide range of plants and animals, is showcased
+through engaging communities in walks, neighbourhood projects, and outreach
+activities. Nature Kakis help communities appreciate the island's diverse
+wildlife. Explore how they have embraced the wild side <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WEDT0575.jpg">
 </div>
 <p></p>
 </li>
-<li>
-<p></p>
+</ul>
 <p></p>
 <p>Promoting responsible pet ownership and community animal caregiving is
 essential for improving animal health and welfare in our urban environment.
@@ -59,9 +58,9 @@ issues within the community.</p>
 </p>
 <p>Nature Kakis can organize educational programmes for current and potential
 pet owners, focusing on responsible pet ownership and spreading awareness
-of AVS guidelines and recommendations for pet care. These guidelines may
+of AVS guidelines and recommedations for pet care. These guidelines may
 cover topics such as:</p>
-<p>§&nbsp; Considerations for pet ownership&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>§ Considerations or pet ownership&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>§&nbsp; Sterilisation</p>
 <p>§&nbsp; Microchipping and licensing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>§&nbsp; Veterinary attention&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -83,7 +82,7 @@ With AVS's Pets' Day Out serves as a potential model for reference, Nature
 Kakis are encouraged to plan and execute events tailored to their community,
 including social media campaigns and collaboration with pet interest groups
 to foster engagement.</p>
-</li>
+<ul>
 <li>
 <p>Community in Bloom</p>
 <div class="isomer-image-wrapper">
@@ -156,5 +155,4 @@ you to visit our Instagram <a href="https://www.instagram.com/naturekakis_networ
 us on Instagram&nbsp;_\[@NatureKakis\_Network\]_&nbsp;and like our Facebook
 page&nbsp;_\[Nature Kakis Network\]_&nbsp;for the latest updates and to
 be part of our nature-loving community.</p>
-<p></p>
 <p></p>
