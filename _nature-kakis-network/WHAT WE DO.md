@@ -9,15 +9,15 @@ and projects, bringing our City In Nature to their communities. Nature
 Kakis can participate in and also go one step further to help grow community
 interest by planning, organizing and implementing a wide variety of activities
 and programmes.</p>
-<p><strong>If you'd like to discover more about the Nature Kakis activities, we invite you to follow us on Instagram (@NatureKakis_Network) and like our Facebook page (Nature Kakis Network) for the latest updates and to be part of our nature-loving community.</strong>
-</p>
-<p></p>
+<p>If you'd like to discover more about the Nature Kakis activities, we invite
+you to follow us on Instagram <em>(@NatureKakis_Network) </em>and like our
+Facebook page <em>(Nature Kakis Network)</em> for the latest updates and
+to be part of our nature-loving community.</p>
 <p></p>
 <h3>City in Nature Activities for Nature Kakis to Participate in</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Brochure/Nature_Kakis_Brochure_A4_2Feb2024_latest.png">
 </div>
-<p></p>
 <p>NParks has prepared a non-exhaustive suite of 8 introductory programmes
 to inspire Nature Kakis chapters to kickstart new activities or enhance
 existing ones in in their communities.</p>
@@ -79,7 +79,7 @@ running targeted programs in their community to address specific issues
 through methods such as house visits.</p>
 <p>Find out more <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WEDT0575.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WEDT0575.jpg">
 </div>
 <p>Promoting responsible pet ownership and community animal caregiving is
 essential for improving animal health and welfare in our urban environment.
@@ -140,7 +140,7 @@ and talks.</p>
 <p>Find out more <a href="/all/nature-kakis-happenings/community-in-bloom/" rel="noopener noreferrer" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYFZ1565.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BYFZ1565.jpg">
 </div>
 <p>The transformation of Singapore into a City in Nature, the increase in
 our island’s greenery needs to be underpinned by the support of the community.
@@ -246,7 +246,7 @@ walk:</p>
 <p>Find out more <a href="/all/nature-kakis-happenings/nature-walks/" rel="noopener noreferrer" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AMDG2922.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/AMDG2922.jpg">
 </div>
 <p>The OneMillionTrees movement is a key strategy in achieving Singapore’s
 City in Nature vision, where everyone can play a role in intensifying the
@@ -277,7 +277,7 @@ them to share their experience with others.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MDJW6917.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MDJW6917.jpg">
 </div>
 <p>Nature, greenery, and its benefits should be enjoyed by all, regardless
 of age or ability. Therapeutic horticulture programmes are specially designed
