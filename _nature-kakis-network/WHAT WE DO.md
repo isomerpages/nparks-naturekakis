@@ -103,35 +103,84 @@ interest groups.</p>
 <p>Community in Bloom</p>
 </li>
 <li>
-<p>]</p>
-<p></p>
+<p>]]</p>
 <p>[insert banner</p>
-<p>Community Gardens are great spaces to involve people in greening their
-neighbourhood, to learn about plants, and to organise nature-related activities
-and events. Nature Kakis have been collaborating with Community Gardens
-under the Community In Bloom programme to engage their communities through
-gardening. See how they have grown <a href="/all/nature-kakis-happenings/community-in-bloom/" rel="noopener noreferrer" target="_blank">here</a>.</p>
+<p>Community in Bloom is a nationwide gardening movement started by NParks
+in May 2005, aimed at promoting community spirit and a gardening culture
+among Singapore residents, young and old. NParks provides horticultural
+guidance and advice on community gardening alongside the public, private
+sector, organisations, and volunteers.</p>
+<p>As part of the Community in Bloom programme, Nature Kaki chapters can
+champion or co-lead with the members to develop community gardens in their
+precinct and plan activities to encourage residents and volunteers to participate
+in gardening activities together. Community gardens are common green spaces
+to encourage residents to come together to create, develop and sustain
+a garden in their neighbourhood. Nature Kaki chapters can also take the
+opportunity to empower more community gardeners to share their experiences
+with the community through workshops and talks.</p>
+<p>Find out more <a href="/all/nature-kakis-happenings/community-in-bloom/" rel="noopener noreferrer" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYFZ1565.jpg">
 </div>
-<p>Many parks in Singapore are part of the Friends of The Parks programme,
-in which localised volunteer groups help to maintain, improve, and advocate
-for the responsible use of our green spaces. Nature Kakis groups have collaborated
-with them to bring more communities to green spaces near them, and to learn
-about nature in their own backyards. Check out their collaborations <a href="/all/nature-kakis-happenings/friends-of-the-parks/" rel="noopener noreferrer" target="_blank">here</a>.</p>
+<p>The transformation of Singapore into a City in Nature, the increase in
+our island’s greenery needs to be underpinned by the support of the community.
+Involving the wider community in the development and management of our
+green spaces can help to foster a greater sense of responsibility and stewardship
+towards our parks and reserves. This also ensures that our green and blue
+spaces are more inclusive and enjoyable to the community.</p>
+<p>Friends of the Parks is a ground-led initiative that sets out to achieve
+the objectives laid out above. The initiative consists of localised communities
+representing stakeholders and volunteers of the parks and nature spaces.
+The Friends of the Parks community allows Friends to play a more active
+role that encourages graciousness through ground-led initiatives to create
+an inclusive and enjoyable park experience. These initiatives come under
+the three community engagement areas listed below –</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Conceptualisation and Park Design</strong> by
+engaging the community to reimagine their park experiences.</p>
+<p>&nbsp;</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Park Development </strong>by involving
+stakeholders and residents in the construction of the park through community-based
+activities such as tree planting, habitat enhancement, installation/painting
+of amenities and design of interpretative signage.</p>
+<p>&nbsp;</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Park Management</strong> by empowering
+the community to co-organise activities and events, as well as play the
+role of an active advocator to encourage responsible park usage.</p>
+<p>&nbsp;</p>
+<p>Find out more on Friends of the Park<a href="https://fotp.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> here</a>!</p>
 <p></p>
 </li>
 <li>
 <p>Nature in Neighbourhood</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Nature%20in%20neighborhood/nin1__2_.jpg">
-</div>
-<p>Nature can be found everywhere in Singapore, including our urban areas!
-By running projects close to home, Nature Kakis have been invaluable touchpoints
-for their communities to learn about and experience nature right at their
-doorstep. Visit some of their neighbourhoods and learn about their projects
-<a href="/all/nature-kakis-happenings/nature-in-neighbourhood/" rel="noopener noreferrer" target="_blank">here</a>.</p>
+<p>Nature in the Neighbourhood programmes provide a platform for Nature Kakis
+to unleash their creativity in curating activities for their community.
+Chapters can brainstorm and devise innovative ways for residents to engage
+with nature in their neighbourhood, such as organizing nature mural painting,
+planning interactive games and gamifying using Bingo cards and Nature Podcast.</p>
+<p>Here are some suggested considerations for Nature Kakis to keep in mind
+while planning such programs:</p>
+<p>&nbsp;</p>
+<p><strong>Gather opinions and views:</strong>
+</p>
+<p>Collectively, Nature Kakis Chapter should first determine the topic and
+target group for their community involvement before deciding on the method
+of engagement, type and purpose of the activity to plan out for their community.</p>
+<p>&nbsp;</p>
+<p><strong>Leverage existing resources, infrastructure, and community groups in the constituency:</strong>
+</p>
+<p>Chapters can then craft activities based on the natural opportunities
+available in the neighborhood, making use of the community groups already
+present in the area and surrounding green spaces.</p>
+<p>&nbsp;</p>
+<p><strong>Engage subject experts and vendors to provide specialised knowledge, guidance and resource for successful event execution: &nbsp;</strong>
+</p>
+<p>If and where required, chapters can consult and seek expertise on areas
+such as mural painting or event logistics, as well as sourcing necessary
+materials and equipment from reliable vendors.</p>
+<p>&nbsp;</p>
+<p>Find out more <a href="/all/nature-kakis-happenings/nature-in-neighbourhood/" rel="noopener noreferrer" target="_blank">here</a>.</p>
+<p></p>
 </li>
 <li>
 <p>Nature Walks</p>
@@ -142,34 +191,91 @@ doorstep. Visit some of their neighbourhoods and learn about their projects
 <p></p>
 </li>
 <li>
-<p>With an extensive network of parks, gardens, nature reserves and park
-connectors, Singapore has a wide variety of green spaces for communities
-to explore. Nature Kakis have been organising walks for their communities
-based on their interests, and have even combined walks with other activities
-like beach cleanups to make our green spaces even better. Read about their
-efforts to take nature walks one step further <a href="/all/nature-kakis-happenings/nature-walks/" rel="noopener noreferrer" target="_blank">here</a>.</p>
+<p>With the transformation of Singapore into a City in Nature, all households
+will be a 10-minute walk from a park by 2030, bringing nature closer to
+our homes. Giving guided and informative nature walks will help the community
+gain a deeper understanding and appreciation of the flora and fauna in
+their backyard and encourage them to spend time outdoors to enjoy the beauty
+and tranquil of the greenery close to their homes.</p>
+<p>Through our capacity building programmes, Nature Kakis can curate and
+conduct nature walks for the community, and/or assist in curating or facilitating
+nature walks organised by other Nature Kakis chapters within their vicinity.</p>
+<p>Here’s a recommended approach to preparing and executing a guided nature
+walk:</p>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Identify a green space, park or garden</strong>
+</p>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Define your target audience</strong>
+</p>
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Define the focus of your guided walk</strong>
+</p>
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visit relevant supplementary resources</strong>
+</p>
+<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct a recce trip to the site</strong>
+</p>
+<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Set a date and time and disseminate invites to potential participants</strong>
+</p>
+<p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct a briefing before the walk</strong>
+</p>
+<p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct the walk with confidence and enthusiasm, while reiterating park etiquette and regulations</strong>
+</p>
+<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct a post-activity debrief</strong>
+</p>
+<p>&nbsp;</p>
+<p></p>
+<p>Find out more <a href="/all/nature-kakis-happenings/nature-walks/" rel="noopener noreferrer" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AMDG2922.jpg">
 </div>
-<p>The OneMillionTrees movement is a nationwide effort to plant a million
-more trees across Singapore over the next 10 years, bringing the number
-of trees in Singapore to more than 8 million. Nature Kakis are key players
-in this movement by serving as facilitators and organisers of tree planting
-activities within their constituencies. Dig into their activities <a href="/all/nature-kakis-happenings/tree-planting/" rel="noopener noreferrer" target="_blank">here</a>.</p>
+<p>The OneMillionTrees movement is a key strategy in achieving Singapore’s
+City in Nature vision, where everyone can play a role in intensifying the
+greenery in Singapore. By planting more trees, we tackle climate change
+while benefitting from the ecosystem services trees provide such as cleaner
+water, fresher air, cooler urban temperatures and better health and well-being.
+In addition to planting one million more trees by 2030, the OneMillionTrees
+movement also aims to involve the community through participation in greening
+initiatives.</p>
+<p>Nature Kakis can organise and run tree planting sessions for the community,
+as well as train and grow a pool of volunteers equipped to be tree plant
+facilitators.</p>
+<p>Nature Kakis can also be trained as OneMillionTrees facilitators to conduct
+tree planting sessions for their residents. During the tree planting session,
+facilitators will teach participants the basics of tree planting while
+ensuring that the planting is carried out in a safe manner. In addition
+to teaching proper tree planting techniques, facilitators will also share
+about the OneMillionTrees movement, how it contributes to our City in Nature
+vision which is a key pillar of the Singapore Green Plan 2030. Facilitators
+may also personalise the tree planting experience for their participants
+while helping them see the significance of their contribution and encouraging
+them to share their experience with others.</p>
+<p>&nbsp;</p>
+<p>Find out more via the OneMillionTrees movement website <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 </li>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MDJW6917.jpg">
 </div>
-<p>Nature is a great stress reliever. Interacting with natural materials
-and green spaces has been proven to have a host of health benefits, such
-as improving mental well-being, encouraging the young and elderly to improve
-their motor skills, and serving as the basis of positive social interactions.
-Nature Kakis have been conducting therapeutic horticulture activities for
-their communities to bring all these benefits home. Check out how they
-craft their own connections <a href="/all/nature-kakis-happenings/therapeutic-horticulture/" rel="noopener noreferrer" target="_blank">here</a>.
+<p>Nature, greenery, and its benefits should be enjoyed by all, regardless
+of age or ability. Therapeutic horticulture programmes are specially designed
+to be accessible and beneficial for elderly groups, persons with dementia
+and persons with special needs, promoting health and mental well-being.</p>
+<p>Nature Kakis chapters can organise Therapeutic Horticulture programmes
+to bring nature closer to these groups of people in the community, as well
+as assist in facilitating Therapeutic Horticulture programmes in NParks
+organized activities or at senior care centres within the community.</p>
+<p>There are several Therapeutic Horticulture programmes that Nature Kakis
+can organise. Some of the possible programmes are illustrated below:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Propagation of Edible plants</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gardening (Pruning/Watering/Weeding)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scent Bag Making</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flower &amp; Leaf Pressing
+on Cards</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seed Mandala Decoration</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plant Pot Decoration</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rock Planting</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wind Chime Creation</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flower Arrangement</p>
+<p>Find out more <a href="/all/nature-kakis-happenings/therapeutic-horticulture/" rel="noopener noreferrer" target="_blank">here</a>.
 <br>
 </p>
-<p>E</p>
