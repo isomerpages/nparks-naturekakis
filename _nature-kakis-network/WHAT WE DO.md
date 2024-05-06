@@ -44,8 +44,6 @@ Explore how they have embraced the wild side <a href="/all/nature-kakis-happenin
 community animal care, improving pet welfare, and reaching out to pet owners
 in their neighbourhood. Read more about their pet projects <a href="/all/nature-kakis-happenings/community-animals/" rel="noopener noreferrer" target="_blank">here</a>to
 find out more.</p>
-</li>
-<li>
 <p></p>
 </li>
 <li>
@@ -101,11 +99,13 @@ of trees in Singapore to more than 8 million. Nature Kakis are key players
 in this movement by serving as facilitators and organisers of tree planting
 activities within their constituencies. Dig into their activities <a href="/all/nature-kakis-happenings/tree-planting/" rel="noopener noreferrer" target="_blank">here</a>.</p>
 </li>
-<li>
-<p>Therapeutic Horticulture</p>
+</ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/TH%20Activities/TheapeuticHorticulture__3__Resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MDJW6917.jpg">
 </div>
+<ul>
+<li>
 <p>Nature is a great stress reliever. Interacting with natural materials
 and green spaces has been proven to have a host of health benefits, such
 as improving mental well-being, encouraging the young and elderly to improve
