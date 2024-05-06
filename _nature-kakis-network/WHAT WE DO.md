@@ -91,13 +91,10 @@ to explore. Nature Kakis have been organising walks for their communities
 based on their interests, and have even combined walks with other activities
 like beach cleanups to make our green spaces even better. Read about their
 efforts to take nature walks one step further <a href="/all/nature-kakis-happenings/nature-walks/" rel="noopener noreferrer" target="_blank">here</a>.</p>
-</li>
-<li>
-<p>OneMillionTrees Movement</p>
-<p>\</p>
 <p></p>
-</li>
-<li>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AMDG2922.jpg">
+</div>
 <p>The OneMillionTrees movement is a nationwide effort to plant a million
 more trees across Singapore over the next 10 years, bringing the number
 of trees in Singapore to more than 8 million. Nature Kakis are key players
