@@ -44,6 +44,7 @@ Explore how they have embraced the wild side <a href="/all/nature-kakis-happenin
 </li>
 <li>
 <p></p>
+<p></p>
 <p>Promoting responsible pet ownership and community animal caregiving is
 essential for improving animal health and welfare in our urban environment.
 Nature Kakis chapters can conduct educational outreach to raise awareness
