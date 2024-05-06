@@ -158,4 +158,4 @@ their communities to bring all these benefits home. Check out how they
 craft their own connections <a href="/all/nature-kakis-happenings/therapeutic-horticulture/" rel="noopener noreferrer" target="_blank">here</a>.
 <br>
 </p>
-<p></p>
+<p>E</p>
