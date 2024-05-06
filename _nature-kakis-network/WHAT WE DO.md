@@ -9,38 +9,41 @@ and projects, bringing our City In Nature to their communities. Nature
 Kakis can participate in and also go one step further to help grow community
 interest by planning, organizing and implementing a wide variety of activities
 and programmes.</p>
-<p>Be one of our Nature Kakis today and you will get to benefit from capacity
-building programmes, training and knowledge sharing, as well as the chance
-to build your network and forge relationships with like-minded individuals.</p>
-<p>Below are examples of City in Nature programmes and activities that you
-can look forward to participate and self-organise as a Nature Kakis:</p>
+<p>NParks has prepared a non-exhaustive suite of 8 introductory Nature Kakis
+programmes to inspire Nature Kakis chapters to kickstart new programmes
+or enhance existing ones in in their communities. These programmes provide
+a starting point with basic guidelines and resources for Nature Kakis chapters
+to explore new activities for their community.</p>
+<p>The list of 8 Nature Kakis Introductory Activities can be found in the
+image below:</p>
+<p></p>
 <p></p>
 <h3>City in Nature Activities for Nature Kakis to Participate in</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Brochure/Nature_Kakis_Brochure_A4_2Feb2024_latest.png">
 </div>
-<p>
-<br>
+<p><em>Scroll down to read more in-depth about each of the programmes.</em>
+</p>
+<p><em>*Note: Below graphic banners were hand-drawn by Nature Kakis Youth Stewards.</em>
 <br>
 </p>
-<h3>Nature Kakis Activites</h3>
+<h3>Nature Kakis Activities</h3>
 <ul>
 <li>
 <p>Biodiversity &amp; Wildlife</p>
+<p></p>
+<p>[insert banner]</p>
 </li>
 <li>
-<p></p>
-<p>[insert vbanner] Engage in biodiversity watches, webinars, and wildlife
-management efforts with fellow residents and nature groups. Singapore's
-rich biodiversity, comprising a wide range of plants and animals, is showcased
-through engaging communities in walks, neighbourhood projects, and outreach
-activities. Nature Kakis help communities appreciate the island's diverse
-wildlife. Explore how they have embraced the wild side <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer" target="_blank">here</a>.</p>
-<p></p>
+<p>ngage in biodiversity watches, webinars, and wildlife management efforts
+with fellow residents and nature groups. Singapore's rich biodiversity,
+comprising a wide range of plants and animals, is showcased through engaging
+communities in walks, neighbourhood projects, and outreach activities.
+Nature Kakis help communities appreciate the island's diverse wildlife.
+Explore how they have embraced the wild side <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WEDT0575.jpg">
 </div>
-<p></p>
 </li>
 </ul>
 <p></p>
@@ -155,4 +158,3 @@ you to visit our Instagram <a href="https://www.instagram.com/naturekakis_networ
 us on Instagram&nbsp;_\[@NatureKakis\_Network\]_&nbsp;and like our Facebook
 page&nbsp;_\[Nature Kakis Network\]_&nbsp;for the latest updates and to
 be part of our nature-loving community.</p>
-<p></p>
