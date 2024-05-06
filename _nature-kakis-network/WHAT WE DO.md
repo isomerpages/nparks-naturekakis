@@ -40,11 +40,48 @@ Explore how they have embraced the wild side <a href="/all/nature-kakis-happenin
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WEDT0575.jpg">
 </div>
-<p>Pets are a community’s best friend! Nature Kakis are involved in managing
-community animal care, improving pet welfare, and reaching out to pet owners
-in their neighbourhood. Read more about their pet projects <a href="/all/nature-kakis-happenings/community-animals/" rel="noopener noreferrer" target="_blank">here</a>to
-find out more.</p>
 <p></p>
+</li>
+<li>
+<p></p>
+<p>Promoting responsible pet ownership and community animal caregiving is
+essential for improving animal health and welfare in our urban environment.
+Nature Kakis chapters can conduct educational outreach to raise awareness
+of current pet care guidelines and etiquette, while encouraging responsible
+practices towards community animals. This initiative aims to engage and
+educate the community on responsible pet ownership, cultivate neighbourliness
+and tolerance for pets and community animals, and address animal-related
+issues within the community.</p>
+<p><strong>Potential Educational Outreach Programmes</strong>
+</p>
+<p><u>Responsible pet ownership</u>
+</p>
+<p>Nature Kakis can organize educational programmes for current and potential
+pet owners, focusing on responsible pet ownership and spreading awareness
+of AVS guidelines and recommendations for pet care. These guidelines may
+cover topics such as:</p>
+<p>§&nbsp; Considerations for pet ownership&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>§&nbsp; Sterilisation</p>
+<p>§&nbsp; Microchipping and licensing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>§&nbsp; Veterinary attention&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>§&nbsp; Dealing with missing pets&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>§&nbsp; Pet Owner etiquette&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><u>Care for community animals &amp; animal welfare</u>
+</p>
+<p>Nature Kakis can educate residents on best practices for interacting with
+and caring for common community animals such as community cats and free-roaming
+dogs. The topics covered could include:</p>
+<p>§&nbsp; Responsible community animal feeding</p>
+<p>§&nbsp; Living harmoniously with community animals</p>
+<p>§&nbsp; Trap-Neuter-Release-Manage (TNRM)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><u>Engaging the community as a whole</u>
+</p>
+<p>Encouraging community engagement through pet-related events and exhibitions
+is an effective way to educate residents about responsible pet ownership.
+With AVS's Pets' Day Out serves as a potential model for reference, Nature
+Kakis are encouraged to plan and execute events tailored to their community,
+including social media campaigns and collaboration with pet interest groups
+to foster engagement.</p>
 </li>
 <li>
 <p>Community in Bloom</p>
@@ -118,4 +155,5 @@ you to visit our Instagram <a href="https://www.instagram.com/naturekakis_networ
 us on Instagram&nbsp;_\[@NatureKakis\_Network\]_&nbsp;and like our Facebook
 page&nbsp;_\[Nature Kakis Network\]_&nbsp;for the latest updates and to
 be part of our nature-loving community.</p>
+<p></p>
 <p></p>
