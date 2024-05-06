@@ -104,8 +104,6 @@ activities within their constituencies. Dig into their activities <a href="/all/
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MDJW6917.jpg">
 </div>
-<ul>
-<li>
 <p>Nature is a great stress reliever. Interacting with natural materials
 and green spaces has been proven to have a host of health benefits, such
 as improving mental well-being, encouraging the young and elderly to improve
@@ -115,8 +113,6 @@ their communities to bring all these benefits home. Check out how they
 craft their own connections <a href="/all/nature-kakis-happenings/therapeutic-horticulture/" rel="noopener noreferrer" target="_blank">here</a>.
 <br>
 </p>
-</li>
-</ul>
 <p>If you'd like to discover more about the Nature Kakis activities, we invite
 you to visit our Instagram <a href="https://www.instagram.com/naturekakis_network?igsh=eGc0OWgxaWxN3NrIn" rel="noopener noreferrer" target="_blank">here</a>.Follow
 us on Instagram&nbsp;_\[@NatureKakis\_Network\]_&nbsp;and like our Facebook
