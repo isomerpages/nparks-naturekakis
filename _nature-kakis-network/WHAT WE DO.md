@@ -4,18 +4,17 @@ permalink: /nature-kakis/programmes-and-activities/
 variant: tiptap
 description: ""
 ---
-<p>Nature Kakis chapters are key leaders within their constituency, driving
-community-led nature programmes, activities, and projects, bringing our
-City In Nature to their communities. They can explore a wide variety of
-activities and programmes, catering to diverse interests and skill levels,
-providing a starting point for Nature Kakis chapters to explore new activities
-for their community. While the list is not exhaustive, it serves as a source
-of inspiration for chapters to kickstart new programmes and/or improve
-existing ones. If you join us as a Nature Kakis steward, you will have
-the opportunity to participate in the following activities!</p>
-<p>
-<br>
-</p>
+<p>Nature Kakis chapters drive community-led nature programmes, activities,
+and projects, bringing our City In Nature to their communities. Nature
+Kakis can participate in and also go one step further to help grow community
+interest by planning, organizing and implementing a wide variety of activities
+and programmes.</p>
+<p>Be one of our Nature Kakis today and you will get to benefit from capacity
+building programmes, training and knowledge sharing, as well as the chance
+to build your network and forge relationships with like-minded individuals.</p>
+<p>Below are examples of City in Nature programmes and activities that you
+can look forward to participate and self-organise as a Nature Kakis:</p>
+<p></p>
 <h3>City in Nature Activities for Nature Kakis to Participate in</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Brochure/Nature_Kakis_Brochure_A4_2Feb2024_latest.png">
