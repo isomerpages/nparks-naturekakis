@@ -56,8 +56,8 @@ sections:
       title: Chapters
       subtitle: Get to know the
       id: infopic
-      description: Learn more about the Nature Kakis in your neighbourhood and join
-        their activities
+      description: "Link up with the Nature Kakis in your neighbourhood and join their
+        activities! "
       button: let's connect
       alt: Image alt text
       url: /nature-kakis/chapters/about-chapters/
