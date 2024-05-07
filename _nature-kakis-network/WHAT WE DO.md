@@ -144,33 +144,17 @@ role of an active advocator to encourage responsible park usage.</p>
 <p><strong><em>[Insert Banner]</em></strong>
 </p>
 <p></p>
-<p>Nature in the Neighbourhood programmes provide a platform for Nature Kakis
-to unleash their creativity in curating activities for their community.
-Chapters can brainstorm and devise innovative ways for residents to engage
-with nature in their neighbourhood, such as organizing nature mural painting,
-planning interactive games and gamifying using Bingo cards and Nature Podcast.</p>
+<p>Nature in the Neighbourhood initiative serves as a creative outlet for
+Nature Kakis to design engaging activities tailored to their community
+by leveraging on their surrounding green spaces and community groups.</p>
 <p></p>
-<p>Here are some suggested considerations for Nature Kakis to keep in mind
-while planning such programs:</p>
-<p>&nbsp;</p>
-<p><strong>Gather opinions and views:</strong>
-</p>
-<p>Collectively, Nature Kakis Chapter should first determine the topic and
-target group for their community involvement before deciding on the method
-of engagement, type and purpose of the activity to plan out for their community.</p>
-<p>&nbsp;</p>
-<p><strong>Leverage existing resources, infrastructure, and community groups in the constituency:</strong>
-</p>
-<p>Chapters can then craft activities based on the natural opportunities
-available in the neighborhood, making use of the community groups already
-present in the area and surrounding green spaces.</p>
-<p>&nbsp;</p>
-<p><strong>Engage subject experts and vendors to provide specialised knowledge, guidance and resource for successful event execution: &nbsp;</strong>
-</p>
-<p>If and where required, chapters can consult and seek expertise on areas
-such as mural painting or event logistics, as well as sourcing necessary
-materials and equipment from reliable vendors.</p>
-<p>&nbsp;</p>
+<p>Nature Kakis Chapters have the freedom to brainstorm and implement innovative
+initiatives that encourage residents to connect with nature in their surroundings.
+These initiatives may include organizing nature mural painting sessions,
+devising interactive games, and incorporating gamification elements like
+Bingo cards and Nature Podcasts to make learning about the environment
+enjoyable and interactive for participants.</p>
+<p></p>
 <p>Find out more <a href="/all/nature-kakis-happenings/nature-in-neighbourhood/" rel="noopener noreferrer" target="_blank">here</a>.</p>
 <p></p>
 </li>
