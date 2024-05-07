@@ -9,10 +9,10 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community animals/cam2dog_Resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Left image of little boy laughing with happy dog, right image of happy pet owner with cat" src="/images/Community animals/CAM_1.png">
 </div>
 <p>Pets are an important part of many people's lives, and are also an integral
-part of many communities. Nature Kakis can help to improve the welfare
+part of many communities. Nature Kakis can also help to improve the welfare
 of animals in their community by brining people together to raise awareness
 about their care, and to manage day-to-day interactions between their neighbours
 and animals around their neighbourbourhood.</p>
@@ -22,6 +22,10 @@ and animals around their neighbourbourhood.</p>
 cats. Nature Kakis can help to designate a feeding corner as a <a href="/all/nature-kakis-happenings/nature-in-neighbourhood/" rel="noopener noreferrer nofollow" target="_blank">Nature in Neighbourhood</a> project,
 or raising awareness of responsible feeding practices will help to keep
 common spaces clean, and cats well-fed and safe.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Community animals/CAM_2.png">
+</div>
 <h4>Community pet walks</h4>
 <p>Why not go on a <a href="/all/nature-kakis-happenings/nature-walks/" rel="noopener noreferrer nofollow" target="_blank">Nature Walk</a> with
 your community and its pets? Nature Kakis have organised community pet
@@ -36,6 +40,10 @@ on <a href="https://www.nparks.gov.sg/avs/pets/owning-a-pet/getting-a-pet/what-t
 and give tips on how to improve the welfare of pet animals. By sharing
 best practices for animal care, communities can improve the lives of the
 animals that stay with them.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community animals/CAM_3.png">
+</div>
 <h4>Raising awareness about the illegal wildlife trade</h4>
 <p>Not all animals can be kept as pets! It is <a href="https://www.nparks.gov.sg/avs/animals/wildlife-and-endangered-animals/keeping-of-wildlife-as-pets" rel="noopener noreferrer nofollow" target="_blank">illegal to keep wildlife as pets</a>,
 and purchasing such animals will continue to fuel the illegal wildlife
