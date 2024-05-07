@@ -11,15 +11,16 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Left image of little boy laughing with happy dog, right image of happy pet owner with cat" src="/images/Community animals/CAM_1.png">
 </div>
-<p>Pets are an important part of many people's lives, and are also an integral
-part of many communities. Nature Kakis can also help to improve the welfare
-of animals in their community by bringing people together to raise awareness
-about their care, and to manage day-to-day interactions between their neighbours
-and animals around their neighbourbourhood.</p>
-<p>Here are some of the community animal projects that Nature Kakis can consider
-participating or self-organising:</p>
+<p>Pets and community animals are an important part of many people's lives,
+and are also an integral part of many communities.</p>
+<p>Nature Kakis can conduct educational outreach to raise awareness of current
+pet care guidelines and etiquette, while encouraging responsible practices
+towards community animals. Through related activities, they can engage
+and educate the community on responsible pet ownership and cultivate neighbourliness
+by bringing people together to raise awareness to care about community
+animals.</p>
 <h3>Community Animal projects</h3>
-<h4>Managing Community Cat Feeding</h4>
+<h4>Managing Community Cats Feeding</h4>
 <p>Many communities have dedicated volunteers that look after and feed community
 cats. Nature Kakis can help to designate a feeding corner as a <a href="/all/nature-kakis-happenings/nature-in-neighbourhood/" rel="noopener noreferrer nofollow" target="_blank">Nature in Neighbourhood</a> project,
 or raising awareness of responsible feeding practices will help to keep
