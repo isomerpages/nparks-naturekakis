@@ -65,9 +65,9 @@ advisory materials with the community at noticeboards or house visits.</p>
 </li>
 </ul>
 <p>Find out more <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer" target="_blank">here</a>.</p>
-<div class="isomer-image-wrapper">
+<a class="isomer-image-wrapper" href="/all/nature-kakis-happenings/community-animals/">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WEDT0575.jpg">
-</div>
+</a>
 <p>Promoting responsible pet ownership and community animal caregiving is
 essential for improving animal health and welfare in our urban environment.</p>
 <p>Nature Kakis chapters can look to organise the following types of educational
@@ -94,7 +94,8 @@ and execute engagement events tailored to their community, including social
 media campaigns and collaboration with pet interest groups.</p>
 </li>
 </ul>
-<p>&nbsp;Find out more <a href="all/nature-kakis-happenings/community-animals/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>&nbsp;Find out more <a href="/all/nature-kakis-happenings/community-animals/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
 <ul>
 <li>
 <p><strong>Community in Bloom</strong>
