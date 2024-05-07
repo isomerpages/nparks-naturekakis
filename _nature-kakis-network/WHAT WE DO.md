@@ -104,16 +104,12 @@ media campaigns and collaboration with pet interest groups.</p>
 <p></p>
 <p>Community in Bloom is a nationwide gardening movement started by NParks
 in May 2005, aimed at promoting community spirit and a gardening culture
-among Singapore residents, young and old. NParks provides horticultural
-guidance and advice on community gardening alongside the public, private
-sector, organisations, and volunteers.</p>
+among Singapore residents, young and old.</p>
 <p></p>
 <p>As part of the Community in Bloom programme, Nature Kaki chapters can
-champion or co-lead with the members to develop community gardens in their
-precinct and plan activities to encourage residents and volunteers to participate
-in gardening activities together. Community gardens are common green spaces
-to encourage residents to come together to create, develop and sustain
-a garden in their neighbourhood.</p>
+champion or co-lead with community gardeners to develop community gardens
+in their precinct and plan activities to encourage residents and volunteers
+to participate in gardening activities together.</p>
 <p></p>
 <p>Nature Kaki chapters can also take the opportunity to empower more community
 gardeners to share their experiences with the community through workshops
