@@ -121,20 +121,9 @@ and talks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BYFZ1565.jpg">
 </div>
-<p>The transformation of Singapore into a City in Nature, the increase in
-our island’s greenery needs to be underpinned by the support of the community.
-Involving the wider community in the development and management of our
-green spaces can help to foster a greater sense of responsibility and stewardship
-towards our parks and reserves. This also ensures that our green and blue
-spaces are more inclusive and enjoyable to the community.</p>
-<p></p>
-<p>Friends of the Parks is a ground-led initiative that sets out to achieve
-the objectives laid out above. The initiative consists of localised communities
-representing stakeholders and volunteers of the parks and nature spaces.
-The Friends of the Parks community allows Friends to play a more active
-role that encourages graciousness through ground-led initiatives to create
-an inclusive and enjoyable park experience. These initiatives come under
-the three community engagement areas listed below –</p>
+<p>Friends of the Parks is a ground-led initiative that sets out to involve
+the wider community in the development and management of our green spaces
+by choosing to be involved in the following community engagement areas:</p>
 <p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Conceptualisation and Park Design</strong> by
 engaging the community to reimagine their park experiences.</p>
