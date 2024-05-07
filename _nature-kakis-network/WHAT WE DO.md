@@ -1,7 +1,7 @@
 ---
 title: WHAT WE DO
 permalink: /nature-kakis/programmes-and-activities/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>Nature Kakis chapters drive community-led nature programmes, activities,
@@ -21,7 +21,7 @@ to be part of our nature-loving community.</p>
 <p>NParks has prepared a non-exhaustive suite of 8 introductory programmes
 to inspire Nature Kakis chapters to kickstart new activities or enhance
 existing ones in in their communities.</p>
-<p><em>Scroll down to read more in-depth about each of the programmes.</em>
+<p><em>Scroll down to read more about each of the programmes.</em>
 </p>
 <p><em>*Note: Below graphic banners were hand-drawn by Nature Kakis Youth Stewards.</em> 
 <br>
@@ -36,27 +36,15 @@ existing ones in in their communities.</p>
 </li>
 </ul>
 <p>Singapore’s urban and natural landscape teems with biodiversity and wildlife,
-providing opportunities for Singaporeans to learn about and coexist with
-these natural wonders. Nature Kakis chapters can:</p>
+providing opportunities for the community to learn and coexist with wildlife.
+Nature Kakis can:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Participate in Community in Nature activities organized by NParks (e.g.
-CIN Biodiversity Watch).</p>
+<p>Participate or organise biodiversity surveys and watches</p>
 <p></p>
 </li>
 <li>
-<p>Self-organise biodiversity/photography walks to engage residents in learning
-about biodiversity.</p>
-<p></p>
-</li>
-<li>
-<p>Spread awareness and educate the community on biodiversity in the neighborhood
-through creative methods.</p>
-<p></p>
-</li>
-<li>
-<p>Educate the community on responsible practices to minimize human-wildlife
-conflict.</p>
+<p>Self-organise biodiversity/photography walks for residents</p>
 <p></p>
 </li>
 <li>
@@ -65,18 +53,17 @@ by the Nature Kakis chapter.</p>
 <p></p>
 </li>
 <li>
-<p>Nature Kakis can educate and connect with residents by emphasizing the
-community's role in ensuring safe and enjoyable encounters with wildlife.
-This includes good practices such as observing wildlife from a distance,
-refraining from feeding animals, keeping food/plastic bags out of sight,
-and disposing of waste properly.</p>
+<p>Educate the community on good practices to ensure safe and enjoyable encounters
+with wildlife, such as observing wildlife from a distance, refraining from
+feeding animals, keeping food/plastic bags out of sight, and disposing
+of waste properly.</p>
+<p></p>
+</li>
+<li>
+<p>Conduct outreach, ranging from webinars and engagement talks to sharing
+advisory materials with the community at noticeboards or house visits.</p>
 </li>
 </ul>
-<p>Nature Kakis can plan a variety of programs to engage their community,
-ranging from webinars and engagement talks to sharing advisory materials
-with the community. After training from NParks, Nature Kakis may also consider
-running targeted programs in their community to address specific issues
-through methods such as house visits.</p>
 <p>Find out more <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WEDT0575.jpg">
