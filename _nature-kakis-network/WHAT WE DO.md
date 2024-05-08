@@ -127,8 +127,7 @@ of amenities and design of interpretative signage; and/or</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Park Management</strong> by empowering
 the community to co-organise activities and events, while advocating the
 community to use the park responsibly.</p>
-<p>&nbsp;</p>
-<p>Find out more on Friends of the Park<a href="https://fotp.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> here</a>!</p>
+<p>&nbsp;Find out more on Friends of the Park<a href="https://fotp.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> here</a>!</p>
 <ul>
 <li>
 <p></p>
