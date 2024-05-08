@@ -126,12 +126,12 @@ the wider community in the development and management of our green spaces
 by choosing to be involved in the following community engagement areas:</p>
 <p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Conceptualisation and Park Design</strong> by
-engaging the community to reimagine their park experiences.</p>
+engaging the community to reimagine their park experiences;</p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Park Development </strong>by involving
 stakeholders and residents in the construction of the park through community-based
 activities, such as tree planting, habitat enhancement, installation/painting
-of amenities and design of interpretative signage.</p>
+of amenities and design of interpretative signage; and/or</p>
 <p>&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Park Management</strong> by empowering
 the community to co-organise activities and events, while advocating the
