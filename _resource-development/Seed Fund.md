@@ -27,13 +27,17 @@ made to the respective <strong>Citizens’ Consultative Committee (CCC) </strong
 each chapter. The use of funds for projects will be assessed based on the
 project’s merits and ability to contribute towards the Nature Kakis Network
 and chapter growth.</p>
-<p>You may refer to the infographics below on fundable items and book a virtual
-consultation with us through your NParks Community Projects (Engagement)
+<p>You may refer to the infographics below on fundable items^ and book a
+virtual consultation with us through your NParks Community Projects (Engagement)
 manager today.
 <br>
 </p>
 <p><em>*Please note that Goods and Service Tax (GST) is not fundable.</em>
 </p>
+<p><em>^</em>Established chapters will also receive a starter publicity kit
+(inclusive of one pull up banner, one A4 poster and Nature Kakis collar
+pins). Beyond this starter kit, established chapters may opt to apply for
+seed funds on more publicity collaterals.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Nature Kakis Seed Fund fundable items" src="/images/Slide2.png">
