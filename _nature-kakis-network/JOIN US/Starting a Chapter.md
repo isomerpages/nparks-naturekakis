@@ -61,7 +61,8 @@ variant: markdown
 		</tr>
 		<tr>
 			<td><b>5</b></td>
-			<td>Recognition of Nature Kakis members through appointment letters.</td>
+			<td>Recognition of Nature Kakis members through appointment letters. 
+				Established chapters will also receive a starter publicity kit (inclusive of one pull up banner, one A4 poster and Nature Kakis collar pins). </td>
 		</tr>
 	</tbody>
 </table>
