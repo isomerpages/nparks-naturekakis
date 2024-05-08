@@ -102,5 +102,8 @@ th {
 <section>
 	<h3>Next Steps</h3>
 		<p align="justify">As Nature Kakis progress through the training programmes, they will develop their skills, enabling them to bring more City in Nature initiatives into the heartlands and lead these activities for the community, by the community.</p>
-		<p align="justify">Established Nature Kakis chapters can apply for the <a rel="noopener noreferrer nofollow" target="_blank" href="/seed-fund/about/">Nature Kakis Seed Fund</a> to fund and facilitate the preparation and implementation of their programmes. By leveraging the Seed Fund and planning ahead, chapters can make a meaningful impact in their communities.</p>
+    <p>Established chapters will also receive a starter publicity kit (inclusive of one pull up banner, one A4 poster and Nature Kakis collar pins).
+	
+	
+		</p><p align="justify">Established Nature Kakis chapters can apply for the <a rel="noopener noreferrer nofollow" target="_blank" href="/seed-fund/about/">Nature Kakis Seed Fund</a> to fund and facilitate the preparation and implementation of their programmes. By leveraging the Seed Fund and planning ahead, chapters can make a meaningful impact in their communities.</p>
 </section>
