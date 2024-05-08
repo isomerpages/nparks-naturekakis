@@ -119,7 +119,6 @@ by choosing to be involved in the following community engagement areas:</p>
 <p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Conceptualisation and Park Design</strong> by
 engaging the community to reimagine their park experiences;</p>
-<p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Park Development </strong>by involving
 stakeholders and residents in the construction of the park through community-based
 activities, such as tree planting, habitat enhancement, installation/painting
@@ -206,6 +205,4 @@ on Cards</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seed Mandala Decoration</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plant Pot Decoration</p>
 <p></p>
-<p>Find out more <a href="/all/nature-kakis-happenings/therapeutic-horticulture/" rel="noopener noreferrer" target="_blank">here</a>.
-<br>
-</p>
+<p>Find out more <a href="/all/nature-kakis-happenings/therapeutic-horticulture/" rel="noopener noreferrer" target="_blank">here</a>.</p>
