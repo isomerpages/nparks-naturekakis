@@ -29,22 +29,25 @@ and bring together individuals who share a passion for nature and conservation.<
 Nature Kakis stewards will be:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Cultivating Environmental Stewardship in the Community:</strong>
-</p>
-<p>Design, plan and implement a range of City in Nature activities for the
-community, while mobilising grassroots and constituencies to build cohesive
-communities through City in Nature activities and dialogues;</p>
+<p><strong>Cultivating Environmental Stewardship in the Community: </strong>Design,
+plan and implement a range of City in Nature activities for the community,
+while mobilising grassroots and constituencies to build cohesive communities
+through City in Nature activities and dialogues;</p>
 </li>
 <li>
 <p><strong>Building capabilities of Nature Kakis within their Chapter:</strong> Participate
 in capacity building programmes (e.g. induction and training) to equip
 and empower Nature Kakis volunteers with necessary skillsets to self-organise
-activities; and</p>
+activities;</p>
 </li>
 <li>
 <p><strong>Strengthening Nature Kakis Network: </strong>Connect and network
 with other Nature Kakis Chapters and partners, learn more about City in
-Nature initiatives, and share experiences.</p>
+Nature initiatives, and share experiences and</p>
+</li>
+<li>
+<p><strong>Expanding pool of volunteers in Nature Kakis Chapter. </strong>
+</p>
 </li>
 </ul>
 <p></p>
