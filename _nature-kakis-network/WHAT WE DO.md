@@ -40,23 +40,23 @@ providing opportunities for the community to learn and coexist with wildlife.
 Nature Kakis can:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Participate or organise biodiversity surveys and watches</p>
+<p>Participate or organise biodiversity surveys and watches;</p>
 <p></p>
 </li>
 <li>
-<p>Self-organise biodiversity/photography walks for residents</p>
+<p>Self-organise biodiversity/photography walks for residents;</p>
 <p></p>
 </li>
 <li>
 <p>Incorporate wildlife management topics into other community programs organized
-by the Nature Kakis chapter.</p>
+by the Nature Kakis chapter;</p>
 <p></p>
 </li>
 <li>
 <p>Educate the community on good practices to ensure safe and enjoyable encounters
 with wildlife, such as observing wildlife from a distance, refraining from
 feeding animals, keeping food/plastic bags out of sight, and disposing
-of waste properly.</p>
+of waste properly; and</p>
 <p></p>
 </li>
 <li>
