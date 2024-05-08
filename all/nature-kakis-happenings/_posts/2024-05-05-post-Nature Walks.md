@@ -18,8 +18,8 @@ everyone to explore, ranging from <a href="https://www.nparks.gov.sg/biodiversit
 links everything together.</p>
 <p>Nature Kaki Chapters have brought their communities to enjoy these green
 spaces through their walks, led by the Nature Kakis themselves or in collaboration
-with guides from the <a href="/all/nature-kakis-happenings/friends-of-the-parks/" rel="noopener noreferrer nofollow" target="_blank">Friends of the Parks</a> programme
-or other environmental groups.</p>
+with guides from <a href="/all/nature-kakis-happenings/friends-of-the-parks/" rel="noopener noreferrer nofollow" target="_blank">Friends of the Parks</a> or
+other environmental groups.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Walk_2.png">
