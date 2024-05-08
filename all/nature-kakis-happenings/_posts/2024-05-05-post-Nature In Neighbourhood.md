@@ -19,7 +19,7 @@ are not exhaustive, and chapters are encouraged to explore and implement
 various creative ideas to engage their community with nature.</p>
 <h3>Nature In Neighbourhood projects</h3>
 <h4>Mural painting in void decks</h4>
-<p>Nature Kakis chapters have worked with their Town Council to paint wall
+<p>Nature Kakis Chapters have worked with their Town Council to paint wall
 murals about local plants and animals to liven up their spaces, and give
 passerby opportunities to learn about the flora and fauna around them.
 Drawing on the same concept, they have since expanded the murals to include
@@ -30,7 +30,7 @@ a feeding station for community cats as part of their efforts to look after
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nature in neighborhood/Nature_Neigh_3.png">
 </div>
 <h4>Outreach activities</h4>
-<p>Because Nature Kaki chapters are all led by grassroots organisations,
+<p>Because Nature Kaki Chapters are all led by grassroots organisations,
 many of them have lots of experience in running outreach booths and activities
 for their communities. Some chapters have run games in collaboration with
 the <a href="/all/nature-kakis-happenings/friends-of-the-parks/" rel="noopener noreferrer nofollow" target="_blank">Friends of the Parks</a> and
