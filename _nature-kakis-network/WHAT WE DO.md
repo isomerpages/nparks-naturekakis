@@ -113,8 +113,8 @@ in their precinct and plan activities to encourage residents and volunteers
 to participate in gardening activities together.</p>
 <p></p>
 <p>Nature Kaki Chapters can also take the opportunity to empower more community
-gardeners to share their experiences with the community through workshops
-and talks.</p>
+gardeners to share their gardening experiences with the community through
+workshops and talks.</p>
 <p></p>
 <p>Find out more <a href="/all/nature-kakis-happenings/community-in-bloom/" rel="noopener noreferrer" target="_blank">here</a>.</p>
 <p></p>
