@@ -134,8 +134,8 @@ activities such as tree planting, habitat enhancement, installation/painting
 of amenities and design of interpretative signage.</p>
 <p>&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Park Management</strong> by empowering
-the community to co-organise activities and events, as well as play the
-role of an active advocator to encourage responsible park usage.</p>
+the community to co-organise activities and events, while advocating the
+community to use the park responsibly.</p>
 <p>&nbsp;</p>
 <p>Find out more on Friends of the Park<a href="https://fotp.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> here</a>!</p>
 <p></p>
@@ -170,31 +170,11 @@ our homes. Giving guided and informative nature walks will help the community
 gain a deeper understanding and appreciation of the flora and fauna in
 their backyard and encourage them to spend time outdoors to enjoy the beauty
 and tranquil of the greenery close to their homes.</p>
+<p></p>
 <p>Through our capacity building programmes, Nature Kakis can curate and
 conduct nature walks for the community, and/or assist in curating or facilitating
 nature walks organised by other Nature Kakis chapters within their vicinity.</p>
 <p></p>
-<p>Here’s a recommended approach to preparing and executing a guided nature
-walk:</p>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Identify a green space, park or garden</strong>
-</p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Define your target audience</strong>
-</p>
-<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Define the focus of your guided walk</strong>
-</p>
-<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visit relevant supplementary resources</strong>
-</p>
-<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct a recce trip to the site</strong>
-</p>
-<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Set a date and time and publicise event to potential participants</strong>
-</p>
-<p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct a briefing before the walk</strong>
-</p>
-<p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct the walk with confidence and enthusiasm, while reiterating park etiquette and regulations</strong>
-</p>
-<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct a post-activity debrief</strong>
-</p>
-<p>&nbsp;</p>
 <p>Find out more <a href="/all/nature-kakis-happenings/nature-walks/" rel="noopener noreferrer" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -202,27 +182,19 @@ walk:</p>
 </div>
 <p>The OneMillionTrees movement is a key strategy in achieving Singapore’s
 City in Nature vision, where everyone can play a role in intensifying the
-greenery in Singapore. By planting more trees, we tackle climate change
-while benefitting from the ecosystem services trees provide such as cleaner
-water, fresher air, cooler urban temperatures and better health and well-being.</p>
+greenery in Singapore to build climate resilence. By planting one million
+more trees by 2030, we tackle climate change while benefitting from the
+ecosystem services trees provide such as cleaner water, fresher air, cooler
+urban temperatures and better health and well-being.</p>
 <p></p>
-<p>In addition to planting one million more trees by 2030, the OneMillionTrees
-movement also aims to involve the community through participation in greening
-initiatives.</p>
-<p>Nature Kakis can organise and run tree planting sessions for the community,
-as well as train and grow a pool of volunteers equipped to be tree plant
-facilitators.</p>
+<p>Nature Kakis can organise and run tree planting sessions for the community
+and get trained as OneMillionTrees facilitators to conduct tree planting
+sessions for their residents.</p>
 <p></p>
-<p>Nature Kakis can also be trained as OneMillionTrees facilitators to conduct
-tree planting sessions for their residents. During the tree planting session,
-facilitators will teach participants the basics of tree planting while
-ensuring that the planting is carried out in a safe manner. In addition
-to teaching proper tree planting techniques, facilitators will also share
-about the OneMillionTrees movement, how it contributes to our City in Nature
-vision which is a key pillar of the Singapore Green Plan 2030. Facilitators
-may also personalise the tree planting experience for their participants
-while helping them see the significance of their contribution and encouraging
-them to share their experience with others.</p>
+<p>Nature Kakis chapters can also take this opportunity to grow their pool
+of volunteers equipped to be tree plant facilitators to teach participants
+the basics of tree planting while ensuring that the planting is carried
+out in a safe manner.</p>
 <p>&nbsp;</p>
 <p>Find out more via the OneMillionTrees movement website <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 </li>
@@ -235,12 +207,10 @@ them to share their experience with others.</p>
 of age or ability. Therapeutic horticulture programmes are specially designed
 to be accessible and beneficial for elderly groups, persons with dementia
 and persons with special needs, promoting health and mental well-being.</p>
-<p>Nature Kakis chapters can organise Therapeutic Horticulture programmes
-to bring nature closer to these groups of people in the community, as well
-as assist in facilitating Therapeutic Horticulture programmes in NParks
-organized activities or at senior care centres within the community.</p>
-<p>There are several Therapeutic Horticulture programmes that Nature Kakis
-can organise. Some of the possible programmes are illustrated below:</p>
+<p>Nature Kakis chapters can help facilitate or organise Therapeutic Horticulture
+programmes to bring nature closer to these groups of people in the community.</p>
+<p>Here are some Therapeutic Horticulture programmes that Nature Kakis can
+learn to organise:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Propagation of Edible plants</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gardening (Pruning/Watering/Weeding)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scent Bag Making</p>
