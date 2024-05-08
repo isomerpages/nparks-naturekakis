@@ -104,7 +104,7 @@ media campaigns and collaboration with pet interest groups.</p>
 </p>
 <p></p>
 <p>Community in Bloom is a nationwide gardening movement started by NParks
-in May 2005, aimed at promoting community spirit and a gardening culture
+in May 2005. It seeks to promote community spirit and a gardening culture
 among Singapore residents, young and old.</p>
 <p></p>
 <p>As part of the Community in Bloom programme, Nature Kaki Chapters can
