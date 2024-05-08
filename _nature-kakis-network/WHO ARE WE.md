@@ -46,7 +46,7 @@ with other Nature Kakis Chapters and partners, learn more about City in
 Nature initiatives, and share experiences and</p>
 </li>
 <li>
-<p><strong>Expanding pool of volunteers in Nature Kakis Chapter. </strong>
+<p><strong>Expanding pool of volunteers in Nature Kakis Chapter.</strong>
 </p>
 </li>
 </ul>
