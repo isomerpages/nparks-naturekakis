@@ -37,7 +37,7 @@ Take note that while pets can be taken to most green spaces, they are not
 allowed in Nature Parks and Nature Reserves as these spaces have sensitive
 wildlife.</p>
 <h4>Improving pet welfare</h4>
-<p>Knowledge is power! Nature Kakis chapters can become hubs for information
+<p>Knowledge is power! Nature Kakis Chapters can become hubs for information
 on <a href="https://www.nparks.gov.sg/avs/pets/owning-a-pet/getting-a-pet/what-to-consider-before-you-get-a-pet" rel="noopener noreferrer nofollow" target="_blank">responsible pet ownership</a>,
 and give tips on how to improve the welfare of pet animals. By sharing
 best practices on proper animal care, communities can improve the lives
