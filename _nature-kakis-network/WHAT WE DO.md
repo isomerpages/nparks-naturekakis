@@ -49,7 +49,7 @@ Nature Kakis can:</p>
 </li>
 <li>
 <p>Incorporate wildlife management topics into other community programs organized
-by the Nature Kakis chapter;</p>
+by the Nature Kakis Chapter;</p>
 <p></p>
 </li>
 <li>
@@ -70,7 +70,7 @@ advisory materials with the community at noticeboards or house visits.</p>
 </a>
 <p>Promoting responsible pet ownership and community animal caregiving is
 essential for improving animal health and welfare in our urban environment.</p>
-<p>Nature Kakis chapters can look to organise the following types of educational
+<p>Nature Kakis Chapters can look to organise the following types of educational
 outreach programmes:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -107,12 +107,12 @@ media campaigns and collaboration with pet interest groups.</p>
 in May 2005, aimed at promoting community spirit and a gardening culture
 among Singapore residents, young and old.</p>
 <p></p>
-<p>As part of the Community in Bloom programme, Nature Kaki chapters can
+<p>As part of the Community in Bloom programme, Nature Kaki Chapters can
 champion or co-lead with community gardeners to develop community gardens
 in their precinct and plan activities to encourage residents and volunteers
 to participate in gardening activities together.</p>
 <p></p>
-<p>Nature Kaki chapters can also take the opportunity to empower more community
+<p>Nature Kaki Chapters can also take the opportunity to empower more community
 gardeners to share their experiences with the community through workshops
 and talks.</p>
 <p></p>
@@ -130,7 +130,7 @@ engaging the community to reimagine their park experiences.</p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Park Development </strong>by involving
 stakeholders and residents in the construction of the park through community-based
-activities such as tree planting, habitat enhancement, installation/painting
+activities, such as tree planting, habitat enhancement, installation/painting
 of amenities and design of interpretative signage.</p>
 <p>&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Park Management</strong> by empowering
@@ -150,7 +150,7 @@ by leveraging on their surrounding green spaces and community groups.</p>
 <p></p>
 <p>Nature Kakis Chapters have the freedom to brainstorm and implement innovative
 initiatives that encourage residents to connect with nature in their surroundings.
-These initiatives may include organizing nature mural painting sessions,
+These initiatives may include organising nature mural painting sessions,
 devising interactive games, and incorporating gamification elements like
 Bingo cards and Nature Podcasts to make learning about the environment
 enjoyable and interactive for participants.</p>
@@ -191,7 +191,7 @@ urban temperatures and better health and well-being.</p>
 and get trained as OneMillionTrees facilitators to conduct tree planting
 sessions for their residents.</p>
 <p></p>
-<p>Nature Kakis chapters can also take this opportunity to grow their pool
+<p>Nature Kakis Chapters can also take this opportunity to grow their pool
 of volunteers equipped to be tree plant facilitators to teach participants
 the basics of tree planting while ensuring that the planting is carried
 out in a safe manner.</p>
@@ -207,7 +207,7 @@ out in a safe manner.</p>
 of age or ability. Therapeutic horticulture programmes are specially designed
 to be accessible and beneficial for elderly groups, persons with dementia
 and persons with special needs, promoting health and mental well-being.</p>
-<p>Nature Kakis chapters can help facilitate or organise Therapeutic Horticulture
+<p>Nature Kakis Chapters can help facilitate or organise therapeutic horticulture
 programmes, such as:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Propagation of Edible plants</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gardening (Pruning/Watering/Weeding)</p>
@@ -216,9 +216,7 @@ programmes, such as:</p>
 on Cards</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seed Mandala Decoration</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plant Pot Decoration</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rock Painting</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wind Chime Creation</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flower Arrangement</p>
+<p></p>
 <p>Find out more <a href="/all/nature-kakis-happenings/therapeutic-horticulture/" rel="noopener noreferrer" target="_blank">here</a>.
 <br>
 </p>
