@@ -208,9 +208,7 @@ of age or ability. Therapeutic horticulture programmes are specially designed
 to be accessible and beneficial for elderly groups, persons with dementia
 and persons with special needs, promoting health and mental well-being.</p>
 <p>Nature Kakis chapters can help facilitate or organise Therapeutic Horticulture
-programmes to bring nature closer to these groups of people in the community.</p>
-<p>Here are some Therapeutic Horticulture programmes that Nature Kakis can
-learn to organise:</p>
+programmes, such as:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Propagation of Edible plants</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gardening (Pruning/Watering/Weeding)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scent Bag Making</p>
@@ -218,7 +216,7 @@ learn to organise:</p>
 on Cards</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seed Mandala Decoration</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plant Pot Decoration</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rock Planting</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rock Painting</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wind Chime Creation</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flower Arrangement</p>
 <p>Find out more <a href="/all/nature-kakis-happenings/therapeutic-horticulture/" rel="noopener noreferrer" target="_blank">here</a>.
