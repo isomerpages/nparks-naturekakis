@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
+<p>c</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TH Activities/TH_4.png">
 </div>
