@@ -36,17 +36,18 @@ together to learn more about plants and greenery!</p>
 <p>By coordinating the growing of <a href="https://gardeningsg.nparks.gov.sg/page-index/glossary/edible-plants/" rel="noopener noreferrer nofollow" target="_blank">edible plants</a> between
 gardens, Nature Kaki chapters can organise a harvest sharing event with
 other community groups.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CIB/Gardening_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CIB/Gardening_4.png">
 </div>
 <h4>Planting for biodiversity</h4>
 <p>Growing <a href="https://gardeningsg.nparks.gov.sg/page-index/glossary/biodiversity-attracting-plants/" rel="noopener noreferrer nofollow" target="_blank">plants that provide food and nesting materials</a> for
 local biodiversity can introduce communities wildlife like butterflies,
 bees, and birds.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CIB/Gardening_4.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CIB/Gardening_3.png">
+</div>
 <p>Keen on growing your community's love for gardening? Join your district's
 <a href="/nature-kakis/chapters/about-chapters/" rel="noopener noreferrer nofollow" target="_blank">Nature Kakis Chapter</a>and get involved today!</p>
 <p></p>
