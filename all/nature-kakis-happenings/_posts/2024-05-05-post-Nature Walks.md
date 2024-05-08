@@ -25,14 +25,15 @@ other environmental groups.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Walk_2.png">
 </div>
 <h3>Beyond just walks</h3>
-<p>Nature Kakis chapters have gone a step further by combining their nature
-walks with other activities. Chapters have used walks to talk about local
-<a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer nofollow" target="_blank">biodiversity</a>, teach participants about the <a href="/all/nature-kakis-happenings/therapeutic-horticulture/" rel="noopener noreferrer nofollow" target="_blank">therapeutic</a> value
+<p>Nature Kakis Chapters have gone a step further by combining their nature
+walks with other activities. Nature Kakis have used walks to talk about
+local <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer nofollow" target="_blank">biodiversity</a>,
+teach participants about the <a href="/all/nature-kakis-happenings/therapeutic-horticulture/" rel="noopener noreferrer nofollow" target="_blank">therapeutic</a> value
 of green spaces, taken to the water on kayaks, conducted cleanups, and
 brought along their <a href="/all/nature-kakis-happenings/community-animals/" rel="noopener noreferrer nofollow" target="_blank">pets</a>. By exploring
-their community's interests and needs, Nature Kakis Chapters have created
-novel ways of getting their communities to interact with nature through
-these walks.</p>
+their community's interests and needs, Nature Kakis have created novel
+ways of getting their communities to interact with nature through these
+walks.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Walk_3.png">
