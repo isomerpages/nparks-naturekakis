@@ -22,13 +22,13 @@ animals.</p>
 <h3>Community Animal projects</h3>
 <h4>Managing Community Cats Feeding</h4>
 <p>Many communities have dedicated volunteers that look after and feed community
-cats. Nature Kakis can help to designate a feeding corner as a <a href="/all/nature-kakis-happenings/nature-in-neighbourhood/" rel="noopener noreferrer nofollow" target="_blank">Nature in Neighbourhood</a> project,
-or raising awareness of responsible feeding practices will help to keep
-common spaces clean, and cats well-fed and safe.</p>
+cats. Nature Kakis can help to designate a feeding corner as a <a href="/all/nature-kakis-happenings/nature-in-neighbourhood/" rel="noopener noreferrer nofollow" target="_blank">Nature in Neighbourhood</a> project
+and raise awareness of responsible feeding practices of community animals
+to keep common spaces clean.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Community animals/CAM_2.png">
 </div>
-<h4>Community pet walks</h4>
+<h4>Community Pet Walks</h4>
 <p>Why not go on a <a href="/all/nature-kakis-happenings/nature-walks/" rel="noopener noreferrer nofollow" target="_blank">Nature Walk</a> with
 your community and its pets? Nature Kakis have organised community pet
 walks as a way to bond with your neighbours, and encourage fellow pet owners
@@ -36,7 +36,7 @@ to learn better leash discipline and <a href="https://www.nparks.gov.sg/avs/reso
 Take note that while pets can be taken to most green spaces, they are not
 allowed in Nature Parks and Nature Reserves as these spaces have sensitive
 wildlife.</p>
-<h4>Improving pet welfare</h4>
+<h4>Improving Pet Welfare</h4>
 <p>Knowledge is power! Nature Kakis Chapters can become hubs for information
 on <a href="https://www.nparks.gov.sg/avs/pets/owning-a-pet/getting-a-pet/what-to-consider-before-you-get-a-pet" rel="noopener noreferrer nofollow" target="_blank">responsible pet ownership</a>,
 and give tips on how to improve the welfare of pet animals. By sharing
