@@ -27,14 +27,10 @@ existing ones in in their communities.</p>
 <br>
 </p>
 <h3>Nature Kakis Activities</h3>
-<ul>
-<li>
-<p><strong>Biodiversity &amp; Wildlife</strong>
-</p>
-<p><strong>[insert banner]</strong>
-</p>
-</li>
-</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Biodiversity.png">
+</div>
 <p>Singapore’s urban and natural landscape teems with biodiversity and wildlife,
 providing opportunities for the community to learn and coexist with wildlife.
 Nature Kakis can:</p>
@@ -65,9 +61,10 @@ advisory materials with the community at noticeboards or house visits.</p>
 </li>
 </ul>
 <p>Find out more <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer" target="_blank">here</a>.</p>
-<a class="isomer-image-wrapper" href="/all/nature-kakis-happenings/community-animals/">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WEDT0575.jpg">
-</a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_CAM.png">
+</div>
 <p>Promoting responsible pet ownership and community animal caregiving is
 essential for improving animal health and welfare in our urban environment.</p>
 <p>Nature Kakis Chapters can look to organise the following types of educational
@@ -96,13 +93,10 @@ media campaigns and collaboration with pet interest groups.</p>
 </ul>
 <p>&nbsp;Find out more <a href="/all/nature-kakis-happenings/community-animals/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
-<ul>
-<li>
-<p><strong>Community in Bloom</strong>
-</p>
-<p><strong>[insert banner]</strong>
-</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Gardening.png">
+</div>
 <p>Community in Bloom is a nationwide gardening movement started by NParks
 in May 2005. It seeks to promote community spirit and a gardening culture
 among Singapore residents, young and old.</p>
@@ -111,15 +105,13 @@ among Singapore residents, young and old.</p>
 champion or co-lead with community gardeners to develop community gardens
 in their precinct and plan activities to encourage residents and volunteers
 to participate in gardening activities together.</p>
-<p></p>
 <p>Nature Kaki Chapters can also take the opportunity to empower more community
 gardeners to share their gardening experiences with the community through
 workshops and talks.</p>
-<p></p>
 <p>Find out more <a href="/all/nature-kakis-happenings/community-in-bloom/" rel="noopener noreferrer" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BYFZ1565.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_FoTP.png">
 </div>
 <p>Friends of the Parks is a ground-led initiative that sets out to involve
 the wider community in the development and management of our green spaces
@@ -132,12 +124,13 @@ engaging the community to reimagine their park experiences;</p>
 stakeholders and residents in the construction of the park through community-based
 activities, such as tree planting, habitat enhancement, installation/painting
 of amenities and design of interpretative signage; and/or</p>
-<p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Park Management</strong> by empowering
 the community to co-organise activities and events, while advocating the
 community to use the park responsibly.</p>
 <p>&nbsp;</p>
 <p>Find out more on Friends of the Park<a href="https://fotp.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> here</a>!</p>
+<ul>
+<li>
 <p></p>
 <p><strong>Nature in Neighbourhood</strong>
 </p>
@@ -157,13 +150,9 @@ enjoyable and interactive for participants.</p>
 <p></p>
 <p>Find out more <a href="/all/nature-kakis-happenings/nature-in-neighbourhood/" rel="noopener noreferrer" target="_blank">here</a>.</p>
 <p></p>
-</li>
-<li>
-<p><strong>Nature Walks</strong>
-</p>
-<p><strong>[insert banner]</strong>
-</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Walk.png">
+</div>
 <p>With the transformation of Singapore into a City in Nature, all households
 will be a 10-minute walk from a park by 2030, bringing nature closer to
 our homes. Giving guided and informative nature walks will help the community
@@ -178,8 +167,9 @@ nature walks organised by other Nature Kakis chapters within their vicinity.</p>
 <p>Find out more <a href="/all/nature-kakis-happenings/nature-walks/" rel="noopener noreferrer" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/AMDG2922.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Tree.png">
 </div>
+<p></p>
 <p>The OneMillionTrees movement is a key strategy in achieving Singapore’s
 City in Nature vision, where everyone can play a role in intensifying the
 greenery in Singapore to build climate resilence. By planting one million
@@ -201,7 +191,7 @@ out in a safe manner.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MDJW6917.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_TH.png">
 </div>
 <p>Nature, greenery, and its benefits should be enjoyed by all, regardless
 of age or ability. Therapeutic horticulture programmes are specially designed
