@@ -132,7 +132,7 @@ engaging the community to reimagine their park experiences;</p>
 stakeholders and residents in the construction of the park through community-based
 activities, such as tree planting, habitat enhancement, installation/painting
 of amenities and design of interpretative signage; and/or</p>
-<p>&nbsp;</p>
+<p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Park Management</strong> by empowering
 the community to co-organise activities and events, while advocating the
 community to use the park responsibly.</p>
