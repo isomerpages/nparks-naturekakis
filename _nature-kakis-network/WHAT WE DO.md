@@ -195,7 +195,7 @@ sessions for their residents.</p>
 of volunteers equipped to be tree plant facilitators to teach participants
 the basics of tree planting while ensuring that the planting is carried
 out in a safe manner.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Find out more via the OneMillionTrees movement website <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 </li>
 </ul>
