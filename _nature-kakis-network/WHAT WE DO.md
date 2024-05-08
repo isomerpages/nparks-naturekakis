@@ -81,7 +81,7 @@ microchipping, licensing, and proper pet care etiquette.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Care for community animals &amp; animal welfare: </strong>Nature
+<p><strong>Care for community animals and animal welfare: </strong>Nature
 Kakis can educate residents on best practices for interacting with and
 caring for common community animals such as community cats and free-roaming
 dogs. The topics covered could include responsible community animal feeding
