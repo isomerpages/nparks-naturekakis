@@ -127,26 +127,23 @@ of amenities and design of interpretative signage; and/or</p>
 the community to co-organise activities and events, while advocating the
 community to use the park responsibly.</p>
 <p>&nbsp;Find out more on Friends of the Park<a href="https://fotp.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> here</a>!</p>
-<ul>
-<li>
 <p></p>
-<p><strong>Nature in Neighbourhood</strong>
-</p>
-<p><strong><em>[Insert Banner]</em></strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Nature_Neighbourhood.png">
+</div>
 <p></p>
 <p>Nature in the Neighbourhood initiative serves as a creative outlet for
 Nature Kakis to design engaging activities tailored to their community
 by leveraging on their surrounding green spaces and community groups.</p>
-<p></p>
 <p>Nature Kakis Chapters have the freedom to brainstorm and implement innovative
 initiatives that encourage residents to connect with nature in their surroundings.
 These initiatives may include organising nature mural painting sessions,
 devising interactive games, and incorporating gamification elements like
 Bingo cards and Nature Podcasts to make learning about the environment
 enjoyable and interactive for participants.</p>
-<p></p>
 <p>Find out more <a href="/all/nature-kakis-happenings/nature-in-neighbourhood/" rel="noopener noreferrer" target="_blank">here</a>.</p>
+<ul>
+<li>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Walk.png">
