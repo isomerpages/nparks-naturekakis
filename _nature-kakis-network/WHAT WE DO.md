@@ -130,7 +130,6 @@ to participate in gardening activities together.</p>
 gardeners to share their gardening experiences with the community through
 workshops and talks.</p>
 <p></p>
-<p>Find out more <a href="https://cms.isomer.gov.sg/all/nature-kakis-happenings/community-in-bloom/" rel="noopener noreferrer" target="_blank"><u>here</u></a>.</p>
 </div>
 </details>
 <details class="isomer-details">
