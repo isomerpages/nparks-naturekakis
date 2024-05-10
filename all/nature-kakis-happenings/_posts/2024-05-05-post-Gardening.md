@@ -55,4 +55,7 @@ habitat that supports the needs of local wildlife.</p>
 </div>
 <p>Keen on growing your community's love for gardening? Join your district's
 <a href="/nature-kakis/chapters/about-chapters/" rel="noopener noreferrer nofollow" target="_blank">Nature Kakis Chapter</a>and get involved today!</p>
+<p>Want to read more about the other types of City in Nature activities you
+can participate or co-organise? Click <a href="/nature-kakis/programmes-and-activities/" rel="noopener noreferrer nofollow" target="_blank">here</a> to go to overview
+page.</p>
 <p></p>
