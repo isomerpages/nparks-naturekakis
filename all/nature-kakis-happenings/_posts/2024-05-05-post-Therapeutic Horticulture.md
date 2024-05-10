@@ -49,4 +49,6 @@ therapeutic horticulture activities.</p>
 they can integrate <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens/how-to-start-a-therapeutic-garden" rel="noopener noreferrer nofollow" target="_blank">Therapeutic Design concepts</a> in
 their <a href="/all/nature-kakis-happenings/gardening/" rel="noopener noreferrer nofollow" target="_blank">Community Gardens</a> or
 as part of a <a href="/all/nature-kakis-happenings/nature-in-neighbourhood/" rel="noopener noreferrer nofollow" target="_blank">Nature In Neighbourhood</a> project.</p>
-<p></p>
+<p>Want to read more about the other types of City in Nature activities you
+can participate or co-organise? Click <a href="/nature-kakis/programmes-and-activities/" rel="noopener noreferrer nofollow" target="_blank">here</a> to go to overview
+page.</p>
