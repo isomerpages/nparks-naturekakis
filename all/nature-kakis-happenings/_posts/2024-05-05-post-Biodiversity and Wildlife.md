@@ -21,9 +21,10 @@ wildlife on our island. Nature Kakis Chapters can bring their communities
 to see animals via <a href="/all/nature-kakis-happenings/nature-walks/" rel="noopener noreferrer nofollow" target="_blank">Nature Walks</a>, painting
 homages to them as part of <a href="/all/nature-kakis-happenings/nature-in-neighbourhood/" rel="noopener noreferrer nofollow" target="_blank">Nature in Neighbourhood</a> projects,
 and planting <a href="https://gardeningsg.nparks.gov.sg/page-index/glossary/biodiversity-attracting-plants/" rel="noopener noreferrer nofollow" target="_blank">biodiversity-attracting plants</a> as
-part of <a href="/all/nature-kakis-happenings/community-in-bloom/" rel="noopener noreferrer nofollow" target="_blank">Community In Bloom</a> or
-<a href="/all/nature-kakis-happenings/tree-planting/" rel="noopener noreferrer nofollow" target="_blank">OneMillionTrees</a>. This role also extends into educating communities
-on how to behave around wildlife, which is integral in managing <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories" rel="noopener noreferrer nofollow" target="_blank">human-wildlife conflict.</a>
+part of <a href="/all/nature-kakis-happenings/community-in-bloom/" rel="noopener noreferrer nofollow" target="_blank">Community In Bloom</a> programme
+or <a href="/all/nature-kakis-happenings/tree-planting/" rel="noopener noreferrer nofollow" target="_blank">OneMillionTrees</a> movement.
+This role also extends into educating communities on how to behave around
+wildlife, which is integral in managing <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories" rel="noopener noreferrer nofollow" target="_blank">human-wildlife conflict.</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
