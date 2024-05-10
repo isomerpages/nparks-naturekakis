@@ -122,11 +122,12 @@ media campaigns and collaboration with pet interest groups.</p>
 in May 2005. It seeks to promote community spirit and a gardening culture
 among Singapore residents, young and old.</p>
 <p></p>
-<p>As part of the Community in Bloom programme, Nature Kaki Chapters can
+<p>As part of the Community in Bloom programme, Nature Kakis Chapters can
 champion or co-lead with community gardeners to develop community gardens
 in their precinct and plan activities to encourage residents and volunteers
 to participate in gardening activities together.</p>
-<p>Nature Kaki Chapters can also take the opportunity to empower more community
+<p></p>
+<p>Nature Kakis Chapters can also take the opportunity to empower more community
 gardeners to share their gardening experiences with the community through
 workshops and talks.</p>
 <p></p>
