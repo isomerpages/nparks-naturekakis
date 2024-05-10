@@ -29,9 +29,11 @@ existing ones in in their communities.</p>
 <h3>Nature Kakis Activities</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Biodiversity &amp; Wildlife</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Biodiversity &amp; Wildlife</p>
+<p><strong>Biodiversity &amp; Wildlife</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary></summary>
@@ -43,16 +45,9 @@ existing ones in in their communities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Biodiversity.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Singapore’s urban and natural landscape teems with biodiversity and wildlife,
+<p>Singapore’s urban and natural landscape teems with biodiversity and wildlife,
 providing opportunities for the community to learn and coexist with wildlife.
-Nature Kakis can:</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
+Nature Kakis can:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Participate or organise biodiversity surveys and watches;</p>
@@ -80,15 +75,8 @@ advisory materials with the community at noticeboards or house visits.</p>
 </li>
 </ul>
 <p>Find out more <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer" target="_blank">here</a>.</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Biodiversity &amp; Wildlife</strong>
-</p>
-</div>
-</details>
-</div>
+<p></p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
