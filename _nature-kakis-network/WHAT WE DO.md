@@ -194,8 +194,10 @@ enjoyable and interactive for participants.</p>
 <summary><strong>Nature Walks</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ul>
-<li>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Walk.png">
+</div>
 <p>With the transformation of Singapore into a City in Nature, all households
 will be a 10-minute walk from a park by 2030, bringing nature closer to
 our homes. Giving guided and informative nature walks will help the community
@@ -209,8 +211,6 @@ nature walks organised by other Nature Kakis chapters within their vicinity.</p>
 <p></p>
 <p>Find out more <a href="/all/nature-kakis-happenings/nature-walks/" rel="noopener noreferrer" target="_blank">here</a>
 </p>
-</li>
-</ul>
 </div>
 </details>
 <details class="isomer-details">
@@ -218,6 +218,26 @@ nature walks organised by other Nature Kakis chapters within their vicinity.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Tree.png">
+</div>
+<p>The OneMillionTrees movement is a key strategy in achieving Singapore’s
+City in Nature vision, where everyone can play a role in intensifying the
+greenery in Singapore to build climate resilence. By planting one million
+more trees by 2030, we tackle climate change while benefitting from the
+ecosystem services trees provide such as cleaner water, fresher air, cooler
+urban temperatures and better health and well-being.</p>
+<p></p>
+<p>Nature Kakis can organise and run tree planting sessions for the community
+and get trained as OneMillionTrees facilitators to conduct tree planting
+sessions for their residents.</p>
+<p></p>
+<p>Nature Kakis Chapters can also take this opportunity to grow their pool
+of volunteers equipped to be tree plant facilitators to teach participants
+the basics of tree planting while ensuring that the planting is carried
+out in a safe manner.</p>
+<p></p>
+<p>Find out more via the OneMillionTrees movement website <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 </div>
 </details>
 <details class="isomer-details">
