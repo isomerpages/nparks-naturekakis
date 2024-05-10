@@ -34,8 +34,7 @@ existing ones in in their communities.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Singapore’s urban and natural landscape teems with biodiversity and wildlife, providing opportunities for the community to learn and coexist with wildlife.</strong>
-</summary>
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -44,8 +43,17 @@ existing ones in in their communities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Biodiversity.png">
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Nature Kakis can:</p>
+</div>
+</details>
+</div>
+<p>Singapore’s urban and natural landscape teems with biodiversity and wildlife,
+providing opportunities for the community to learn and coexist with wildlife.
+Nature Kakis can:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Participate or organise biodiversity surveys and watches;</p>
@@ -72,7 +80,6 @@ of waste properly; and</p>
 advisory materials with the community at noticeboards or house visits.</p>
 </li>
 </ul>
-<p></p>
 <p>Find out more <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer" target="_blank">here</a>.</p>
 <p></p>
 </div>
