@@ -130,7 +130,7 @@ to participate in gardening activities together.</p>
 gardeners to share their gardening experiences with the community through
 workshops and talks.</p>
 <p></p>
-<p>Find out more here.</p>
+<p>Find out more <a href="/all/nature-kakis-happenings/community-in-bloom/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 </div>
 </details>
