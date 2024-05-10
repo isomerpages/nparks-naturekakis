@@ -47,6 +47,6 @@ therapeutic horticulture activities.</p>
 </div>
 <p>If Nature Kakis Chapters are keen on bringing the gardens closer to home,
 they can integrate <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens/how-to-start-a-therapeutic-garden" rel="noopener noreferrer nofollow" target="_blank">Therapeutic Design concepts</a> in
-their<a href="/all/nature-kakis-happenings/gardening/" rel="noopener noreferrer nofollow" target="_blank">Community Gardens</a> or
+their <a href="/all/nature-kakis-happenings/gardening/" rel="noopener noreferrer nofollow" target="_blank">Community Gardens</a> or
 as part of a <a href="/all/nature-kakis-happenings/nature-in-neighbourhood/" rel="noopener noreferrer nofollow" target="_blank">Nature In Neighbourhood</a> project.</p>
 <p></p>
