@@ -40,6 +40,9 @@ existing ones in in their communities.</p>
 </div>
 </details>
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Biodiversity.png">
+</div>
 <p>Singapore’s urban and natural landscape teems with biodiversity and wildlife,
 providing opportunities for the community to learn and coexist with wildlife.
 Nature Kakis can:</p>
@@ -70,7 +73,6 @@ advisory materials with the community at noticeboards or house visits.</p>
 </li>
 </ul>
 <p>Find out more <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer" target="_blank">here</a>.</p>
-<p></p>
 <p></p>
 </div>
 </details>
@@ -121,9 +123,6 @@ advisory materials with the community at noticeboards or house visits.</p>
 <p></p>
 </div>
 </details>
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Biodiversity.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Biodiversity.png">
