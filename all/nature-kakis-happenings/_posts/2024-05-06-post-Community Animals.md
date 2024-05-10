@@ -55,3 +55,6 @@ Singapore and beyond.</p>
 <p>Interested to participate in Community Animal project by Nature Kakis?
 Check out what your district's <a href="/nature-kakis/chapters/about-chapters/" rel="noopener noreferrer nofollow" target="_blank"><u>chapters</u></a> are doing
 and sign up with them directly!</p>
+<p>Want to read more about the other types of City in Nature activities you
+can participate or co-organise? Click <a href="/nature-kakis/programmes-and-activities/" rel="noopener noreferrer nofollow" target="_blank">here</a> to go to overview
+page.</p>
