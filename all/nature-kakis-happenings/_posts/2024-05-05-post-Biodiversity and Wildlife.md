@@ -37,3 +37,7 @@ to teach others in their community and become more aware of the wildlife
 around them.</p>
 <p>Interested to bring wildlife to your community? Join your district's
 <a href="/nature-kakis/chapters/about-chapters/" rel="noopener noreferrer nofollow" target="_blank">Nature Kakis Chapter</a>and get started today!</p>
+<p>Want to read more about the other types of City in Nature activities you
+can participate or co-organise? Click <a href="/nature-kakis/programmes-and-activities/" rel="noopener noreferrer nofollow" target="_blank">here</a> to go to overview
+page.</p>
+<p></p>
