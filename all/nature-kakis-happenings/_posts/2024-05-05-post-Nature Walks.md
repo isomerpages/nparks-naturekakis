@@ -16,7 +16,7 @@ everyone to explore, ranging from <a href="https://www.nparks.gov.sg/biodiversit
 <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/nature-park-network" rel="noopener noreferrer nofollow" target="_blank">Nature Parks</a>that serve as important habitat for sensitive wildlife,
 <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves" rel="noopener noreferrer nofollow" target="_blank">parks and gardens</a>for communities to enjoy, and an extensive <a href="/https://pcn.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Park Connector Network</a> that
 links everything together.</p>
-<p>Nature Kaki Chapters have brought their communities to enjoy these green
+<p>Nature Kakis Chapters have brought their communities to enjoy these green
 spaces through their walks, led by the Nature Kakis themselves or in collaboration
 with guides from <a href="/all/nature-kakis-happenings/friends-of-the-parks/" rel="noopener noreferrer nofollow" target="_blank">Friends of the Parks</a> or
 other environmental groups.</p>
