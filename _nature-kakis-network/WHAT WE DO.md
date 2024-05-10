@@ -43,14 +43,7 @@ existing ones in in their communities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Biodiversity.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-</div>
 <p>Singapore’s urban and natural landscape teems with biodiversity and wildlife,
 providing opportunities for the community to learn and coexist with wildlife.
 Nature Kakis can:</p>
@@ -78,6 +71,7 @@ of waste properly; and</p>
 <li>
 <p>Conduct outreach, ranging from webinars and engagement talks to sharing
 advisory materials with the community at noticeboards or house visits.</p>
+<p></p>
 </li>
 </ul>
 <p>Find out more <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer" target="_blank">here</a>.</p>
@@ -85,9 +79,43 @@ advisory materials with the community at noticeboards or house visits.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Community Animals</summary>
+<summary><strong>Community Animals</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_CAM.png">
+</div>
+<p>Promoting responsible pet ownership and community animal caregiving is
+essential for improving animal health and welfare in our urban environment.</p>
+<p>Nature Kakis Chapters can look to organise the following types of educational
+outreach programmes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Responsible pet ownership: </strong>Nature Kakis can organize
+educational programs for current and potential pet owners, emphasizing
+responsible pet ownership and AVS guidelines. Topics may include sterilization,
+microchipping, licensing, and proper pet care etiquette.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Care for community animals and animal welfare: </strong>Nature
+Kakis can educate residents on best practices for interacting with and
+caring for common community animals such as community cats and free-roaming
+dogs. The topics covered could include responsible community animal feeding
+and Trap-Neuter-Release-Manage (TNRM).</p>
+<p></p>
+</li>
+<li>
+<p><strong>Engaging the community as a whole: </strong>Nature Kakis may plan
+and execute engagement events tailored to their community, including social
+media campaigns and collaboration with pet interest groups.</p>
+</li>
+</ul>
+<p></p>
+<p>Find out more <a href="/all/nature-kakis-happenings/community-animals/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -95,6 +123,22 @@ advisory materials with the community at noticeboards or house visits.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Gardening.png">
+</div>
+<p>Community in Bloom is a nationwide gardening movement started by NParks
+in May 2005. It seeks to promote community spirit and a gardening culture
+among Singapore residents, young and old.</p>
+<p></p>
+<p>As part of the Community in Bloom programme, Nature Kaki Chapters can
+champion or co-lead with community gardeners to develop community gardens
+in their precinct and plan activities to encourage residents and volunteers
+to participate in gardening activities together.</p>
+<p>Nature Kaki Chapters can also take the opportunity to empower more community
+gardeners to share their gardening experiences with the community through
+workshops and talks.</p>
+<p></p>
+<p>Find out more <a href="https://cms.isomer.gov.sg/all/nature-kakis-happenings/community-in-bloom/" rel="noopener noreferrer" target="_blank"><u>here</u></a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -204,7 +248,6 @@ media campaigns and collaboration with pet interest groups.</p>
 <p>Community in Bloom is a nationwide gardening movement started by NParks
 in May 2005. It seeks to promote community spirit and a gardening culture
 among Singapore residents, young and old.</p>
-<p></p>
 <p>As part of the Community in Bloom programme, Nature Kaki Chapters can
 champion or co-lead with community gardeners to develop community gardens
 in their precinct and plan activities to encourage residents and volunteers
