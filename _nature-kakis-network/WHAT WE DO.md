@@ -32,8 +32,6 @@ existing ones in in their communities.</p>
 <summary><strong>Biodiversity &amp; Wildlife</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Biodiversity &amp; Wildlife</strong>
-</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary></summary>
@@ -41,9 +39,6 @@ existing ones in in their communities.</p>
 <p></p>
 </div>
 </details>
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Biodiversity.png">
 </div>
 <p>Singapore’s urban and natural landscape teems with biodiversity and wildlife,
 providing opportunities for the community to learn and coexist with wildlife.
@@ -86,41 +81,49 @@ advisory materials with the community at noticeboards or house visits.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Gardening</summary>
+<summary><strong>Gardening</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Friends of the Parks</summary>
+<summary><strong>Friends of the Parks</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Nature in the Neighbourhood</summary>
+<summary><strong>Nature in the Neighbourhood</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Nature Walks</summary>
+<summary><strong>Nature Walks</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Tree Planting</summary>
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Therapeutic Horticulture</summary>
+<summary><strong>Therapeutic Horticulture</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Biodiversity.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Biodiversity.png">
