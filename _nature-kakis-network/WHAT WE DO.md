@@ -146,6 +146,26 @@ workshops and talks.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_FoTP.png">
+</div>
+<p>Friends of the Parks is a ground-led initiative that sets out to involve
+the wider community in the development and management of our green spaces
+by choosing to be involved in the following community engagement areas:</p>
+<p></p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Conceptualisation and Park Design</strong> by
+engaging the community to reimagine their park experiences;</p>
+<p></p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Park Development </strong>by involving
+stakeholders and residents in the construction of the park through community-based
+activities, such as tree planting, habitat enhancement, installation/painting
+of amenities and design of interpretative signage; and/or</p>
+<p></p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Park Management</strong> by empowering
+the community to co-organise activities and events, while advocating the
+community to use the park responsibly.</p>
+<p></p>
+<p>&nbsp;Find out more on Friends of the Park<a href="https://fotp.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> here</a>!</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -153,17 +173,49 @@ workshops and talks.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Nature_Neighbourhood.png">
+</div>
+<p>Nature in the Neighbourhood initiative serves as a creative outlet for
+Nature Kakis to design engaging activities tailored to their community
+by leveraging on their surrounding green spaces and community groups.</p>
+<p></p>
+<p>Nature Kakis Chapters have the freedom to brainstorm and implement innovative
+initiatives that encourage residents to connect with nature in their surroundings.
+These initiatives may include organising nature mural painting sessions,
+devising interactive games, and incorporating gamification elements like
+Bingo cards and Nature Podcasts to make learning about the environment
+enjoyable and interactive for participants.</p>
+<p></p>
+<p>Find out more <a href="/all/nature-kakis-happenings/nature-in-neighbourhood/" rel="noopener noreferrer" target="_blank">here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Nature Walks</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul>
+<li>
+<p>With the transformation of Singapore into a City in Nature, all households
+will be a 10-minute walk from a park by 2030, bringing nature closer to
+our homes. Giving guided and informative nature walks will help the community
+gain a deeper understanding and appreciation of the flora and fauna in
+their backyard and encourage them to spend time outdoors to enjoy the beauty
+and tranquil of the greenery close to their homes.</p>
 <p></p>
+<p>Through our capacity building programmes, Nature Kakis can curate and
+conduct nature walks for the community, and/or assist in curating or facilitating
+nature walks organised by other Nature Kakis chapters within their vicinity.</p>
+<p></p>
+<p>Find out more <a href="/all/nature-kakis-happenings/nature-walks/" rel="noopener noreferrer" target="_blank">here</a>
+</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Tree Planting</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
