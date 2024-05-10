@@ -55,6 +55,7 @@ a[target="_blank"]:after {
 
 <iframe height="480" width="640" src="https://www.google.com/maps/d/embed?mid=1jeEcoQTn5471djEpJ40PhHccv1nAk2g&amp;ehbc=2E312F"></iframe>
 
+<p align="justify">*Note: Above map was created and managed by Nature Kakis Youth Stewards. </p>
 <table style="width:100%; height:auto; margin-left:auto; margin-right:auto; margin-top:35px">
 	<thead>
 		<tr>
@@ -154,8 +155,8 @@ a[target="_blank"]:after {
 			<td><a href="mailto:[To be updated]">[To be updated]</a></td>
 		</tr>
 		
-	</tbody>
-</table>
+
+</tbody></table>
 
 <p align="justify">* <em>Information was last updated in Apr 2024</em></p>
 
