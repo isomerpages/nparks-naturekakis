@@ -26,8 +26,8 @@ communities.</p>
 <p>Simple activities like <a href="https://www.youtube.com/watch?v=Ix79Y-vnjyc" rel="noopener noreferrer nofollow" target="_blank">propagating plants</a>,
 <a href="https://www.youtube.com/watch?v=CUxJNTL2m-A" rel="noopener noreferrer nofollow" target="_blank">leaf printing</a>, and making <a href="https://www.youtube.com/watch?v=H3255iKu9lo" rel="noopener noreferrer nofollow" target="_blank">seed mandalas</a> are
 easy activities for communities to do together, with materials that can
-be easily grown and harvested from a nearby Community Garden. Nature Kakis
-can learn how to <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens/how-to-start-a-therapeutic-horticulture-programme" rel="noopener noreferrer nofollow" target="_blank">conduct these activities</a> and
+be easily grown and harvested from a nearby <a href="/all/nature-kakis-happenings/gardening/" rel="noopener noreferrer nofollow" target="_blank">Community Garden</a>. Nature
+Kakis can learn how to <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens/how-to-start-a-therapeutic-horticulture-programme" rel="noopener noreferrer nofollow" target="_blank">conduct these activities</a> and
 bring the benefits of therapeutic horticulture to their communities.</p>
 <p></p>
 <div class="isomer-image-wrapper">
