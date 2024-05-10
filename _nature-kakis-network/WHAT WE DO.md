@@ -80,31 +80,43 @@ advisory materials with the community at noticeboards or house visits.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Community Animals</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Gardening</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Friends of the Parks</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Nature in the Neighbourhood</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Nature Walks</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Tree Planting</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Therapeutic Horticulture</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
