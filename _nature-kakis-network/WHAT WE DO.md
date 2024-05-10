@@ -130,6 +130,8 @@ to participate in gardening activities together.</p>
 gardeners to share their gardening experiences with the community through
 workshops and talks.</p>
 <p></p>
+<p>Find out more here.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
