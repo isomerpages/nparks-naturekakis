@@ -31,9 +31,10 @@ local <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noo
 teach participants about the <a href="/all/nature-kakis-happenings/therapeutic-horticulture/" rel="noopener noreferrer nofollow" target="_blank">therapeutic</a> value
 of green spaces, taken to the water on kayaks, conducted cleanups, and
 brought along their <a href="/all/nature-kakis-happenings/community-animals/" rel="noopener noreferrer nofollow" target="_blank">pets</a>. By exploring
-their community's interests and needs, Nature Kakis have created novel
-ways of getting their communities to interact with nature through these
-walks.</p>
+community’s interests and needs, NKs have created novel ways of getting
+their communities to interact with nature and learn more about biodiversity
+by combining their walks with other activities such as bird watching on
+kayaks, beach clean-ups, walking with their pets, etc.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Walk_3.png">
