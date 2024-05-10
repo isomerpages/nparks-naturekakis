@@ -237,6 +237,9 @@ out in a safe manner.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_TH.png">
+</div>
 <p>Nature, greenery, and its benefits should be enjoyed by all, regardless
 of age or ability. Therapeutic horticulture programmes are specially designed
 to be accessible and beneficial for elderly groups, persons with dementia
@@ -245,9 +248,6 @@ and persons with special needs, promoting health and mental well-being.</p>
 <p>Nature Kakis Chapters can help facilitate or organise therapeutic horticulture
 programmes, such as:</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_TH.png">
-</div>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Propagation of Edible plants</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gardening (Pruning/Watering/Weeding)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scent Bag Making</p>
