@@ -34,7 +34,7 @@ together to learn more about plants and greenery!</p>
 </div>
 <h4>Harvest sharing</h4>
 <p>By coordinating the growing of <a href="https://gardeningsg.nparks.gov.sg/page-index/glossary/edible-plants/" rel="noopener noreferrer nofollow" target="_blank">edible plants</a> between
-gardens, Nature Kaki chapters can organise a harvest sharing event with
+gardens, Nature Kakis chapters can organise a harvest sharing event with
 other community groups. This encourages the sharing of resources and knowledge
 among different groups, fostering a sense of unity and cooperation within
 the community.</p>
