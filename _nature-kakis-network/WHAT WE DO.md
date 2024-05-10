@@ -27,7 +27,101 @@ existing ones in in their communities.</p>
 <br>
 </p>
 <h3>Nature Kakis Activities</h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Biodiversity &amp; Wildlife</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Biodiversity.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Singapore’s urban and natural landscape teems with biodiversity and wildlife,
+providing opportunities for the community to learn and coexist with wildlife.
+Nature Kakis can:</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>Participate or organise biodiversity surveys and watches;</p>
+<p></p>
+</li>
+<li>
+<p>Self-organise biodiversity/photography walks for residents;</p>
+<p></p>
+</li>
+<li>
+<p>Incorporate wildlife management topics into other community programs organized
+by the Nature Kakis Chapter;</p>
+<p></p>
+</li>
+<li>
+<p>Educate the community on good practices to ensure safe and enjoyable encounters
+with wildlife, such as observing wildlife from a distance, refraining from
+feeding animals, keeping food/plastic bags out of sight, and disposing
+of waste properly; and</p>
+<p></p>
+</li>
+<li>
+<p>Conduct outreach, ranging from webinars and engagement talks to sharing
+advisory materials with the community at noticeboards or house visits.</p>
+</li>
+</ul>
+<p>Find out more <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer" target="_blank">here</a>.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Biodiversity &amp; Wildlife</strong>
+</p>
+</div>
+</details>
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Biodiversity.png">
 </div>
