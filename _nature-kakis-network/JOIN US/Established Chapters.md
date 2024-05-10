@@ -50,7 +50,7 @@ a[target="_blank"]:after {
 
 <h3>Get in touch with the Nature Kakis</h3>
 <p align="justify">The Nature Kakis chapters are part of a network of passionate volunteers that come together to run activities that involve, engage, and inspire communities to care for our City In Nature. Every established chapter is run by grassroots volunteers, schools, and residents. If you are a resident or grassroots volunteer in the following constituencies and are interested in joining the Nature Kakis, do reach out to the established chapters listed below.</p>
-<p align="justify">Connect with us through Instagram and Facebook Pages to stay updated on Nature Kakis happenings and explore more on past events organized by and for Nature Kakis Chapters.</p>
+<p align="justify">Connect with us through Instagram (@NatureKakis_Network) and Facebook Pages (@NatureKakisNetwork) to stay updated on Nature Kakis happenings and explore more on past events organized by and for Nature Kakis Chapters.</p>
 
 <h5>Established Nature Kakis Chapters</h5>
 
