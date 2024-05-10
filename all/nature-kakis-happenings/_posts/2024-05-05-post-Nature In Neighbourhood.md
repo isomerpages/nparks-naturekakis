@@ -33,10 +33,10 @@ a feeding station for community cats as part of their efforts to look after
 <p>Because Nature Kakis Chapters are all led by grassroots organisations,
 many of them have lots of experience in running outreach booths and activities
 for their communities. Together with the community groups such as <a href="/all/nature-kakis-happenings/friends-of-the-parks/" rel="noopener noreferrer nofollow" target="_blank">Friends of the Parks</a> and
-<a href="/all/nature-kakis-happenings/community-in-bloom/" rel="noopener noreferrer nofollow" target="_blank">Community In Bloom</a>Ambassadors, some Nature Kakis Chapters organised
-interactive activities to engage residents to learning more about the flora
-an fuana at their neighbouring parks and gardens. Animal-loving Nature
-Kakis Chapters have also conducted outreach booths about local <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer nofollow" target="_blank">wildlife</a>,
+<a href="/all/nature-kakis-happenings/community-in-bloom/" rel="noopener noreferrer nofollow" target="_blank">Community In Bloom</a>Ambassadors, some Nature Kakis Chapters engaged
+residents with interactive activities to learn more about the flora and
+fauna in their neighbouring parks and gardens. Animal-loving Nature Kakis
+Chapters have also conducted outreach booths about local <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer nofollow" target="_blank">wildlife</a>,
 and conducted resident engagement sessions to raise awareness about welfare
 issues for <a href="/all/nature-kakis-happenings/community-animals/" rel="noopener noreferrer nofollow" target="_blank">community and pet cats</a>.</p>
 <p>Interested to join a Nature In Neighbourhood project by a Nature Kakis
