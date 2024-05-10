@@ -32,15 +32,13 @@ a feeding station for community cats as part of their efforts to look after
 <h4>Outreach activities</h4>
 <p>Because Nature Kakis Chapters are all led by grassroots organisations,
 many of them have lots of experience in running outreach booths and activities
-for their communities. Some chapters have run games in collaboration with
-the <a href="/all/nature-kakis-happenings/friends-of-the-parks/" rel="noopener noreferrer nofollow" target="_blank">Friends of the Parks</a> and
-<a href="/all/nature-kakis-happenings/community-in-bloom/" rel="noopener noreferrer nofollow" target="_blank">Community In Bloom</a>Ambassadors to encourage residents to learn more
-about and engage with nearby parks and gardens, and other chapters have
-run fringe activities during <a href="/all/nature-kakis-happenings/tree-planting/" rel="noopener noreferrer nofollow" target="_blank">tree-planting</a> sessions
-in their neighbourhood to get communities excited about nature. Animal-loving
-Nature Kakis Chapters have also conducted outreach booths about local
-<a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer nofollow" target="_blank">wildlife</a>, and conducted resident engagement sessions to raise awareness
-about welfare issues for <a href="/all/nature-kakis-happenings/community-animals/" rel="noopener noreferrer nofollow" target="_blank">community and pet cats</a>.</p>
+for their communities. Together with the community groups such as <a href="/all/nature-kakis-happenings/friends-of-the-parks/" rel="noopener noreferrer nofollow" target="_blank">Friends of the Parks</a> and
+<a href="/all/nature-kakis-happenings/community-in-bloom/" rel="noopener noreferrer nofollow" target="_blank">Community In Bloom</a>Ambassadors, some Nature Kakis Chapters organised
+interactive activities to engage residents to learning more about the flora
+an fuana at their neighbouring parks and gardens. Animal-loving Nature
+Kakis Chapters have also conducted outreach booths about local <a href="/all/nature-kakis-happenings/biodiversity-and-wildlife/" rel="noopener noreferrer nofollow" target="_blank">wildlife</a>,
+and conducted resident engagement sessions to raise awareness about welfare
+issues for <a href="/all/nature-kakis-happenings/community-animals/" rel="noopener noreferrer nofollow" target="_blank">community and pet cats</a>.</p>
 <p>Interested to join a Nature In Neighbourhood project by a Nature Kakis
 chapter? Check out what your district's <a href="/nature-kakis/chapters/about-chapters/" rel="noopener noreferrer nofollow" target="_blank"><u>chapters</u></a> are doing
 and sign up with them directly!</p>
