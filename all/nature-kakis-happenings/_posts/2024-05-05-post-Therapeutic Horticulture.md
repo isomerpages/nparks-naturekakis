@@ -12,11 +12,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TH Activities/TH_4.png">
 </div>
 <p>Therapeutic horticulture uses plants and nature-related activities to
-improve the well-being of participants and. By interacting with nature,
-participants can improve their motor skills, stimulate their memory, and
-encourage positive social interactions with nature. Therapeutic horticulture
-is particularly effective in engaging the elderly, people with dementia,
-and people with special needs.</p>
+improve the well-being of participants. By interacting with nature, participants
+can improve their motor skills, stimulate their memory, and encourage positive
+social interactions with nature. Therapeutic horticulture is particularly
+effective in engaging the elderly, people with dementia, and people with
+special needs.</p>
 <p></p>
 <p>Nature Kakis Chapters can learn how to conduct therapeutic horticulture
 activities, bring communities to therapeutic gardens, and even incorporate
