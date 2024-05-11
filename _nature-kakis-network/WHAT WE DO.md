@@ -219,8 +219,8 @@ nature walks organised by other Nature Kakis chapters within their vicinity.</p>
 <p>The OneMillionTrees movement is a key strategy in achieving Singapore’s
 City in Nature vision, where everyone can play a role in intensifying the
 greenery in Singapore to build climate resilience. By planting one million
-more trees by 2030 to tackle climate change, we are also benefitting from
-the environmental benefits such as cleaner water, fresher air, cooler urban
+more trees by 2030 to tackle climate change, we are also reaping from the
+environmental benefits such as cleaner water, fresher air, cooler urban
 temperatures and better health and well-being.</p>
 <p></p>
 <p>Nature Kakis can organise and run tree planting sessions for the community
