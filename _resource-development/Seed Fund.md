@@ -34,7 +34,7 @@ manager today.
 </p>
 <p><em>*Please note that Goods and Service Tax (GST) is not fundable.</em>
 </p>
-<p><em>^</em>Established chapters will also receive a starter publicity kit
+<p><em>^</em>Established chapters will also receive a publicity starter kit
 (inclusive of one <a href="/files/Nature_Kakis_Pull_up_banner_Ver_2_0__Apr_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">pull up banner</a>,
 one <a href="/files/Individual_A4_posters_26Apr2024.pdf" rel="noopener noreferrer nofollow" target="_blank">A4 poster</a> and
 Nature Kakis collar pins). Beyond this starter kit, established chapters
