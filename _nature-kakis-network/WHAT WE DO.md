@@ -249,7 +249,7 @@ to be accessible and beneficial for elderly groups, persons with dementia
 and persons with special needs, promoting health and mental well-being.</p>
 <p></p>
 <p>Nature Kakis Chapters can help facilitate or organise therapeutic horticulture
-programmes, such as:</p>
+programmes to introduce activities such as:</p>
 <p></p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Propagation of Edible plants</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gardening (Pruning/Watering/Weeding)</p>
