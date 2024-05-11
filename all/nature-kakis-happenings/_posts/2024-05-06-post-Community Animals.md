@@ -36,6 +36,10 @@ to learn better leash discipline and <a href="https://www.nparks.gov.sg/avs/reso
 Take note that while pets can be taken to most green spaces, they are not
 allowed in Nature Parks and Nature Reserves as these spaces have sensitive
 wildlife.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community animals/Nee_Soon_Pet_Walk.png">
+</div>
 <h4>Improving Pet Welfare</h4>
 <p>Knowledge is power! Nature Kakis Chapters can become hubs for information
 on <a href="https://www.nparks.gov.sg/avs/pets/owning-a-pet/getting-a-pet/what-to-consider-before-you-get-a-pet" rel="noopener noreferrer nofollow" target="_blank">responsible pet ownership</a>,
