@@ -97,8 +97,7 @@ sections:
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="Join the Nature Kakis Network Today"
-        src="https://www.youtube.com/embed/Pm1aSm5X9DQ" height="720"
-        width="100%"></iframe>
+        src="https://www.youtube.com/embed/Pm1aSm5X9DQ" width="100%"></iframe>
       button: Watch and be inspired by our Nature Kakis leads
       url: https://www.youtube.com/watch?v=Pm1aSm5X9DQ
 ---
