@@ -98,6 +98,6 @@ sections:
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="Join the Nature Kakis Network Today"
         src="https://www.youtube.com/embed/Pm1aSm5X9DQ" height="720"
-        width="100%,"></iframe>
+        width="100%"></iframe>
       button: Button Text
 ---
