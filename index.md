@@ -22,16 +22,16 @@ sections:
           description: Explore past events
           url: https://go.gov.sg/nkfb
       variant: center
-  - infopic:
-      title: Join Nature Kakis Today!
-      subtitle: Govtech help!
-      id: infopic
-      description: |-
-        Watch and get inspired by our Nature Kakis leads
-
-        (note to GovTech: Help to embed video and centralise :))
-      image: /images/PrintScreen.png
-      alt: Video of Minister and NK leads
+  - infobar:
+      title: Be a part of Nature Kakis Network today!
+      id: infobar
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="Join the Nature Kakis Network Today"
+        src="https://www.youtube.com/embed/Pm1aSm5X9DQ" height="720"
+        width="100%"></iframe>
+      button: Watch and be inspired by our Nature Kakis leads
+      url: https://www.youtube.com/watch?v=Pm1aSm5X9DQ
   - infopic:
       title: Nature Kakis Network
       subtitle: learn about our
@@ -91,14 +91,4 @@ sections:
             island-wide.
           linktext: Click here
           url: https://pcn.nparks.gov.sg/the-pcn-experience/near/
-  - infobar:
-      title: Be a part of Nature Kakis Network today!
-      id: infobar
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="Join the Nature Kakis Network Today"
-        src="https://www.youtube.com/embed/Pm1aSm5X9DQ" height="720"
-        width="100%"></iframe>
-      button: Watch and be inspired by our Nature Kakis leads
-      url: https://www.youtube.com/watch?v=Pm1aSm5X9DQ
 ---
