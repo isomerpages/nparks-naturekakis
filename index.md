@@ -28,10 +28,11 @@ sections:
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="Join the Nature Kakis Network Today"
-        src="https://www.youtube.com/embed/Pm1aSm5X9DQ" height="720"
+        src="https://www.youtube.com/embed/Pm1aSm5X9DQ" height="640"
         width="100%"></iframe>
-      button: Watch and be inspired by our Nature Kakis leads
+      button: Watch here
       url: https://www.youtube.com/watch?v=Pm1aSm5X9DQ
+      subtitle: Watch, get inspired and
   - infopic:
       title: Nature Kakis Network
       subtitle: learn about our
