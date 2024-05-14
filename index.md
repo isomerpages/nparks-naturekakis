@@ -30,7 +30,6 @@ sections:
         web-share" frameborder="0" title="Join the Nature Kakis Network Today"
         src="https://www.youtube.com/embed/Pm1aSm5X9DQ" height="640"
         width="100%"></iframe>
-      button: Watch here
       url: https://www.youtube.com/watch?v=Pm1aSm5X9DQ
       subtitle: Watch, get inspired and
   - infopic:
