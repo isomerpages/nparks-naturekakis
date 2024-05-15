@@ -23,7 +23,7 @@ sections:
           url: https://go.gov.sg/nkfb
       variant: center
   - infobar:
-      title: Be a part of Nature Kakis Network today!
+      title: Get inspired and be a part of Nature Kakis Network today!
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
@@ -31,7 +31,7 @@ sections:
         src="https://www.youtube.com/embed/Pm1aSm5X9DQ" height="640"
         width="100%"></iframe>
       url: https://www.youtube.com/watch?v=Pm1aSm5X9DQ
-      subtitle: Watch, get inspired and
+      button: Click here to view in YouTube
   - infopic:
       title: Nature Kakis Network
       subtitle: learn about our
