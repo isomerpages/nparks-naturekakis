@@ -12,8 +12,8 @@ sections:
       subtitle: Growing our City in Nature
       background: /images/DIY Nature walks/IMG_20231127_131219_573.JPG
       key_highlights:
-        - title: Join Us today
-          description: Learn about our Network
+        - title: Who are We
+          description: "Learn about Nature Kakis "
           url: /nature-kakis/about/
         - title: Connect through Instagram
           description: Stay updated
