@@ -62,5 +62,10 @@ description: ""
 			<h4>Therapeutic Horticulture</h4>
 			<img src="/images/TH%20Activities/TheapeuticHorticulture__2__Resized.jpg"><br>
 		</div></a>
-	</div>
+		</div>
+		<a class="button" rel="noopener noreferrer" target="_blank" href="https://www.nparks.gov.sg/news"><div class="box">
+			<h4>News Announcements</h4>
+			<img src="/images/TH%20Activities/Sun_Plaza_Park_therapeutic_garden_Children_playing_at_the_Bead_Maze_Credit_National_Parks_Board_1.JPG"><br>
+		</div></a>
+	
 </section>
