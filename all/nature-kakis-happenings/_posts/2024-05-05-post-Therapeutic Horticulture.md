@@ -38,8 +38,8 @@ bring the benefits of therapeutic horticulture to their communities.</p>
 a <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/therapeutic-gardens" rel="noopener noreferrer nofollow" target="_blank">Therapeutic Garden</a> located
 in a public park. These gardens are specially designed to be serene and
 tranquil, serving as a common space for people to interact with nature
-in a positive way. MMany of these gardens feature activity zones where
-Nature Kakis Chapters can conduct therapeutic horticulture activities.</p>
+in a positive way. Many of these gardens feature activity zones where Nature
+Kakis Chapters can conduct therapeutic horticulture activities.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TH Activities/TH_6.png">
