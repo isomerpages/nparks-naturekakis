@@ -30,14 +30,14 @@ variant: markdown
 </style>  
 
 
-<section><p align="justify">Starting a Nature Kakis chapter in your district is an important step towards transforming Singapore into a City in Nature. By setting up a Nature Kakis chapter, you can contribute to this vision by promoting environmental awareness and conservation in your community. Join us in bringing people together through a shared love for nature and create an inclusive community that is committed to making a positive impact on the environment!</p></section>
+<section><p align="justify">Starting a Nature Kakis Chapter in your district is an important step towards transforming Singapore into a City in Nature. By setting up a Nature Kakis Chapter, you can contribute to this vision by promoting environmental awareness and conservation in your community. Join us in bringing people together through a shared love for nature and create an inclusive community that is committed to making a positive impact on the environment!</p></section>
 
 <p align="justify">Connect with us through Instagram (@NatureKakis_Network) and Facebook Pages (@NatureKakisNetwork) to stay updated on Nature Kakis happenings and explore more on past events organized by and for Nature Kakis Chapters.</p>
 
 <img src="/images/Groups%20Networking%20Engagement/163f7d98_cac1_445d_aff9_cb56c289a59e__2_.jpg">
 
 <h3>How to start a chapter?</h3>
-<section><p align="justify" style="margin-bottom: 35px">There are <b>five stages</b> in this process of starting a new Nature Kakis chapter.</p></section>
+<section><p align="justify" style="margin-bottom: 35px">There are <b>five stages</b> in this process of starting a new Nature Kakis Chapter.</p></section>
 
 <table style="width:100%;">
   <tbody>
@@ -72,4 +72,4 @@ variant: markdown
 <section>
 <p align="justify" style="margin-top: 40px">As part of the initiative, National Parks Board (NParks) will partner with you and provide <a rel="noopener noreferrer" target="_blank" href="/resource-development/capacity-building/">training</a> to help you and other community leaders set up Nature Kakis chapters in each precinct. Set up a Nature Kakis chapter and play an active role in supporting your community!</p>
 	
-<p>If you are interested in starting a Nature Kakis chapter in your constituency, please fill in the query form <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/nk-formsg-enquiries">here</a>.</p></section>
+<p>If you are interested in starting a Nature Kakis Chapter in your constituency, please fill in the query form <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/nk-formsg-enquiries">here</a>.</p></section>
