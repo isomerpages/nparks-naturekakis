@@ -14,10 +14,10 @@ constituencies to be touchpoints within the grassroots for community-led
 City in Nature initiatives. This platform aims to accelerate the mainstreaming
 of nature programmes into the heartlands to encourage greater appreciation
 and community stewardship of nature. The eventual aim is to establish Nature
-Kakis chapters in each constituency that can self-organise and lead projects,
+Kakis Chapters in each constituency that can self-organise and lead projects,
 for the community, by the community, with support from partners, grassroots
 organisations and agencies including National Parks Board (NParks) and
-People’s Association (PA). Each Nature Kakis chapter will be community-driven
+People’s Association (PA). Each Nature Kakis Chapter will be community-driven
 and bring together individuals who share a passion for nature and conservation.</p>
 <p><strong>Connect with us on Instagram <em>(@NatureKakis_Network) </em>and Facebook page <em>(Nature Kakis Network)</em> to stay updated on Nature Kakis related initiatives and activities.</strong>
 </p>
