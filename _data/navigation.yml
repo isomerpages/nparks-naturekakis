@@ -1,15 +1,24 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/nknparkslogo1__2_.PNG
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Nature Kakis Network
+    url: /nature-kakis/about/
+    sublinks:
+      - title: Who are we
+        url: /nature-kakis/about/
+      - title: What we do
+        url: /nature-kakis/programmes-and-activities/
+      - title: Established Chapters
+        url: /nature-kakis/chapters/about-chapters/
+      - title: Starting a Chapter
+        url: /nature-kakis/chapters/starting-a-chapter/
+  - title: Resources
+    url: /resource-development/capacity-building/
+    sublinks:
+      - title: Capacity Building
+        url: /resource-development/capacity-building/
+      - title: Seed Fund
+        url: /seed-fund/about/
+      - title: NParks Announcements
+        url: https://www.nparks.gov.sg/news
+      - title: Useful Links
+        url: /resourcelinks/

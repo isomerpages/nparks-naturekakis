@@ -1,10 +1,11 @@
-contact_us: /contact-us/
 show_reach: true
-feedback: 
-faq: /faq/
+faq: https://form.gov.sg/6450cd7145da250012d2a4dd
 social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+  youtube: https://www.youtube.com/@NParksSG
+  facebook: https://www.facebook.com/nparksbuzz
+  twitter: https://twitter.com/nparksbuzz
+  instagram: https://www.instagram.com/nparksbuzz/
+  telegram: https://t.me/s/nparksbuzz
+  tiktok: https://www.tiktok.com/@nparkssg
+contact_us: https://www.nparks.gov.sg/contact-us
+feedback: https://www.nparks.gov.sg/feedback-and-enquiry
