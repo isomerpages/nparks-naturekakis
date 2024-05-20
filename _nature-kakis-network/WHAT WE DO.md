@@ -23,7 +23,7 @@ to inspire Nature Kakis Chapters to kickstart new activities or enhance
 existing ones in in their communities.</p>
 <p><em>Scroll down to read more about each of the programmes.</em>
 </p>
-<p><em>*Note: Below graphic banners were hand-drawn by Nature Kakis Youth Stewards.</em> 
+<p><em>*Note: Graphic banners below were hand-drawn by Nature Kakis Youth Stewards.</em> 
 <br>
 </p>
 <h3>Nature Kakis Activities</h3>
@@ -36,7 +36,7 @@ existing ones in in their communities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Biodiversity.png">
 </div>
 <p></p>
-<p>Singapore’s urban and natural landscape teems with biodiversity and wildlife,
+<p>Singapore’s urban and natural landscapes teem with biodiversity and wildlife,
 providing opportunities for the community to learn and coexist with wildlife.
 Nature Kakis can:</p>
 <ul data-tight="true" class="tight">
@@ -49,8 +49,8 @@ Nature Kakis can:</p>
 <p></p>
 </li>
 <li>
-<p>Incorporate wildlife management topics into other community programs organized
-by the Nature Kakis Chapter;</p>
+<p>Incorporate wildlife management topics into other community programmes
+organised by the Nature Kakis Chapter;</p>
 <p></p>
 </li>
 <li>
