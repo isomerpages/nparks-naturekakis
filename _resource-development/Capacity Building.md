@@ -38,7 +38,7 @@ th {
 <section>
 	<h3>Building of Nature Kakis Network</h3>
 		<img alt="" src="/images/DIY%20Nature%20walks/IMG_20231127_130858_398__2_.JPG">
-		<p align="justify">To support Nature Kakis chapters in their programmes—resources and trainings on subject matters will be provided to the Nature Kakis chapters. National Parks Board (NParks) has developed a comprehensive framework for capacity building consisting of various opportunities in different mediums. The Nature Kakis Capacity Building Framework includes:</p>
+		<p align="justify">To support Nature Kakis Chapters in their programmes—resources and trainings on subject matters will be provided to the Nature Kakis Chapters. National Parks Board (NParks) has developed a comprehensive framework for capacity building consisting of various opportunities in different mediums. The Nature Kakis Capacity Building Framework includes:</p>
 </section>
 	
 <ul class="jekyllcodex_accordion">
@@ -103,5 +103,5 @@ th {
 	<h3>Next Steps</h3>
 		<p align="justify">As Nature Kakis progress through the training programmes, they will develop their skills, enabling them to bring more City in Nature initiatives into the heartlands and lead these activities for the community, by the community.</p>
     <p>Established chapters will also receive a  publicity starter kit (inclusive of one pull up banner, one A4 poster and Nature Kakis collar pins).</p>
-	<p align="justify">Established Nature Kakis chapters can apply for the <a rel="noopener noreferrer nofollow" target="_blank" href="/seed-fund/about/">Nature Kakis Seed Fund</a> to fund and facilitate the preparation and implementation of their programmes.</p>
+	<p align="justify">Established Nature Kakis Chapters can apply for the <a rel="noopener noreferrer nofollow" target="_blank" href="/seed-fund/about/">Nature Kakis Seed Fund</a> to fund and facilitate the preparation and implementation of their programmes.</p>
 </section>
