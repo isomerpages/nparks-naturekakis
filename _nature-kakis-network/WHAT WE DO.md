@@ -4,7 +4,7 @@ permalink: /nature-kakis/programmes-and-activities/
 variant: tiptap
 description: ""
 ---
-<p>Nature Kakis chapters drive community-led nature programmes, activities,
+<p>Nature Kakis Chapters drive community-led nature programmes, activities,
 and projects, bringing our City In Nature to their communities. Nature
 Kakis can participate in and also go one step further to help grow community
 interest by planning, organizing and implementing a wide variety of activities
@@ -19,7 +19,7 @@ to be part of our nature-loving community.</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/Brochure/Nature_Kakis_Brochure_A4_2Feb2024_latest.png">
 </div>
 <p>NParks has prepared a non-exhaustive suite of 8 introductory programmes
-to inspire Nature Kakis chapters to kickstart new activities or enhance
+to inspire Nature Kakis Chapters to kickstart new activities or enhance
 existing ones in in their communities.</p>
 <p><em>Scroll down to read more about each of the programmes.</em>
 </p>
