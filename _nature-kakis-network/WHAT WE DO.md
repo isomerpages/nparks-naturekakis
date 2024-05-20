@@ -79,14 +79,14 @@ advisory materials with the community at noticeboards or house visits.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_CAM.png">
 </div>
-<p>Promoting responsible pet ownership and community animal caregiving is
+<p>Promoting responsible pet ownership and care for community animals is
 essential for improving animal health and welfare in our urban environment.</p>
 <p>Nature Kakis Chapters can look to organise the following types of educational
 outreach programmes:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Responsible pet ownership: </strong>Nature Kakis can organize
-educational programs for current and potential pet owners, emphasizing
+<p><strong>Responsible pet ownership: </strong>Nature Kakis can organise
+educational programmes for current and potential pet owners, emphasizing
 responsible pet ownership and AVS guidelines. Topics may include sterilization,
 microchipping, licensing, and proper pet care etiquette.</p>
 <p></p>
@@ -96,7 +96,7 @@ microchipping, licensing, and proper pet care etiquette.</p>
 Kakis can educate residents on best practices for interacting with and
 caring for common community animals such as community cats and free-roaming
 dogs. The topics covered could include responsible community animal feeding
-and Trap-Neuter-Release-Manage (TNRM).</p>
+and the Trap-Neuter-Release-Manage (TNRM) programme.</p>
 <p></p>
 </li>
 <li>
@@ -144,7 +144,7 @@ workshops and talks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_FoTP.png">
 </div>
-<p>Friends of the Parks is a ground-led initiative that sets out to involve
+<p>Friends of The Parks is a ground-led initiative that sets out to involve
 the wider community in the development and management of our green spaces
 by choosing to be involved in the following community engagement areas:</p>
 <p></p>
@@ -157,7 +157,7 @@ activities, such as tree planting, habitat enhancement, installation/painting
 of amenities and design of interpretative signage; and/or</p>
 <p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Park Management</strong> by empowering
-the community to co-organise activities and events, while advocating the
+the community to co-organise activities and events, while encouraging the
 community to use the park responsibly.</p>
 <p></p>
 <p>&nbsp;Find out more on Friends of the Park<a href="https://fotp.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> here</a>!</p>
@@ -197,12 +197,12 @@ enjoyable and interactive for participants.</p>
 will be a 10-minute walk from a park by 2030, bringing nature closer to
 our homes. Giving guided and informative nature walks will help the community
 gain a deeper understanding and appreciation of the flora and fauna in
-their backyard and encourage them to spend time outdoors to enjoy the beauty
-and tranquil of the greenery close to their homes.</p>
+their backyard. This will encourage the community to spend time outdoors
+to enjoy the beauty and tranquil of the greenery close to their homes.</p>
 <p></p>
 <p>Through our capacity building programmes, Nature Kakis can curate and
 conduct nature walks for the community, and/or assist in curating or facilitating
-nature walks organised by other Nature Kakis chapters within their vicinity.</p>
+nature walks organised by other Nature Kakis Chapters within their vicinity.</p>
 <p></p>
 <p>Find out more <a href="/all/nature-kakis-happenings/nature-walks/" rel="noopener noreferrer" target="_blank">here</a>
 </p>
@@ -219,16 +219,16 @@ nature walks organised by other Nature Kakis chapters within their vicinity.</p>
 <p>The OneMillionTrees movement is a key strategy in achieving Singapore’s
 City in Nature vision, where everyone can play a role in intensifying the
 greenery in Singapore to build climate resilience. By planting one million
-more trees by 2030 to tackle climate change, we are also reaping from the
-environmental benefits such as cleaner water, fresher air, cooler urban
-temperatures and better health and well-being.</p>
+more trees by 2030 to tackle climate change, we are also reaping environmental
+benefits such as cleaner water, fresher air, cooler urban temperatures
+and better health and well-being.</p>
 <p></p>
 <p>Nature Kakis can organise and run tree planting sessions for the community
 and get trained as OneMillionTrees facilitators to conduct tree planting
 sessions for their residents.</p>
 <p></p>
 <p>Nature Kakis Chapters can also take this opportunity to grow their pool
-of volunteers equipped to be tree plant facilitators to teach participants
+of volunteers equipped to be tree planting facilitators to teach participants
 the basics of tree planting while ensuring that the planting is carried
 out in a safe manner.</p>
 <p></p>
@@ -249,7 +249,7 @@ to be accessible and beneficial for elderly groups, persons with dementia
 and persons with special needs, promoting health and mental well-being.</p>
 <p></p>
 <p>Nature Kakis Chapters can help facilitate or organise therapeutic horticulture
-programmes to introduce activities such as:</p>
+activities such as:</p>
 <p></p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Propagation of Edible plants</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gardening (Pruning/Watering/Weeding)</p>
