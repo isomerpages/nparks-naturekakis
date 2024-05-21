@@ -13,7 +13,7 @@ sections:
       background: /images/DIY Nature walks/IMG_20231127_131219_573.JPG
       key_highlights:
         - title: Who are We
-          description: "Learn about Nature Kakis "
+          description: Learn about Nature Kakis
           url: /nature-kakis/about/
         - title: Connect through Instagram
           description: Stay updated
@@ -35,7 +35,7 @@ sections:
   - infopic:
       title: Nature Kakis Network
       subtitle: learn about our
-      description: Learn more about Nature Kakis Network, and how communities can
+      description: Learn more about the Nature Kakis Network, and how communities can
         contribute to Singapore’s vision of a City in Nature.
       button: About us
       url: /nature-kakis/about/
