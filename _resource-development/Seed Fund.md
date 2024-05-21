@@ -27,6 +27,12 @@ made to the respective <strong>Citizens’ Consultative Committee (CCC) </strong
 each chapter. The use of funds for projects will be assessed based on the
 project’s merits and ability to contribute towards the Nature Kakis Network
 and chapter growth.</p>
+<p></p>
+<p>The Nature Kakis programme is made possible through generous donations
+to the Garden City Fund, a registered charity and IPC established by the
+National Parks Board, to facilitate community and capacity building projects
+to help fulfil Singapore’s City in Nature vision. Find out more about the
+Garden City Fund <a href="https://www.gardencityfund.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>You may refer to the infographics below on fundable items^ and book a
 virtual consultation with us through your NParks Community Projects (Engagement)
 manager today.
@@ -39,6 +45,7 @@ manager today.
 one <a href="/files/Individual_A4_posters_26Apr2024.pdf" rel="noopener noreferrer nofollow" target="_blank">A4 poster</a> and
 Nature Kakis collar pins). Beyond this starter kit, established chapters
 may opt to apply for seed funds on more publicity collaterals.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Nature Kakis Seed Fund fundable items" src="/images/Slide2.png">

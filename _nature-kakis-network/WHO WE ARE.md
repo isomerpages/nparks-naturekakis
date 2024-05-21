@@ -1,10 +1,10 @@
 ---
-title: WHO ARE WE
+title: WHO WE ARE
 permalink: /nature-kakis/about/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Who are we?</strong></h4>
+<h4><strong>Who we are?</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
@@ -51,6 +51,14 @@ Nature initiatives, and share experiences and</p>
 </p>
 </li>
 </ul>
+<p>We also have a large group of passionate <strong>Nature Kakis Youth Stewards</strong> who
+are working on nature kakis related projects, such as (i) publicity and
+communications for events organised for nature kakis, (ii) creating and
+managing social media, such as Nature Kakis Network new Instagram and Facebook
+Page pages, (iii) recruitment, (iv) digital mapping and (v) strategic programmes.
+We will be opening up for recruitment in October every year. Follow us
+on Instagram (@NatureKakis_Network) or Facebook Page (Nature Kakis Network)
+to stay updated!</p>
 <p></p>
 <p>
 <br>

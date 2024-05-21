@@ -13,7 +13,7 @@ sections:
       background: /images/DIY Nature walks/IMG_20231127_131219_573.JPG
       key_highlights:
         - title: Who are We
-          description: "Learn about Nature Kakis "
+          description: Learn about Nature Kakis
           url: /nature-kakis/about/
         - title: Connect through Instagram
           description: Stay updated
@@ -35,7 +35,7 @@ sections:
   - infopic:
       title: Nature Kakis Network
       subtitle: learn about our
-      description: Learn more about Nature Kakis Network, and how communities can
+      description: Learn more about the Nature Kakis Network, and how communities can
         contribute to Singapore’s vision of a City in Nature.
       button: About us
       url: /nature-kakis/about/
@@ -66,29 +66,11 @@ sections:
       title: Resources for Nature Kakis
       subtitle: Build your chapter
       id: infopic
-      description: Find more information on capacity building, seed fund, and
+      description: Find more information on capacity building, seed funding, and
         reference materials here.
       button: let's go
       url: /resource-development/capacity-building/
       image: /images/DIY Nature
         walks/GuideFacilitation_ChekJawa_20230805__6__Resized.jpg
       alt: Image alt text
-  - textcards:
-      title: You may like these
-      id: textcards
-      cards:
-        - title: Launch of the Nature Kakis Network
-          description: On 27 May 2023, the Network was launched during the Festival of
-            Biodiversity.
-          linktext: Click here
-          url: https://www.nparks.gov.sg/nparks-corporate/news/2023/5/new-nparks-initiatives-to-strengthen-ecological-connectivity-and-encourage-community-stewardship-to-further-city-in-nature-vision
-        - title: Portraits of NParks Volunteers
-          description: Hear some stories from the volunteers.
-          linktext: Click here
-          url: https://www.youtube.com/watch?v=LGcQjWEftfk
-        - title: NParks Explore A Route (NEAR) Mobile App
-          description: A mobile app for an interactive curated walking experience
-            island-wide.
-          linktext: Click here
-          url: https://pcn.nparks.gov.sg/the-pcn-experience/near/
 ---
