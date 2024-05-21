@@ -73,22 +73,4 @@ sections:
       image: /images/DIY Nature
         walks/GuideFacilitation_ChekJawa_20230805__6__Resized.jpg
       alt: Image alt text
-  - textcards:
-      title: You may like these
-      id: textcards
-      cards:
-        - title: Launch of the Nature Kakis Network
-          description: On 27 May 2023, the Network was launched during the Festival of
-            Biodiversity.
-          linktext: Click here
-          url: https://www.nparks.gov.sg/nparks-corporate/news/2023/5/new-nparks-initiatives-to-strengthen-ecological-connectivity-and-encourage-community-stewardship-to-further-city-in-nature-vision
-        - title: Portraits of NParks Volunteers
-          description: Hear some stories from the volunteers.
-          linktext: Click here
-          url: https://www.youtube.com/watch?v=LGcQjWEftfk
-        - title: NParks Explore A Route (NEAR) Mobile App
-          description: A mobile app for an interactive curated walking experience
-            island-wide.
-          linktext: Click here
-          url: https://pcn.nparks.gov.sg/the-pcn-experience/near/
 ---
