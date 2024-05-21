@@ -55,7 +55,10 @@ Nature initiatives, and share experiences and</p>
 are working on nature kakis related projects, such as (i) publicity and
 communications for events organised for nature kakis, (ii) creating and
 managing social media, such as Nature Kakis Network new Instagram and Facebook
-Page pages, (iii) recruitment, (iv) digital mapping and (v) strategic programmes.</p>
+Page pages, (iii) recruitment, (iv) digital mapping and (v) strategic programmes.
+We will be opening up for recruitment in October every year. Follow us
+on Instagram (@NatureKakis_Network) or Facebook Page (Nature Kakis Network)
+to stay updated!</p>
 <p></p>
 <p>
 <br>
