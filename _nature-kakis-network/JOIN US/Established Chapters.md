@@ -105,6 +105,10 @@ a[target="_blank"]:after {
 			<td class="districteven"><a href="mailto:pulaiecoclub@gmail.com">pulaiecoclub@gmail.com</a></td>
 		</tr>
 		<tr>
+			<td class="districteven">West Coast</td>
+			<td class="districteven"><a href="mailto: PA_westcoastcc@pa.gov.sg">PA_westcoastcc@pa.gov.sg</a></td>
+		</tr>
+		<tr>
 			<th class="districtodd" rowspan="6">Central</th>
 			<td>Buona Vista</td>
 			<td><a href="mailto:pa_buonavistacc@pa.gov.sg">pa_buonavistacc@pa.gov.sg</a></td>
