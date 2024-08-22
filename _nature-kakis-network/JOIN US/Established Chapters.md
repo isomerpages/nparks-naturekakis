@@ -72,7 +72,7 @@ a[target="_blank"]:after {
 			<td><a href="mailto:nssnaturekakis@gmail.com">nssnaturekakis@gmail.com</a></td>
 		</tr>
 		<tr class="districteven">
-			<th class="districteven" rowspan="8">South West</th>
+			<th class="districteven" rowspan="9">South West</th>
 			<td class="districteven">Boon Lay</td>
 			<td class="districteven"><a href="mailto:naturekakis@gmail.com">naturekakis@gmail.com</a></td>
 		</tr>
