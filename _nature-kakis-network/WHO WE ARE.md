@@ -9,16 +9,15 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
-<p>The Nature Kakis initiative is a network of chapters formed within the
-constituencies to be touchpoints within the grassroots for community-led
-City in Nature initiatives. This platform aims to accelerate the mainstreaming
-of City in Nature programmes into the heartlands to encourage greater appreciation
-and community stewardship of nature. We aim to establish Nature Kakis Chapters
-island-wide to self-organise and lead projects, for the community, by the
-community, with support from partners, grassroots organisations and agencies
-including National Parks Board (NParks) and People’s Association (PA).
-Each Nature Kakis Chapter will be community-driven and bring together individuals
-who share a passion for nature and conservation.</p>
+<p>The Nature Kakis initiative is a network of chapters that form touchpoints
+centred at the heart of local communities. This platform aims to accelerate
+the mainstreaming of City in Nature programmes into the heartlands to encourage
+greater appreciation and community stewardship of nature. We aim to establish
+Nature Kakis Chapters island-wide to self-organise and lead projects, for
+the community, by the community, with support from partners, grassroots
+organisations and agencies including National Parks Board (NParks) and
+People’s Association (PA). Each Nature Kakis Chapter will be community-driven
+and bring together individuals who share a passion for nature and conservation.</p>
 <p><strong>Connect with us on Instagram <em>(@NatureKakis_Network) </em>and Facebook page <em>(Nature Kakis Network)</em> to stay updated on Nature Kakis related initiatives and activities.</strong>
 </p>
 <p></p>
