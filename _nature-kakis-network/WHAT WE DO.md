@@ -9,6 +9,7 @@ and projects, bringing our City In Nature to their communities. Nature
 Kakis can participate in and also go one step further to help grow community
 interest by planning, organizing and implementing a wide variety of activities
 and programmes.</p>
+<p></p>
 <p>If you'd like to discover more about the Nature Kakis activities, we invite
 you to follow us on Instagram <em>(@NatureKakis_Network) </em>and like our
 Facebook page <em>(Nature Kakis Network)</em> for the latest updates and
