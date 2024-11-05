@@ -196,19 +196,9 @@ enjoyable and interactive for participants.</p>
 </div>
 <p>With the transformation of Singapore into a City in Nature, all households
 will be a 10-minute walk from a park by 2030, bringing nature closer to
-our homes.</p>
-<p></p>
-<p>Through our capacity building programmes, Nature Kakis can conduct nature
-walks for the community, and/or assist in facilitating nature walks organised
-by other Nature Kakis Chapters within their vicinity. This will encourage
-the community to spend time outdoors to enjoy the beauty and tranquil of
-the greenery close to their homes.</p>
-<p>
-<br>
-</p>
-<p></p>
-<p>Find out more <a href="/all/nature-kakis-happenings/nature-walks/" rel="noopener noreferrer" target="_blank">here. </a>
-</p>
+our homes. Through our capacity building programmes, Nature Kakis can conduct
+nature walks for the community, and/or assist in facilitating nature walks
+organised by other Nature Kakis Chapters within their vicinity.</p>
 <p></p>
 <p>Our Nature Kakis Youth Stewards have curated walking trails at MacRitchie
 with varying difficulty levels - check out the digital map that they have
