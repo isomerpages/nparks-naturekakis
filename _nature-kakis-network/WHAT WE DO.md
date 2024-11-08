@@ -196,17 +196,74 @@ enjoyable and interactive for participants.</p>
 </div>
 <p>With the transformation of Singapore into a City in Nature, all households
 will be a 10-minute walk from a park by 2030, bringing nature closer to
-our homes. Giving guided and informative nature walks will help the community
-gain a deeper understanding and appreciation of the flora and fauna in
-their backyard. This will encourage the community to spend time outdoors
-to enjoy the beauty and tranquil of the greenery close to their homes.</p>
+our homes. Through our capacity building programmes, Nature Kakis can conduct
+nature walks for the community, and/or assist in facilitating nature walks
+organised by other Nature Kakis Chapters within their vicinity.</p>
 <p></p>
-<p>Through our capacity building programmes, Nature Kakis can curate and
-conduct nature walks for the community, and/or assist in curating or facilitating
-nature walks organised by other Nature Kakis Chapters within their vicinity.</p>
-<p></p>
-<p>Find out more <a href="/all/nature-kakis-happenings/nature-walks/" rel="noopener noreferrer" target="_blank">here</a>
+<p>Our Nature Kakis Youth Stewards have curated walking trails at MacRitchie
+with varying difficulty levels - check out the digital map that they have
+done up:</p>
+<div class="iframe-wrapper">
+<iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/d/u/2/embed?mid=1LeMswIva5vTVdtd9oYj4SOLTuIp1uO0&amp;ehbc=2E312F&amp;noprof=1"></iframe>
+</div>
+<p>To easily view this map, click <a href="https://goo.gl/maps/2YyCdD81eLajPknGA?g_st=ac" rel="noopener noreferrer nofollow" target="_blank">here</a> to open it
+in Google Maps.</p>
+<p><strong><u>Easy Trekking Route at MacRitchie Reservoir (designed by Nature Kakis Youth, Kango)</u></strong>
 </p>
+<p><strong>Time Taken:</strong> 45 minutes to 1 hour</p>
+<p><strong>Number of steps:</strong> 5,765</p>
+<p><strong>Distance:</strong> 4.26 km</p>
+<p><strong>Calories Burnt:</strong> 223 kcal</p>
+<p>This path offers beautiful views and is easy to walk, running along the
+south of MacRitchie Reservoir. It's mostly paved and flat but includes
+scenic spots and some steps for a bit of a challenge. There are plenty
+of benches and conveniently located restrooms. Check our Instagram reels
+here: <a href="https://www.instagram.com/reel/DAvVuMgOBbj/?igsh=ZXhkd3ByOWl5bzd1" rel="noopener noreferrer nofollow" target="_blank">Part 1</a>,
+<a href="https://www.instagram.com/reel/DAw_PC4SnYe/?igsh=MTVvZmRwZzc0am00Zg==" rel="noopener noreferrer nofollow" target="_blank">Part 2</a>, and <a href="https://www.instagram.com/reel/DA0aTMxTMLN/?igsh=MWlkY2VjNnd3cThnNQ==" rel="noopener noreferrer nofollow" target="_blank">Part 3</a>.</p>
+<p><strong><em>TIPS BY OUR YOUTHS: &nbsp;</em></strong>
+</p>
+<p>- Some parts of this route have gentle inclines that may cause discomfort.</p>
+<p>- The northern part of this route is unpaved with relatively steep elevation:
+wheelchair and stroller users are advised not to take this route.</p>
+<p>- Some parts of this route have narrow roads - watch out for other park
+visitors!</p>
+<p>- Abovementioned parts are highlighted in the map.</p>
+<p>&nbsp;</p>
+<p><strong><u>Medium Trekking Route at MacRitchie Reservoir (designed by Nature Kakis Youth, Valerine)</u></strong>
+</p>
+<p><strong>Time Taken:</strong> ~ 2 hours</p>
+<p><strong>Number of steps:</strong> 13,300</p>
+<p><strong>Distance:</strong> ~ 5km</p>
+<p><strong>Calories Burnt:</strong> ~ 300 kcal</p>
+<p>This scenic trail is wheelchair-accessible, offering calming views of
+MacRitchie Reservoir. The Lornie Trail's shaded paths wind through one
+of Singapore's last primary forests, teeming with wildlife. Notable sites
+include Lim Bo Seng’s tomb, though access requires stairs and isn't wheelchair-friendly.
+For an easy exit, use the halfway point at Jering Hut connecting to the
+bus stop (Aft Wallace Way). Enjoy your hike! See our Instagram reel on
+the route <a href="https://www.instagram.com/reel/DBDvsKEyPbI/?igsh=MTZmYXh6czdhZWs1cg==" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong><em>TIPS BY OUR YOUTHS: &nbsp;</em></strong>
+</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Remember to keep
+all food and drinks secured, as monkeys are often spotted along the way!</p>
+<p></p>
+<p><strong><u>Hard Trekking Route at MacRitchie Reservoir (designed by Nature Kakis Youth, Malcom)</u></strong>
+</p>
+<p><strong>Time Taken:</strong> 4-5 Hours</p>
+<p><strong>Number of steps:</strong> ~20,000</p>
+<p><strong>Distance:</strong> 14km</p>
+<p><strong>Calories Burnt</strong>: ~700</p>
+<p>If you have half a day for a more extensive trekking route, consider exploring
+this path to enjoy the highlights of MacRitchie Reservoir!</p>
+<p>Start at the visitor centre and walk along the MacRitchie Reservoir boardwalk.
+Climb up and cross the Treetop Walk for an above-ground experience. Climb
+up Jelutong Tower on the way back for a picture with the forest backdrop.
+Check out our Instagram reel on the route <a href="https://www.instagram.com/reel/DBGdEWZuAt1/?igsh=eGx2dHJpejgwZm80" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
+<p><strong><em>TIPS BY OUR YOUTHS: &nbsp;</em></strong>
+</p>
+<p>Route not suitable for those with mobility-related issues due to rough
+terrain and high inclines</p>
 </div>
 </details>
 <details class="isomer-details">
