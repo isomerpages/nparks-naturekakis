@@ -206,7 +206,8 @@ done up:</p>
 <div class="iframe-wrapper">
 <iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/d/u/2/embed?mid=1LeMswIva5vTVdtd9oYj4SOLTuIp1uO0&amp;ehbc=2E312F&amp;noprof=1"></iframe>
 </div>
-<p></p>
+<p>To easily view this map, click <a href="https://goo.gl/maps/2YyCdD81eLajPknGA?g_st=ac" rel="noopener noreferrer nofollow" target="_blank">here</a> to open it
+in Google Maps.</p>
 <p><strong><u>Easy Trekking Route at MacRitchie Reservoir (designed by Nature Kakis Youth, Kango)</u></strong>
 </p>
 <p><strong>Time Taken:</strong> 45 minutes to 1 hour</p>
