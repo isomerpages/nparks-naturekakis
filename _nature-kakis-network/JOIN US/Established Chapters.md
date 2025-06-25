@@ -169,7 +169,7 @@ and explore more on past events organized by and for Nature Kakis Chapters.</p>
 <p>Bishan East-Sin Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:[To be updated]" rel="noopener noreferrer nofollow" target="_blank">[To be updated]</a>
+<p><a href="mailto:[To be updated]" rel="noopener noreferrer nofollow" target="_blank">bishan.tf@gmail.com</a>
 </p>
 </td>
 </tr>
