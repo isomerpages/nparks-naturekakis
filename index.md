@@ -5,7 +5,9 @@ description: This website is an Isomer website co-created and co-managed with
   Nature Kakis Youth Stewards.
 image: /images/Nature_Kakis_Logo_Full_Colour.png
 permalink: /
-notification: This website was co-created with Nature Kakis Youth Stewards.
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
       title: Nature Kakis
@@ -73,4 +75,7 @@ sections:
       image: /images/DIY Nature
         walks/GuideFacilitation_ChekJawa_20230805__6__Resized.jpg
       alt: Image alt text
+  - infobar:
+      id: infobar
+      description: This website was co-created with Nature Kakis Youth Stewards
 ---
