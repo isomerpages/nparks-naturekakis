@@ -73,6 +73,15 @@ and explore more on past events organized by and for Nature Kakis Chapters.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Bukit Batok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:[To be updated]" rel="noopener noreferrer nofollow" target="_blank">[To be updated]</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Bukit Gombak</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,15 +158,6 @@ and explore more on past events organized by and for Nature Kakis Chapters.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: PA_westcoastcc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_westcoastcc@pa.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Yuhua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:[To be updated]" rel="noopener noreferrer nofollow" target="_blank">[To be updated]</a>
 </p>
 </td>
 </tr>
