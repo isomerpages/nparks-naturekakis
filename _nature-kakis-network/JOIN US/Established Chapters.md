@@ -76,7 +76,7 @@ and explore more on past events organized by and for Nature Kakis Chapters.</p>
 <p>Bukit Batok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:[To be updated]" rel="noopener noreferrer nofollow" target="_blank">[To be updated]</a>
+<p><a href="mailto:[To be updated]" rel="noopener noreferrer nofollow" target="_blank">bukitbatoknaturekakis@gmail.com</a>
 </p>
 </td>
 </tr>
@@ -94,7 +94,7 @@ and explore more on past events organized by and for Nature Kakis Chapters.</p>
 <p>Clementi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:[To be updated]" rel="noopener noreferrer nofollow" target="_blank">[To be updated]</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Wecare_clementi@pa.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -103,7 +103,7 @@ and explore more on past events organized by and for Nature Kakis Chapters.</p>
 <p>Chua Chu Kang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:[To be updated]" rel="noopener noreferrer nofollow" target="_blank">[To be updated]</a>
+<p><a href="mailto:[To be updated]" rel="noopener noreferrer nofollow" target="_blank">ngkahking@gmail.com</a>
 </p>
 </td>
 </tr>
