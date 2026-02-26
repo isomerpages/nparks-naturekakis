@@ -10,14 +10,16 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
 <p>The Nature Kakis initiative is a network of chapters that form touchpoints
-centred at the heart of local communities. This platform aims to accelerate
-the mainstreaming of City in Nature programmes into the heartlands to encourage
-greater appreciation and community stewardship of nature. We aim to establish
-Nature Kakis Chapters island-wide to self-organise and lead projects, for
-the community, by the community, with support from partners, grassroots
-organisations and agencies including National Parks Board (NParks) and
-People’s Association (PA). Each Nature Kakis Chapter will be community-driven
-and bring together individuals who share a passion for nature and conservation.</p>
+centred at the heart of local communities. This platform aims to encourage
+greater appreciation and community stewardship of nature. The objective
+of this initiative is for Nature Kakis Chapters to be established island-wide
+where they can self-organise and lead City in Nature-related projects and
+programmes, for the community and by the community and with support from
+partners, grassroots organisations and agencies including National Parks
+Board (NParks) and People’s Association (PA).&nbsp;Each Nature Kakis Chapter
+will be community-driven and brings together individuals who share a passion
+for nature and conservation.</p>
+<p></p>
 <p><strong>Connect with us on Instagram <em>(@NatureKakis_Network) </em>and Facebook page <em>(Nature Kakis Network)</em> to stay updated on Nature Kakis related initiatives and activities.</strong>
 </p>
 <p></p>
@@ -55,9 +57,9 @@ are working on nature kakis related projects, such as (i) publicity and
 communications for events organised for nature kakis, (ii) creating and
 managing social media, such as Nature Kakis Network new Instagram and Facebook
 Page pages, (iii) recruitment, (iv) digital mapping and (v) strategic programmes.
-We will be opening up for recruitment in October every year. Follow us
-on Instagram (@NatureKakis_Network) or Facebook Page (Nature Kakis Network)
-to stay updated!</p>
+We will be opening up for recruitment in November/December every year.
+Follow us on Instagram (@NatureKakis_Network) or Facebook Page (Nature
+Kakis Network) to stay updated!</p>
 <p></p>
 <p>
 <br>
